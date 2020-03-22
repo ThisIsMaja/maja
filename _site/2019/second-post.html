@@ -28,7 +28,7 @@
 
 
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Noto+Sans+HK:300,400,500,700,900&display=swap" rel="stylesheet"></link>
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
 
 <!-- Gridlex -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css"></link>
@@ -38,6 +38,11 @@
 
 <!-- Magnific Popup for lightbox galleries   -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
+
+<!-- Slick Slider -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" integrity="sha256-4hqlsNP9KM6+2eA8VUT0kk4RsMRTeS7QGHIM+MZ5sLY=" crossorigin="anonymous" />
+
 
 <!-- our own custom stylesheet -->
 <link rel="stylesheet" href="/assets/style.css"/>
@@ -53,105 +58,40 @@
 
   <!-- This is your site header, you can replace this with whichever header you want to use -->
 
-<header class="grid">
-  <div class="col-4_sm-12-middle">
+<header class="grid-center">
+  <nav class="col-4-middle right mob-hide">
+    <a href="/blog"> BLOG </a>
+    <a href="/about"> ABOUT </a>
+  </nav>
+  <div class="col-2_sm-12-middle centered">
     <a href="/">
       <h2 class="logo"> MAJA </h2>
     </a>
   </div>
-  <nav class="col-8-middle mob-hide right" id="search-query-container">
-    <ul class="nav navbar-nav">
-    
-    
-        
-            <li>
-                <a href="/index">Home</a>
-            </li>
-        
-    
-        
-            <li class="dropdown">
-                <a href="/blocks" class="dropdown-toggle">Blocks <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                    
-                            <li>
-                                <a href="/test">Test</a>
-                            </li>
-                    
-                            <li>
-                                <a href="/test-2">Test 2</a>
-                            </li>
-                    
-                </ul>
-            </li>
-        
-    
-        
-            <li>
-                <a href="/blog">Blog</a>
-            </li>
-        
-    
-        
-            <li>
-                <a href="/about">About</a>
-            </li>
-        
-    
-</ul>
-
+  <nav class="col-4-middle mob-hide">
+    <a href="/shop"> SHOP </a>
+    <a href="/subscribe"> SUBSCRIBE </a>
   </nav>
-
 </header>
 
 
 <!-- this is the button to open and close your hamburger menu -->
 <div class="hamburger">
-  <i class="fas fa-bars"></i>
+    _<br>
+    _<br>
+    _
 </div>
 
 <!-- This is the mobile menu  -->
 <nav class="mobile-menu">
-  <ul class="nav navbar-nav">
-    
-    
-        
-            <li>
-                <a href="/index">Home</a>
-            </li>
-        
-    
-        
-            <li class="dropdown">
-                <a href="/blocks" class="dropdown-toggle">Blocks <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                    
-                            <li>
-                                <a href="/test">Test</a>
-                            </li>
-                    
-                            <li>
-                                <a href="/test-2">Test 2</a>
-                            </li>
-                    
-                </ul>
-            </li>
-        
-    
-        
-            <li>
-                <a href="/blog">Blog</a>
-            </li>
-        
-    
-        
-            <li>
-                <a href="/about">About</a>
-            </li>
-        
-    
-</ul>
-
+  <a href="/">
+    <h2 class="logo"> MAJA </h2>
+  </a>
+  <hr>
+  <a href="/blog"> Blog </a>
+  <a href="/about"> About </a>
+  <a href="/shop"> Shop </a>
+  <a href="/subscribe"> Subscribe </a>
 </nav>
 
 
@@ -242,9 +182,13 @@
 <!-- adds Magnific Popups javascript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
 
+<!-- Slick Slider -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+
 <!-- adds search javascript -->
 <script src="/assets/lunr.js"></script>
-<script src="/assets/search.js"></script> 
+<script src="/assets/search.js"></script>
 
 
 <!-- this is your custom javascript/jQuery file -->

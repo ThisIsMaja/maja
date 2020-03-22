@@ -44,7 +44,12 @@ $(document).ready(function() {
 	    return false;
 		});
 
+	// end accordian
+
+	// Slick Slider
+	$('.slick-blog-loop').slick({
+		autoplay: true
+	});
+
 
 });
-
-// end accordian

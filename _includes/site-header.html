@@ -1,24 +1,37 @@
 <!-- This is your site header, you can replace this with whichever header you want to use -->
 
-<header class="grid">
-  <div class="col-4_sm-12-middle">
+<header class="grid-center">
+  <nav class="col-4-middle right mob-hide">
+    <a href="/blog"> BLOG </a>
+    <a href="/about"> ABOUT </a>
+  </nav>
+  <div class="col-2_sm-12-middle centered">
     <a href="/">
       <h2 class="logo"> MAJA </h2>
     </a>
   </div>
-  <nav class="col-8-middle mob-hide right" id="search-query-container">
-    {% include site-navigation.html %}
+  <nav class="col-4-middle mob-hide">
+    <a href="/shop"> SHOP </a>
+    <a href="/subscribe"> SUBSCRIBE </a>
   </nav>
-
 </header>
 
 
 <!-- this is the button to open and close your hamburger menu -->
 <div class="hamburger">
-  <i class="fas fa-bars"></i>
+    _<br>
+    _<br>
+    _
 </div>
 
 <!-- This is the mobile menu  -->
 <nav class="mobile-menu">
-  {% include site-navigation.html %}
+  <a href="/">
+    <h2 class="logo"> MAJA </h2>
+  </a>
+  <hr>
+  <a href="/blog"> Blog </a>
+  <a href="/about"> About </a>
+  <a href="/shop"> Shop </a>
+  <a href="/subscribe"> Subscribe </a>
 </nav>
