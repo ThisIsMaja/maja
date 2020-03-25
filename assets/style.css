@@ -860,6 +860,10 @@
     column-count: 1;
   }
 
+  .social-share {
+    left: 0.5rem;
+  }
+
 } /* end media query */
 
 
