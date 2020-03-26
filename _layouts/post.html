@@ -8,13 +8,17 @@ layout: default
 
   <div class="col-12-bottom banner-inner">
 
+    {% for category in page.categories limit:1%}
+      <a href="/{{category | slugify }}" class="category"> {{category}} </a>
+    {% endfor %}
+
     <h1> {{page.title}} </h1>
-    <p class="post-date"> {{page.date | date: "%m.%d.%Y" }}</p>
 
-  <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
+    <p class="post-date"> by {{page.author}} on {{page.date | date: "%m.%d.%Y" }}</p>
 
-  <a href="#post-content" class="down-arrow margin-top-2">
-    Scroll to Begin <br>
+  {% include squiggle.html %}
+
+  <a href="#post-content" class="down-arrow margin-top-2 mob-hide">
   <img style="padding: 1rem; max-height: 6rem;" src="https://wovenmagazine.com/content/themes/woven/assets/images/arrow-scroll.png">
   </a>
 
@@ -68,7 +72,7 @@ layout: default
         <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
     </div>
     <div class="col-12 columns padded-1">
-        {{page.content}}
+        {{page.body-content_html}}
     </div>
   </div>
 </section>
