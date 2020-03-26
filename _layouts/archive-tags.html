@@ -5,30 +5,23 @@ layout: default
 
 <!-- this section is an example of how we output the travel posts -->
 <section class="padded">
-  <h1 class="centered capitalize"> {{page.title}} </h1>
 
-  <ul>
-  {% assign used = '' %}
-    {% for post in site.posts  %}
-      {% if post.tags contains page.title %}
-        {% for category in post.categories %}
-          {% if used contains category %}
-
-          {% else %}
-              <li>
-                <a href="/{{category}}">{{category}}</a>
-              </li>
-            {% assign used = used | append: category %}
-          {% endif %}
-      {% endfor %}
-    {% endif %}
+  <!-- This loop figures out what the parent category of this tag is  -->
+  {% for cat in site.data.categories %}
+    {% for tag in cat %}
+      {% if tag contains page.title %}
+        {% assign cat = cat[0] %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
-</ul>
+
+  <h1 class="centered capitalize margin-bottom-1"> {{cat}} </h1>
 
   <div class="category-slider margin-bottom-2">
 
-    {% for tag in site.data.categories[page.title] %}
-      <a href="/tag/{{tag | slugify }}" class="category"> {{tag}} </a>
+    {% for tag in site.data.categories[cat] %}
+      <a href="/tag/{{tag | slugify }}" class="category
+       {% if page.title == tag %}active{% endif %}"> {{tag}} </a>
     {% endfor %}
 
   </div>

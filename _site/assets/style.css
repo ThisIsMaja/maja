@@ -337,7 +337,7 @@
     cursor: pointer;
   }
 
-  .active {
+  .hamburger.active {
     color: #be9a85;
     position: fixed;
   }
@@ -517,14 +517,19 @@
 
   .category-slider {
     overflow-x: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
     border-top: 1px solid #f9f0e7;
     border-bottom: 1px solid #f9f0e7;
     margin: 1rem auto;
     text-align: center;
+    -webkit-overflow-scrolling: touch;
   }
 
   .category-slider .category {
     padding: 1rem;
+    white-space: nowrap;
   }
 
   .banner-inner .category {

@@ -1,20 +1,22 @@
 travel:
-  - Asia
-  - Europe
-  - Africa
+  - asia
+  - europe
+  - africa
 lifestyle:
-  - Business
-  - Photography
-  - Productivity
-  - Self-Improvement
-  - Sustainability
-  - Fashion
-  - Minimalism
+  - business
+  - photography
+  - productivity
+  - self-improvement
+  - sustainability
+  - fashion
+  - minimalism
 wellbeing:
-  - Diet
-  - Mental Health
-  - Exercise
-  - Yoga
-  - Conscious Living
+  - diet
+  - mental health
+  - exercise
+  - yoga
+  - conscious living
 musings:
-  - Personal Reflections
+  - reflections
+  - opinion
+  - our story

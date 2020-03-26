@@ -127,5 +127,5 @@ autopages:
   tags:
     layouts:
       - 'archive-tags.html'
-    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    title: ':tag' # :tag is replaced by the tag name
     permalink: '/tag/:tag'
