@@ -3,9 +3,9 @@ layout: post
 title: 5 Reasons why your New Year’s resolutions won’t work
 meta-description:
 meta-keywords:
-image_path: /images/mountain.jpg
-banner-1_path: /images/mountain.jpg
-banner-2_path: /images/placeholder.jpg
+image_path: /images/style/maja-stock-34.jpg
+banner-1_path: /images/style/maja-stock-13.jpg
+banner-2_path: /images/style/maja-stock-33.jpg
 banner-2-caption:
 categories:
   - travel
@@ -14,8 +14,8 @@ tags:
   - europe
   - africa
 author: Jake Snow
-image-1_path: /images/mountain.jpg
-image-2_path: /images/mountain.jpg
+image-1_path: /images/style/maja-stock-41.jpg
+image-2_path: /images/style/maja-stock-34.jpg
 intro-paragraph-emphasis: >-
   Starting the new year off with a few personal changes in mind always seem
   logical.
