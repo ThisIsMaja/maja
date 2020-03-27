@@ -6,7 +6,7 @@ meta-keywords:
 image_path: /images/mountain.jpg
 banner-1_path: /images/mountain.jpg
 banner-2_path: /images/placeholder.jpg
-banner-2-caption: This is a beautiful spot that we discovered just off the coast of italy.
+banner-2-caption:
 categories:
   - travel
 tags:
@@ -61,12 +61,6 @@ body-content_html: >-
   encourage your goals</li></ul><p>This year try to make a real change by
   starting off small.&nbsp;</p>
 gallery:
-  - image_path: /images/placeholder.jpg
-    size: full
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/placeholder.jpg
+  - image_path:
     size: full
 ---
