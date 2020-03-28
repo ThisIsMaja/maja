@@ -63,13 +63,7 @@ body-content_html: >-
   routine with creativity you will realise that you won&rsquo;t be able to live
   without it.</p>
 gallery:
-  - image_path: /images/placeholder.jpg
-    size: full
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/placeholder.jpg
+  - image_path:
     size: full
 ---
 
