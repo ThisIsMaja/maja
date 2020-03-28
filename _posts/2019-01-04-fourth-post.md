@@ -5,7 +5,7 @@ meta-description:
 meta-keywords:
 image_path: /images/Obertauern/Obertauern5.jpg
 banner-1_path: /images/Obertauern/Obertauern3.jpg
-banner-2_path: /images/placeholder.jpg
+banner-2_path: /images/Obertauern/Obertauern1.jpg
 banner-2-caption:
 categories:
   - travel
