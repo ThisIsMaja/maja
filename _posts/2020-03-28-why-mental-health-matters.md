@@ -19,8 +19,7 @@ image-1_path: /images/style/mental-health2.jpg
 image-2_path: /images/style/mental-health3.jpg
 intro-paragraph-emphasis: >-
   When I (Marie) was 24 years old, my father passed away. The months following
-  this event have probably been the hardest, most emotional ones of my entire
-  life.
+  this event have probably been the hardest, most emotional of my entire life.
 intro-content_html: >-
   <p>Losing someone you love and have known since the day you were born is
   hurtful and feels completely surreal. Events like this can really mess with
