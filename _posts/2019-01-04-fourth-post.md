@@ -91,13 +91,7 @@ body-content_html: >-
   comment section below, or tag us in your photos! We hope you have the same
   incredible experience that we did.</p><p>Much love, Marie &amp; Jake</p>
 gallery:
-  - image_path: /images/placeholder.jpg
-    size: full
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/placeholder.jpg
+  - image_path:
     size: full
 ---
 
