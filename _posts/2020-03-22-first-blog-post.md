@@ -17,7 +17,7 @@ tags:
   - conscious civing
 author: Marie Fe
 image-1_path: /images/style/maja-stock-23.jpg
-image-2_path: /images/mountain.jpg
+image-2_path: /images/marie and jake/Website 2-25.jpg
 intro-paragraph-emphasis: >-
   The thing about routines is that they create a comfort zone that can stop us
   from challenging ourselves.
