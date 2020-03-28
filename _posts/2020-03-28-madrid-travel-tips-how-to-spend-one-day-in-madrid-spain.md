@@ -74,9 +74,10 @@ body-content_html: >-
   Soho</a>&nbsp;(Good location and beautiful design)</li><li><a
   href="https://www.7islashotel.com/?gclid=EAIaIQobChMIpsiUs56V5wIVC-h3Ch1sbQA9EAAYAyAAEgLp3PD_BwE&amp;r=3906018">7
   Islas Hote</a>l (amazing design, beautiful hotel for special
-  occasions)<h2>we&rsquo;ll be back, madrid!</h2>Ideally, we&rsquo;d love to
-  have had more than one day in Madrid, but the time we had was enough for Jake
-  to get a good taste for the city. We&rsquo;ll definitely be back!</li></ul>
+  occasions)<h2>&nbsp;</h2></li></ul><h2>we&rsquo;ll be back,
+  madrid!</h2><p>Ideally, we&rsquo;d love to have had more than one day in
+  Madrid, but the time we had was enough for Jake to get a good taste for the
+  city. We&rsquo;ll definitely be back!</p>
 gallery:
   - image_path:
     size: full
