@@ -16,7 +16,7 @@ tags:
   - yoga
   - conscious civing
 author: Marie Fe
-image-1_path:
+image-1_path: /images/Coronavirus/coronavirus1.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Now, more than ever, we should take extra care not only with our physical
@@ -34,9 +34,9 @@ intro-content_html: >-
   can indirectly affect those around us and when we decide to approach this
   coronavirus storm with calm, positivity and a clear mind, we can create a
   positive space filled with good vibrations for ourselves and others.</p>
-main-paragraph-emphasis: Now is a good time to say those things you need to say
+main-paragraph-emphasis: Take a social media timeout to avoid cluttering your mind
 body-content_html: >-
-  <ul><li><strong>Follow the rules of the country you are currently
+  <ol><li><strong>Follow the rules of the country you are currently
   in</strong>&nbsp;for your own safety and those around
   you.</li><li><strong>Take a step back and turn your situation
   positive.</strong>&nbsp;Allowing negative emotions to fester because you are
@@ -63,8 +63,14 @@ body-content_html: >-
   positive affirmations to keep yourself calm and productive during a
   crisis.</li><li><strong>Be grateful</strong>&nbsp;for what you have and
   realise that it is probably enough.</li><li><strong>Don&rsquo;t be
-  selfish&nbsp;</strong>and panic buy. Leave some for everyone.</li></ul>
+  selfish&nbsp;</strong>and panic buy. Leave some for everyone.</li></ol><p>It
+  is important to stay true to yourself during this time and not get lost in the
+  sea of over-information and crisis. If you can anchor yourself, stay calm and
+  positive, you can become a support anchor for those in your immediate
+  community. Positivity, just like panic, can be contagious, and once it takes
+  flight it&rsquo;s hard to stop.&nbsp;&nbsp;</p>
 gallery:
   - image_path:
     size: full
 ---
+
