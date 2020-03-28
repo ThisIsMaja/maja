@@ -3,7 +3,7 @@ layout: post
 title: 5 Steps to Taking Amazing Couple Photos
 meta-description:
 meta-keywords:
-image_path: /images/nature/mariefeandjakesnow-banner7.jpg
+image_path: /images/maldives/amilla-fushi1.jpg
 banner-1_path: /images/style/maja-stock-19.jpg
 banner-2_path:
 banner-2-caption:
