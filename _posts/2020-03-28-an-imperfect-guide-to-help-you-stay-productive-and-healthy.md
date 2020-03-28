@@ -47,40 +47,41 @@ body-content_html: >-
   is why created our own Miracle Morning Routine that we try to stick to as much
   as possible.</p><p>The following 5 tips are easy to implement and have helped
   us to be productive despite having a busy life on the road. Here we go!
-  ☺</p><p>1. wake up early&nbsp;</p><p>This year, we started getting up between
-  5.00 am and 7.00 am. This shift is life changing when you can create a habit
-  of waking up early.</p><p>Before most people are even awake, we have planned
-  our day, exercised, tackled our most important tasks, showered and prepared
-  ourselves for a happy, productive day. Waking up early makes you feel proud,
-  like you can do anything because you left your comfort zone (the comfort of
-  your own bed) early on in the day. ☺</p><p>It is great for multiple reasons
-  besides being proud of yourself:</p><ul><li>No one else is awake, which means:
-  no distractions&nbsp;</li><li>No phone calls to answer, which means laser
-  sharp focus&nbsp;</li><li>Getting things done makes you feel good, you feel
-  accomplished which leads to more good energy.</li><li>Once you have done most
-  of your priorities, you can then take your time for yourself and check in with
-  yourself</li></ul><p>To us, our mornings are the most crucial part of our
-  days. They set the tone for a positive, successful and productive day ahead.
-  We want to start our days feeling relaxed and calm, not rushing from A to B or
-  jumping straight into our emails 5 minutes after our alarm goes off.</p><p>To
-  avoid feeling stressed right after waking up, we make sure to get up early
-  enough, we avoid looking at our phones within the first 30 mins and we do
-  things that clear our minds and calm us like stretching, journaling and
-  meditating.</p><p>&nbsp;</p><p>2. good quality sleep and water after waking
-  up</p><p>I also make sure that I sleep enough!</p><p>After I had my first and
-  only cold sore on my lip (deutsch: Herpes) in January and when my skin was bad
-  last year. I realised that I not only needed to eat clean but also get enough
-  rest.</p><p>Personally, 7-8 hours sleep is ideal in order to function well. I
-  can recommend to you to find out how much time your body needs in order to
-  feel well-rested.</p><p>Ideally, you wake up in the morning without an alarm
-  clock. I am still in the process of getting into a rhythm where my body wakes
-  up naturally. (This year I plan to use a sleep tracker to better map my sleep,
-  I will keep you updated on the results).</p><p>So, after a successful evening
-  routine and a good night sleep, this is how my morning routine start after
-  waking up.</p><p>3. morning journaling</p><p>I have never been a big journal
-  person. I couldn&rsquo;t get myself to write down a lot of things or even
-  describe my thoughts and feelings in a journal.</p><p>But last year, I started
-  to understand how important it is to have control over your thoughts. After
+  ☺</p><p><strong>1. wake up early</strong>&nbsp;</p><p>This year, we started
+  getting up between 5.00 am and 7.00 am. This shift is life changing when you
+  can create a habit of waking up early.</p><p>Before most people are even
+  awake, we have planned our day, exercised, tackled our most important tasks,
+  showered and prepared ourselves for a happy, productive day. Waking up early
+  makes you feel proud, like you can do anything because you left your comfort
+  zone (the comfort of your own bed) early on in the day. ☺</p><p>It is great
+  for multiple reasons besides being proud of yourself:</p><ul><li>No one else
+  is awake, which means: no distractions&nbsp;</li><li>No phone calls to answer,
+  which means laser sharp focus&nbsp;</li><li>Getting things done makes you feel
+  good, you feel accomplished which leads to more good energy.</li><li>Once you
+  have done most of your priorities, you can then take your time for yourself
+  and check in with yourself</li></ul><p>To us, our mornings are the most
+  crucial part of our days. They set the tone for a positive, successful and
+  productive day ahead. We want to start our days feeling relaxed and calm, not
+  rushing from A to B or jumping straight into our emails 5 minutes after our
+  alarm goes off.</p><p>To avoid feeling stressed right after waking up, we make
+  sure to get up early enough, we avoid looking at our phones within the first
+  30 mins and we do things that clear our minds and calm us like stretching,
+  journaling and meditating.</p><p>&nbsp;</p><p><strong>2. good quality sleep
+  and water after waking up</strong></p><p>I also make sure that I sleep
+  enough!</p><p>After I had my first and only cold sore on my lip (deutsch:
+  Herpes) in January and when my skin was bad last year. I realised that I not
+  only needed to eat clean but also get enough rest.</p><p>Personally, 7-8 hours
+  sleep is ideal in order to function well. I can recommend to you to find out
+  how much time your body needs in order to feel well-rested.</p><p>Ideally, you
+  wake up in the morning without an alarm clock. I am still in the process of
+  getting into a rhythm where my body wakes up naturally. (This year I plan to
+  use a sleep tracker to better map my sleep, I will keep you updated on the
+  results).</p><p>So, after a successful evening routine and a good night sleep,
+  this is how my morning routine start after waking up.</p><p><strong>3. morning
+  journaling</strong></p><p>I have never been a big journal person. I
+  couldn&rsquo;t get myself to write down a lot of things or even describe my
+  thoughts and feelings in a journal.</p><p>But last year, I started to
+  understand how important it is to have control over your thoughts. After
   reading countless books and listening to several podcasts about how to be
   happy and successful, I found that the common denominator is to have a basic
   ritual. And one of those rituals to add to your routine is to
@@ -105,13 +106,13 @@ body-content_html: >-
   to improve the next day and try again.</p><p>Completing the days tasks leaves
   me feeling accomplished, empowered and motivated to keep following my dreams.
   You can even use the 5 minute journal on your phone, by downloading the app
-  &ldquo;Five minute Journal&rdquo;.</p><p>&nbsp;</p><p>4. get-to-dos and
-  efficiency/ productivity&nbsp;</p><p>In our relationship, I am the one who
-  needs structure when it comes to our work. It calms me down to know what my
-  day will look like.</p><p>Jake never needed that, he has always been a free,
-  creative spirit, but now that we are running our own company, having a to do
-  list had to become part of our lives. I quickly realised that simply writing
-  down all our to-do&rsquo;s didn&rsquo;t really help us to be
+  &ldquo;Five minute Journal&rdquo;.</p><p>&nbsp;</p><p><strong>4. get-to-dos
+  and efficiency/ productivity&nbsp;</strong></p><p>In our relationship, I am
+  the one who needs structure when it comes to our work. It calms me down to
+  know what my day will look like.</p><p>Jake never needed that, he has always
+  been a free, creative spirit, but now that we are running our own company,
+  having a to do list had to become part of our lives. I quickly realised that
+  simply writing down all our to-do&rsquo;s didn&rsquo;t really help us to be
   efficient.</p><p>I would always start with the things that I liked doing the
   most, and not the things that need to be done ASAP. Dividing our tasks into
   important vs. urgent tasks has helped a lot.</p><p>We have all been guilty of
@@ -139,9 +140,9 @@ body-content_html: >-
   complete that task. You then fill out the circles as you go along, and finally
   note down how many Pomodoros it actually took you to finish it. This gives you
   an idea of how long certain tasks take for future
-  reference.</p><p>&nbsp;</p><p>5. easy yoga flow &amp;
-  exercise&nbsp;</p><p>When it comes to being active, we don't follow a strict
-  routine. Usually, we just do whatever feels right for us in the
+  reference.</p><p>&nbsp;</p><p><strong>5. easy yoga flow &amp;
+  exercise&nbsp;</strong></p><p>When it comes to being active, we don't follow a
+  strict routine. Usually, we just do whatever feels right for us in the
   moment.</p><p>Both Jake and I usually practice a simple flow that varies every
   single time we get on our mats (or towels when we are traveling :D). We love
   getting inspiration for new yoga flows on YouTube or Instagram. They mostly
