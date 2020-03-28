@@ -129,8 +129,8 @@ body-content_html: >-
   freediving just off the beach.The best way to explore Goidhoo Island itself is
   by bike as it&rsquo;s the only way to get around.</p><h3>Where to stay in
   Goidhoo Island</h3><p>Olive Goidhoo: $70 a night for a double room including
-  breakfast</p><h2>luxury resorts in the maldives for the perfect
-  honeymoon</h2><p>If you&rsquo;re planning a luxurious honeymoon, Maldives is
+  breakfast</p><h3>luxury resorts in the maldives for the perfect
+  honeymoon</h3><p>If you&rsquo;re planning a luxurious honeymoon, Maldives is
   the place to go! You can also spend most of your time on the local islands and
   treat yourselves to one or two nights at the below resorts before you head
   back home.</p><h2>amilla fushi</h2><p>After spending 9 days exploring local
@@ -155,8 +155,8 @@ body-content_html: >-
   everything from food to plastic and glass. Their focus is on a SLOW life -
   Sustainable, local, organic, wellness. We love this mission and it was great
   to go behind the scenes and see how Soneva is bringing their vision to
-  life.</p><h2>tips for visiting local islands in the maldives (or luxury
-  resorts)</h2><ul><li>If you&rsquo;re looking for the best vegan food in the
+  life.</p><h3>tips for visiting local islands in the maldives (or luxury
+  resorts)</h3><ul><li>If you&rsquo;re looking for the best vegan food in the
   Maldives, make sure you pop into Shell Beans on the main island of
   Male.</li><li>There are small supermarkets on all the local islands in the
   Maldives where you can buy snacks, water, and fruit.</li><li>Each of the local
@@ -172,8 +172,8 @@ body-content_html: >-
   underwater ecosystem.</li></ul><p><a target="_blank"
   href="https://www.mariefeandjakesnow.com/blog/2018/12/16/sri-lanka-3-weeks">Sri
   Lanka</a>&nbsp;is a stone's throw away from the Maldives so it&rsquo;s a great
-  add-on to your Sri Lanka trip.</p><h2>how to plan your maldives trip on
-  budget</h2><p>We&rsquo;ve only spoken about 3 of the many local islands in the
+  add-on to your Sri Lanka trip.</p><h3>how to plan your maldives trip on
+  budget</h3><p>We&rsquo;ve only spoken about 3 of the many local islands in the
   Maldives. There are so many more to explore and if you&rsquo;re looking for
   the best travel advice, contact Kristy from <a
   href="http://www.indulgemaldives.com/">Indulge Maldives.</a> She was amazing
