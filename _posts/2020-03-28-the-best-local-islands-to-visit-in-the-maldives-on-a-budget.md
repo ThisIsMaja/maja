@@ -8,7 +8,7 @@ banner-1_path: /images/maldives/amilla-fushi7.jpg
 banner-2_path: /images/maldives/amilla-fushi2.jpg
 banner-2-caption:
 categories:
-  - wellbeing
+  - travel
 tags:
   - diet
   - mental Health
