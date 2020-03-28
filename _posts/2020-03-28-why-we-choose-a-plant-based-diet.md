@@ -57,8 +57,8 @@ body-content_html: >-
   not only do humans survive on a plant based diet, we THRIVE! The pleasure,
   taste and personal satisfaction I now receive through my food choices far
   outweighs anything I had previously experienced before. If there is one thing
-  I know for certain, it is that I will never go back.</p><h1>MARIE'S JOURNEY TO
-  PLANT BASED LIVING</h1><p>When we first met, Jake was already plant-based. It
+  I know for certain, it is that I will never go back.</p><h2>MARIE'S JOURNEY TO
+  PLANT BASED LIVING</h2><p>When we first met, Jake was already plant-based. It
   wasn&rsquo;t really something we talked about a lot initially. It definitely
   wasn&rsquo;t something Jake tried to force onto me. I was curious as to why
   this hairy Aussie guy wouldn&rsquo;t eat meat.&nbsp;</p><p>The more we talked
@@ -72,7 +72,7 @@ body-content_html: >-
   something that most people don&rsquo;t give enough thought and I decided I
   wasn&rsquo;t going to be one of those people anymore. I decided to commit to
   learning more about plant based nutrition and i&rsquo;ve never looked
-  back.&nbsp;&nbsp;</p><h1>WHY DO WE DO IT?</h1><p>What you put in your body
+  back.&nbsp;&nbsp;</p><h2>WHY DO WE DO IT?</h2><p>What you put in your body
   over your lifetime will have a far greater impact on your physical and mental
   health than anything else you do in this life. It is crazy to think that in
   all 1st world countries, most of the major causes of death are related to
@@ -100,11 +100,11 @@ body-content_html: >-
   important than keeping our world healthy for future generations. The answer
   for us was No, it might be yes for some of you. Whatever you believe right
   now, it is important to think consciously about your choices. Does the end
-  result of your choices truly reflect what you believe?</p><p>WHY DON&rsquo;T
-  WE ALL KNOW THIS?</p><p>This is where it gets scary and sad. Unfortunately the
-  world we live in revolves around money. Three of the most powerful industries
-  in the world rely on us making bad food choices. Animal agriculture and the
-  products it produces make us sick, we spend our hard earned money on
+  result of your choices truly reflect what you believe?</p><h2>WHY DON&rsquo;T
+  WE ALL KNOW THIS?</h2><p>This is where it gets scary and sad. Unfortunately
+  the world we live in revolves around money. Three of the most powerful
+  industries in the world rely on us making bad food choices. Animal agriculture
+  and the products it produces make us sick, we spend our hard earned money on
   healthcare for surgeries and doctors appointments, then we are prescribed
   medication from the pharmaceutical industry to mask our sickness. Then we go
   back to eating the same unhealthy food and the vicious cycle
@@ -114,8 +114,8 @@ body-content_html: >-
   minute a red wine a day is good for you, the next day butter in your coffee is
   supposed to be good. The whole food and diet industry relies on us being
   confused!! If we all knew what to eat and we were all healthy a lot of
-  companies would lose a lot of money!</p><p><strong>WHATS THE GOOD
-  NEWS?</strong></p><p>The good news is, at this moment in time we have never
+  companies would lose a lot of money!</p><h2><strong>WHATS THE GOOD
+  NEWS?</strong></h2><p>The good news is, at this moment in time we have never
   had more freedom to access information. If you spend enough time sifting
   through the opinion based, biased and statistically incorrect information, you
   will find the truth. There are many inspiring people out there that have
