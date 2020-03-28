@@ -3,7 +3,7 @@ layout: post
 title: '2 Weeks Exploring Hawaii: Island of Hawaii, Oahu & Kauai'
 meta-description:
 meta-keywords:
-image_path: /images/hawaii/Hawaii 1-1-4.jpg
+image_path: /images/hawaii/Hawaii 1-1-3.jpg
 banner-1_path: /images/hawaii/Hawaii 1-1-4.jpg
 banner-2_path: /images/hawaii/Hawaii 1-1-5.jpg
 banner-2-caption:
