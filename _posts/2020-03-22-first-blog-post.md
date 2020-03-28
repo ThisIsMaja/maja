@@ -18,7 +18,9 @@ tags:
 author: Marie Fe
 image-1_path: /images/style/maja-stock-23.jpg
 image-2_path: /images/mountain.jpg
-intro-paragraph-emphasis:
+intro-paragraph-emphasis: >-
+  The thing about routines is that they create a comfort zone that can stop us
+  from challenging ourselves.
 intro-content_html: >-
   <p>Most of us live our lives according to some form of daily routine. It can
   be a conscious routine that helps you bring structure to your day (wake up,
