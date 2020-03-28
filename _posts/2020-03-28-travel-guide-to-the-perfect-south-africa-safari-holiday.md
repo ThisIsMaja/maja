@@ -3,21 +3,17 @@ layout: post
 title: Travel Guide To The Perfect South Africa Safari Holiday
 meta-description:
 meta-keywords:
-image_path: /images/South Africa/south-africa-couple3.jpg
-banner-1_path: /images/South Africa/south-africa-safari3.jpg
-banner-2_path: /images/South Africa/south-africa-safari1.jpg
+image_path: /images/south-africa/south-africa-couple2.jpg
+banner-1_path: /images/south-africa/south-africa-safari3.jpg
+banner-2_path: /images/south-africa/south-africa-couple4.jpg
 banner-2-caption:
 categories:
   - travel
 tags:
-  - diet
-  - mental Health
-  - exercise
-  - yoga
-  - conscious civing
+  - africa
 author: Marie Fe & Jake Snow
-image-1_path: /images/South Africa/south-africa-couple2.jpg
-image-2_path: /images/South Africa/south-africa-safari4.jpg
+image-1_path: /images/south-africa/south-africa-couple5.jpg
+image-2_path: /images/south-africa/south-africa-couple3.jpg
 intro-paragraph-emphasis: >-
   It’s no secret that we love animals! So, we traded in our bathing suits for
   safari gear and headed to South Africa for an amazing 2 weeks in the bush.
@@ -169,13 +165,13 @@ body-content_html: >-
   to see what we've seen at some point in your life time. It is a life changing
   experience and something you'll never forget!&nbsp;</p>
 gallery:
-  - image_path: /images/South Africa/south-africa-safari2.jpg
+  - image_path: /images/south-africa/south-africa-safari4.jpg
     size: full
-  - image_path: /images/South Africa/south-africa-couple4.jpg
+  - image_path: /images/south-africa/south-africa-safari5.jpg
     size:
-  - image_path: /images/South Africa/south-africa-couple5.jpg
+  - image_path: /images/south-africa/south-africa-couple1.jpg
     size:
-  - image_path: /images/South Africa/south-africa-safari5.jpg
+  - image_path: /images/south-africa/south-africa-safari2.jpg
     size:
 ---
 
