@@ -3,8 +3,8 @@ layout: post
 title: 10 Ways to support yourself and others during the coronavirus crisis
 meta-description:
 meta-keywords:
-image_path: /images/hawaii/Hawaii 1-1.jpg
-banner-1_path: /images/greece/mariefeandjakesnow-greece11.jpg
+image_path: /images/Coronavirus/coronavirus4.jpg
+banner-1_path: /images/Coronavirus/coronavirus2.jpg
 banner-2_path:
 banner-2-caption:
 categories:
