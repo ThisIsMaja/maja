@@ -164,7 +164,10 @@ body-content_html: >-
   rhino horn is a symbol of wealth yet others think these horns have medicinal
   properties and can be an aphrodisiac. Just to make it clear - this is not
   true. Rhinos deserve to be left in the wild and not hunted for personal
-  pleasure.&nbsp;</p>
+  pleasure.&nbsp;</p><p>Thankyou to everybody who donated to our campaign and
+  helped us raise so much for such an important cause. We hope you will all get
+  to see what we've seen at some point in your life time. It is a life changing
+  experience and something you'll never forget!&nbsp;</p>
 gallery:
   - image_path: /images/South Africa/south-africa-safari2.jpg
     size: full
