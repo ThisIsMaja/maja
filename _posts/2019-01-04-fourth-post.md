@@ -36,7 +36,9 @@ intro-content_html: >-
   destination in Austria, Obertauern is the place to go to.</p><p>Below we will
   link to everything we did, places you can eat (also vegan meals) and where to
   stay in Obertauern.</p><h2>&nbsp;</h2>
-main-paragraph-emphasis: ask for help.
+main-paragraph-emphasis: >-
+  We love being by the sea, but nothing can compare to a winter ski trip with
+  the one you love
 body-content_html: >-
   <h2>why we loved obertauern, austria</h2><p>With over 100km of piste in
   Obertauern, there&rsquo;s so much to explore. The ski slopes are ideal for
