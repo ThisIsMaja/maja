@@ -1,37 +1,69 @@
 ---
 layout: post
-title: Our Love Story
+title: How to bring more creativity into your daily routine
 meta-description:
 meta-keywords:
-image_path: /images/person.png
-banner-1_path: /images/person.png
-banner-2_path: /images/placeholder.jpg
-banner-2-caption: This is a beautiful spot that we discovered just off the coast of italy.
+image_path: /images/style/maja-stock-35.jpg
+banner-1_path: /images/style/maja-stock-35.jpg
+banner-2_path: /images/nature/mariefeandjakesnow-banner5.jpg
+banner-2-caption:
 categories:
- - wellbeing
+  - wellbeing
 tags:
   - diet
   - mental Health
   - exercise
   - yoga
   - conscious civing
-author: Tina May
-image-1_path: /images/mountain.jpg
-image-2_path: /images/mountain.jpg
-intro-paragraph-emphasis: Imagine what it's like to explore the world with the person you love.
-intro-content_html: |
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-main-paragraph-emphasis: I never thought that I would ever be the kind of person to admit that I am struggling and actively ask for help.
-body-content_html: |
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+author: Marie Fe
+image-1_path: /images/style/maja-stock-23.jpg
+image-2_path: /images/marie and jake/Website 2-25.jpg
+intro-paragraph-emphasis: >-
+  The thing about routines is that they create a comfort zone that can stop us
+  from challenging ourselves.
+intro-content_html: >-
+  <p>Most of us live our lives according to some form of daily routine. It can
+  be a conscious routine that helps you bring structure to your day (wake up,
+  exercise, work) or an unconscious one where you still perform the same tasks
+  but not necessarily always in the same order. The thing about routines is that
+  they create a comfort zone that can stop us from challenging ourselves. They
+  can dull our senses even if they are meant to do good. So how do you get out
+  of this rut without losing the beneficial structure a daily routine can give
+  you?</p><p>The answer is easy: creativity.</p>
+main-paragraph-emphasis: >-
+  Creativity allows us to be more innovative and can subconsciously help us to
+  come up with fresh ideas
+body-content_html: >-
+  <p>And before you start debating that you are not a creative person,
+  creativity does not necessarily mean you have to be an artist, musician or
+  poet to allow it into your life. Everyone has a sense of creative energy, and
+  if you allow yourself to tap into it using creative activities, it can improve
+  your day, your thought process and even help you to relieve stress and
+  anxiety.</p><p>Here are some easy tips to bring more creativity into your
+  daily routine:</p><ul><li><strong>Wake up early</strong>&nbsp;and channel that
+  first subconscious stream of thoughts and energy into something creative. This
+  can be journaling, where you just write whatever pops into your mind, drawing
+  or colouring what you feel or even applying it to a new exercise routine, like
+  trying a creative yoga flow</li><li><strong>Listen to music</strong>&nbsp;to
+  experience a transfer of creativity. There&rsquo;s nothing like the power of
+  music to get you excited for the day, and even better if you are allowed to
+  listen to music at work</li><li><strong>Be mindful of the small
+  things</strong>&nbsp;that you enjoy and make it a little creative ritual. Put
+  some love into that first cup of coffee, savour it and enjoy
+  it</li><li><strong>Be creative in everyday tasks</strong>&nbsp;like cooking
+  and gardening. These don&rsquo;t have to be chores, let your imagination run
+  wild and experiment with new ingredients</li><li><strong>Set a creative
+  goal</strong>&nbsp;if you would like to learn a skill like painting, pottery,
+  etc. and make time to join a class</li><li><strong>Remove negative
+  thoughts&nbsp;</strong>about your creativity as this will just block your
+  creative energies. Meditation and mindfulness practice can be a great help in
+  releasing negative thoughts</li></ul><p>Creativity allows us to be more
+  innovative and can subconsciously help us to come up with fresh ideas and to
+  balance out a rigid daily routine. Once you start sprinkling your daily
+  routine with creativity you will realise that you won&rsquo;t be able to live
+  without it.</p>
 gallery:
-  - image_path: /images/placeholder.jpg
-    size: full
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/mountain.jpg
-    size: half
-  - image_path: /images/placeholder.jpg
+  - image_path:
     size: full
 ---
 
