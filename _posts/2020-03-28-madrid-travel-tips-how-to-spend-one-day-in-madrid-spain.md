@@ -8,7 +8,7 @@ banner-1_path: /images/city/madrid-spain5.jpg
 banner-2_path: /images/city/madrid-spain6.jpg
 banner-2-caption:
 categories:
-  - wellbeing
+  - travel
 tags:
   - diet
   - mental Health
