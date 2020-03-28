@@ -133,7 +133,21 @@ body-content_html: >-
   much, we are pretty relaxed and easy going people. This conversation gets us
   worked up! We are not telling you all this for any reason other than we know
   that moving towards a plant based diet will bring you only benefits in terms
-  of your health and well-being.</p>
+  of your health and well-being.</p><p>For more information/inspiration on this
+  topic check out these resources</p><p><strong>Netflix</strong></p><p>&ndash;
+  Forks over Knives, Okja, What the Health, Cowspiracy, Food
+  Choices.</p><p><strong>Web</strong></p><p>&ndash;&nbsp;<a target="_blank"
+  href="https://nutritionfacts.org/">www.nutritionfacts.org&nbsp;</a>(non for
+  profit website, peer reviewed studies, no
+  opinions)</p><p>Instagram</p><p>&ndash;&nbsp;<a target="_blank"
+  href="https://www.instagram.com/plant_proof/">@plant_proof</a>,&nbsp;<a
+  target="_blank"
+  href="https://www.instagram.com/vegainstrength/">@vegainstrength</a>,&nbsp;<a
+  target="_blank"
+  href="https://www.instagram.com/earthyandy/">@earthyandy</a></p><p><strong>Books</strong></p><p>&ndash;
+  &lsquo;How Not To Die&rsquo; written by Dr Michael
+  Gregor,</p><p>&nbsp;&lsquo;The China Study&rsquo; written by Colin T
+  Campbell</p><p>&lsquo;The Food Revolution&rsquo; written by John Robbins</p>
 gallery:
   - image_path:
     size: full
