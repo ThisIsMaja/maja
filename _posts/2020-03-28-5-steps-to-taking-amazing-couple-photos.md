@@ -26,18 +26,18 @@ main-paragraph-emphasis: >-
   Be natural and enjoy yourself, it is easy to tell if a photo contains true
   happiness
 body-content_html: >-
-  <h1>NO. 1 BUY A TRIPOD</h1><p>First of all you will need a tripod, this is
+  <h2>NO. 1 BUY A TRIPOD</h2><p>First of all you will need a tripod, this is
   absolutely essential. We like to buy sturdy but relatively cheap tripods
   because we always ruin them buy putting them in salt water and other places
   they shouldn&rsquo;t be. If you want to get the &lsquo;shot&rsquo; you will
-  need to put your tripod in places it shouldn&rsquo;t be.&nbsp;</p><h1>NO. 2
-  FRAME THE SHOT</h1><p>Once you have found the perfect spot and positioned your
+  need to put your tripod in places it shouldn&rsquo;t be.&nbsp;</p><h2>NO. 2
+  FRAME THE SHOT</h2><p>Once you have found the perfect spot and positioned your
   tripod you will need to frame your shot. Composition is key, make sure your
   place yourselves thoughtfully in the photo. An advantage of being a couple is
   that you can send one person out into the frame to judge where exactly the
   best place to be is. Be natural and enjoy yourself, it is easy to tell if a
-  photo contains true happiness&nbsp;</p><h1>NO. 3 SET YOUR CAMERA TO TIME-LAPSE
-  MODE</h1><p>A very important part of taking great couple photos is the
+  photo contains true happiness&nbsp;</p><h2>NO. 3 SET YOUR CAMERA TO TIME-LAPSE
+  MODE</h2><p>A very important part of taking great couple photos is the
   settings in your camera. All cameras have different functions but most will
   have a time lapse feature. After we have framed the shot will set our camera
   to time-lapse mode and set the time-lapse to shoot 1 photo every 3 seconds. We
@@ -48,8 +48,8 @@ body-content_html: >-
   photos this way will lead to much more candid and authentic shots. Instead of
   standing there waiting for the timer to go off or trying to hide your phone
   while you use it as a remote, you can just enjoy yourself and the location you
-  are at and let the camera do its thing.&nbsp;</p><h1>NO. 4 DOWNLOAD
-  LIGHTROOM</h1><p>In this day and age learning how to edit your photos post
+  are at and let the camera do its thing.&nbsp;</p><h2>NO. 4 DOWNLOAD
+  LIGHTROOM</h2><p>In this day and age learning how to edit your photos post
   shoot is just as important as taking the photos in the first place. It really
   is amazing what you can do on modern day photo editing programs. The
   powerhouse of editing software is Adobe Lightroom. If you haven&rsquo;t
@@ -58,7 +58,7 @@ body-content_html: >-
   cent. Once you&rsquo;ve downloaded the software just play around. It will take
   some time to figure out how to use all the functions and to edit your photos
   to a point that you are happy with, but thats ok. Rome wasn&rsquo;t built in a
-  day.</p><h1>NO.5 GET YOURSELF SOME PRESETS</h1><p>If you want to fast forward
+  day.</p><h2>NO.5 GET YOURSELF SOME PRESETS</h2><p>If you want to fast forward
   the learning process in Lightroom and skip to having amazing photos straight
   up then you can buy some presets. A Preset is basically a customised
   template/filter that you can apply onto any photo and it will automatically
@@ -76,7 +76,7 @@ body-content_html: >-
   shots below. If you are looking for more inspiration and ideas for your couple
   shots, head across to our Gallery.</p><p>Happy Shooting Guys</p>
 gallery:
-  - image_path:
+  - image_path: /images/greece/mariefeandjakesnow-greece9.jpg
     size: full
 ---
 
