@@ -17,8 +17,8 @@ intro-paragraph-emphasis: Jake surprised me with a proposal. This country will b
 intro-content_html: >-
   <p>I had no idea that I would be leaving Turkey engaged to the love of my
   life. It was the most special surprise I could have ever imagined and it was
-  the extra addition to an already amazing trip that topped of my favourite trip
-  ever.</p>
+  the extra addition to an already amazing trip that topped off my favourite
+  trip ever.</p>
 main-paragraph-emphasis:
 body-content_html: >-
   <h2>istanbul&nbsp;</h2><p>&nbsp;</p><p>Unfortunately we had 10 days in Turkey
@@ -47,11 +47,12 @@ body-content_html: >-
   experience - book a balloon ride! (We booked ours Butterfly
   balloons)</li><li>Rent a car (30&euro;) and chase Balloons!&nbsp;</li><li>Best
   spot to take photos (go to/park at Hot air balloons Cappadocia (type into your
-  maps) &amp; explore from there!<h2>&nbsp;</h2></li></ul><h2>where to
-  eat</h2><h2>where to stay</h2><ul><li>Organic cafe cafe (vegetarian
+  maps) &amp; explore from there!<h2>&nbsp;</h2></li></ul><h3>where to
+  eat</h3><h2>&nbsp;</h2><ul><li>Organic cafe cafe (vegetarian
   kebap/beans/chickpeas/pumpkin desert)</li><li>Fat boys (great veggie options,
   cheap)</li><li>Silk Road (Cozy fire place for cold days, amazing lentil soup,
-  try vegetarian plate, cheap)</li><li><a target="_blank"
+  try vegetarian plate, cheap)</li></ul><h3>where to
+  stay</h3><p>&nbsp;</p><ul><li><a target="_blank"
   href="https://www.booking.com/hotel/tr/artemis-cave-suites.en.html?aid=1557198&amp;no_rooms=1&amp;group_adults=1">Artemis
   cave (cozy room/great location/amazing breakfast)</a></li><li><a
   target="_blank"
