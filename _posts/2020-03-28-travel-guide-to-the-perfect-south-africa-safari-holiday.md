@@ -186,9 +186,9 @@ sections:
       forget!&nbsp;</p>
 gallery:
   - image_path: /images/south-africa/south-africa-safari4.jpg
-    size: full
+    size: half-width
   - image_path: /images/south-africa/south-africa-safari5.jpg
-    size:
+    size: half-width
   - image_path: /images/south-africa/south-africa-couple1.jpg
     size:
   - image_path: /images/south-africa/south-africa-safari2.jpg
