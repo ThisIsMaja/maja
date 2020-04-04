@@ -96,6 +96,13 @@
     text-decoration: none;
   }
 
+  p a {
+    border-bottom: 1px solid;
+  }
+  p a.emphasis {
+    font-style: italic;
+  }
+
   /* this makes sure that the last element in any container doesn't have margin-bottom */
   h2:last-child,
   h3:last-child,
