@@ -619,12 +619,13 @@ a.category:hover {
 input,
 textarea {
   border-style: solid;
-  border: 2px solid #c8c8cd;
+  border: 2px solid #f9f0e7;
   padding: 0.8em;
   display: block;
   width: 100%;
   font-size: 1rem;
-  vertical-align: top; }
+  vertical-align: top;
+  font-family: p22-underground, sans-serif; }
 
 input:focus,
 textarea:focus {
@@ -655,6 +656,18 @@ form [class*=col-] {
 
 form .button {
   width: 100%; }
+
+.cta .button-solid {
+  background-color: #3c3c3c;
+  border-color: #3c3c3c; }
+
+.cta .button-solid:hover {
+  background-color: #f9f0e7;
+  border-color: #f9f0e7;
+  color: #3c3c3c; }
+
+.cta input {
+  border-color: white; }
 
 @media (max-width: 768px) {
   .email-signup input {

@@ -69,12 +69,13 @@
     input,
     textarea {
       border-style: solid;
-      border: 2px solid rgb(200, 200, 205);
+      border: 2px solid #f9f0e7;
       padding: 0.8em;
       display: block;
       width: 100%;
       font-size: 1rem;
       vertical-align: top;
+      font-family: p22-underground, sans-serif;
     }
 
     input:focus,
@@ -108,10 +109,32 @@
       padding: 0.8em;
       border-radius: 0;
       font-size: 1rem;
+      // background-color: #f9f0e7;
     }
      form .button {
        width:100%;
      }
+
+
+
+     // Course Subscribe
+
+     .cta .button-solid {
+       background-color: rgb(60, 60, 60);
+       border-color: rgb(60, 60, 60);
+     }
+
+     .cta .button-solid:hover {
+       background-color: #f9f0e7;
+       border-color: #f9f0e7;
+       color: rgb(60, 60, 60);
+     }
+
+     .cta input {
+       border-color: white;
+     }
+
+
 
      @media(max-width:768px) {
        .email-signup input {
