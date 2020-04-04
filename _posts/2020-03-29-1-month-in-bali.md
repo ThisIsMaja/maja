@@ -282,6 +282,8 @@ sections:
 gallery:
   - image_path: /images/style/maja-stock-11.jpg
     size: full
+    alt: 
   - image_path: /images/style/maja-stock-43.jpg
     size:
+    alt:
 ---

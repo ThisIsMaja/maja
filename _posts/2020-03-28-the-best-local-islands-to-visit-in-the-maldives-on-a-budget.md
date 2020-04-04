@@ -39,4 +39,5 @@ gallery:
     size: full
   - image_path:
     size:
+    alt: 
 ---

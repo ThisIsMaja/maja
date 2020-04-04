@@ -29,4 +29,5 @@ sections:
 gallery:
   - image_path: /images/greece/mariefeandjakesnow-greece9.jpg
     size: full
+    alt: 
 ---

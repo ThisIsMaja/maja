@@ -41,4 +41,5 @@ sections:
 gallery:
   - image_path:
     size: full
+    alt: 
 ---

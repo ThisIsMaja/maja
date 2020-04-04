@@ -187,10 +187,14 @@ sections:
 gallery:
   - image_path: /images/south-africa/south-africa-safari4.jpg
     size: one-half
+    alt:
   - image_path: /images/south-africa/south-africa-safari5.jpg
     size: one-half
+    alt:
   - image_path: /images/south-africa/south-africa-couple1.jpg
     size: full
+    alt:
   - image_path: /images/south-africa/south-africa-safari2.jpg
     size: full
+    alt: 
 ---

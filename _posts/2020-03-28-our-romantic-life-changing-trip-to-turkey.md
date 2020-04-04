@@ -5,8 +5,6 @@ meta-description:
 meta-keywords:
 image_path: /images/turkey/Pamukkale.jpg
 banner-1_path: /images/turkey/cappadocia-turkey3.jpg
-banner-2_path: /images/turkey/turkey-stock3.jpg
-banner-2-caption:
 categories:
   - travel
 tags:
@@ -28,4 +26,5 @@ sections:
 gallery:
   - image_path:
     size: full
+    alt: 
 ---

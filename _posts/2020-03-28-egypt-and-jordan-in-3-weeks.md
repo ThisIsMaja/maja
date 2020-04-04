@@ -38,10 +38,14 @@ sections:
 gallery:
   - image_path: /images/egypt-jordan/redsea-diving3.jpg
     size: full
+    alt:
   - image_path: /images/egypt-jordan/marsa-alam.jpg
     size:
+    alt:
   - image_path: /images/egypt-jordan/marsa-shagra1.jpg
     size:
+    alt:
   - image_path: /images/egypt-jordan/rue-de-seine.jpg
     size:
+    alt: 
 ---

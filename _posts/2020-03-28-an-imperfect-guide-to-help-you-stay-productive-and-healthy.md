@@ -44,4 +44,5 @@ sections:
 gallery:
   - image_path: /images/marie and jake/Website 2-24.jpg
     size: full
+    alt: 
 ---

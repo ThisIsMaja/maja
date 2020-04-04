@@ -33,6 +33,8 @@ sections:
 gallery:
   - image_path: /images/sri-lanka/sri-lanka5.jpg
     size:
+    alt:
   - image_path: /images/sri-lanka/Sri-Lanka1560790.jpg
     size: full
+    alt: 
 ---
