@@ -5,8 +5,6 @@ meta-description:
 meta-keywords:
 image_path: /images/Obertauern/Obertauern5.jpg
 banner-1_path: /images/Obertauern/Obertauern3.jpg
-banner-2_path: /images/Obertauern/Obertauern1.jpg
-banner-2-caption:
 categories:
   - travel
 tags:
@@ -40,9 +38,8 @@ sections:
   - banner_path: /images/style/maja-stock-33.jpg
     banner-caption:
     columns: true
-    main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with
-the one you love
-    body-content_html:
+    main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with the one you love
+    body-content_html: This is the body content
 gallery:
   - image_path:
     size: full

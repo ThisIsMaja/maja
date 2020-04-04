@@ -5,8 +5,6 @@ meta-description:
 meta-keywords:
 image_path: /images/style/maja-stock-35.jpg
 banner-1_path: /images/style/maja-stock-35.jpg
-banner-2_path: /images/nature/mariefeandjakesnow-banner5.jpg
-banner-2-caption:
 categories:
   - wellbeing
 tags:
@@ -34,8 +32,7 @@ sections:
   - banner_path: /images/style/maja-stock-33.jpg
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Creativity allows us to be more innovative and can subconsciously help us to
-  come up with fresh ideas
+    main-paragraph-emphasis: Creativity allows us to be more innovative and can subconsciously help us to come up with fresh ideas
     body-content_html: >-
       <p>And before you start debating that you are not a creative person,
       creativity does not necessarily mean you have to be an artist, musician or

@@ -36,6 +36,9 @@ _options:
     bulletedlist: true
     styles: /assets/editor.css
 
+sass:
+    sass_dir: _sass
+
 plugins:
   - jekyll-paginate-v2
 

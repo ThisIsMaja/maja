@@ -64,7 +64,7 @@ layout: default
 
 </section>
 <section class="light-bg">
-  <div class="grid-center padded capped-width">
+  <div class="grid-center padded capped-width blog-content">
     <div class="col-4_sm-10 centered">
 
         <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
@@ -81,8 +81,10 @@ layout: default
 
 {% endfor %}
 
-<section class="gallery padded capped-width centered">
-  <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
+<section class="gallery padded capped-width centered blog-content">
+  <p>
+    <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
+  </p>
   {% for item in page.gallery %}
   <img src="{{item.image_path}}" class="{{item.size}}">
   {% endfor %}
