@@ -36,10 +36,13 @@ intro-content_html: >-
   destination in Austria, Obertauern is the place to go to.</p><p>Below we will
   link to everything we did, places you can eat (also vegan meals) and where to
   stay in Obertauern.</p><h2>&nbsp;</h2>
-main-paragraph-emphasis: >-
-  We love being by the sea, but nothing can compare to a winter ski trip with
-  the one you love
-body-content_html:
+sections:
+  - banner_path: /images/style/maja-stock-33.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with
+the one you love
+    body-content_html:
 gallery:
   - image_path:
     size: full
