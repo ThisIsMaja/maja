@@ -13,7 +13,9 @@ tags:
   - africa
 author: Jake Snow
 image-1_path: /images/style/maja-stock-41.jpg
+image-1-caption:
 image-2_path: /images/style/maja-stock-34.jpg
+image-2-caption:
 intro-paragraph-emphasis: >-
   Starting the new year off with a few personal changes in mind always seem
   logical.
@@ -64,5 +66,5 @@ sections:
 gallery:
   - image_path:
     size: full
-    alt: 
+    alt:
 ---
