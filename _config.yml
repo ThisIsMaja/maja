@@ -11,6 +11,12 @@ collections:
   archives:
     output: true
 
+sizes:
+  - full
+  - one-half
+  - one-third
+  - two-thirds
+
 _options:
   content:
     blockquote: true
