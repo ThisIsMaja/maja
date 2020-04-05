@@ -50,6 +50,28 @@
   padding: 1.5rem;
 }
 
+.blog-item .image-overlay {
+  transition: 0.5s all;
+  opacity: 0;
+  position: absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom: 0;
+}
+
+.blog-item .image-overlay h3 {
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+  color: #d7b1a2;
+}
+
+.blog-item:hover .image-overlay {
+  opacity: 1;
+  background-color: rgba(249,240,231,0.9);
+}
+
+
 .blog-loop .blog-item {
   color: inherit;
   text-decoration: none;

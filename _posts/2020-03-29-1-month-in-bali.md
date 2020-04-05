@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 1 Month In Bali
+date: 01/01/2020
+slug:
+title: One Month In Bali
 meta-description:
 meta-keywords:
 image_path: /images/bali/bali-indonesia5.jpg
@@ -282,7 +284,7 @@ sections:
 gallery:
   - image_path: /images/style/maja-stock-11.jpg
     size: full
-    alt: 
+    alt:
   - image_path: /images/style/maja-stock-43.jpg
     size:
     alt:

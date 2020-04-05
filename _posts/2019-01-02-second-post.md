@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 5 Reasons why your New Year’s resolutions won’t work
+date: 01/01/2020
+slug: why-new-years-resolutions-wont-work
 meta-description:
 meta-keywords:
 image_path: /images/style/maja-stock-34.jpg
@@ -63,6 +65,7 @@ sections:
       working for you</li><li>Surround yourself with like-minded people who
       encourage your goals</li></ul><p>This year try to make a real change by
       starting off small.&nbsp;</p>
+show-gallery: true      
 gallery:
   - image_path:
     size: full

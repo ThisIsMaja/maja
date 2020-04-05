@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 01/01/2020
+slug:
 title: 5 Things You Must Do In the Komodo Islands 2019
 meta-description:
 meta-keywords:
@@ -107,5 +109,5 @@ sections:
 gallery:
   - image_path:
     size: full
-    alt: 
+    alt:
 ---

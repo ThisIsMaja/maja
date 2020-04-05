@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 01/01/2020
+slug:
 title: Sri Lanka 3 Week Travel Guide
 meta-description:
 meta-keywords:
@@ -36,5 +38,5 @@ gallery:
     alt:
   - image_path: /images/sri-lanka/Sri-Lanka1560790.jpg
     size: full
-    alt: 
+    alt:
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 01/01/2020
+slug:
 title: 8 ways to save enough to travel full time
 meta-description:
 meta-keywords:
@@ -44,8 +46,9 @@ sections:
     columns: true
     main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with the one you love
     body-content_html: This is the body content
+show-gallery: true     
 gallery:
   - image_path:
     size: full
-    alt: 
+    alt:
 ---
