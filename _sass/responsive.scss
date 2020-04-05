@@ -19,9 +19,6 @@
   .capped-width {
     width: 100%;
   }
-  .padded {
-    padding: 2.5rem;
-  }
 
   .mob-flex-flip{
     flex-direction: column-reverse;
@@ -36,6 +33,19 @@
 
   .social-share {
     left: 0.5rem;
+  }
+
+    .about-page p {
+      font-size: 1.5rem;
+    }
+
+  footer {
+    padding: 2rem 5%;
+  }
+
+  footer,
+  footer .right {
+    text-align: center;
   }
 
 } /* end media query */

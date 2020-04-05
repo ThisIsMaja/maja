@@ -57,6 +57,7 @@ $(document).ready(function() {
 $(function() {
 	AOS.init({
 		delay: 100,
+		offset: 100,
 		mirror: true,
 		duration: 1000
 	});

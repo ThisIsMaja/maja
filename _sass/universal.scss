@@ -247,3 +247,36 @@
     font-size: 6rem;
     line-height: 1;
   }
+
+  //  About Page
+.about-page h1 {
+  // font-family: p22-underground, sans-serif;
+  letter-spacing: 4px;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+
+.about-page h1 span {
+  font-family: helvetica;
+  font-size: 1.8rem;
+  padding: 0.5rem;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.about-page h2 {
+  // font-style: italic;
+  font-weight: 300;
+  font-family: p22-underground, sans-serif;
+  // letter-spacing: 2px;
+  font-size: 1.3rem;
+  // color: rgb(90,90,90);
+}
+
+.signoff {
+  padding: 0.5rem;
+  max-width: 12rem;
+}
+
+.centered .squiggle {
+}
