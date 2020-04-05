@@ -11,7 +11,36 @@ collections:
   archives:
     output: true
 
+sizes:
+  - full
+  - one-half
+  - one-third
+  - two-thirds
+
 _options:
+  _html:
+    blockquote: true
+    horizontalrule: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    numberedlist: true
+    code: true
+    table: true
+    right: align-to-right
+    center: align-to-center
+    left: align-to-left
+    embed: true
+    link: true
+    undo: true
+    redo: true
+    underline: true
+    strike: true
+    subscript: true
+    superscript: true
+    image: true
+    bulletedlist: true
+    styles: /assets/editor.css
   content:
     blockquote: true
     horizontalrule: true
@@ -35,6 +64,9 @@ _options:
     image: true
     bulletedlist: true
     styles: /assets/editor.css
+
+sass:
+    sass_dir: _sass
 
 plugins:
   - jekyll-paginate-v2

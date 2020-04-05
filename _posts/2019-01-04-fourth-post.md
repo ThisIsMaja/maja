@@ -5,8 +5,6 @@ meta-description:
 meta-keywords:
 image_path: /images/Obertauern/Obertauern5.jpg
 banner-1_path: /images/Obertauern/Obertauern3.jpg
-banner-2_path: /images/Obertauern/Obertauern1.jpg
-banner-2-caption:
 categories:
   - travel
 tags:
@@ -36,13 +34,16 @@ intro-content_html: >-
   destination in Austria, Obertauern is the place to go to.</p><p>Below we will
   link to everything we did, places you can eat (also vegan meals) and where to
   stay in Obertauern.</p><h2>&nbsp;</h2>
-main-paragraph-emphasis: >-
-  We love being by the sea, but nothing can compare to a winter ski trip with
-  the one you love
-body-content_html:
+sections:
+  - banner_path: /images/style/maja-stock-33.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with the one you love
+    body-content_html: This is the body content
 gallery:
   - image_path:
     size: full
+    alt: 
 ---
 
 Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.

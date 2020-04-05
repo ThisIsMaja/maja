@@ -54,32 +54,39 @@ layout: default
   </div>
 </section>
 
-<section class="banner fixed grid-right right" style="background-image:url({{page.banner-2_path}});">
+{% for section in page.sections %}
+
+<section class="banner fixed grid-right right" style="background-image:url({{section.banner_path}});">
 
   <div class="col-4_sm-6_xs-12-bottom padded-2">
-      <p class="margin-0"> <span class="highlighted-text">{{page.banner-2-caption}}</span></p>
+      <p class="margin-0"> <span class="highlighted-text">{{section.banner-caption}}</span></p>
   <div>
 
 </section>
 <section class="light-bg">
-  <div class="grid-center padded capped-width">
+  <div class="grid-center padded capped-width blog-content">
     <div class="col-4_sm-10 centered">
 
         <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
 
-        <p class="emphasis"> {{page.main-paragraph-emphasis}}</p>
+        <p class="emphasis"> {{section.main-paragraph-emphasis}}</p>
 
         <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
     </div>
-    <div class="col-12 columns padded-1">
-        {{page.body-content_html}}
+    <div class="col-12 {% if section.columns == true %} columns {% endif %} padded-1">
+        {{section.body-content_html}}
     </div>
   </div>
 </section>
 
-<section class="gallery padded capped-width centered">
-  <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
+{% endfor %}
+
+<section class="gallery padded capped-width centered blog-content">
+  <p>
+    <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
+  </p>
   {% for item in page.gallery %}
   <img src="{{item.image_path}}" class="{{item.size}}">
   {% endfor %}
+  <p class="subtitle margin-top-1"> {{page.gallery-text}}</p> 
 </section>

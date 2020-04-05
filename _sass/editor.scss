@@ -6,26 +6,28 @@ h2.cursive {
     color: pink;
 }
 
-
 /* Image Styles */
 
 img {
   height: auto;
 }
 
-img.one-third {
+img.one-third,
+.gallery img.one-third {
   display: inline-block;
   width: calc(33% - 1rem);
   margin: 0.5rem;
 }
 
-img.two-thirds {
+img.two-thirds,
+.gallery img.two-thirds {
   display: inline-block;
   width: calc(66% - 1rem);
   margin: 0.5rem;
 }
 
-img.one-half {
+img.one-half,
+.gallery img.one-half {
   display: inline-block;
   width: calc(50% - 1rem);
   margin: 0.5rem;
