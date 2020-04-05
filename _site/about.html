@@ -46,6 +46,10 @@
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" integrity="sha256-4hqlsNP9KM6+2eA8VUT0kk4RsMRTeS7QGHIM+MZ5sLY=" crossorigin="anonymous" />
 
+<!-- Animate on Scroll -->
+
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 
 <!-- our own custom stylesheet -->
 <link rel="stylesheet" href="/assets/style.css"/>
@@ -62,16 +66,16 @@
   <!-- This is your site header, you can replace this with whichever header you want to use -->
 
 <header class="grid-center">
-  <nav class="col-4-middle right mob-hide">
+  <nav class="col-4-middle right mob-hide" data-aos="fade" data-aos-delay="500">
     <a href="/blog"> BLOG </a>
     <a href="/about"> ABOUT </a>
   </nav>
   <div class="col-3_sm-12-middle centered">
-    <a href="/">
+    <a href="/" data-aos="fade">
       <img class="logo" src="/images/logo/maja-logo-1.png">
     </a>
   </div>
-  <nav class="col-4-middle mob-hide">
+  <nav class="col-4-middle mob-hide" data-aos="fade" data-aos-delay="500">
     <a href="https://shopmariefeandjakesnow.com/" target="_blank"> SHOP </a>
     <a href="/subscribe"> SUBSCRIBE </a>
   </nav>
@@ -365,11 +369,11 @@
   <footer class="grid featured-bg">
   <!-- column -->
   <div class="col-5_sm-12 padded">
-    <a href="#">
+    <a href="/" data-aos="fade" data-aos-offset="0">
         <img class="logo" src="/images/logo/maja-logo-1.png">
      </a>
     <!-- <h4> By Marie Fe & Jake Snow </h4> -->
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    <p data-aos="fade" data-aos-delay="100"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
   </div>
   <div class="col-1 sm-hidden"></div>
   <!-- column -->
@@ -408,6 +412,9 @@
 
 <!-- Pin This -->
 <script async defer data-pin-hover="true" data-pin-tall="true" data-pin-round="true" src="//assets.pinterest.com/js/pinit.js"></script>
+
+<!-- Animate on scroll  -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
 <!-- this is your custom javascript/jQuery file -->
 <script src="/assets/main.js"></script>

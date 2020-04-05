@@ -48,8 +48,19 @@ $(document).ready(function() {
 
 	// Slick Slider
 	$('.slick-blog-loop').slick({
-		autoplay: true
+		autoplay: false
 	});
 
+});
+
+
+$(function() {
+	AOS.init({
+		delay: 100,
+		mirror: true,
+		duration: 1000
+	});
+
+	window.addEventListener('load', AOS.refresh);
 
 });
