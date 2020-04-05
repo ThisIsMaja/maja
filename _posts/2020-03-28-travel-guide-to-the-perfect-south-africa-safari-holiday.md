@@ -187,7 +187,7 @@ sections:
 gallery:
   - image_path: /images/south-africa/south-africa-safari4.jpg
     size: one-half
-    alt:
+    alt: Edited with our <a href="http://shop.mariefeandjakesnow.com"> Africa Preset </a>
   - image_path: /images/south-africa/south-africa-safari5.jpg
     size: one-half
     alt:
@@ -196,5 +196,6 @@ gallery:
     alt:
   - image_path: /images/south-africa/south-africa-safari2.jpg
     size: full
-    alt: 
+    alt:
+gallery-text: Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank"> Africa Preset </a> 
 ---
