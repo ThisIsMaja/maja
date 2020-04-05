@@ -270,6 +270,27 @@ p.emphasis {
   font-size: 6rem;
   line-height: 1; }
 
+.about-page h1 {
+  letter-spacing: 4px;
+  font-weight: normal;
+  font-size: 2.5rem; }
+
+.about-page h1 span {
+  font-family: helvetica;
+  font-size: 1.8rem;
+  padding: 0.5rem;
+  vertical-align: top;
+  display: inline-block; }
+
+.about-page h2 {
+  font-weight: 300;
+  font-family: p22-underground, sans-serif;
+  font-size: 1.3rem; }
+
+.signoff {
+  padding: 0.5rem;
+  max-width: 12rem; }
+
 /* Headers and footers */
 header {
   padding: 1% 5%; }
@@ -931,9 +952,6 @@ h3.clear-images-h3 {
   .capped-width {
     width: 100%; }
 
-  .padded {
-    padding: 2.5rem; }
-
   .mob-flex-flip {
     flex-direction: column-reverse; }
 
@@ -944,7 +962,17 @@ h3.clear-images-h3 {
     column-count: 1; }
 
   .social-share {
-    left: 0.5rem; } }
+    left: 0.5rem; }
+
+  .about-page p {
+    font-size: 1.5rem; }
+
+  footer {
+    padding: 2rem 5%; }
+
+  footer,
+  footer .right {
+    text-align: center; } }
 /* end media query */
 /* This media query kicks into action at the gridlex xs breakpoint */
 /* end media query */
