@@ -962,3 +962,18 @@ h3.clear-images-h3 {
 .slick-next:before, .slick-prev:before {
   font-family: inherit;
   color: #fff; }
+
+.slick-blog-loop h2 {
+  font-size: 2rem; }
+
+.slick-slider .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 50%); }
+
+.banner-inner {
+  position: relative;
+  z-index: 2; }

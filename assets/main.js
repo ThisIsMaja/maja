@@ -48,8 +48,14 @@ $(document).ready(function() {
 
 	// Slick Slider
 	$('.slick-blog-loop').slick({
-		autoplay: true
+		autoplay: false
 	});
 
-
 });
+
+
+	AOS.init({
+		delay: 50,
+		mirror: true,
+		duration: 1200
+	})

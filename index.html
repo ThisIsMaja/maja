@@ -4,6 +4,7 @@ title: Maja | Marie Fe & Jake Snow
 meta-description:
 meta-keywords:
 featured-image_path:
+banner-1_path: /images/greece/mariefeandjakesnow-greece14.jpg
 ig-images:
   - /images/greece/mariefeandjakesnow-greece14.jpg
   - /images/greece/mariefeandjakesnow-greece14.jpg
@@ -20,28 +21,7 @@ ig-images:
 
 <!-- banner -->
 
-<section class="padded-2-h">
-
-<div class="relative slick-blog-loop">
-
-  {% for post in site.posts limit:4 %}
-
-  <div>
-    <div class="banner padded-5vw grid centered" style="background-image:url({{post.banner-1_path}})">
-
-      <div class="col-12-bottom">
-
-        <h2> {{post.title}} </h2>
-        <a href="{{post.url}}" class="button inverted"> READ STORY </a>
-
-      </div>
-  </div>
-
-  </div>
-
-  {% endfor %}
-
-</div>
+<section class="banner" style="background-image:url({{page.banner-1_path}})">
 
 </section>
 
@@ -50,13 +30,37 @@ ig-images:
     <a href="/blog"> Explore </a>
   </nav>
   <h2>
-    <a class="emphasis" href="/travel"><span> Travel </span></a>
-    <a class="emphasis" href="/lifestyle"><span> Lifestyle </span></a>
-    <a class="emphasis" href="/wellbeing"><span> Wellbeing </span></a>
-    <a class="emphasis" href="/musings"><span> Musings </span></a>
+    <a class="emphasis" href="/travel" data-aos="fade" data-aos-offset="120"><span> Travel </span></a>
+    <a class="emphasis" href="/lifestyle" data-aos="fade" data-aos-offset="150"><span> Lifestyle </span></a>
+    <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="180"><span> Wellbeing </span></a>
+    <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="200"><span> Musings </span></a>
   </h2>
 </section>
 
+<section class="padded-2-h">
+
+  <div class="relative slick-blog-loop">
+
+    {% for post in site.posts limit:6 %}
+
+    <div>
+      <div class="banner grid padded-5vw centered" style="background-image:url({{post.banner-1_path}})">
+        <div class="overlay"></div>
+        <div class="col-12-bottom banner-inner">
+
+          <h2> <span> {{post.title}} </span> </h2>
+          <a href="{{post.url}}" class="button inverted"> READ STORY </a>
+
+        </div>
+    </div>
+
+    </div>
+
+    {% endfor %}
+
+  </div>
+
+</section>
 
 <section class="padded grid capped-width">
   <div class="col-5_sm-12-middle editable ">
