@@ -54,8 +54,13 @@ $(document).ready(function() {
 });
 
 
+$(function() {
 	AOS.init({
-		delay: 50,
+		delay: 100,
 		mirror: true,
-		duration: 1200
-	})
+		duration: 1000
+	});
+
+	window.addEventListener('load', AOS.refresh);
+
+});

@@ -138,18 +138,18 @@
     margin-top: 2rem;
   }
 
-  a.emphasis {
+  .text-animation .emphasis {
     min-width: 8rem;
     min-height: 2rem;
     display:inline-block;
   }
 
-  a.emphasis span {
+  .text-animation .emphasis span {
     position: relative;
     padding: 0.5rem;
   }
 
-  a.emphasis span:hover {
+  .text-animation .emphasis span:hover {
     // font-style: italic;
     color: #be9a85;
   }

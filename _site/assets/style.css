@@ -171,16 +171,16 @@ p a.emphasis {
 .blog-content h4:not(:first-child) {
   margin-top: 2rem; }
 
-a.emphasis {
+.text-animation .emphasis {
   min-width: 8rem;
   min-height: 2rem;
   display: inline-block; }
 
-a.emphasis span {
+.text-animation .emphasis span {
   position: relative;
   padding: 0.5rem; }
 
-a.emphasis span:hover {
+.text-animation .emphasis span:hover {
   color: #be9a85; }
 
 .light-text .emphasis span:hover {
