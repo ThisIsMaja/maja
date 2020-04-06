@@ -16,7 +16,7 @@ tags:
 author: Jake Snow
 image-1_path: /images/style/maja-stock-41.jpg
 image-1-caption:
-image-2_path: /images/style/maja-stock-34.jpg
+image-2_path:
 image-2-caption:
 intro-paragraph-emphasis: >-
   Starting the new year off with a few personal changes in mind always seem
@@ -66,11 +66,7 @@ sections:
       are working for you</li><li>Surround yourself with like-minded people who
       encourage your goals</li></ul><p>This year try to make a real change by
       starting off small.&nbsp;</p>
-  - banner_path:
-    banner-caption:
-    main-paragraph-emphasis:
-    body-content_html:
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path:
     size: full
