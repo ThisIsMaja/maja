@@ -75,41 +75,35 @@ sections:
       photos, do some snorkelling and just marvel at the beauty of our planet.
       You will notice that the beach is super clean. Please keep it that way and
       take our rubbish with you, maybe even pick a few pieces up while your
-      there.&nbsp;</p><h3><strong>4 . SEE A SPECTACULAR PHENOMENON AT KALONG
-      ISLAND</strong></h3><p>As the sun sets over Kalong Island the trees begin
-      to rustle with activity. The boats line up in the calm water waiting for
-      something spectacular to happen. One bat spreads its wings and flies out
-      from the trees. Then 3 bats follow, then 5 more. All of a sudden thousands
-      of bats fill the pinky, purple sky. The bats are flying back to the
-      mainland to sleep over night. This daily migration is one of the most
-      beautiful things we have ever seen and an unexpected part of our Komodo
-      islands tour. You really have to see this for yourself to believe it,
-      trust us when we say that you will be in awe of this amazing
-      event.&nbsp;</p><h3><strong>5 . ESCAPE TO PARADISE AT TAKA
-      MAKASSAR</strong></h3><p>When we think of paradise, this is what comes to
-      mind. Crystal clear water, bright white sand and your own secluded sand
-      bar to share with other travellers.&nbsp;</p><p>This sand bar is smaller
-      than a football field and is surrounded by stunning blue water. The water
-      is shallow therefore the biggest cannot get to close which makes it
-      perfect for snorkelling and free diving.&nbsp;</p><p>Our camera equipment
-      got a workout at this amazing natural wonder. We captured amazing aerial
-      photos and videos with our Mavic Pro, some pristine underwater shots with
-      our gopro 6 and white beach couple shots that never get old on our
-      Panasonic GH4.&nbsp;</p><p>Take your time to relax or go crazy taking
-      photos, either way you will love this place.</p><p>As content creators and
-      travellers in general, this tour around the Komodo Islands was something
-      we will never forget. The quality of content we were able to produce and
-      the experiences we had, were absolutely top notch. We want to say a big
-      thankyou to the guys at&nbsp;<a target="_blank"
-      href="https://travass.life/komodoisland/">Travass.Life</a>&nbsp;for making
-      our trip so memorable. We cant recommend them highly enough .</p><p>Most
-      of our Komodo photos were edited with presets from our Ultimate Preset
-      Package that you can find&nbsp;<a target="_blank"
-      href="https://shopmariefeandjakesnow.com/">here</a>!</p><p>This adventure
-      was the perfect add on to our month long stay in Bali, for an in depth
-      guide to Bali and the surrounding Islands check out this article&nbsp;<a
-      target="_blank"
-      href="https://www.mariefeandjakesnow.com/blog/2018/12/15/1-month-in-bali">here</a>!</p><p>&nbsp;</p>
+      there.&nbsp;</p><h3>&nbsp;</h3><p>&nbsp;</p>
+  - banner_path: /images/komodo-islands/Komodo-Islands7.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: >-
+      As content creators and travellers in general, this tour around the Komodo
+      Islands was something we will never forget.
+    body-content_html: >-
+      <p>4 . SEE A SPECTACULAR PHENOMENON AT KALONG ISLAND</p><p>As the sun sets
+      over Kalong Island the trees begin to rustle with activity. The boats line
+      up in the calm water waiting for something spectacular to happen. One bat
+      spreads its wings and flies out from the trees. Then 3 bats follow, then 5
+      more. All of a sudden thousands of bats fill the pinky, purple sky. The
+      bats are flying back to the mainland to sleep over night. This daily
+      migration is one of the most beautiful things we have ever seen and an
+      unexpected part of our Komodo islands tour. You really have to see this
+      for yourself to believe it, trust us when we say that you will be in awe
+      of this amazing event.&nbsp;</p><p>5 . ESCAPE TO PARADISE AT TAKA
+      MAKASSAR</p><p>When we think of paradise, this is what comes to mind.
+      Crystal clear water, bright white sand and your own secluded sand bar to
+      share with other travellers.&nbsp;</p><p>This sand bar is smaller than a
+      football field and is surrounded by stunning blue water. The water is
+      shallow therefore the biggest cannot get to close which makes it perfect
+      for snorkelling and free diving.&nbsp;</p><p>Our camera equipment got a
+      workout at this amazing natural wonder. We captured amazing aerial photos
+      and videos with our Mavic Pro, some pristine underwater shots with our
+      gopro 6 and white beach couple shots that never get old on our Panasonic
+      GH4.&nbsp;</p><p>Take your time to relax or go crazy taking photos, either
+      way you will love this place.</p><p>&nbsp;</p>
 gallery:
   - image_path:
     size: full
