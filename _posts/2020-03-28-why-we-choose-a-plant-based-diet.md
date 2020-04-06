@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 01/01/2020
+slug:
 title: Why We Choose a Plant Based Diet
 meta-description:
 meta-keywords:
@@ -153,5 +155,5 @@ sections:
 gallery:
   - image_path:
     size: full
-    alt: 
+    alt:
 ---

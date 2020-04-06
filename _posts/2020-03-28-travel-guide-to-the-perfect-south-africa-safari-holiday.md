@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 01/01/2020
+slug:
 title: Travel Guide To The Perfect South Africa Safari Holiday
 meta-description:
 meta-keywords:
@@ -184,6 +186,8 @@ sections:
       you will all get to see what we've seen at some point in your life time.
       It is a life changing experience and something you'll never
       forget!&nbsp;</p>
+show-gallery: true
+gallery-text: Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank"> Africa Preset </a>     
 gallery:
   - image_path: /images/south-africa/south-africa-safari4.jpg
     size: one-half
@@ -197,5 +201,4 @@ gallery:
   - image_path: /images/south-africa/south-africa-safari2.jpg
     size: full
     alt:
-gallery-text: Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank"> Africa Preset </a> 
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 01/01/2020
+slug:
 title: Egypt and Jordan in 3 Weeks
 meta-description:
 meta-keywords:
@@ -34,7 +36,8 @@ sections:
     banner-caption:
     columns: true
     main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with the one you love
-    body-content_html: This is the body content
+    body-content_html: This is the body conten
+show-gallery: true     
 gallery:
   - image_path: /images/egypt-jordan/redsea-diving3.jpg
     size: full
@@ -47,5 +50,5 @@ gallery:
     alt:
   - image_path: /images/egypt-jordan/rue-de-seine.jpg
     size:
-    alt: 
+    alt:
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 01/01/2020
+slug:
 title: The Best local Islands to Visit in The Maldives (On a Budget)
 meta-description:
 meta-keywords:
@@ -34,10 +36,11 @@ sections:
     columns: true
     main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with the one you love
     body-content_html: This is the body content
+show-gallery: true     
 gallery:
   - image_path:
     size: full
   - image_path:
     size:
-    alt: 
+    alt:
 ---
