@@ -106,6 +106,7 @@ sections:
       Bali and the surrounding Islands check out this article&nbsp;<a
       target="_blank"
       href="https://www.mariefeandjakesnow.com/blog/2018/12/15/1-month-in-bali">here</a>!</p><p>&nbsp;</p>
+show-gallery: true   
 gallery:
   - image_path:
     size: full

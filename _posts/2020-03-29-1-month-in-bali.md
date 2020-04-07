@@ -281,6 +281,7 @@ sections:
       relax/party at Mrs Sippy (sunbeds and famous diveboard)</p><p>Relax at Potato
       Head or Ku Da Ta<span style="display: none;"
       id="cke_bm_1366E">&nbsp;</span>​​​​​​​</p>
+show-gallery: true   
 gallery:
   - image_path: /images/style/maja-stock-11.jpg
     size: full
