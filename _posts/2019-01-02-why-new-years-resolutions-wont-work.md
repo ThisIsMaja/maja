@@ -34,7 +34,7 @@ intro-content_html: >-
   resolution</li><li>You don&rsquo;t have a practical plan to achieve your
   resolution</li><li>You believe you will fail before you even try</li></ol>
 sections:
-  - banner_path: /images/style/maja-stock-33.jpg
+  - banner_path: 
     banner-caption:
     main-paragraph-emphasis: Is this really your true goal? Ask yourself if you want to do this
     body-content_html: >-
