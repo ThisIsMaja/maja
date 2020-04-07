@@ -14,7 +14,7 @@ tags:
   - opinion
   - productivity
 author: Jake Snow
-image-1_path:
+image-1_path: /images/style/maja-stock-style3.jpg
 image-1-caption:
 image-2_path:
 image-2-caption:
