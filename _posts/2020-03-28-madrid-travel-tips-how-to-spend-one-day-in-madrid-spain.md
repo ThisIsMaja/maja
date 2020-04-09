@@ -70,8 +70,8 @@ sections:
       caf&eacute;);</li><li>Bunnys_deli (Plant-based
       restaurant);</li><li>Avocado love Madrid (Avocado heaven);</li><li>Ramen
       Shifu (Ramen restaurant);</li><li>DeLish Vegan Doughnuts (Mouthwatering
-      donuts)</li></ul><p>Me and Jake are not big drinkers but we do like to go
-      out and enjoy an occasional glass of wine form time to
+      donuts)</li></ul><p>&nbsp;</p><p>Me and Jake are not big drinkers but we
+      do like to go out and enjoy an occasional glass of wine form time to
       time.&nbsp;</p><p>Here is a list of nice bars in Madrid, that we either
       have been ourselves or they were recommended to us by
       friends.</p><ul><li>Sala Equis (A nice place with a special design but a
