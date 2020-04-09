@@ -57,6 +57,17 @@ sections:
       Madrid tapas night walking tour is the best combination of eating and
       enjoying delicious tapas and exploring the city - and you&rsquo;ll burn a
       few calories as well!</p>
+  - banner_path: /images/city/madrid-spain6.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: Where to eat
+    body-content_html: >-
+      <ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La hummuseria
+      (Amazing hummus);</li><li>Celicioso (Gluten-Free Bakery);</li><li>Pum Pum
+      Cafe (Super cozy, vegan-friendly caf&eacute;);</li><li>Bunnys_deli
+      (Plant-based restaurant);</li><li>Avocado love Madrid (Avocado
+      heaven);</li><li>Ramen Shifu (Ramen restaurant);</li><li>DeLish Vegan
+      Doughnuts (Mouthwatering donuts)</li></ul>
 show-gallery: true
 gallery:
   - image_path:
