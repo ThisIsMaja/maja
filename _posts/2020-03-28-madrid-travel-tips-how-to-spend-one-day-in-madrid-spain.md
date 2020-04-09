@@ -110,7 +110,7 @@ sections:
       us know!</p>
 show-gallery: true
 gallery:
-  - image_path:
+  - image_path: /uploads/tapas-bar-madrid.jpg
     size: full
     alt:
 ---
