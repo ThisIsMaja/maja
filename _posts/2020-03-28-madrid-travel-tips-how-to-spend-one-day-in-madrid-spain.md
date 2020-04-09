@@ -38,13 +38,25 @@ intro-content_html: >-
   do a lot, and eat your way through the city.</p><p><strong>Here are our travel
   tips for spending one day in Madrid!</strong></p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/style/maja-stock-33.jpg
-    banner-caption:
+  - banner_path: /images/city/madrid-spain2.jpg
+    banner-caption: Madrid Centro
     columns: true
-    main-paragraph-emphasis: >-
-      We love being by the sea, but nothing can compare to a winter ski trip
-      with the one you love
-    body-content_html: This is the body content
+    main-paragraph-emphasis: What to do in one day in Madrid
+    body-content_html: >-
+      <ul><li><a href="https://www.hop-on-hop-off-bus.com/"><u>Madrid City Tour
+      Hop-On Hop-Off</u></a></li></ul><p>This is the most comfortable way to
+      experience the whole city. If you don&rsquo;t have so much time, we
+      recommend a bicycle tour instead.</p><ul><li>Caixa Forum</li></ul><p>The
+      Caixa Forum is a museum where you can experience stunning architectural
+      designs that won&rsquo;t disappoint you.</p><ul><li><a
+      href="https://www.tripadvisor.com/Attraction_Review-g187514-d190146-Reviews-Royal_Palace_of_Madrid-Madrid.html"><u>Royal
+      Palace of Madrid</u></a></li></ul><p>This palace is an official residence
+      of the royal family and is the largest functioning palace in the whole of
+      Europe.</p><ul><li>Madrid Tapas Night Walking Tour</li></ul><p>If you only
+      have one day in Madrid, the only thing you cannot miss: eating tapas. A
+      Madrid tapas night walking tour is the best combination of eating and
+      enjoying delicious tapas and exploring the city - and you&rsquo;ll burn a
+      few calories as well!</p>
 show-gallery: true
 gallery:
   - image_path:
