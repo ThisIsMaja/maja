@@ -1,25 +1,21 @@
 ---
 layout: post
-date: 2020-01-01 00:00:00
+date: 2020-01-19 11:00:00
 slug: obertauern-ski-holiday
 title: 'Winter Holiday In Obertauern, Austria'
-meta-description:
-meta-keywords:
+meta-description: Everything you need to know about your next ski trip in Obertauern.
+meta-keywords: 'ski trip, holidays in Obertauern, Obertauern, Obertauern Austria'
 image_path: /images/Obertauern/Obertauern5.jpg
 banner-1_path: /images/Obertauern/Obertauern3.jpg
 categories:
   - travel
 tags:
-  - business
   - photography
-  - productivity
-  - self-Improvement
   - sustainability
   - fashion
-  - minimalism
 author: Jake Snow
-image-1_path: /images/mountain.jpg
-image-2_path: /images/mountain.jpg
+image-1_path: /images/Obertauern/Obertauern1.jpg
+image-2_path: /images/Obertauern/Obertauern2.jpg
 intro-paragraph-emphasis: 'With over 100km of piste in Obertauern, there’s so much to explore.'
 intro-content_html: >-
   <p>Austria is a magical place, and our winter ski trip to Obertauern has left
