@@ -1,20 +1,23 @@
 ---
 layout: post
 date: 2020-01-01 00:00:00
-slug: how yo spend one day in Madrid
+slug: how-to-spend-one-day-in-Madrid
 title: 'Madrid Travel Tips: How To Spend One Day in Madrid, Spain'
-meta-description:
-meta-keywords:
+meta-description: >-
+  Only in Madrid for one day? No need to worry, we've got you covered. Read
+  about all must-see places, where to eat, where to stay and things to do.
+meta-keywords: >-
+  madrid in one day, madrid what to see, madrid where to stay, madrid what to
+  eat, thing to do in madrid
 image_path: /images/city/madrid-spain1.jpg
 banner-1_path: /images/city/madrid-spain5.jpg
 categories:
   - travel
 tags:
-  - diet
-  - mental Health
-  - exercise
-  - yoga
-  - conscious civing
+  - photography
+  - madrid
+  - spain
+  - travel
 author: Marie Fe
 image-1_path: /images/city/madrid-spain3.jpg
 image-2_path: /images/city/madrid-spain4.jpg
@@ -32,8 +35,8 @@ intro-content_html: >-
   years.</p><p>Unfortunately, we only had a 24-hour layover in Madrid and so we
   had to make the most of our short visit. One day in Madrid may not seem like
   enough time to explore the city, but if you plan your itinerary right, you can
-  do a lot, and eat your way through the city.</p><p>Here are our travel tips
-  for spending one day in Madrid!</p><p>&nbsp;</p>
+  do a lot, and eat your way through the city.</p><p><strong>Here are our travel
+  tips for spending one day in Madrid!</strong></p><p>&nbsp;</p>
 sections:
   - banner_path: /images/style/maja-stock-33.jpg
     banner-caption:
