@@ -33,13 +33,35 @@ intro-content_html: >-
   link to everything we did, places you can eat (also vegan meals) and where to
   stay in Obertauern.</p><h2>&nbsp;</h2>
 sections:
-  - banner_path: /images/style/maja-stock-33.jpg
+  - banner_path: /images/Obertauern/Obertauern4.jpg
     banner-caption:
-    columns: true
-    main-paragraph-emphasis: >-
-      We love being by the sea, but nothing can compare to a winter ski trip
-      with the one you love
-    body-content_html: <p>This is the body content</p>
+    columns: false
+    main-paragraph-emphasis: 'Why we loved Obertauern, Austria'
+    body-content_html: >-
+      <p>With over 100km of piste in Obertauern, there&rsquo;s so much to
+      explore. The ski slopes are ideal for advanced skiers or snowboarders, yet
+      they also vary in slope size and so it&rsquo;s also a great place for
+      beginners to learn how to ski.</p><p>Obertauern is also located close to
+      Salzburg and just 2 hours from Munich, Germany making it a fun weekend
+      getaway if you&rsquo;re traveling from outside of
+      Austria.</p><p>It&rsquo;s definitely a great place to spend some joyful
+      and relaxing days. The 2 things we loved the most were that we could
+      literally ski to within 50m of our hotel (a true ski-in ski-out mountain)
+      and the fact that we were 100% guaranteed real snow regardless of which
+      date we chose for our trip between the months of November and May!</p><p>I
+      could go on and on - we love this place!</p>
+  - banner_path: /uploads/snowy-mountains-2-1.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: The Best Time To Go On a Winter Holiday To Obertauern
+    body-content_html: >-
+      <p>The winter season in Obertauern, Austria, starts toward the end of
+      November and lasts until the beginning of May. To make the most out of
+      your time, the best snowfall will be in December, January and
+      February.</p><p>The weather for our ski trip to Obertauern could not have
+      been better! Every day was a fresh 0-3 degree celsius and we even had some
+      fresh snow on our first day. The conditions on the mountain were also
+      perfect to ski or snowboard.</p>
 show-gallery: true
 gallery:
   - image_path:
