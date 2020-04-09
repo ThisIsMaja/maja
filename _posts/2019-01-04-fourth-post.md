@@ -116,7 +116,7 @@ sections:
       questions, drop us a message in the comment section below, or tag us in
       your photos! We hope you have the same incredible experience that we
       did.</p><p>Much love,</p><p>Marie &amp; Jake</p>
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path:
     size: full
