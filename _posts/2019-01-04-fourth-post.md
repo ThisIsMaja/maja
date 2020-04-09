@@ -5,8 +5,8 @@ slug: obertauern-ski-holiday
 title: 'Winter Holiday In Obertauern, Austria'
 meta-description: Everything you need to know about your next ski trip in Obertauern.
 meta-keywords: 'ski trip, holidays in Obertauern, Obertauern, Obertauern Austria'
-image_path: /images/Obertauern/Obertauern5.jpg
-banner-1_path: /images/Obertauern/Obertauern3.jpg
+image_path: /images/Obertauern/Obertauern3.jpg
+banner-1_path: /images/Obertauern/Obertauern5.jpg
 categories:
   - travel
 tags:
