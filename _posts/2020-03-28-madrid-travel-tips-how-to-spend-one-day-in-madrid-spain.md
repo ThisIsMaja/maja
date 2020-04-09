@@ -40,7 +40,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/city/madrid-spain2.jpg
     banner-caption: Madrid Centro
-    columns: true
+    columns: false
     main-paragraph-emphasis: What to do in one day in Madrid
     body-content_html: >-
       <ul><li><a href="https://www.hop-on-hop-off-bus.com/"><u>Madrid City Tour
@@ -59,7 +59,7 @@ sections:
       few calories as well!</p>
   - banner_path: /images/city/madrid-spain6.jpg
     banner-caption:
-    columns: true
+    columns: false
     main-paragraph-emphasis: Where to eat
     body-content_html: >-
       <ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La hummuseria
