@@ -57,7 +57,7 @@ sections:
       Madrid tapas night walking tour is the best combination of eating and
       enjoying delicious tapas and exploring the city - and you&rsquo;ll burn a
       few calories as well!</p>
-  - banner_path: /images/city/madrid-spain6.jpg
+  - banner_path: /uploads/cozy-brown-bar-in-madrid.jpg
     banner-caption:
     columns: false
     main-paragraph-emphasis: Where To Eat And Drink In Madrid
@@ -78,7 +78,7 @@ sections:
       little bit pricey)</li><li>BarbaraAnn (Good for dinner and
       drinks)</li><li>BuleBule (Live-show and music)</li><li>Kikekeller (Small
       but cozy bar with unique interior)</li></ul>
-  - banner_path: /images/city/madrid-spain2.jpg
+  - banner_path: /uploads/agustina-salas-lsrfau3v8de-unsplash-1.jpg
     banner-caption:
     columns: false
     main-paragraph-emphasis: Where To Stay In Madrid
@@ -97,7 +97,7 @@ sections:
       href="https://www.7islashotel.com/?gclid=EAIaIQobChMIpsiUs56V5wIVC-h3Ch1sbQA9EAAYAyAAEgLp3PD_BwE&amp;r=3906018"><u>7
       Islas Hote</u></a>l (amazing design, beautiful hotel for special
       occasions)</li></ul>
-  - banner_path: /uploads/alex-vasey-zy-w7kweyfe-unsplash.jpg
+  - banner_path: /uploads/beautiful-street-of-madrid.jpg
     banner-caption:
     columns: false
     main-paragraph-emphasis: We Will Be Back Madrid!
