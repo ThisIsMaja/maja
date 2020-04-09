@@ -63,8 +63,8 @@ sections:
     main-paragraph-emphasis: Where To Eat And Drink In Madrid
     body-content_html: >-
       <p>No good travel experience is complete without getting a taste of local
-      cuisine.&nbsp;</p><p>Below are some of our favorite
-      cafes:</p><ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La
+      cuisine.&nbsp;</p><p>Below are some of our favorite cafes and restaurants
+      in Madrid:</p><ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La
       hummuseria (Amazing hummus);</li><li>Celicioso (Gluten-Free
       Bakery);</li><li>Pum Pum Cafe (Super cozy, vegan-friendly
       caf&eacute;);</li><li>Bunnys_deli (Plant-based
