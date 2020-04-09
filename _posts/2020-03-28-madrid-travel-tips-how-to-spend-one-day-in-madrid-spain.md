@@ -39,9 +39,9 @@ intro-content_html: >-
   tips for spending one day in Madrid!</strong></p><p>&nbsp;</p>
 sections:
   - banner_path: /images/city/madrid-spain2.jpg
-    banner-caption: Madrid Centro
+    banner-caption:
     columns: false
-    main-paragraph-emphasis: What to do in one day in Madrid
+    main-paragraph-emphasis: What To Do In One Day In Madrid
     body-content_html: >-
       <ul><li><a href="https://www.hop-on-hop-off-bus.com/"><u>Madrid City Tour
       Hop-On Hop-Off</u></a></li></ul><p>This is the most comfortable way to
@@ -60,14 +60,54 @@ sections:
   - banner_path: /images/city/madrid-spain6.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Where to eat
+    main-paragraph-emphasis: Where To Eat And Drink In Madrid
     body-content_html: >-
-      <ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La hummuseria
-      (Amazing hummus);</li><li>Celicioso (Gluten-Free Bakery);</li><li>Pum Pum
-      Cafe (Super cozy, vegan-friendly caf&eacute;);</li><li>Bunnys_deli
-      (Plant-based restaurant);</li><li>Avocado love Madrid (Avocado
-      heaven);</li><li>Ramen Shifu (Ramen restaurant);</li><li>DeLish Vegan
-      Doughnuts (Mouthwatering donuts)</li></ul>
+      <p>No good travel experience is complete without getting a taste of local
+      cuisine.&nbsp;</p><p>Below are some of our favorite
+      cafes:</p><ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La
+      hummuseria (Amazing hummus);</li><li>Celicioso (Gluten-Free
+      Bakery);</li><li>Pum Pum Cafe (Super cozy, vegan-friendly
+      caf&eacute;);</li><li>Bunnys_deli (Plant-based
+      restaurant);</li><li>Avocado love Madrid (Avocado heaven);</li><li>Ramen
+      Shifu (Ramen restaurant);</li><li>DeLish Vegan Doughnuts (Mouthwatering
+      donuts)</li></ul><p>Me and Jake are not big drinkers but we do like to go
+      out and enjoy an occasional glass of wine form time to
+      time.&nbsp;</p><p>Here is a list of nice bars in Madrid, that we either
+      have been ourselves or they were recommended to us by
+      friends.</p><ul><li>Sala Equis (A nice place with a special design but a
+      little bit pricey)</li><li>BarbaraAnn (Good for dinner and
+      drinks)</li><li>BuleBule (Live-show and music)</li><li>Kikekeller (Small
+      but cozy bar with unique interior)</li></ul>
+  - banner_path: /images/city/madrid-spain2.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: Where To Stay In Madrid
+    body-content_html: >-
+      <p>The best place to stay during your 24-hours in Madrid is in an area
+      called Centro. It&rsquo;s ideally located close to all the attractions and
+      has some great accommodation options that cater to all
+      budgets.</p><ul><li><a href="https://www.dearhotelmadrid.com/"><u>Dear
+      Hotel Madrid</u></a> (Really central and a really nice rooftop
+      pool)</li><li><a
+      href="https://www.booking.com/hotel/es/zitty-madrid.en-gb.html?aid=311984%3Blabel%3Dzitty-madrid-LfxDsAEZTeL_fXDmF5klgAS162174961116%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-97356678003%3Alp9043802%3Ali%3Adec%3Adm%3Bsid%3D616967b5907ba0ab48fa3326c554927f%3Ball_sr_blocks%3D1895010_183958989_0_0_0%3Bcheckin%3D2020-01-28%3Bcheckout%3D2020-01-29%3Bdest_id%3D-390625%3Bdest_type%3Dcity%3Bdist%3D0%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Bhapos%3D1%3Bhighlighted_blocks%3D1895010_183958989_0_0_0%3Bhpos%3D1%3Bno_rooms%3D1%3Broom1%3DA%2CA%3Bsb_price_type%3Dtotal%3Bsr_order%3Dpopularity%3Bsr_pri_blocks%3D1895010_183958989_0_0_0__5170%3Bsrepoch%3D1579629141%3Bsrpvid%3D9d477daab9db01cb%3Btype%3Dtotal%3Bucfs%3D1#hotelTmpl"><u>THC
+      Gran Via Hostel</u></a> (Small rooms but centrally located and affordable-
+      we paid 50Euros)</li><li><a
+      href="https://www.booking.com/searchresults.en-gb.html?aid=311984%3Blabel%3Dhotel-91861-es-2ZTfdKmM31cDLBELoYBOAwS393047165405%3Apl%3Ata%3Ap1%3Ap21%2C093%2C000%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-1459143868%3Alp9043802%3Ali%3Adec%3Adm%3Bsid%3D616967b5907ba0ab48fa3326c554927f%3Bcheckin%3D2020-01-28%3Bcheckout%3D2020-01-29%3Bcity%3D-390625%3Bhighlighted_hotels%3D91861%3Bhlrd%3Dwith_av%3Bkeep_landing%3D1%3Bredirected%3D1%3Bsource%3Dhotel&amp;gclid=EAIaIQobChMI-rnWo6GV5wIVGeJ3Ch1ANAL4EAAYASAAEgLjNfD_BwE"><u>Vincci
+      Soho</u></a> (Good location and beautiful design</li><li><a
+      href="https://www.7islashotel.com/?gclid=EAIaIQobChMIpsiUs56V5wIVC-h3Ch1sbQA9EAAYAyAAEgLp3PD_BwE&amp;r=3906018"><u>7
+      Islas Hote</u></a>l (amazing design, beautiful hotel for special
+      occasions)</li></ul>
+  - banner_path: /uploads/alex-vasey-zy-w7kweyfe-unsplash.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: We Will Be Back Madrid!
+    body-content_html: >-
+      <p>Ideally, we&rsquo;d love to have had more than one day in Madrid, but
+      the time we had was enough for Jake to get a good taste for the city.
+      We&rsquo;ll definitely be back!</p><p>If you have any questions, drop us a
+      message in the comment section below. Or, if you&rsquo;ve been to Madrid
+      and have other recommendations for things to do in a 24-hour layover, let
+      us know!</p>
 show-gallery: true
 gallery:
   - image_path:
