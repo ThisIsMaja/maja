@@ -151,9 +151,9 @@ sections:
       August).</p><p>May to September is the best time to go on a safari as
       it&rsquo;s the dry season and there&rsquo;s little to no rain. June, July
       and August are the coldest months so pack
-      warmly!</p><h3>&nbsp;</h3><h3>&nbsp;</h3><h3>&nbsp;</h3><h3>Can You Do a
-      South African Safari On a Budget</h3><p>As a tourist, your money goes a
-      long way in South Africa. But unfortunately, a South African safari
+      warmly!</p><h3>&nbsp;</h3><h3>&nbsp;</h3><p>&nbsp;</p><p>&nbsp;</p><h3>&nbsp;</h3><h3>Can
+      You Do a South African Safari On a Budget</h3><p>As a tourist, your money
+      goes a long way in South Africa. But unfortunately, a South African safari
       holiday is not cheap. Because this is a once in a lifetime experience, we
       strongly recommend that you do it properly and stay in a game lodge for a
       few nights, and go on guided game drives through the Kruger National
