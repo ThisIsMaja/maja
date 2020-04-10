@@ -92,21 +92,22 @@ sections:
     main-paragraph-emphasis: Accommodation
     columns: false
     body-content_html: >-
-      <h3>Where To Stay On Your South Africa Safari Holiday</h3><ul><li>Mhondoro
-      Lodge</li></ul><p><a href="https://www.mhondoro.com/"><u>Mhondoro
-      Lodge</u></a> is a safari lover&rsquo;s dream. The lodge is situated in
-      Welgevonden Game Reserve, which is actually closer to Johannesburg than it
-      is to Kruger National Park.</p><p>The beautiful pool opens up to gorgeous
-      views of the park where animals are free to roam. We had elephants right
-      in front of us during our morning swim! It was quite intimidating having
-      these majestic creatures peacefully go about their day, oblivious to us
-      being there.</p><p>We went on several safaris from Mhondoro Lodge and saw
-      all of the big 5 including rhino, giraffe, buffalo, zebras, wildebeest,
-      leopards and elephants. Our highlight at Mhondoro was the amazing staff
-      including the chefs who prepared delicious food for us and our guide, Dan,
-      who was incredible.</p><p>After our visit to Mhondoro Lodge, we headed to
-      the Kruger National Park where we went glamping!</p><ul><li>Honeyguide
-      Mantobeni luxury tented camp</li></ul><p><a
+      <h3>Where To Stay On Your South Africa Safari
+      Holiday</h3><ul><li><h5>Mhondoro Lodge</h5></li></ul><p><a
+      href="https://www.mhondoro.com/"><u>Mhondoro Lodge</u></a> is a safari
+      lover&rsquo;s dream. The lodge is situated in Welgevonden Game Reserve,
+      which is actually closer to Johannesburg than it is to Kruger National
+      Park.</p><p>The beautiful pool opens up to gorgeous views of the park
+      where animals are free to roam. We had elephants right in front of us
+      during our morning swim! It was quite intimidating having these majestic
+      creatures peacefully go about their day, oblivious to us being
+      there.</p><p>We went on several safaris from Mhondoro Lodge and saw all of
+      the big 5 including rhino, giraffe, buffalo, zebras, wildebeest, leopards
+      and elephants. Our highlight at Mhondoro was the amazing staff including
+      the chefs who prepared delicious food for us and our guide, Dan, who was
+      incredible.</p><p>After our visit to Mhondoro Lodge, we headed to the
+      Kruger National Park where we went glamping!</p><ul><li><h5>Honeyguide
+      Mantobeni luxury tented camp</h5></li></ul><p><a
       href="https://honeyguidecamp.com/mantobeni-camp/"><u>Mantobeni</u></a><u>
       </u>is the ultimate glamping experience. It&rsquo;s inside the Kruger
       National Park with no fences and no barriers between us and the animals.
@@ -120,11 +121,11 @@ sections:
     main-paragraph-emphasis: Everything you need to know about Kruger National Park
     columns: false
     body-content_html: >-
-      <h3>Places to visit near the Kruger national park</h3><ul><li>Blyde River
-      Canyon</li></ul><p>The Blyde River Canyon is the 3rd largest canyon in the
-      world and it&rsquo;s absolutely gorgeous! Unfortunately, the weather
-      wasn&rsquo;t playing its part on the morning of our visit, but it&rsquo;s
-      still a great outing in include in your South Africa safari
+      <h3>Places to visit near the Kruger national park</h3><ul><li><h5>Blyde
+      River Canyon</h5></li></ul><p>The Blyde River Canyon is the 3rd largest
+      canyon in the world and it&rsquo;s absolutely gorgeous! Unfortunately, the
+      weather wasn&rsquo;t playing its part on the morning of our visit, but
+      it&rsquo;s still a great outing in include in your South Africa safari
       holiday.</p><p>There are a few different viewpoints and the lush greenery
       surrounding this canyon makes it truly unique.</p><h3>How To Get To Kruger
       National Park</h3><p>The closest international airport to Kruger National
