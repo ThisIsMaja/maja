@@ -203,14 +203,13 @@ sections:
       delicious vegan and vegetarian buffet for $12 all you can eat.
       They&rsquo;re only open during lunch time.</li><li>Beet Box
       Caf&eacute;</li><li>Mud Hen Water</li><li>Kahumana Organic Farm &amp;
-      Cafe</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><u>Where To
-      Stay</u></p><ul><li>Luxury:<a
+      Cafe</li></ul><p>&nbsp;</p><p><u>Where To Stay</u></p><ul><li>Luxury:<a
       href="https://www.alohilaniresort.com/special-offers/?gclid=CjwKCAjwldHsBRAoEiwAd0JybbQQ6uM5R45o04HkHyBPLszlNZgFjFj4JdHpjAtrFaTR7tHJJ_wpZRoCBEYQAvD_BwE">
       <u>Alohilani Resort</u></a> is situated in Waikiki Beach and you cannot go
       wrong with this location.</li><li>Budget: Island James Villa - This is an
       amazing family spot in Oahu. You can contact them directly through<a
       href="https://www.instagram.com/islandjamesvilla/">
-      <u>Instagram</u></a>.</li></ul>
+      <u>Instagram</u></a>.</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path: /uploads/kauai-street-view.jpg
     banner-caption:
     columns: false
