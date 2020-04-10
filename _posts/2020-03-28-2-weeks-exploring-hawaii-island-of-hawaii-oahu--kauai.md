@@ -115,15 +115,14 @@ sections:
   - banner_path: /uploads/hawaii-forest-road-1.jpg
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Where To Eat On The Island Of Hawaii
+    main-paragraph-emphasis: Food & Accommodation On The Island Of Hawaii
     body-content_html: >-
-      <p><u>Where To Eat On The Island Of Hawaii</u></p><p>We were so impressed
-      with all the vegan options available and highly recommend the below
-      restaurants on the Island of Hawaii.</p><ul><li>Sweet Potato
-      Kitchen</li><li>Pōmaikaʻi Cafe</li><li>Sweet Cane
-      Cafe</li><li>Vibe</li><li>Conscious Culture Cafe</li><li>Under the Bodhi
-      Tree</li></ul><p>&nbsp;</p><p><u>Where To Stay On The Island Of
-      Hawaii</u></p><ul><li>Luxury:<a
+      <p><u>Where To Eat</u></p><p>We were so impressed with all the vegan
+      options available and highly recommend the below restaurants on the Island
+      of Hawaii.</p><ul><li>Sweet Potato Kitchen</li><li>Pōmaikaʻi
+      Cafe</li><li>Sweet Cane Cafe</li><li>Vibe</li><li>Conscious Culture
+      Cafe</li><li>Under the Bodhi Tree</li></ul><p>&nbsp;</p><p><u>Where To
+      Stay</u></p><ul><li>Luxury:<a
       href="https://www.fairmont.com/orchid-hawaii/"> <u>Fairmont Orchid</u></a>
       - This luxurious resort is the perfect place to return to after a full day
       of exploring. They also have kayaks, SUP&rsquo;s and snorkeling equipment
@@ -137,6 +136,80 @@ sections:
       href="https://www.airbnb.com/rooms/871013?adults=2&amp;source_impression_id=p3_1568033759_t0qK0eXaA3v9LH5u&amp;toddlers=0">
       <u>this condo</u></a> are the perfect budget-friendly accommodation
       options on Big Island.</li></ul>
+  - banner_path: /images/hawaii/Hawaii 1-1-5.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: 'Island Two: Oahu'
+    body-content_html: >-
+      <p>After a few days exploring the Island of Hawaii, we were excited to
+      move on to Oahu.</p><p>Although it&rsquo;s a smaller island when compared
+      to the Island of Hawaii, Oahu has a lot of attractions and the beaches
+      here are some of the best in Hawaii.</p>
+  - banner_path: /uploads/oahu-road-to-the-mountains.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: Things To Do In Oahu
+    body-content_html: >-
+      <ul><li><u>Kualoa Ranch Private Nature Reserve</u></li></ul><p>This is the
+      day we were most excited for!<a href="https://www.kualoa.com/"> <u>Kualoa
+      Ranch</u></a><u> </u>is a 4 000 acre nature reserve located on the East
+      coast of Oahu.</p><p>Remember the movies Jurassic Park, Jumanji, Mighty
+      Joe Young, and Godzilla? And who can forget Lost or 50 First Dates! Well,
+      Kualoa Ranch is the filming location for all of these. How crazy is
+      that!</p><p>There are various tours starting from $40 per person, going up
+      to $150 depending on your preferences.</p><ul><li><u>Watch dolphins on a
+      boat tour</u></li></ul><p>The highlight of all our trips involves some
+      sort of adventure, and this was no different!</p><p>We headed West of Oahu
+      for a boat trip where we spent the morning watching dolphins and
+      free-diving.</p><p>This 4-hour boat tour with<a
+      href="https://sailhawaii.com/"> <u>Wild Side Speciality Tours</u></a><u>
+      </u>costs $175 per person which includes your snorkeling gear, lunch,
+      snacks, and water.</p><ul><li><u>Explore Haleiwa</u></li></ul><p>Haleiwa
+      is located on Oahu&rsquo;s north shore and is famous for its big waves and
+      great beaches.</p><p>This is where all the big surfing competitions take
+      place so if you&rsquo;re here at the right time, you might be able to
+      watch the pro&rsquo;s as they take on some of the biggest waves in the
+      world!</p><ul><li><u>Explore the streets of Kaka&rsquo;ako
+      District</u></li></ul><p>A street art community project was started by Pow
+      Wow Worldwide which showcases the talent of the community. Head to the
+      Kaka&rsquo;ako District to check it out!</p><p>It really is incredible to
+      see just how creative people are, and how we can express ourselves through
+      different forms of art.</p><ul><li><u>Swim with turtles</u></li></ul><p>We
+      can never get enough of turtles, so we headed to Laniakea Beach. There are
+      so many secret spots nearby where you&rsquo;ll have the beach to
+      yourself.</p><p>As Marie was gently floating in the water, a turtle
+      mistook her bright yellow bathing suit for algae and bit her. A moment we
+      won&rsquo;t forget too quickly!</p><ul><li><u>Go beaching at Waimea
+      Bay</u></li></ul><p>Waimea Bay is a beautiful beach on the north shore of
+      Oahu. It&rsquo;s a great place to go swimming, snorkeling, and surfing. We
+      even saw an eagle ray!</p><p>We met up with Nolan, a local photographer
+      who we&rsquo;ve been following for quite some time and it was great
+      getting the chance to meet him and create some awesome content
+      together.</p><ul><li><u>SUP Yoga</u></li></ul><p>Doing yoga is an integral
+      part of our daily routine and we were put to the test in Oahu when we did
+      yoga, on a stand-up paddleboard, in the middle of the ocean!</p><p>It was
+      a beautiful way to take in our first sunset on Oahu Island in
+      Hawaii.</p><p>Our session was lead by<a
+      href="https://www.yogafloats.com/"> <u>Yoga Floats</u></a> at Waikiki
+      Beach. It cost $40 per person for the</p><p>1.5-hour yoga class.</p>
+  - banner_path: /uploads/oahu-dron-shot.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: Food And Accommodation In Oahu
+    body-content_html: >-
+      <p><u>Where To Eat</u></p><p>As with the Island of Hawaii, Oahu has
+      endless options for vegans, and we loved the food
+      here.</p><ul><li>Govinda&rsquo;s Restaurant. This spot serves the most
+      delicious vegan and vegetarian buffet for $12 all you can eat.
+      They&rsquo;re only open during lunch time.</li><li>Beet Box
+      Caf&eacute;</li><li>Mud Hen Water</li><li>Kahumana Organic Farm &amp;
+      Cafe</li></ul><p>&nbsp;</p><p><u>Where To Stay</u></p><ul><li>Luxury:<a
+      href="https://www.alohilaniresort.com/special-offers/?gclid=CjwKCAjwldHsBRAoEiwAd0JybbQQ6uM5R45o04HkHyBPLszlNZgFjFj4JdHpjAtrFaTR7tHJJ_wpZRoCBEYQAvD_BwE">
+      <u>Alohilani Resort</u></a> is situated in Waikiki Beach and you cannot go
+      wrong with this location.</li><li>Budget: Island James Villa - This is an
+      amazing family spot in Oahu. You can contact them directly through<a
+      href="https://www.instagram.com/islandjamesvilla/">
+      <u>Instagram</u></a>.</li></ul>
 show-gallery: true
 gallery:
   - image_path:
