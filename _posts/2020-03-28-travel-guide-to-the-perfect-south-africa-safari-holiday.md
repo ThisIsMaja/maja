@@ -164,6 +164,44 @@ sections:
       gate. If you go this route, make sure you still do a proper jeep safari as
       the rangers know where the animals are and you&rsquo;ll see so much more
       wildlife this way.</p>
+  - banner_path: /images/south-africa/south-africa-safari4.jpg
+    banner-caption:
+    main-paragraph-emphasis: Visas & Safety
+    columns: false
+    body-content_html: >-
+      <h3>Planning Your South African Safari Holiday: South Africa
+      Visas</h3><p>Visa requirements for South Africa vary depending on where
+      you&rsquo;re from. Check out<a
+      href="http://www.dha.gov.za/index.php/immigration-services/exempt-countries">
+      <u>this site</u></a> for more info. Australian and German citizens
+      don&rsquo;t need a visa so we were both lucky enough to enter South Africa
+      with no hassles.</p><h3>Is South Africa Safe</h3><p>We get asked this all
+      the time and with all the crime happening in the world, it&rsquo;s good to
+      alert and ask questions about the countries you&rsquo;re
+      visiting.</p><p>We&rsquo;ve traveled to South Africa twice and have never
+      felt unsafe in the country. But there is crime, and you need to be
+      streetwise. We wouldn&rsquo;t recommend hitchhiking or going anywhere with
+      strangers. Research the areas you&rsquo;re staying in, and make sure you
+      pre-book accommodation. Don&rsquo;t walk alone at night and keep your
+      valuables safely in your bag.</p><p>Even the locals are wary of their
+      surroundings, so make sure you are too.</p>
+  - banner_path: /images/south-africa/south-africa-safari5.jpg
+    banner-caption:
+    main-paragraph-emphasis: Safari Travel Tips
+    columns: false
+    body-content_html: >-
+      <ul><li>The best time to do a safari is either early morning or before
+      sunset as the animals take shelter when it heats up during the
+      day.</li><li>Make sure you&rsquo;re properly covered when doing any
+      outdoor activities and sleep under a mosquito net. Jake and Elliot got
+      tick bite fever as a result of being bitten by a tick! These symptoms
+      include headaches and high fever but are easily treated with
+      antibiotics.</li><li>Pack a hat, sunglasses, and sunblock - even during
+      winter.</li><li>Bring a camera with a good lens. The animal sightings are
+      incredible!</li><li>Be safe whilst driving through the parks! Do not get
+      out of the vehicle unless your guide says you can. And if you&rsquo;re
+      doing a self-drive safari, make sure your windows are closed when the
+      animals are near.</li></ul>
 show-gallery: true
 gallery-text: >-
   Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
