@@ -191,7 +191,7 @@ sections:
       a beautiful way to take in our first sunset on Oahu Island in
       Hawaii.</p><p>Our session was lead by<a
       href="https://www.yogafloats.com/"> <u>Yoga Floats</u></a> at Waikiki
-      Beach. It cost $40 per person for the</p><p>1.5-hour yoga class.</p>
+      Beach. It cost $40 per person for the 1.5-hour yoga class.</p>
   - banner_path: /uploads/oahu-dron-shot.jpg
     banner-caption:
     columns: true
@@ -232,7 +232,8 @@ sections:
     main-paragraph-emphasis: Food And Accommodation in Kauai
     body-content_html: >-
       <p><u>Where To Eat</u></p><ul><li>Papayas natural foods</li><li>Java Kai
-      Kauai</li></ul><p>&nbsp;</p><p><u>Where To Stay</u></p><ul><li><a
+      Kauai</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><u>Where To
+      Stay</u></p><ul><li><a
       href="https://www.booking.com/searchresults.en-gb.html?aid=311984%3Blabel%3Dplantation-hale-suites-tkG0r5DaGNCNgpfXy8ayvQS162176855714%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atiaud-285284110726%3Akwd-287175170%3Alp1028684%3Ali%3Adec%3Adm%3Bsid%3D5749569209fd8fc978a9f9ab489366fe%3Bcity%3D20030979%3Bexpand_sb%3D1%3Bhighlighted_hotels%3D279993%3Bhlrd%3Dno_dates%3Bkeep_landing%3D1%3Bredirected%3D1%3Bsource%3Dhotel&amp;gclid=CjwKCAjwldHsBRAoEiwAd0JybeK-7fjkTfccZaXZHuTqrd-dOAe4dP2pGVPgERo9TGV5e2S5sY0tohoC-AUQAvD_BwE"><u>Plantation
       Hale Suites:</u></a><u> </u>We stayed here for 3 nights and paid $450 in
       total. It&rsquo;s a great price considering how expensive some of the
