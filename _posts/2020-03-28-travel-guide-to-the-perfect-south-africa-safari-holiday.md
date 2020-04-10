@@ -117,7 +117,7 @@ sections:
       our tent unable to leave as it was surrounded by elephants!</p><p>We went
       on daily safaris from Mantobeni and saw the Big 5 and so many other
       animals.&nbsp;</p>
-  - banner_path: /images/south-africa/south-africa-safari3.jpg
+  - banner_path: /images/south-africa/south-africa-safari2.jpg
     banner-caption:
     main-paragraph-emphasis: wild life surprises you when you least expect it
     columns: false
