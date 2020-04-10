@@ -6,6 +6,8 @@ meta-keywords:
 featured-image_path:
 banner-1_path: /images/banners/give-cafe2-before.jpg
 banner-position: 60% 30%;
+banner-2_path: /images/banners/give-cafe2-before.jpg
+banner-position: 50% 50%;
 ig-images:
   - /images/greece/mariefeandjakesnow-greece14.jpg
   - /images/greece/mariefeandjakesnow-greece14.jpg
@@ -33,8 +35,8 @@ ig-images:
   <h2 class="text-animation">
     <a class="emphasis" href="/travel" data-aos="fade" data-aos-offset="100"><span> Travel </span></a>
     <a class="emphasis" href="/lifestyle" data-aos="fade" data-aos-offset="150" data-aos-delay="100"><span> Lifestyle </span></a>
-    <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="200" data-aos-delay="150"><span> Wellbeing </span></a>
-    <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="250" data-aos-delay="200"><span> Musings </span></a>
+    <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="180" data-aos-delay="150"><span> Wellbeing </span></a>
+    <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="200" data-aos-delay="200"><span> Musings </span></a>
   </h2>
 </section>
 
@@ -45,14 +47,18 @@ ig-images:
     {% for post in site.posts limit:6 %}
 
     <div>
-      <div class="banner grid padded-5vw centered" style="background-image:url({{post.banner-1_path}})">
-        <div class="overlay"></div>
-        <div class="col-12-bottom banner-inner">
-
-          <h2> <span> {{post.title}} </span> </h2>
-          <a href="{{post.url}}" class="button inverted"> READ STORY </a>
-
-        </div>
+      <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
+        <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
+          <div class="col-6 left mob-hide">
+            <span class="author"> {{post.author}} </span> | <span class="category"> {{post.categories[0]}} </span>
+          </div>
+          <div class="col-6 right mob-hide">
+              {% include squiggle.html %}
+          </div>
+          <div class="col-12 centered">
+            <h2> {{post.title}} </h2>
+           </div>
+        </a>
     </div>
 
     </div>
@@ -63,19 +69,38 @@ ig-images:
 
 </section>
 
-<section class="padded grid capped-width">
-  <div class="col-5_sm-12-middle editable ">
-    <img src="/images/marie-jake/Website 2-23.jpg" class="editable"></img>
+<section class="padded grid-spaceAround">
+  <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-left">
+    <h2> <a href="/about"> about  </a></h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
   </div>
-  <div class="col-7_sm-12-middle editable padded" data-aos="fade-left">
-    <h2> Marie Fe & Jake Snow </h2>
-    {% include squiggle.html %}
-    <p> Over the years we have learnt many lessons about life, love, travel, health and we’ve grown a lot because of these lessons. We’ve travelled the world and seen the most beautiful places, met the happiest people and discovered new ways of living that we didn’t know existed. Because of all this we’ve been able to collect the tools we needed to design a dream lifestyle for ourselves. </p>
-    <a href="/about" class="button"> Our Story </a>
+  <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-right">
+    <h2><a href="/about#must-haves">  our must haves  </a></h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
   </div>
 </section>
 
-<section class="padded grid capped-width mob-flex-flip">
+<!--  Banner 2  -->
+<section class="banner" style="background-image:url({{page.banner-2_path}}); background-position: {{page.banner-2-position}};">
+
+</section>
+
+<section class="padded grid-center" data-aos="fade">
+  <div class="col-2_sm-1 right padded-1">
+    <span class="quote-icon"> “ </span>
+  </div>
+  <div class="col-4_md-6_sm-9 padded-1">
+    <p class="quote-text"> I never thought I would ever be the knd of person to admin that I am struggling and actively ask for help. </p>
+  </div>
+  <div class="col-2_sm-1 left padded-1">
+    <span class="quote-icon"> ” </span>
+  </div>
+  <div class="col-6_md-8_sm-12 right padded-1">
+    <img src="/images/logo/signoff.png" class="signoff">
+  </div>
+</section>
+
+<!-- <section class="padded grid capped-width mob-flex-flip">
   <div class="col-7_sm-12-middle editable padded right" data-aos="fade-right">
     <h2> How to build a life you love</h2>
     {% include squiggle.html %}
@@ -85,21 +110,23 @@ ig-images:
   <div class="col-5_sm-12-middle editable ">
     <img src="/images/marie-jake/Website 2-23.jpg" class="editable"></img>
   </div>
-</section>
+</section> -->
 
 
-<section class="grid ig-banner dark-bg">
+
+
+<section class="grid ig-banner light-bg">
   <div class="col-4_sm-12 grid">
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[0]}}')"></div>
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[1]}}')"></div>
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[2]}}')"></div>
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[3]}}')"></div>
   </div>
-  <div class="col-4_sm-12-middle centered padded light-text">
-      <a class="subtle-heading" href="http://www.instagram.com/mariefeandjakesnow"> @Mariefeandjakesnow </a>
+  <div class="col-4_sm-12-middle centered padded">
     <h2 class="margin-top-1 text-animation" data-aos="fade" data-aos-offset="0">
-      <a class="emphasis" href="http://www.instagram.com/mariefeandjakesnow"> <span> Follow Us </span> </a>
-  </h2>
+      <a class="emphasis" href="http://www.instagram.com/mariefeandjakesnow"> <span> follow us </span> </a>
+    </h2>
+      <a class="subtle-heading" href="http://www.instagram.com/mariefeandjakesnow"> @Mariefeandjakesnow </a>
   </div>
   <div class="col-4_sm-12 grid">
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[4]}}')"></div>
