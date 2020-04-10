@@ -119,26 +119,27 @@ sections:
       animals.&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari3.jpg
     banner-caption:
-    main-paragraph-emphasis: Everything you need to know about Kruger National Park
+    main-paragraph-emphasis:
     columns: false
     body-content_html: >-
-      <h3>Places to visit near the Kruger national park</h3><ul><li><h5>Blyde
-      River Canyon</h5></li></ul><p>The Blyde River Canyon is the 3rd largest
-      canyon in the world and it&rsquo;s absolutely gorgeous! Unfortunately, the
-      weather wasn&rsquo;t playing its part on the morning of our visit, but
-      it&rsquo;s still a great outing in include in your South Africa safari
-      holiday.</p><p>There are a few different viewpoints and the lush greenery
-      surrounding this canyon makes it truly unique.</p><h3>How To Get To Kruger
-      National Park</h3><p>The closest international airport to Kruger National
-      Park is OR Tambo International Airport in Johannesburg.</p><p>From here,
-      you can either drive or fly to Kruger which is over 500km
-      away.</p><ul><li>Drive: The drive from Johannesburg to Kruger is a long
-      one, but the roads are in good condition and it's a beautiful, scenic
-      5-hour drive.</li><li>Fly: Kruger International Airport is located just
-      outside Nelspruit in the province of Mpumalanga. The flight from
-      Johannesburg is only 50 minutes but you&rsquo;ll need to drive another
-      hour or so to reach your destination. This flight can be expensive so we
-      recommend renting a car and driving instead.</li></ul>
+      <h3>Places to visit near the Kruger national
+      park</h3><p>&nbsp;</p><ul><li><h4>Blyde River Canyon</h4></li></ul><p>The
+      Blyde River Canyon is the 3rd largest canyon in the world and it&rsquo;s
+      absolutely gorgeous! Unfortunately, the weather wasn&rsquo;t playing its
+      part on the morning of our visit, but it&rsquo;s still a great outing in
+      include in your South Africa safari holiday.</p><p>There are a few
+      different viewpoints and the lush greenery surrounding this canyon makes
+      it truly unique.</p><h3>How To Get To Kruger National
+      Park</h3><p>&nbsp;</p><p>The closest international airport to Kruger
+      National Park is OR Tambo International Airport in
+      Johannesburg.</p><p>From here, you can either drive or fly to Kruger which
+      is over 500km away.</p><ul><li>Drive: The drive from Johannesburg to
+      Kruger is a long one, but the roads are in good condition and it's a
+      beautiful, scenic 5-hour drive.</li><li>Fly: Kruger International Airport
+      is located just outside Nelspruit in the province of Mpumalanga. The
+      flight from Johannesburg is only 50 minutes but you&rsquo;ll need to drive
+      another hour or so to reach your destination. This flight can be expensive
+      so we recommend renting a car and driving instead.</li></ul>
 show-gallery: true
 gallery-text: >-
   Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
