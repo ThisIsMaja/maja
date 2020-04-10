@@ -112,6 +112,31 @@ sections:
       Hawaii.</p><p>It&rsquo;s located east of the island, close to Hilo. The
       waterfall is a short walk from the parking lot and entrance is $5 per
       car.</p>
+  - banner_path: /uploads/hawaii-forest-road.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: Where To Eat On The Island Of Hawaii
+    body-content_html: >-
+      <p><u>Where To Eat On The Island Of Hawaii</u></p><p>We were so impressed
+      with all the vegan options available and highly recommend the below
+      restaurants on the Island of Hawaii.</p><ul><li>Sweet Potato
+      Kitchen</li><li>Pōmaikaʻi Cafe</li><li>Sweet Cane
+      Cafe</li><li>Vibe</li><li>Conscious Culture Cafe</li><li>Under the Bodhi
+      Tree</li></ul><p>&nbsp;</p><p><u>Where To Stay On The Island Of
+      Hawaii</u></p><ul><li>Luxury:<a
+      href="https://www.fairmont.com/orchid-hawaii/"> <u>Fairmont Orchid</u></a>
+      - This luxurious resort is the perfect place to return to after a full day
+      of exploring. They also have kayaks, SUP&rsquo;s and snorkeling equipment
+      which you can use and there are turtles right on the beach in front of the
+      hotel.</li><li>Budget: We love staying in self-catering apartments when
+      we&rsquo;re traveling. Not only are they cheaper than hotels, but you can
+      also prepare your own meals so you save costs by not eating out. Places
+      like<a
+      href="https://www.booking.com/hotel/us/knigge-farms.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaPsBiAEBmAEJuAEXyAEP2AEB6AEB-AELiAIBqAIDuAKnmNnrBcACAQ;sid=5749569209fd8fc978a9f9ab489366fe;all_sr_blocks=250036601_147135960_2_0_0;checkin=2020-06-18;checkout=2020-06-19;dest_id=20030951;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=5;highlighted_blocks=250036601_147135960_2_0_0;hpos=5;nflt=pri%3D2%3Bpri%3D3%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1568034050;srpvid=44e75b804f8801fd;type=total;ucfs=1&amp;#hotelTmpl">
+      <u>Knigge Farms</u></a><u> </u>and<a
+      href="https://www.airbnb.com/rooms/871013?adults=2&amp;source_impression_id=p3_1568033759_t0qK0eXaA3v9LH5u&amp;toddlers=0">
+      <u>this condo</u></a> are the perfect budget-friendly accommodation
+      options on Big Island.</li></ul>
 show-gallery: true
 gallery:
   - image_path:
