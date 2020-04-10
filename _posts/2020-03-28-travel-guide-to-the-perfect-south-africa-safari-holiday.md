@@ -119,7 +119,7 @@ sections:
       animals.&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari3.jpg
     banner-caption:
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: wild life surprises you when you least expect it
     columns: false
     body-content_html: >-
       <h3>Places to visit near the Kruger national
@@ -140,6 +140,30 @@ sections:
       flight from Johannesburg is only 50 minutes but you&rsquo;ll need to drive
       another hour or so to reach your destination. This flight can be expensive
       so we recommend renting a car and driving instead.</li></ul>
+  - banner_path: /images/south-africa/south-africa-couple1.jpg
+    banner-caption:
+    main-paragraph-emphasis: Time & Money
+    columns: true
+    body-content_html: >-
+      <h3>When Is The Best Time To Go On Your South Africa Safari
+      Holiday</h3><p>The provinces of Mpumalanga and Limpopo in South Africa
+      experience hot summers (December - March) and dry winters (June -
+      August).</p><p>May to September is the best time to go on a safari as
+      it&rsquo;s the dry season and there&rsquo;s little to no rain. June, July
+      and August are the coldest months so pack
+      warmly!</p><h3>&nbsp;</h3><h3>&nbsp;</h3><h3>&nbsp;</h3><h3>Can You Do a
+      South African Safari On a Budget</h3><p>As a tourist, your money goes a
+      long way in South Africa. But unfortunately, a South African safari
+      holiday is not cheap. Because this is a once in a lifetime experience, we
+      strongly recommend that you do it properly and stay in a game lodge for a
+      few nights, and go on guided game drives through the Kruger National
+      Park.</p><p>To keep costs down, you can stay on the outskirts of Kruger
+      National Park as there are more affordable accommodation options available
+      here. You can also do self-drives within the Kruger.&nbsp;</p><p>All you
+      need is a car to drive around and a map, which you can get from the Kruger
+      gate. If you go this route, make sure you still do a proper jeep safari as
+      the rangers know where the animals are and you&rsquo;ll see so much more
+      wildlife this way.</p>
 show-gallery: true
 gallery-text: >-
   Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
