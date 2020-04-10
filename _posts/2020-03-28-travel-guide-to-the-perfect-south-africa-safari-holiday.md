@@ -49,7 +49,7 @@ sections:
       South Africa&rsquo;s wildlife. We are extremely confident these guys will
       design a trip for you that you will never forget. They will work with any
       budget. Just reach out to them and they will take care of the
-      rest!</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h2>Why
+      rest!</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h2>Why
       Kruger National Park</h2><p>The Kruger National Park has become a
       household name for animal enthusiasts and wildlife photographers. The park
       spans over an area of 19 400 km2 - which is pretty
