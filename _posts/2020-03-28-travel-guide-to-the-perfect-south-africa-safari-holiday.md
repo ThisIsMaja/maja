@@ -202,6 +202,57 @@ sections:
       out of the vehicle unless your guide says you can. And if you&rsquo;re
       doing a self-drive safari, make sure your windows are closed when the
       animals are near.</li></ul>
+  - banner_path:
+    banner-caption:
+    main-paragraph-emphasis: Our South African Rhino Project
+    columns: false
+    body-content_html: >-
+      <p>We spent months working on this project together with EverSeenSA and
+      Omaze, who coordinated our travel and ensured that the projected was
+      executed to its full potential.</p><p>Our aim for our trip to South Africa
+      was to highlight and bring awareness to the rhino poaching crisis which
+      has been on the rise for over a decade.</p><p>Yes, these beautiful animals
+      are on the verge of extinction if we don&rsquo;t do something now! In 2018
+      alone, over 750 rhinos were poached and killed for their horns, the
+      majority of these killings taking place in the Kruger National Park.
+      That's over 2 rhinos killed every single day.</p><p>These poor animals are
+      killed for their horns which are sold on the black market. Some believe
+      that owning a rhino horn is a symbol of wealth yet others think these
+      horns have medicinal properties and can be an aphrodisiac. Just to make it
+      clear - this is not true. Rhinos deserve to be left in the wild and not
+      hunted for personal pleasure. We need you to help us in the fight against
+      poaching.</p><p>&nbsp;</p><h3>Why We Need Your
+      Help</h3><p>&nbsp;</p><p>International poaching gangs are equipped with
+      expensive equipment and tracking devices to hunt these animals for their
+      horns. There is a strong fight against rhino poaching, with people risking
+      their lives every single day to protect them. We actually joined these
+      heroes during our visit to Care For Wild, and it was terrifying!</p><p>All
+      of this comes at a cost and not for profit organizations rely on funding
+      and donations to continue their great work. This is where you come
+      in!</p><p>We&rsquo;ve partnered with Care for Wild and Good Work
+      Foundation in an effort to support and raise awareness against rhino
+      poaching as well as to help empower and educate the children in the rural
+      communities of South Africa. All you have to do is click on<a
+      href="https://www.omaze.com/products/south-african-glamping-safari">
+      <u>this link,</u></a> donate to the below charities and you could win an
+      all-expenses-paid trip to South Africa, where you&rsquo;ll stay with us at
+      Mhondoro Lodge and Mantobeni Safari Camp.</p><h4>Care For Wild Rhino
+      Sanctuary In Hoedspruit</h4><p><a
+      href="https://www.careforwild.co.za/"><u>Care For Wild</u></a> is the
+      biggest rhino sanctuary in the world. This organization does an incredible
+      job of rescuing animals and rehabilitating them so that they&rsquo;re able
+      to return to their natural environment. The staff is extremely passionate
+      about what they do and they have dedicated their lives to helping these
+      animals. They are a true inspiration to us.</p><h4>Good Work
+      Foundation</h4><p><a href="https://www.goodworkfoundation.org/"><u>The
+      Good Work Foundation</u></a> aims to educate children in rural
+      communities. They do this with the help of dedicated facilitators who use
+      technology and various interactive exercises to teach and help
+      underprivileged children. We spent a day with the kids, dancing, singing
+      and learning with them. The positive energy was contagious!</p><p>So, by
+      entering you will not only be contributing to a great cause, but you will
+      also have a once in a lifetime experience exploring South Africa with
+      us!</p>
 show-gallery: true
 gallery-text: >-
   Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
