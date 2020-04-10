@@ -72,7 +72,7 @@ sections:
       parks!</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari1.jpg
     banner-caption:
-    main-paragraph-emphasis: The Only Good Cage Is An Empty Cage
+    main-paragraph-emphasis: the only good cage is an empty cage
     columns: false
     body-content_html: >-
       <h3>Smaller game reserves near Kruger National Park</h3><p>There are other
