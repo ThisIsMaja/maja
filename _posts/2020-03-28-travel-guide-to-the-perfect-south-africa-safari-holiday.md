@@ -50,20 +50,20 @@ sections:
       design a trip for you that you will never forget. They will work with any
       budget. Just reach out to them and they will take care of the
       rest!</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h2>Why
-      Kruger National Park</h2><p>&nbsp;</p><p>&nbsp;</p><p>The Kruger National
-      Park has become a household name for animal enthusiasts and wildlife
-      photographers. The park spans over an area of 19 400 km2 - which is pretty
-      big!</p><p>Animals have free range to roam this area without being
-      enclosed in cages. This also makes visiting Kruger National Park quite
-      dangerous as you are in their territory and you need to respect the
-      animals and their space. Throughout our time exploring the Kruger, we were
-      constantly on edge, wondering when the next beautiful creature would
-      appear and how they&rsquo;d react to us being there.</p><p>To date, this
-      is one of the most incredible things we&rsquo;ve ever experienced and
-      we&rsquo;re so excited to be able to share this opportunity with our
-      followers.</p><p>For our safari we wanted to make sure everything was
-      vegan so we decided to go with a small business run by a beautiful couple.
-      It is called&nbsp;<a target="_blank"
+      Kruger National Park</h2><p>The Kruger National Park has become a
+      household name for animal enthusiasts and wildlife photographers. The park
+      spans over an area of 19 400 km2 - which is pretty
+      big!</p><p>&nbsp;</p><p>&nbsp;</p><p>Animals have free range to roam this
+      area without being enclosed in cages. This also makes visiting Kruger
+      National Park quite dangerous as you are in their territory and you need
+      to respect the animals and their space. Throughout our time exploring the
+      Kruger, we were constantly on edge, wondering when the next beautiful
+      creature would appear and how they&rsquo;d react to us being
+      there.</p><p>To date, this is one of the most incredible things
+      we&rsquo;ve ever experienced and we&rsquo;re so excited to be able to
+      share this opportunity with our followers.</p><p>For our safari we wanted
+      to make sure everything was vegan so we decided to go with a small
+      business run by a beautiful couple. It is called&nbsp;<a target="_blank"
       href="https://www.selleysafaris.com/">Selley Safaris,</a>&nbsp;they
       provide the best vegan BBQ&rsquo;s and snacks and the guide is highly
       skilled and knowledgeable.</p><p>There are other private game reserves
