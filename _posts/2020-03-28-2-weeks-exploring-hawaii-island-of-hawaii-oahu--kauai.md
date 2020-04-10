@@ -239,6 +239,47 @@ sections:
       Hale Suites:</u></a><u> </u>We stayed here for 3 nights and paid $450 in
       total. It&rsquo;s a great price considering how expensive some of the
       other accommodation options in Hawaii can be.</li></ul>
+  - banner_path: /uploads/hwaii-turtle.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: How To Get To Hawaii And Best Time To Visit It
+    body-content_html: >-
+      <p><u>How To Get To Hawaii</u></p><p>Most international flights to Hawaii
+      arrive at Oahu. To get to the Island of Hawaii and Kauai, you&rsquo;ll
+      need to catch a domestic flight from Oahu. Both islands are about 40
+      minutes away and a return flight will cost about $145.</p><p><u>How To Get
+      Around The Islands</u></p><p>The Hawaiian Islands are best explored by
+      car.</p><p>Renting a vehicle for the duration of your stay will allow you
+      to have the flexibility to move around as and when you please. You can
+      also explore the islands and enjoy the quiet and hidden parts that not
+      many people get to see.</p><p>We paid $120 for a 3-day rental which
+      included insurance.</p><p><u>The Best Time To Visit
+      Hawaii</u></p><p>Hawaii is top of most traveler&rsquo;s bucket lists and
+      so the best time to visit is between September and November when
+      it&rsquo;s not so busy.</p><p>Peak season is December to March, and
+      you&rsquo;ll find that everything will cost a bit more during this
+      time.</p>
+  - banner_path: /uploads/hawaii-wave.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: Hawaii Budget
+    body-content_html: >-
+      <p>Unfortunately, Hawaii is one of the more expensive destinations
+      we&rsquo;ve visited, but if you plan your trip in advance, you can save
+      quite a bit of money.</p><p>A bottle of water costs between $1-4 and a
+      simple lunch at a local cafe will set you back $12-$30 per person. If
+      you&rsquo;re looking to go on a dinner date with your partner, expect to
+      pay $20-$40 per person. This excludes the 15-20% tip that is
+      expected.</p><p>If you&rsquo;re traveling on a budget, it&rsquo;s best to
+      stay in a self-catering apartment where you can cook your own meals as all
+      of those costs add up. We paid $29 for snacks and groceries for 3 people
+      to make dinner at our apartment and we highly recommend that you look at
+      doing the same.</p><p>Bali and Sri Lanka are far more affordable travel
+      destinations. But the Hawaiian Islands are unlike any place we&rsquo;ve
+      explored before.</p><p>Our trip to the Island of Hawaii and Oahu was
+      organized in collaboration with @gohawaiiuk to raise awareness for
+      sustainable tourism. Thank you for having us on your beautiful islands and
+      we can&rsquo;t wait to return!</p>
 show-gallery: true
 gallery:
   - image_path:
