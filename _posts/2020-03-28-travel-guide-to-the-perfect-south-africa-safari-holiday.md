@@ -33,7 +33,7 @@ sections:
     main-paragraph-emphasis: >-
       we were constantly on edge, wondering when the next beautiful creature
       would appear
-    columns: false
+    columns: true
     body-content_html: >-
       <h2>Where should you go for your South Africa safari holiday</h2><p>You
       are spoilt for choice when it comes to game parks in South Africa. All of
