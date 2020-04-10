@@ -112,7 +112,7 @@ sections:
       Hawaii.</p><p>It&rsquo;s located east of the island, close to Hilo. The
       waterfall is a short walk from the parking lot and entrance is $5 per
       car.</p>
-  - banner_path: /uploads/hawaii-forest-road.jpg
+  - banner_path: /uploads/hawaii-forest-road-1.jpg
     banner-caption:
     columns: true
     main-paragraph-emphasis: Where To Eat On The Island Of Hawaii
