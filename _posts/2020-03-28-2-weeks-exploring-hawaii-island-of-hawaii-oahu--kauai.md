@@ -194,7 +194,7 @@ sections:
       Beach. It cost $40 per person for the</p><p>1.5-hour yoga class.</p>
   - banner_path: /uploads/oahu-dron-shot.jpg
     banner-caption:
-    columns: false
+    columns: true
     main-paragraph-emphasis: Food And Accommodation In Oahu
     body-content_html: >-
       <p><u>Where To Eat</u></p><p>As with the Island of Hawaii, Oahu has
@@ -210,6 +210,33 @@ sections:
       amazing family spot in Oahu. You can contact them directly through<a
       href="https://www.instagram.com/islandjamesvilla/">
       <u>Instagram</u></a>.</li></ul>
+  - banner_path: /uploads/kauai-street-view.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: 'Island Three: Kauai'
+    body-content_html: >-
+      <p>Kauai was the last stop on our Hawaii itinerary. We were welcomed to
+      the island with a morning shower but that didn&rsquo;t stop us from
+      getting out and exploring!</p><p>Kauai is often overlooked by tourists who
+      have limited time and choose to visit other islands, such as the Island of
+      Hawaii and Oahu instead. But the secret is out: Kauai is our favorite
+      place in Hawaii!</p>
+  - banner_path: /uploads/kauai-basketball-court.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: Things To Do In Kauai
+    body-content_html: "<ul><li><u>Boat trip to the Napali Coast</u></li></ul><p>Words can&rsquo;t describe just how incredible the lush green forests, towering mountains, and out-of-this-world scenery are that make up the Napali Coast on Kauai Island.</p><p>It&rsquo;s located on the northwest of Kauai and the best way to experience this gorgeous coastline is with a boat cruise. We explored caves, saw countless dolphins and several giant turtles.</p><p>For $130 per person, you&rsquo;ll get 6 hours on the ocean including food, refreshments and snorkeling gear. We highly recommend<a href=\"https://kauaiseatours.com/\"> <u>Kauai Sea Tours</u></a><u> </u>for this.\uFEFF</p><ul><li><u>Take a dive into Wailua Falls</u></li></ul><p>Wailua Falls is a 50m high waterfall on the east of Kauai. There&rsquo;s a stunning viewpoint at the top with gorgeous views of the entire waterfall. It&rsquo;s not crowded and is a must-visit spot in Kauai.</p><p>You can walk down the trail and reach the pool at the bottom of the falls, but this can be extremely dangerous so be extra careful.</p><ul><li><u>Take a drive to Hanalei Bay</u></li></ul><p>Hanalei Bay is the biggest bay on the north of Kauai Island. The beaches here are beautiful and it&rsquo;s worth stopping by and exploring the town.</p><ul><li><u>Visit Turtle Cove</u></li></ul><p>You&rsquo;re almost guaranteed to see turtles at Turtle Cove! This was such a fun experience for us because not only are there turtles in the water, but you also get to swim in a cave.</p><ul><li><u>Explore Queens Bath</u></li></ul><p>Queens Bath is a tidal pool north of Kauai that has been separated from the sea by lava rock! It made for a great trip and is a must-do on Kauai Island.</p>"
+  - banner_path: /uploads/kauai-drone-shot.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: Food And Accommodation in Kauai
+    body-content_html: >-
+      <p><u>Where To Eat</u></p><ul><li>Papayas natural foods</li><li>Java Kai
+      Kauai</li></ul><p>&nbsp;</p><p><u>Where To Stay</u></p><ul><li><a
+      href="https://www.booking.com/searchresults.en-gb.html?aid=311984%3Blabel%3Dplantation-hale-suites-tkG0r5DaGNCNgpfXy8ayvQS162176855714%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atiaud-285284110726%3Akwd-287175170%3Alp1028684%3Ali%3Adec%3Adm%3Bsid%3D5749569209fd8fc978a9f9ab489366fe%3Bcity%3D20030979%3Bexpand_sb%3D1%3Bhighlighted_hotels%3D279993%3Bhlrd%3Dno_dates%3Bkeep_landing%3D1%3Bredirected%3D1%3Bsource%3Dhotel&amp;gclid=CjwKCAjwldHsBRAoEiwAd0JybeK-7fjkTfccZaXZHuTqrd-dOAe4dP2pGVPgERo9TGV5e2S5sY0tohoC-AUQAvD_BwE"><u>Plantation
+      Hale Suites:</u></a><u> </u>We stayed here for 3 nights and paid $450 in
+      total. It&rsquo;s a great price considering how expensive some of the
+      other accommodation options in Hawaii can be.</li></ul>
 show-gallery: true
 gallery:
   - image_path:
