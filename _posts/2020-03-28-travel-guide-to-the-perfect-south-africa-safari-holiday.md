@@ -93,7 +93,8 @@ sections:
     columns: false
     body-content_html: >-
       <h3>Where To Stay On Your South Africa Safari
-      Holiday</h3><ul><li><p><strong>Mhondoro Lodge</strong></p></li></ul><p><a
+      Holiday</h3><p>&nbsp;</p><ul><li><p><strong>Mhondoro
+      Lodge</strong></p></li></ul><p><a
       href="https://www.mhondoro.com/"><u>Mhondoro Lodge</u></a> is a safari
       lover&rsquo;s dream. The lodge is situated in Welgevonden Game Reserve,
       which is actually closer to Johannesburg than it is to Kruger National
@@ -107,8 +108,8 @@ sections:
       the chefs who prepared delicious food for us and our guide, Dan, who was
       incredible.</p><p>After our visit to Mhondoro Lodge, we headed to the
       Kruger National Park where we went
-      glamping!</p><ul><li><p><strong>Honeyguide Mantobeni luxury tented
-      camp</strong></p></li></ul><p><a
+      glamping!</p><p>&nbsp;</p><ul><li><p><strong>Honeyguide Mantobeni luxury
+      tented camp</strong></p></li></ul><p><a
       href="https://honeyguidecamp.com/mantobeni-camp/"><u>Mantobeni</u></a><u>
       </u>is the ultimate glamping experience. It&rsquo;s inside the Kruger
       National Park with no fences and no barriers between us and the animals.
