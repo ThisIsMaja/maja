@@ -84,6 +84,99 @@ sections:
       my sleep, I will keep you updated on the results).</p><p>So, after a
       successful evening routine and a good night sleep, this is how my morning
       routine start after waking up.</p>
+  - banner_path: /images/office/home-office4.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: I found a way to make the journal process easier for me
+    body-content_html: >-
+      <p><strong>3. morning journaling</strong></p><p>I have never been a big
+      journal person. I couldn&rsquo;t get myself to write down a lot of things
+      or even describe my thoughts and feelings in a journal.</p><p>But last
+      year, I started to understand how important it is to have control over
+      your thoughts. After reading countless books and listening to several
+      podcasts about how to be happy and successful, I found that the common
+      denominator is to have a basic ritual. And one of those rituals to add to
+      your routine is to journal.&nbsp;</p><p>Only a few weeks ago, I found a
+      way to make the journal process easier for me.</p><p>I am using my <a
+      href="https://www.intelligentchange.com/?rfsn=3332515.84c023"><strong>Five
+      Minute Journal</strong></a> now that my life coach recommended to me, and
+      it truly helps me to set my intentions for the day and raise my
+      happiness-level by appreciating all that I have in my life.&nbsp;</p><p>I
+      really like that its quick and easy to fill out and I am already starting
+      to feel happier when I open it and start noting down a few things that
+      immediately come to my mind.&nbsp;</p><p>The way it&rsquo;s designed is
+      that you use it twice per day, early in the morning and before going to
+      bed at night.</p><p>From the first page, there are inspirational &amp;
+      motivational quotes that set the tone for you to start sharing your
+      thoughts. It allows you to reflect on the previous day, and make goals for
+      the next 24 hours.</p><p>I then journal down what I am looking forward to
+      and affirm that I believe in myself. Affirmations are a tool that can help
+      you shift your mindset from sadness to positivity and gratitude. When we
+      believe in ourselves, anything is possible for us.</p><p>At night, I like
+      writing down (in a few words) what was outstanding for me and what I could
+      have done differently so I can make sure to improve the next day and try
+      again.</p><p>Completing the days tasks leaves me feeling accomplished,
+      empowered and motivated to keep following my dreams. You can even use the
+      5 minute journal on your phone, by downloading the app &ldquo;Five minute
+      Journal&rdquo;.</p><p><strong>4. get-to-dos and efficiency/
+      productivity&nbsp;</strong></p><p>In our relationship, I am the one who
+      needs structure when it comes to our work. It calms me down to know what
+      my day will look like.</p><p>Jake never needed that, he has always been a
+      free, creative spirit, but now that we are running our own company, having
+      a to do list had to become part of our lives. I quickly realised that
+      simply writing down all our to-do&rsquo;s didn&rsquo;t really help us to
+      be efficient.</p><p>I would always start with the things that I liked
+      doing the most, and not the things that need to be done ASAP. Dividing our
+      tasks into important vs. urgent tasks has helped a lot.</p><p>We have all
+      been guilty of postponing the annoying tasks that are actually important,
+      because we hate doing them, like booking an insurance or filling out a big
+      form to apply for something? That&rsquo;s something we struggled with for
+      a while.</p><p>We needed to start prioritising our tasks by level of
+      importance. And I also wanted to approach them differently, so I started
+      to look at them as &ldquo;Get-To-Do&rsquo;s&rdquo; rather than
+      &ldquo;Have-To-Do&rsquo;s&rdquo;. Instead of thinking about what I
+      &ldquo;had&rdquo; to do I started being grateful for any and every
+      task.</p><p>We love our job, so approaching them differently made a huge
+      difference. I was so excited when I started working with my <a
+      href="https://www.intelligentchange.com/?rfsn=3332515.84c023"><strong>Productivity
+      Planner</strong></a> because this really helped me prioritise my tasks and
+      allowed me to track how long it took me to complete a task.</p><p>Inside
+      of the planner, you are working with a technique called
+      &ldquo;Pomodoro&rdquo;. The Pomodoro Technique is designed to keep your
+      focus stable and get you into your &ldquo;zone&ldquo;.</p><p>One circle on
+      the journal is one Pomodoro and lasts 25 minutes. During this time, you
+      work on one task without any distractions (no multi-tasking allowed!) and
+      once the time is over, you can take a 5-minute break - and start all over
+      again.</p><p>You start by listing out your main 5 priorities of the day
+      and write out how many 25-minute-intervals you estimate it will take you
+      to complete that task. You then fill out the circles as you go along, and
+      finally note down how many Pomodoros it actually took you to finish it.
+      This gives you an idea of how long certain tasks take for future
+      reference.</p><p><strong>5. easy yoga flow &amp;
+      exercise&nbsp;</strong></p><p>When it comes to being active, we don't
+      follow a strict routine. Usually, we just do whatever feels right for us
+      in the moment.</p><p>Both Jake and I usually practice a simple flow that
+      varies every single time we get on our mats (or towels when we are
+      traveling :D). We love getting inspiration for new yoga flows on YouTube
+      or Instagram. They mostly consist of light stretches, lots of deep breaths
+      and easy-to-remember sequences.</p><p>In 2020, we aim for at least 20
+      minutes of movement per day, no matter if that&rsquo;s a quick yoga
+      sequence or a workout. When we work out while traveling we rarely have
+      access to a gym. Therefore we have to get creative to exercise all the
+      different muscle groups.</p><p>This year a major goal for us is to reach a
+      new level of fitness and health which means we will be more consistent and
+      work harder in our exercise routines. We will keep you updated with our
+      progress on <a
+      href="https://www.instagram.com/mariefeandjakesnow/">Instagram</a>.</p><p>We
+      hope you enjoyed reading about what has helped us in 2019 to feel happier,
+      healthier and more productive. We are still optimising and tweaking things
+      as we go along, and we certainly want to set up a proper evening routine
+      as well.</p><p>Reflecting and unwinding at night will be a bigger priority
+      in 2020, so that we feel our best and perform our best.</p><p>Let us know
+      in the comments down below what your current morning routine looks like,
+      and what you would like to read about next on our blog! ☺</p><p>If you
+      found this post helpful, feel free to share it with friends or your
+      community on Instagram.</p>
 show-gallery: true
 gallery:
   - image_path: /images/marie and jake/Website 2-24.jpg
