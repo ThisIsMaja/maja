@@ -55,14 +55,14 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4><strong>The Best Time To Go On a Winter Holiday To
-      Obertauern</strong></h4><p>The winter season in Obertauern, Austria,
-      starts toward the end of November and lasts until the beginning of May. To
-      make the most out of your time, the best snowfall will be in December,
-      January and February.</p><p>The weather for our ski trip to Obertauern
-      could not have been better! Every day was a fresh 0-3 degree celsius and
-      we even had some fresh snow on our first day. The conditions on the
-      mountain were also perfect to ski or snowboard.</p>
+      <h4>The Best Time To Go On a Winter Holiday To Obertauern</h4><p>The
+      winter season in Obertauern, Austria, starts toward the end of November
+      and lasts until the beginning of May. To make the most out of your time,
+      the best snowfall will be in December, January and February.</p><p>The
+      weather for our ski trip to Obertauern could not have been better! Every
+      day was a fresh 0-3 degree celsius and we even had some fresh snow on our
+      first day. The conditions on the mountain were also perfect to ski or
+      snowboard.</p>
   - banner_path: /uploads/panoramic-view-on-mountains-1.jpg
     banner-caption:
     columns: false
