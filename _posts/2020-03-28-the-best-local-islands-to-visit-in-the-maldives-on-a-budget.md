@@ -1,23 +1,19 @@
 ---
 layout: post
-date: 01/01/2020
-slug:
+date: 2019-11-26 10:00:00
+slug: best-local-islands-maldives
 title: The Best local Islands to Visit in The Maldives (On a Budget)
-meta-description:
-meta-keywords:
+meta-description: Explore the most beautiful and secluded islands in The Maldives on a budget.
+meta-keywords: 'maldives on a budget, local islands maldives, travel guide maldives'
 image_path: /images/maldives/amilla-fushi7.jpg
 banner-1_path: /images/maldives/amilla-fushi7.jpg
 categories:
   - travel
 tags:
-  - diet
-  - mental Health
-  - exercise
-  - yoga
-  - conscious civing
+  - Maldives
 author: Marie Fe
 image-1_path: /images/maldives/amilla-fushi3.jpg
-image-2_path: /images/style/maja-stock-33.jpg
+image-2_path:
 intro-paragraph-emphasis: >-
   Whilst the Maldives is the ideal honeymoon destination, it’s also the perfect
   place for any type of traveler.
@@ -34,9 +30,11 @@ sections:
   - banner_path: /images/style/maja-stock-33.jpg
     banner-caption:
     columns: true
-    main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with the one you love
+    main-paragraph-emphasis: >-
+      We love being by the sea, but nothing can compare to a winter ski trip
+      with the one you love
     body-content_html: This is the body content
-show-gallery: true     
+show-gallery: true
 gallery:
   - image_path:
     size: full
