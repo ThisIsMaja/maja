@@ -91,9 +91,9 @@ sections:
       asian wok)</li><li>Seekarhaus (on the skipist, only very few
       options)</li><li>Fritz &amp; Friedrich (amazing Asian food incl. the best
       sushi)</li><li>Rigele Royal (amazing food and the best vegan meals on
-      request)</li><li>Steinbock (vegan options)</li></ul><p>So many nice hotels
-      in the area but we have picked four, that we think are the best
-      ones:&nbsp;</p><ul><li>4* Superior<a
+      request)</li><li>Steinbock (vegan options)</li></ul><p>&nbsp;</p><p>So
+      many nice hotels in the area but we have picked four, that we think are
+      the best ones:&nbsp;</p><ul><li>4* Superior<a
       href="https://www.rigele-royal.com/en/"> <u>Hotel Rigele Royal</u></a>
       (Food was great, Sauna is the best after a long day being active + in /
       outdoor pool)</li><li><a
