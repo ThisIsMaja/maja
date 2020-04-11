@@ -167,28 +167,27 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3><strong>Things to do in Sifnos</strong></h3><h4>1) Visit the most
-      beautiful chapels on Sifnos Island</h4><p>Sifnos is home to over 200
-      churches and monasteries. We visited one situated at the top of a hill,
-      overlooking the Aegean Sea. It was absolutely gorgeous!</p><p>Be sure to
-      check out<a
-      href="https://www.google.com/maps/place/Chrisopigi+Monastery/@36.9364079,24.7441238,17z/data=!3m1!4b1!4m5!3m4!1s0x1498f2f1b0c16ddd:0x3d5ed8e88275d039!8m2!3d36.9364079!4d24.7463125">
-      <u>Chrisopigi Monastery</u></a> and<a
-      href="https://www.google.com/maps/place/%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CE%AC+%CF%84%CE%BF%CF%85+%CE%B2%CE%BF%CF%85%CE%BD%CE%BF%CF%8D/@36.939512,24.7339233,15z/data=!4m8!1m2!2m1!1sVirgin+mary+of+the+Mountain+Monastery!3m4!1s0x1498f28c2aa052f5:0x9cc2573bc9be3928!8m2!3d36.9385989!4d24.7321129">
-      <u>Virgin Mary of the Mountain Monastery.</u></a> Both can be found on
-      Google maps.</p><h4>2) Go back in time at Kastro Village</h4><p>Kastro
-      village is an iconic spot in Sifnos and one of the most picturesque
-      villages on the island. Narrow walkways lined with traditional Cycladic
-      architecture make up the medieval village of Kastro.</p><h4>3) Rent a car
-      in Sifnos and explore the island</h4><p>The best way to see all the
-      attractions in Sifnos is to rent a car from Sun Trial Car Rental for the
-      duration of your stay. You can contact them at motocar@suntrail.gr. The
-      island is quite big and it&rsquo;s impossible to see everything on
-      foot.</p><h4>4) Check out these 3 villages in Sifnos</h4><p>Sifnos is made
-      up of 14 villages, but the villages of Kastro, Artemonas and Apollonia are
-      the most popular. Apollonia is the capital town located in the middle of
-      Sifnos Island whilst Artemonas is a traditional settlement and the largest
-      village on the island.</p><h4>5) Take a swim at one of the best beaches in
+      <h3>Things to do in Sifnos</h3><h4>1) Visit the most beautiful chapels on
+      Sifnos Island</h4><p>Sifnos is home to over 200 churches and monasteries.
+      We visited one situated at the top of a hill, overlooking the Aegean Sea.
+      It was absolutely gorgeous!</p><p>Be sure to check out&nbsp;<a
+      href="https://www.google.com/maps/place/Chrisopigi+Monastery/@36.9364079,24.7441238,17z/data=!3m1!4b1!4m5!3m4!1s0x1498f2f1b0c16ddd:0x3d5ed8e88275d039!8m2!3d36.9364079!4d24.7463125"><u>Chrisopigi
+      Monastery</u></a> and&nbsp;<a
+      href="https://www.google.com/maps/place/%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CE%AC+%CF%84%CE%BF%CF%85+%CE%B2%CE%BF%CF%85%CE%BD%CE%BF%CF%8D/@36.939512,24.7339233,15z/data=!4m8!1m2!2m1!1sVirgin+mary+of+the+Mountain+Monastery!3m4!1s0x1498f28c2aa052f5:0x9cc2573bc9be3928!8m2!3d36.9385989!4d24.7321129"><u>Virgin
+      Mary of the Mountain Monastery.</u></a> Both can be found on Google
+      maps.</p><h4>2) Go back in time at Kastro Village</h4><p>Kastro village is
+      an iconic spot in Sifnos and one of the most picturesque villages on the
+      island. Narrow walkways lined with traditional Cycladic architecture make
+      up the medieval village of Kastro.</p><h4>3) Rent a car in Sifnos and
+      explore the island</h4><p>The best way to see all the attractions in
+      Sifnos is to rent a car from Sun Trial Car Rental for the duration of your
+      stay. You can contact them at motocar@suntrail.gr. The island is quite big
+      and it&rsquo;s impossible to see everything on foot.</p><h4>4) Check out
+      these 3 villages in Sifnos</h4><p>Sifnos is made up of 14 villages, but
+      the villages of Kastro, Artemonas and Apollonia are the most popular.
+      Apollonia is the capital town located in the middle of Sifnos Island
+      whilst Artemonas is a traditional settlement and the largest village on
+      the island.</p><h4>5) Take a swim at one of the best beaches in
       Sifnos</h4><ul><li>Vathi Beach: Vathi Beach is a gorgeous, quiet beach
       located west of Sifnos. The shallow waters are crystal clear and the beach
       is lined with cute restaurants.</li><li>Platis Gialos: This is one of the
