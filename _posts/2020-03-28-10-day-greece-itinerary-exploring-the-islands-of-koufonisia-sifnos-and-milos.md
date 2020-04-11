@@ -182,23 +182,23 @@ sections:
       explore the island</h4><p>The best way to see all the attractions in
       Sifnos is to rent a car from Sun Trial Car Rental for the duration of your
       stay. You can contact them at motocar@suntrail.gr. The island is quite big
-      and it&rsquo;s impossible to see everything on foot.</p><h4>4) Check out
-      these 3 villages in Sifnos</h4><p>Sifnos is made up of 14 villages, but
-      the villages of Kastro, Artemonas and Apollonia are the most popular.
-      Apollonia is the capital town located in the middle of Sifnos Island
-      whilst Artemonas is a traditional settlement and the largest village on
-      the island.</p><h4>5) Take a swim at one of the best beaches in
-      Sifnos</h4><ul><li>Vathi Beach: Vathi Beach is a gorgeous, quiet beach
-      located west of Sifnos. The shallow waters are crystal clear and the beach
-      is lined with cute restaurants.</li><li>Platis Gialos: This is one of the
-      longest beaches in the Cyclades with clear turquoise waters.&nbsp; There
-      are restaurants nearby and sunbeds and umbrellas are
-      available.</li></ul><h4>&nbsp;7) Take part in a cooking
-      class</h4><p>Sifnos is an island known for its extraordinary cuisine. We
-      would have loved to do a vegan cooking class but unfortunately, Narlis
-      Farm was fully booked at the time of our visit. This is another way to
-      meet the locals and experience the Greek culture with some good food and
-      dancing.</p>
+      and it&rsquo;s impossible to see everything on
+      foot.</p><h4>&nbsp;</h4><h4>4) Check out these 3 villages in
+      Sifnos</h4><p>Sifnos is made up of 14 villages, but the villages of
+      Kastro, Artemonas and Apollonia are the most popular. Apollonia is the
+      capital town located in the middle of Sifnos Island whilst Artemonas is a
+      traditional settlement and the largest village on the island.</p><h4>5)
+      Take a swim at one of the best beaches in Sifnos</h4><ul><li>Vathi Beach:
+      Vathi Beach is a gorgeous, quiet beach located west of Sifnos. The shallow
+      waters are crystal clear and the beach is lined with cute
+      restaurants.</li><li>Platis Gialos: This is one of the longest beaches in
+      the Cyclades with clear turquoise waters.&nbsp; There are restaurants
+      nearby and sunbeds and umbrellas are available.</li></ul><h4>&nbsp;7) Take
+      part in a cooking class</h4><p>Sifnos is an island known for its
+      extraordinary cuisine. We would have loved to do a vegan cooking class but
+      unfortunately, Narlis Farm was fully booked at the time of our visit. This
+      is another way to meet the locals and experience the Greek culture with
+      some good food and dancing.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece1.jpg
     banner-caption:
     columns: false
