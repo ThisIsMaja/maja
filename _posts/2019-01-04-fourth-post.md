@@ -65,21 +65,21 @@ sections:
   - banner_path: /uploads/panoramic-view-on-mountains-1.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Things To Do In Obertauern
+    main-paragraph-emphasis: many hotels have a little spa area in-house
     body-content_html: >-
-      <ul><li>Skiing&nbsp; - 4 days, starting from 64 Euros for skis &amp; 39
-      Euros for boots - depending on the season - Ski pass for 4 days 188
-      Euros</li><li>Snowboarding - 4 days, 85 Euros&nbsp; for a board &amp; 39
-      Euros for boots - depending on the season - Ski pass for 4 days 188
-      Euros</li><li>Snow kiting - Trial 58 Euros</li><li>Snow biking&nbsp; - 79
-      Euros</li><li>Sledging&nbsp; by night - 5 Euros</li><li>Relaxing &amp;
-      Wellness (many hotels have a little spa area in-house - if you are active
-      all day, your body definitely needs some quality time to
-      rest)</li><li>Free riding - if you are up for the challenge, it&rsquo;s a
-      trip &lsquo;way up high&rsquo; - it is possible to hire a
-      guide</li></ul><p>If you want further information or book something, head
-      to the Obertauern website<a href="https://www.obertauern.com/en.html"><u>
-      HERE</u></a></p>
+      <h4>Things To Do In Obertauern</h4><ul><li>Skiing&nbsp; - 4 days, starting
+      from 64 Euros for skis &amp; 39 Euros for boots - depending on the season
+      - Ski pass for 4 days 188 Euros</li><li>Snowboarding - 4 days, 85
+      Euros&nbsp; for a board &amp; 39 Euros for boots - depending on the season
+      - Ski pass for 4 days 188 Euros</li><li>Snow kiting - Trial 58
+      Euros</li><li>Snow biking&nbsp; - 79 Euros</li><li>Sledging&nbsp; by night
+      - 5 Euros</li><li>Relaxing &amp; Wellness (many hotels have a little spa
+      area in-house - if you are active all day, your body definitely needs some
+      quality time to rest)</li><li>Free riding - if you are up for the
+      challenge, it&rsquo;s a trip &lsquo;way up high&rsquo; - it is possible to
+      hire a guide</li></ul><p>If you want further information or book
+      something, head to the Obertauern website<a
+      href="https://www.obertauern.com/en.html"><u> HERE</u></a></p>
   - banner_path: /uploads/snowy-mountain-1.jpg
     banner-caption:
     columns: false
