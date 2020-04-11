@@ -36,20 +36,20 @@ sections:
   - banner_path: /images/Obertauern/Obertauern4.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: 'Why we loved Obertauern, Austria'
+    main-paragraph-emphasis: Obertauern is also located close to Salzburg
     body-content_html: >-
-      <p>With over 100km of piste in Obertauern, there&rsquo;s so much to
-      explore. The ski slopes are ideal for advanced skiers or snowboarders, yet
-      they also vary in slope size and so it&rsquo;s also a great place for
-      beginners to learn how to ski.</p><p>Obertauern is also located close to
-      Salzburg and just 2 hours from Munich, Germany making it a fun weekend
-      getaway if you&rsquo;re traveling from outside of
-      Austria.</p><p>It&rsquo;s definitely a great place to spend some joyful
-      and relaxing days. The 2 things we loved the most were that we could
-      literally ski to within 50m of our hotel (a true ski-in ski-out mountain)
-      and the fact that we were 100% guaranteed real snow regardless of which
-      date we chose for our trip between the months of November and May!</p><p>I
-      could go on and on - we love this place!</p>
+      <h4>Why we loved Obertauern, Austria</h4><p>With over 100km of piste in
+      Obertauern, there&rsquo;s so much to explore. The ski slopes are ideal for
+      advanced skiers or snowboarders, yet they also vary in slope size and so
+      it&rsquo;s also a great place for beginners to learn how to
+      ski.</p><p>Obertauern is also located close to Salzburg and just 2 hours
+      from Munich, Germany making it a fun weekend getaway if you&rsquo;re
+      traveling from outside of Austria.</p><p>It&rsquo;s definitely a great
+      place to spend some joyful and relaxing days. The 2 things we loved the
+      most were that we could literally ski to within 50m of our hotel (a true
+      ski-in ski-out mountain) and the fact that we were 100% guaranteed real
+      snow regardless of which date we chose for our trip between the months of
+      November and May!</p><p>I could go on and on - we love this place!</p>
   - banner_path: /uploads/snowy-mountains-2-1.jpg
     banner-caption:
     columns: false
