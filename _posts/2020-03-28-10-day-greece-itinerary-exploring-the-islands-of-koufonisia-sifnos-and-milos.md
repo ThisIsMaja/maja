@@ -73,8 +73,8 @@ sections:
       your Greece itinerary.</p><h3>How to get to Koufonisia from
       Athens</h3><p>There is no airport on Koufonisia and the only way to access
       the island is via ferry. The ferry departs from Piraeus Port in Athens and
-      takes about 5 hours to reach Koufonisia. You can contact<a
-      href="https://hellenicseaways.gr/en/"> <u>Hellenic Seaways</u></a> to
+      takes about 5 hours to reach Koufonisia. You can contact&nbsp;<a
+      href="https://hellenicseaways.gr/en/"><u>Hellenic Seaways</u></a> to
       inquire about ticket options.</p><p>If you&rsquo;d prefer a shorter ferry
       trip, you can also fly to nearby Naxos. You then need to catch a ferry
       from Naxos to Koufonisia which takes 2.5 hours.</p>
@@ -100,19 +100,19 @@ sections:
       but Kato Koufonisi and Keros islet are both uninhabited. We stopped off at
       Kato Koufonisi and explored this sleepy island on foot before heading back
       to our hotel.</p><p>If you&rsquo;re looking to do a boat tour around
-      Koufonisia, we highly recommend booking through<a
-      href="https://www.e-kyklades.gr/showroom/tourism/PRASINOSTOURS?lang=en">
-      <u>Prasinos Tours</u></a>.</p><h4>3) Enjoy yoga</h4><p>Our health and
-      well-being are so important to us, and despite our hectic schedules, we
-      love taking some time out to do yoga. Our instructor came to our hotel and
-      we had a couple&rsquo;s yoga session which was absolutely
-      incredible.</p><h4>4) Find picturesque spots around Koufonisia</h4><p>The
-      cobblestone walkways in Koufonisia are lined with quaint white buildings
-      dressed with blue windows and gorgeous bright flowers. These provide the
-      perfect setting for any photo, and you won&rsquo;t have to fight the
-      crowds to get that snap.</p><h4>5) Freedive and shoot underwater at
-      Ksylompatis Caves.</h4><p>One of the coolest places we&rsquo;ve ever had
-      the pleasure of seeing. You can find the location&nbsp;<a
+      Koufonisia, we highly recommend booking through&nbsp;<a
+      href="https://www.e-kyklades.gr/showroom/tourism/PRASINOSTOURS?lang=en"><u>Prasinos
+      Tours</u></a>.</p><h4>3) Enjoy yoga</h4><p>Our health and well-being are
+      so important to us, and despite our hectic schedules, we love taking some
+      time out to do yoga. Our instructor came to our hotel and we had a
+      couple&rsquo;s yoga session which was absolutely incredible.</p><h4>4)
+      Find picturesque spots around Koufonisia</h4><p>The cobblestone walkways
+      in Koufonisia are lined with quaint white buildings dressed with blue
+      windows and gorgeous bright flowers. These provide the perfect setting for
+      any photo, and you won&rsquo;t have to fight the crowds to get that
+      snap.</p><h4>5) Freedive and shoot underwater at Ksylompatis
+      Caves.</h4><p>One of the coolest places we&rsquo;ve ever had the pleasure
+      of seeing. You can find the location&nbsp;<a
       href="https://www.google.com/maps/place/Ksylompatis+Caves/@36.94803,25.6211076,15z/data=!4m5!3m4!1s0x0:0x66c301b9882e8b6a!8m2!3d36.94803!4d25.6211076"><u>here.</u></a></p><h4>6)
       Explore Koufonisia on bike</h4><p>More adventure awaits! Koufonisia is
       such a small island and the best way to explore is on a bike. You can rent
@@ -144,14 +144,14 @@ sections:
       and is known to be the culinary and cultural destination of
       Greece.</p><h3>How to get to Sifnos from Koufonisia</h3><p>If you&rsquo;re
       following our 10 day Greece itinerary, you&rsquo;ll arrive in Sifnos via a
-      ferry from Koufonisia.<a href="https://www.seajets.gr/">
-      <u>Seajets</u></a><u> </u>offer frequent trips from Koufonisia to Sifnos
-      and the travel time is just over 4 hours.</p><p>There is no airport on the
-      island so taking a ferry is the only way to reach Sifnos.</p><h3>Sifnos
-      Accommodation</h3><p>We stayed at<a
-      href="https://www.selanasuites.com/en/"> <u>Selena Suites</u></a> on
-      Sifnos Island and absolutely loved it.</p><p>Sifnos Restaurants that offer
-      plant-based meals:</p><ul><li><a
+      ferry from Koufonisia.&nbsp;<a
+      href="https://www.seajets.gr/"><u>Seajets</u></a><u> </u>offer frequent
+      trips from Koufonisia to Sifnos and the travel time is just over 4
+      hours.</p><p>There is no airport on the island so taking a ferry is the
+      only way to reach Sifnos.</p><h3>Sifnos Accommodation</h3><p>We stayed
+      at&nbsp;<a href="https://www.selanasuites.com/en/"><u>Selena
+      Suites</u></a> on Sifnos Island and absolutely loved it.</p><p>Sifnos
+      Restaurants that offer plant-based meals:</p><ul><li><a
       href="https://www.facebook.com/chrisopigi2284071295/"><u>Chrisopigi
       Restaurant</u></a></li><li><a
       href="https://www.facebook.com/CayenneRestaurantSifnos"><u>Cayenne
@@ -215,8 +215,9 @@ sections:
       daily flights to and from Athens. If you&rsquo;d prefer to follow our 10
       day Greece itinerary in reverse, you can fly into Milos before moving to
       the islands of Sifnos and Koufonisia.</p><h3>Milos Accommodation</h3><p>We
-      stayed at<a href="http://skinopi.com/"> <u>Skinopi Lodge</u></a><u>
-      </u>whilst in Milos.</p><h3>Milos Restaurants</h3><ul><li><a
+      stayed at&nbsp;<a href="http://skinopi.com/"><u>Skinopi
+      Lodge</u></a>&nbsp;whilst in Milos.</p><h3>Milos
+      Restaurants</h3><ul><li><a
       href="https://www.facebook.com/pages/O-Hamos/377153249022792"><u>O! Hamos
       restaurant</u></a> (possible the best plant-based we had in
       Greece</li><li><a href="https://www.barriello.com/"><u>Bariello
