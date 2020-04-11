@@ -220,35 +220,34 @@ sections:
       day Greece itinerary in reverse, you can fly into Milos before moving to
       the islands of Sifnos and Koufonisia.</p><h3>Milos Accommodation</h3><p>We
       stayed at<a href="http://skinopi.com/"> <u>Skinopi Lodge</u></a><u>
-      </u>whilst in Milos.</p><h3><strong>Milos
-      Restaurants</strong></h3><ul><li><a
+      </u>whilst in Milos.</p><h3>Milos Restaurants</h3><ul><li><a
       href="https://www.facebook.com/pages/O-Hamos/377153249022792"><u>O! Hamos
       restaurant</u></a> (possible the best plant-based we had in
       Greece</li><li><a href="https://www.barriello.com/"><u>Bariello
       Mediterranean restaurant</u></a></li></ul>
   - banner_path: /images/greece/mariefeandjakesnow-greece4.jpg
     banner-caption:
-    columns: false
+    columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3><strong>Things to do in Milos</strong></h3><h4>1) Explore Milos on a
-      boat tour with Excellent Yachting</h4><p>This was one of our favorite days
-      in Milos. Whilst most areas can be accessed from the shore, there are a
-      few incredible spots that can only be seen by boat.</p><p>We discovered
-      hidden caves and went freediving alongside a shipwreck near Milos. A great
-      spot we found was just off the coast of the uninhabited island of
-      Polyaigos. The waters here were incredibly blue and we were both
-      completely blown away by the beauty.</p><p>You can find out more
-      information on their boat trips<a
-      href="https://www.excellentyachting.com/"><u> here.</u></a></p><h4>2) Rent
-      a car in Milos and go on an adventure</h4><p>Milos is a much bigger island
-      than the other two on our Greece itinerary. The best way to explore is by
-      car from<a href="http://www.milosrent.gr/"> <u>Milos Rent</u></a><u>
-      </u>and find those attractions which are off the beaten track.</p><h4>3)
-      Explore the beaches in Milos</h4><ul><li>Sarakiniko Beach: Sarakiniko
-      Beach is located to the northeast of Milos and is one of the most
-      picturesque beaches on the island. We loved the cliff jumping here and the
-      water was clearer than we remembered it to be from our first visit.<a
+      <h3>Things to do in Milos</h3><h4>1) Explore Milos on a boat tour with
+      Excellent Yachting</h4><p>This was one of our favorite days in Milos.
+      Whilst most areas can be accessed from the shore, there are a few
+      incredible spots that can only be seen by boat.</p><p>We discovered hidden
+      caves and went freediving alongside a shipwreck near Milos. A great spot
+      we found was just off the coast of the uninhabited island of Polyaigos.
+      The waters here were incredibly blue and we were both completely blown
+      away by the beauty.</p><p>You can find out more information on their boat
+      trips<a href="https://www.excellentyachting.com/"><u>
+      here.</u></a></p><h4>2) Rent a car in Milos and go on an
+      adventure</h4><p>Milos is a much bigger island than the other two on our
+      Greece itinerary. The best way to explore is by car from<a
+      href="http://www.milosrent.gr/"> <u>Milos Rent</u></a><u> </u>and find
+      those attractions which are off the beaten track.</p><h4>3) Explore the
+      beaches in Milos</h4><ul><li>Sarakiniko Beach: Sarakiniko Beach is located
+      to the northeast of Milos and is one of the most picturesque beaches on
+      the island. We loved the cliff jumping here and the water was clearer than
+      we remembered it to be from our first visit.<a
       href="https://yogajourneymilos.com/"> <u>Yoga Journeys</u></a><u> </u>also
       offer yoga on Sarakiniko Beach.</li></ul><ul><li>Tsigrado Beach: Tsigrado
       beach is a white sandy beach enclosed by massive boulders. To access the
@@ -273,7 +272,7 @@ sections:
       islands were a lot quieter as peak season continues from mid-July to
       August.</p><h3>How to get to Greece</h3><p>We flew to Greece with Aegean
       Airlines, the multi-awarded Greek Airline. You can check out their
-      prices<a href="https://en.aegeanair.com/"> <u>here</u></a>.</p>
+      prices&nbsp;<a href="https://en.aegeanair.com/"><u>here</u></a>.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece7.jpg
     banner-caption:
     columns: false
@@ -288,10 +287,10 @@ sections:
       thousands more to be uncovered. It won&rsquo;t be long before we are back
       in the crystal clear waters of Greece with the sun on our backs living
       life to the fullest.</p><p>Disclosure: This post was created in
-      partnership with<a href="http://www.discovergreece.com/"> <u>Discover
-      Greece</u></a><u> </u>in order to explore islands that you probably
+      partnership with&nbsp;<u><a href="http://www.discovergreece.com/">Discover
+      Greece</a></u>&nbsp;in order to explore islands that you probably
       haven&rsquo;t heard of. As always, all the reviews and opinions expressed
-      are based on our personal view</p>
+      are based on our personal view.</p>
 show-gallery: true
 gallery:
   - image_path:
