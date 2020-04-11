@@ -47,7 +47,52 @@ sections:
     main-paragraph-emphasis: >-
       Think about it: When someone asks you how you are doing, how likely are
       you to respond with “I am struggling”
-    body-content_html: "<h4>Everyone goes through something</h4><p>Most people struggle mentally at some point in their lives, and 99% of them aren&rsquo;t even aware of their own pain, as they are subconsciously not giving themselves permission to show &ldquo;weakness&rdquo; (aka how they TRULY feel on the inside). In today&rsquo;s society, we are - in most cases - pretending to be &ldquo;just fine&rdquo;.</p><p>Think about it: When someone asks you how you are doing, how likely are you to respond with &ldquo;I am struggling&rdquo; when you are going through a hard time? How likely are you to admit that things aren&rsquo;t all flowers, rainbows and sunshine?</p><p>Most of us suffer from traumas, in one way or another. Whether that&rsquo;s birth trauma, events in our childhoods that left scars in our hearts or a toxic relationship that made us lose trust in our friends and/ or significant others.&nbsp;</p><h4>How willing are you to open up and ask for help?&nbsp;</h4><p>Becoming aware of, working through and releasing those traumas is crucial in order to be able to live a life of emotional freedom. Healing is a journey that takes time and consistent effort.</p><p>I decided to put in the effort to release my pain. I was done with sabotaging myself, compensating my feeling of unworthiness through overachieving in my job and punishing myself through a lack of self-care because I simply felt like I didn&rsquo;t deserve to feel good.</p><p>If my father had to die way too early, who was I to live a happy life? That&rsquo;s not fair. And so I punished myself by working tirelessly until I quit my job and decided to make some big changes in my life.</p><p>In 2016 I left my job, applied for a master program in Barcelona and booked a 6-week holiday to Asia before my new life in Spain was going to start.</p><p>That&rsquo;s when I met someone who would change my view on life forever.</p><h4>Love turned my world around</h4><p>You all know him, and I won&rsquo;t go into too much detail in regard to our love story for now :) . You can read more about how Jake and I met&nbsp;<a href=\"https://www.mariefeandjakesnow.com/blog/2018/12/14/our-love-story\">here.</a></p><p>1 year ago, the love of my life &amp; fianc&eacute; Jake and myself became something completely different. Because we realised that we didn&rsquo;t have to live an ordinary life. We had built something out of pure passion, endless love for life and each other. And a strong excitement to explore this beautiful planet we get to call our home.</p><p>So, we decided to start traveling full-time.&nbsp;</p><p>Not only did we invest all of our time, energy and attention into building our personal online brand, but worked incredibly hard to touch as many lives as possible. We wanted to be part of the change we wished to see in this world. All we wanted back then was being together 24/7, do what we love for a living and empower people all across the globe to fearlessly go after their dreams as well.&nbsp;</p><p>And so, we did. And the more our &ldquo;baby&rdquo; grew, the more time we spent in front of screens. The more we traveled, the less we were able to stick to our healthy routines of yoga, reading, journaling.&nbsp;</p><h4>2020: new life decisions and visions we want to manifest</h4><p>Now our goal is to get back on track in 2020. Stick to our routines, reach our new goals. I will definitely talk about our goals and how we define them in our stories in a next blog post.</p><p>In order to deal with our new life decisions, I started talking to my new life coach, Laura, a couple of months ago. Whenever I feel like I need advice from someone who has a neutral opinion about my life, I call her.</p><p>A life coach is offering guidance by clarifying and supporting the achievement of personal and professional goals. He or she is helping you to improve communication skills and establishing a work-life-balance in order to strengthen your mental health. But also finding your worth, working on your mental health as well as a sense of confidence and self-love.</p><p>Life is beautiful, but it can also be extremely overwhelming sometimes especially when you&rsquo;re trying to find a balance between your work, social life, self-care and everything in between. This is what Laura is helping me with. \uFEFF</p><h4>Your dreams are worth pursuing</h4><p>Working with a life coach feels more aligned with me than seeing a therapist. I want someone to ask me questions that would help me find the answers within myself. Not someone who has read all the books, but still has no idea how I was actually feeling.</p><p>If you&rsquo;re struggling with your mental health, if you&rsquo;re going through a hard time, giving into self-sabotage and feel like you aren&rsquo;t worthy of living a life you love, don&rsquo;t be afraid to ask for help. Because your mental health matters.</p><p>That&rsquo;s why I thought I would share some great books Laura recommended to me as well as her details in case you&rsquo;re consider hiring someone to support you on your journey towards a more aligned and balanced life.</p><h4>Books to read</h4><p><a href=\"https://www.amazon.de/gp/product/B00NTPC5GK/ref=as_li_ss_tl?ie=UTF8&amp;language=de_DE&amp;linkCode=sl1&amp;linkId=ffada430baaec3f34fef2e8f99bf8b30&amp;tag=lauraherde-21\">- The Power of vulnerability</a></p><p>-&nbsp;<a href=\"https://www.amazon.de/gp/product/178180933X/ref=as_li_ss_tl?ie=UTF8&amp;language=de_DE&amp;linkCode=sl1&amp;linkId=47d128af22d166280186c4ba7ae303a8&amp;tag=lauraherde-21\">The Universe has your back</a></p><p>-&nbsp;<a href=\"https://amzn.to/2C0Sf6k\">50 ways to yay</a>-&nbsp;</p><p><a href=\"https://www.amazon.de/gp/product/3492058736/ref=as_li_ss_tl?ie=UTF8&amp;language=de_&amp;linkCode=sl1&amp;linkId=649976911d40ac8552c0528e167adc6e&amp;tag=lauraherde-21\">Die Kunst des guten Lebens</a></p><p>If you&rsquo;re looking for a life coach, feel free to contact Laura directly, she is really awesome and know what she is doing, I can really recommend working with her :)</p><p>Laura Herde - Website:&nbsp;<a href=\"http://www.lauraherde.com/\">www.lauraherde.com</a>&nbsp;Coaching Programs:&nbsp;<a href=\"https://www.lauraherde.com/work-with-me\">https://www.lauraherde.com/work-with-me</a>&nbsp;Instagram: @<a href=\"https://www.instagram.com/laura.herde/\">laura.herde</a></p>"
+    body-content_html: >-
+      <h4>Everyone goes through something</h4><p>Most people struggle mentally
+      at some point in their lives, and 99% of them aren&rsquo;t even aware of
+      their own pain, as they are subconsciously not giving themselves
+      permission to show &ldquo;weakness&rdquo; (aka how they TRULY feel on the
+      inside). In today&rsquo;s society, we are - in most cases - pretending to
+      be &ldquo;just fine&rdquo;.</p><p>Think about it: When someone asks you
+      how you are doing, how likely are you to respond with &ldquo;I am
+      struggling&rdquo; when you are going through a hard time? How likely are
+      you to admit that things aren&rsquo;t all flowers, rainbows and
+      sunshine?</p><p>Most of us suffer from traumas, in one way or another.
+      Whether that&rsquo;s birth trauma, events in our childhoods that left
+      scars in our hearts or a toxic relationship that made us lose trust in our
+      friends and/ or significant others.&nbsp;</p><h4>How willing are you to
+      open up and ask for help?&nbsp;</h4><p>Becoming aware of, working through
+      and releasing those traumas is crucial in order to be able to live a life
+      of emotional freedom. Healing is a journey that takes time and consistent
+      effort.</p><p>I decided to put in the effort to release my pain. I was
+      done with sabotaging myself, compensating my feeling of unworthiness
+      through overachieving in my job and punishing myself through a lack of
+      self-care because I simply felt like I didn&rsquo;t deserve to feel
+      good.</p><p>If my father had to die way too early, who was I to live a
+      happy life? That&rsquo;s not fair. And so I punished myself by working
+      tirelessly until I quit my job and decided to make some big changes in my
+      life.</p><p>In 2016 I left my job, applied for a master program in
+      Barcelona and booked a 6-week holiday to Asia before my new life in Spain
+      was going to start.</p><p>That&rsquo;s when I met someone who would change
+      my view on life forever.</p><h4>Love turned my world around</h4><p>You all
+      know him, and I won&rsquo;t go into too much detail in regard to our love
+      story for now :) . You can read more about how Jake and I met&nbsp;<a
+      href="https://www.mariefeandjakesnow.com/blog/2018/12/14/our-love-story">here.</a></p><p>1
+      year ago, the love of my life &amp; fianc&eacute; Jake and myself became
+      something completely different. Because we realised that we didn&rsquo;t
+      have to live an ordinary life. We had built something out of pure passion,
+      endless love for life and each other. And a strong excitement to explore
+      this beautiful planet we get to call our home.</p><p>So, we decided to
+      start traveling full-time.&nbsp;</p><p>Not only did we invest all of our
+      time, energy and attention into building our personal online brand, but
+      worked incredibly hard to touch as many lives as possible. We wanted to be
+      part of the change we wished to see in this world. All we wanted back then
+      was being together 24/7, do what we love for a living and empower people
+      all across the globe to fearlessly go after their dreams as
+      well.&nbsp;</p><p>And so, we did. And the more our &ldquo;baby&rdquo;
+      grew, the more time we spent in front of screens. The more we traveled,
+      the less we were able to stick to our healthy routines of yoga, reading,
+      journaling.&nbsp;</p><h4>&nbsp;</h4>
 show-gallery: true
 gallery-text: >-
   Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
