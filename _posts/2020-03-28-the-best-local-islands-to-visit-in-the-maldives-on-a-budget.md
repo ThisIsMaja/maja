@@ -154,6 +154,72 @@ sections:
       it&rsquo;s the only way to get around.</p><h4>Where to stay in Goidhoo
       Island</h4><ul><li>Olive Goidhoo: $70 a night for a double room including
       breakfast</li></ul>
+  - banner_path: /images/maldives/amilla-fushi1.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h3>Luxury Resorts In The Maldives For The Perfect Honeymoon</h3><p>If
+      you&rsquo;re planning a luxurious honeymoon, Maldives is the place to go!
+      You can also spend most of your time on the local islands and treat
+      yourselves to one or two nights at the below resorts before you head back
+      home.</p><h4>Amilla Fushi</h4><p>After spending 9 days exploring local
+      islands in the Maldives, we headed to Amilla Fushi, a gorgeous resort
+      surrounded by crystal clear water.</p><p>The name &ldquo;Amilla
+      Fushi&rdquo; translates to &ldquo;My Island Home&rdquo; and it sure lives
+      up to this!</p><p>Amilla Fushi has everything you want, and more: A
+      private villa with an infinity pool and a beautiful hammock perched in the
+      ocean. Not to mention the spacious room and outdoor shower!</p><p>The
+      waters surrounding Amilla Fushi are home to hundreds of Manta Rays and
+      Sting Rays. This is the biggest attraction here and an experience
+      we&rsquo;ll never forget.</p><p>As we hopped into the water, a huge
+      squadron of manta rays swam past us - this moment was surreal!</p><p>We
+      loved our time here. From jet skiing to exploring the underwater world on
+      a sea bob, to afternoon swims in the rain, Amilla Fushi is an incredible
+      place to visit if your budget allows for it.</p><h4>Soneva</h4><p>Soneva
+      is unlike any luxury resort we&rsquo;ve visited - ever! It&rsquo;s more
+      famously known for its water slide but there&rsquo;s so much more to love
+      about Soneva.</p><p>The beautiful, minimalist wooden villas have thatched
+      roofs as sustainability is one of the main focuses
+      here.</p><p>There&rsquo;s a vegetable garden on the property and most
+      produce from here is used in the kitchen (which serves the most delicious,
+      tasty vegan food we&rsquo;ve ever had!)</p><p>Soneva recycles and reuses
+      90% of everything from food to plastic and glass. Their focus is on a SLOW
+      life - Sustainable, local, organic, wellness. We love this mission and it
+      was great to go behind the scenes and see how Soneva is bringing their
+      vision to life.</p>
+  - banner_path: /images/maldives/amilla-fushi5.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h3>Tips For Visiting Local Islands In The Maldives (or Luxury
+      Resorts)</h3><ul><li>If you&rsquo;re looking for the best vegan food in
+      the Maldives, make sure you pop into Shell Beans on the main island of
+      Male.</li><li>There are small supermarkets on all the local islands in the
+      Maldives where you can buy snacks, water, and fruit.</li><li>Each of the
+      local islands have cafes where you&rsquo;ll pay between $5-$15 per
+      meal.</li><li>Most guesthouses offer half-board and full-board options so
+      be sure to inquire about this before you make your reservation. The full
+      board option is approximately and an additional $30 per person per
+      day.</li><li>After landing at the airport on Male Island, it&rsquo;s best
+      to buy a sim card. This cost us $30 for 17gigs of data.</li><li>When
+      snorkeling or diving, please don&rsquo;t touch or stand on coral. We see
+      this happening too often and coral is destroyed by these reckless
+      actions.</li><li>Wear reef free sunscreen as chemicals from normal
+      sunscreens are harmful to the underwater ecosystem.</li><li><a
+      href="https://www.mariefeandjakesnow.com/blog/2018/12/16/sri-lanka-3-weeks"><u>Sri
+      Lanka</u></a> is a stone's throw away from the Maldives so it&rsquo;s a
+      great add-on to your Sri Lanka trip.</li></ul><p>&nbsp;</p><h3>Tip How To
+      Plan Your Maldives Trip On a Budget</h3><p>We&rsquo;ve only spoken about 3
+      of the many local islands in the Maldives. There are so many more to
+      explore and if you&rsquo;re looking for the best travel advice, contact
+      Kristy from<a href="http://www.indulgemaldives.com/"> <u>Indulge
+      Maldives.</u></a> She was amazing at customizing our itinerary and
+      ensuring that we had a trip of a lifetime!</p><p>Thanks to Indulge
+      Maldives for showing us the best of what the Maldives has to offer. As
+      always, all views are our own and we&rsquo;re so excited for our readers
+      to experience the Maldives just as we did!</p>
 show-gallery: true
 gallery:
   - image_path:
