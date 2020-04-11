@@ -83,7 +83,7 @@ sections:
       href="https://www.obertauern.com/en.html"><u> HERE</u></a></p>
   - banner_path: /uploads/snowy-mountain-1.jpg
     banner-caption:
-    columns: false
+    columns: true
     main-paragraph-emphasis:
     body-content_html: >-
       <h4>Where To Eat And Stay In Obertauern</h4><p>&nbsp;</p><p>5 best cafes
