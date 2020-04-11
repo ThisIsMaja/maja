@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2020-01-01 00:00:00
+date: 2020-02-12 00:00:00
 slug: an-imperfect-guide-to-stay-productive-and-healthy
 title: An (imperfect) guide to help you stay productive and healthy
 meta-description:
-meta-keywords:
+meta-keywords: 'productivity, guide'
 image_path: /images/maldives/amilla-fushi5.jpg
 banner-1_path: /images/maldives/amilla-fushi5.jpg
 categories:
