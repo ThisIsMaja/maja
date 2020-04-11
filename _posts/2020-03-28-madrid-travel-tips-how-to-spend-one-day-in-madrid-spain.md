@@ -14,10 +14,7 @@ banner-1_path: /images/city/madrid-spain5.jpg
 categories:
   - travel
 tags:
-  - photography
-  - madrid
-  - spain
-  - travel
+  - Europe
 author: Marie Fe
 image-1_path: /images/city/madrid-spain3.jpg
 image-2_path: /images/city/madrid-spain4.jpg
