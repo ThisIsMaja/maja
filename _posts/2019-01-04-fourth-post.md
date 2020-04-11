@@ -84,12 +84,13 @@ sections:
   - banner_path: /uploads/snowy-mountain-1.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Where To Eat And Stay In Obertauern
+    main-paragraph-emphasis:
     body-content_html: >-
-      <p>5 best cafes where to have delicious food:</p><ul><li>L&uuml;rzer Alm
-      (vegan salads and asian wok)</li><li>Seekarhaus (on the skipist, only very
-      few options)</li><li>Fritz &amp; Friedrich (amazing Asian food incl. the
-      best sushi)</li><li>Rigele Royal (amazing food and the best vegan meals on
+      <h4>Where To Eat And Stay In Obertauern</h4><h5>5 best cafes where to have
+      delicious food:</h5><ul><li>L&uuml;rzer Alm (vegan salads and asian
+      wok)</li><li>Seekarhaus (on the skipist, only very few
+      options)</li><li>Fritz &amp; Friedrich (amazing Asian food incl. the best
+      sushi)</li><li>Rigele Royal (amazing food and the best vegan meals on
       request)</li><li>Steinbock (vegan options)</li></ul><p>So many nice hotels
       in the area but we have picked four, that we think are the best
       ones:&nbsp;</p><ul><li>4* Superior<a
@@ -105,18 +106,18 @@ sections:
   - banner_path: /uploads/obertauern-by-night-1.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Highlight of Obertauern
+    main-paragraph-emphasis:
     body-content_html: >-
-      <p>Ski in Ski out - you are immediately on the piste once you walk out of
-      your hotel. This is really cool feature of Obertauern. If you&rsquo;ve
-      been on a winter holiday before, you know exactly what we
-      mean.&nbsp;</p><p>The best way to spend your winter in Austria: visit
-      Obertauern.</p><p>We love being by the sea, but nothing can compare to a
-      winter ski trip with the one you love. We cannot wait to get back on the
-      slopes and share more amazing snow content with you!</p><p>If you have any
-      questions, drop us a message in the comment section below, or tag us in
-      your photos! We hope you have the same incredible experience that we
-      did.</p><p>Much love,</p><p>Marie &amp; Jake</p>
+      <h4>Highlight of Obertauern</h4><p>Ski in Ski out - you are immediately on
+      the piste once you walk out of your hotel. This is really cool feature of
+      Obertauern. If you&rsquo;ve been on a winter holiday before, you know
+      exactly what we mean.&nbsp;</p><p>The best way to spend your winter in
+      Austria: visit Obertauern.</p><p>We love being by the sea, but nothing can
+      compare to a winter ski trip with the one you love. We cannot wait to get
+      back on the slopes and share more amazing snow content with you!</p><p>If
+      you have any questions, drop us a message in the comment section below, or
+      tag us in your photos! We hope you have the same incredible experience
+      that we did.</p><p>Much love,</p><p>Marie &amp; Jake</p>
 show-gallery: false
 gallery:
   - image_path:
