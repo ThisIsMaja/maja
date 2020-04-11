@@ -12,11 +12,7 @@ banner-1_path: /images/greece/mariefeandjakesnow-greece12.jpg
 categories:
   - travel
 tags:
-  - diet
-  - mental Health
-  - exercise
-  - yoga
-  - conscious civing
+  - Europe
 author: Marie Fe & Jake Snow
 image-1_path: /images/greece/mariefeandjakesnow-greece2.jpg
 image-2_path:
