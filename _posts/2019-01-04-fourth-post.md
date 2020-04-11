@@ -11,8 +11,8 @@ categories:
   - travel
 tags:
   - photography
-  - sustainability
   - fashion
+  - Europe
 author: Jake Snow
 image-1_path: /images/Obertauern/Obertauern1.jpg
 image-2_path: /images/Obertauern/Obertauern2.jpg
