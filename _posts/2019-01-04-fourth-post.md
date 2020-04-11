@@ -86,9 +86,9 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4>Where To Eat And Stay In Obertauern</h4><p>&nbsp;</p><p>5 best cafes
-      where to have delicious food:</p><ul><li>L&uuml;rzer Alm (vegan salads and
-      asian wok)</li><li>Seekarhaus (on the skipist, only very few
+      <h4>Where To Eat And Stay In Obertauern</h4><p>5 best cafes where to have
+      delicious food:</p><ul><li>L&uuml;rzer Alm (vegan salads and asian
+      wok)</li><li>Seekarhaus (on the skipist, only very few
       options)</li><li>Fritz &amp; Friedrich (amazing Asian food incl. the best
       sushi)</li><li>Rigele Royal (amazing food and the best vegan meals on
       request)</li><li>Steinbock (vegan options)</li></ul><p>&nbsp;</p><p>So
