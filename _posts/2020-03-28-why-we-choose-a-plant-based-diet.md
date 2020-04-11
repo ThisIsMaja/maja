@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-01-01 00:00:00
-slug: why-choose-plantbased-diet
+slug: why-choose-a-plantbased-diet
 title: Why We Choose a Plant Based Diet
 meta-description:
 meta-keywords: 'diet, plantbased diet, vegan,'
