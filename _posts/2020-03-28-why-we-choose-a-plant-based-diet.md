@@ -110,6 +110,63 @@ sections:
       believe right now, it is important to think consciously about your
       choices. Does the end result of your choices truly reflect what you
       believe?</p><h2>&nbsp;</h2>
+  - banner_path: /images/banners/maja-banner-3.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: >-
+      There are many inspiring people out there that have dedicated their lives
+      to sharing the truth
+    body-content_html: >-
+      <h4>WHY DON&rsquo;T WE ALL KNOW THIS?</h4><p>This is where it gets scary
+      and sad. Unfortunately the world we live in revolves around money. Three
+      of the most powerful industries in the world rely on us making bad food
+      choices. Animal agriculture and the products it produces make us sick, we
+      spend our hard earned money on healthcare for surgeries and doctors
+      appointments, then we are prescribed medication from the pharmaceutical
+      industry to mask our sickness. Then we go back to eating the same
+      unhealthy food and the vicious cycle continues.&nbsp;</p><p>The whole
+      reason all of this is able to occur without us realising is due to the
+      fact that we are all confused. One google search about what the healthiest
+      diet is for humans will send your head spinning. One minute a red wine a
+      day is good for you, the next day butter in your coffee is supposed to be
+      good. The whole food and diet industry relies on us being confused!! If we
+      all knew what to eat and we were all healthy a lot of companies would lose
+      a lot of money!</p><h4><strong>WHATS THE GOOD NEWS?</strong></h4><p>The
+      good news is, at this moment in time we have never had more freedom to
+      access information. If you spend enough time sifting through the opinion
+      based, biased and statistically incorrect information, you will find the
+      truth. There are many inspiring people out there that have dedicated their
+      lives to sharing the truth. We follow a bunch of these people daily for
+      new information and tips/advice. We will link their pages/websites down at
+      the bottom of the article.</p><p>If we told you that by making one
+      decision you could have the biggest positive effect on climate change, you
+      could save hundreds of animals lives, you could feel younger and more
+      energetic, you could have brighter and clearer skin and you could give
+      yourself the best chance at living a long and healthy life. Would you want
+      to know what that decision would be?</p><p>Making the decision to learn
+      about and commit to, a whole foods plant based diet will give you all
+      these things and more!!</p><p>&ldquo;Let food be thy medicine and medicine
+      be thy food&rdquo;</p><p>&mdash; HIPPOCRATES</p><p>We don&rsquo;t get
+      worked up about much, we are pretty relaxed and easy going people. This
+      conversation gets us worked up! We are not telling you all this for any
+      reason other than we know that moving towards a plant based diet will
+      bring you only benefits in terms of your health and well-being.</p><p>For
+      more information/inspiration on this topic check out these
+      resources</p><p><strong>Netflix</strong></p><p>&ndash; Forks over Knives,
+      Okja, What the Health, Cowspiracy, Food
+      Choices.</p><p><strong>Web</strong></p><p>&ndash;&nbsp;<a target="_blank"
+      href="https://nutritionfacts.org/">www.nutritionfacts.org&nbsp;</a>(non
+      for profit website, peer reviewed studies, no
+      opinions)</p><p>Instagram</p><p>&ndash;&nbsp;<a target="_blank"
+      href="https://www.instagram.com/plant_proof/">@plant_proof</a>,&nbsp;<a
+      target="_blank"
+      href="https://www.instagram.com/vegainstrength/">@vegainstrength</a>,&nbsp;<a
+      target="_blank"
+      href="https://www.instagram.com/earthyandy/">@earthyandy</a></p><p><strong>Books</strong></p><p>&ndash;
+      &lsquo;How Not To Die&rsquo; written by Dr Michael
+      Gregor,</p><p>&nbsp;&lsquo;The China Study&rsquo; written by Colin T
+      Campbell</p><p>&lsquo;The Food Revolution&rsquo; written by John
+      Robbins</p>
 show-gallery: true
 gallery:
   - image_path:
