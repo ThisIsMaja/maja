@@ -6,7 +6,7 @@ title: An (imperfect) guide to help you stay productive and healthy
 meta-description:
 meta-keywords: 'productivity, guide'
 image_path: /images/maldives/amilla-fushi5.jpg
-banner-1_path: /images/style/maja-stock-11.jpg
+banner-1_path: /images/office/home-office4.jpg
 categories:
   - wellbeing
 tags:
@@ -84,7 +84,7 @@ sections:
       my sleep, I will keep you updated on the results).</p><p>So, after a
       successful evening routine and a good night sleep, this is how my morning
       routine start after waking up.</p>
-  - banner_path: /images/office/home-office4.jpg
+  - banner_path: /images/style/maja-stock-4.jpg
     banner-caption:
     columns: false
     main-paragraph-emphasis: I found a way to make the journal process easier for me
