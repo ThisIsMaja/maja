@@ -6,7 +6,7 @@ title: An (imperfect) guide to help you stay productive and healthy
 meta-description:
 meta-keywords: 'productivity, guide'
 image_path: /images/maldives/amilla-fushi5.jpg
-banner-1_path: /images/style/maja-stock-36.jpg
+banner-1_path: /images/style/maja-stock-11.jpg
 categories:
   - wellbeing
 tags:
