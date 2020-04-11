@@ -131,27 +131,27 @@ sections:
       day is good for you, the next day butter in your coffee is supposed to be
       good. The whole food and diet industry relies on us being confused!! If we
       all knew what to eat and we were all healthy a lot of companies would lose
-      a lot of money!</p><h4><strong>WHATS THE GOOD NEWS?</strong></h4><p>The
-      good news is, at this moment in time we have never had more freedom to
-      access information. If you spend enough time sifting through the opinion
-      based, biased and statistically incorrect information, you will find the
-      truth. There are many inspiring people out there that have dedicated their
-      lives to sharing the truth. We follow a bunch of these people daily for
-      new information and tips/advice. We will link their pages/websites down at
-      the bottom of the article.</p><p>If we told you that by making one
-      decision you could have the biggest positive effect on climate change, you
-      could save hundreds of animals lives, you could feel younger and more
-      energetic, you could have brighter and clearer skin and you could give
-      yourself the best chance at living a long and healthy life. Would you want
-      to know what that decision would be?</p><p>Making the decision to learn
-      about and commit to, a whole foods plant based diet will give you all
-      these things and more!!</p><p>&ldquo;Let food be thy medicine and medicine
-      be thy food&rdquo;</p><p>&mdash; HIPPOCRATES</p><p>We don&rsquo;t get
-      worked up about much, we are pretty relaxed and easy going people. This
-      conversation gets us worked up! We are not telling you all this for any
-      reason other than we know that moving towards a plant based diet will
-      bring you only benefits in terms of your health and well-being.</p><p>For
-      more information/inspiration on this topic check out these
+      a lot of money!</p><h4>WHATS THE GOOD NEWS?</h4><p>The good news is, at
+      this moment in time we have never had more freedom to access information.
+      If you spend enough time sifting through the opinion based, biased and
+      statistically incorrect information, you will find the truth. There are
+      many inspiring people out there that have dedicated their lives to sharing
+      the truth. We follow a bunch of these people daily for new information and
+      tips/advice. We will link their pages/websites down at the bottom of the
+      article.</p><p>If we told you that by making one decision you could have
+      the biggest positive effect on climate change, you could save hundreds of
+      animals lives, you could feel younger and more energetic, you could have
+      brighter and clearer skin and you could give yourself the best chance at
+      living a long and healthy life. Would you want to know what that decision
+      would be?</p><p>Making the decision to learn about and commit to, a whole
+      foods plant based diet will give you all these things and
+      more!!</p><p>&ldquo;Let food be thy medicine and medicine be thy
+      food&rdquo;</p><p>&mdash; HIPPOCRATES</p><p>We don&rsquo;t get worked up
+      about much, we are pretty relaxed and easy going people. This conversation
+      gets us worked up! We are not telling you all this for any reason other
+      than we know that moving towards a plant based diet will bring you only
+      benefits in terms of your health and well-being.</p><p>For more
+      information/inspiration on this topic check out these
       resources</p><p><strong>Netflix</strong></p><p>&ndash; Forks over Knives,
       Okja, What the Health, Cowspiracy, Food
       Choices.</p><p><strong>Web</strong></p><p>&ndash;&nbsp;<a target="_blank"
