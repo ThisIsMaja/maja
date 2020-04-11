@@ -117,7 +117,8 @@ sections:
       get to Dhigurah from Thulusdhoo, you need to go back to Male. You then hop
       on another speedboat which will take 2 hours to get to Dhigurah and costs
       $55 per person. Alternatively, you could fly from Male to Dhigurah but
-      this costs $270 for the round trip.</p><h4>Things To Do In Dhigurah
+      this costs $270 for the round
+      trip.</p><h4>&nbsp;</h4><h4>&nbsp;</h4><h4>Things To Do In Dhigurah
       Island</h4><p>As with all local islands in the Maldives, the main
       attractions lie beyond the seashore.</p><p>Dhigurah Island is the only
       area in the Maldives where whale sharks and manta rays are spotted all
@@ -141,19 +142,19 @@ sections:
       the island.</p><p>If you&rsquo;re looking for seclusion and tranquility,
       this is the best local island to visit in the Maldives!</p><p>To get to
       Goidhoo Island, you need to take a speed boat from the main island, Male.
-      This is under 2 hours and costs $80 for the return trip.</p><h4>Things to
-      do in Goidhoo Island</h4><p>Take the cruiser bikes from Olive Giodhoo and
-      explore the peaceful island. You will find a beautiful white beach at the
-      far end of the island about a 10-minute ride from town. Spend the day
-      relaxing and enjoying the calming nature of Giodhoo.</p><p>We also went
-      out on a catamaran and explored the surrounding islands including
-      Fulhadhoo Island which is just 15-minutes away from Goidhoo. If you have
-      the chance, pack some snacks, park off at one of the sandbars and spend
-      your afternoon lazing in the sun and freediving just off the
-      beach.</p><p>The best way to explore Goidhoo Island itself is by bike as
-      it&rsquo;s the only way to get around.</p><h4>Where to stay in Goidhoo
-      Island</h4><ul><li>Olive Goidhoo: $70 a night for a double room including
-      breakfast</li></ul>
+      This is under 2 hours and costs $80 for the return trip.</p><h4>Where to
+      stay in Goidhoo Island</h4><ul><li>Olive Goidhoo: $70 a night for a double
+      room including breakfast</li></ul><h4>Things to do in Goidhoo
+      Island</h4><p>Take the cruiser bikes from Olive Giodhoo and explore the
+      peaceful island. You will find a beautiful white beach at the far end of
+      the island about a 10-minute ride from town. Spend the day relaxing and
+      enjoying the calming nature of Giodhoo.</p><p>We also went out on a
+      catamaran and explored the surrounding islands including Fulhadhoo Island
+      which is just 15-minutes away from Goidhoo. If you have the chance, pack
+      some snacks, park off at one of the sandbars and spend your afternoon
+      lazing in the sun and freediving just off the beach.</p><p>The best way to
+      explore Goidhoo Island itself is by bike as it&rsquo;s the only way to get
+      around.</p>
   - banner_path: /images/maldives/amilla-fushi1.jpg
     banner-caption:
     columns: true
