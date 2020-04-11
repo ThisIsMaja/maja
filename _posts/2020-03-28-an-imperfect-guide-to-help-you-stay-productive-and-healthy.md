@@ -50,8 +50,8 @@ sections:
       easier. This is why created our own Miracle Morning Routine that we try to
       stick to as much as possible.</p><p>The following 5 tips are easy to
       implement and have helped us to be productive despite having a busy life
-      on the road. Here we go! ☺</p><p><strong>1. wake up
-      early&nbsp;</strong></p><p>This year, we started getting up between 5.00
+      on the road. Here we go! ☺</p><h4><strong>1. wake up
+      early&nbsp;</strong></h4><p>This year, we started getting up between 5.00
       am and 7.00 am. This shift is life changing when you can create a habit of
       waking up early.</p><p>Before most people are even awake, we have planned
       our day, exercised, tackled our most important tasks, showered and
@@ -71,19 +71,18 @@ sections:
       stressed right after waking up, we make sure to get up early enough, we
       avoid looking at our phones within the first 30 mins and we do things that
       clear our minds and calm us like stretching, journaling and
-      meditating.</p><p>&nbsp;</p><p><strong>2. good quality sleep and water
-      after waking up</strong></p><p>I also make sure that I sleep
-      enough!</p><p>After I had my first and only cold sore on my lip (deutsch:
-      Herpes) in January and when my skin was bad last year. I realised that I
-      not only needed to eat clean but also get enough rest.</p><p>Personally,
-      7-8 hours sleep is ideal in order to function well. I can recommend to you
-      to find out how much time your body needs in order to feel
-      well-rested.</p><p>Ideally, you wake up in the morning without an alarm
-      clock. I am still in the process of getting into a rhythm where my body
-      wakes up naturally. (This year I plan to use a sleep tracker to better map
-      my sleep, I will keep you updated on the results).</p><p>So, after a
-      successful evening routine and a good night sleep, this is how my morning
-      routine start after waking up.</p>
+      meditating.</p><h4><strong>2. good quality sleep and water after waking
+      up</strong></h4><p>I also make sure that I sleep enough!</p><p>After I had
+      my first and only cold sore on my lip (deutsch: Herpes) in January and
+      when my skin was bad last year. I realised that I not only needed to eat
+      clean but also get enough rest.</p><p>Personally, 7-8 hours sleep is ideal
+      in order to function well. I can recommend to you to find out how much
+      time your body needs in order to feel well-rested.</p><p>Ideally, you wake
+      up in the morning without an alarm clock. I am still in the process of
+      getting into a rhythm where my body wakes up naturally. (This year I plan
+      to use a sleep tracker to better map my sleep, I will keep you updated on
+      the results).</p><p>So, after a successful evening routine and a good
+      night sleep, this is how my morning routine start after waking up.</p>
   - banner_path: /images/style/maja-stock-4.jpg
     banner-caption:
     columns: false
