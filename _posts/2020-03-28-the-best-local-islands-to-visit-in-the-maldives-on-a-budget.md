@@ -20,12 +20,9 @@ intro-paragraph-emphasis: >-
 intro-content_html: >-
   <p>Over-water bungalows and private villas have become synonymous with the
   Maldives. As a result, many people steer clear of this tropical island
-  destination due to budget reasons.</p><p>But, whilst the Maldives is the ideal
-  honeymoon destination, it&rsquo;s also the perfect place for any type of
-  traveler. The local islands in the Maldives are yours to
-  explore!</p><p>Whether you&rsquo;re looking for adventure, water sports, or a
-  relaxing beach vacation on a budget, the Maldives has a bit of something for
-  everyone!</p>
+  destination due to budget reasons.</p><p>Whether you&rsquo;re looking for
+  adventure, water sports, or a relaxing beach vacation on a budget, the
+  Maldives has a bit of something for everyone!</p>
 sections:
   - banner_path: /images/style/maja-stock-33.jpg
     banner-caption:
