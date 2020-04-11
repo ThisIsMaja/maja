@@ -93,7 +93,7 @@ sections:
       grew, the more time we spent in front of screens. The more we traveled,
       the less we were able to stick to our healthy routines of yoga, reading,
       journaling.&nbsp;</p><h4>&nbsp;</h4>
-  - banner_path:
+  - banner_path: /images/style/maja-stock-style2.jpg
     banner-caption:
     columns: false
     main-paragraph-emphasis: Your dreams are worth pursuing
