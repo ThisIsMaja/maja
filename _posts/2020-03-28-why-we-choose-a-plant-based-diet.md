@@ -17,7 +17,7 @@ tags:
   - conscious civing
 author: Marie Fe
 image-1_path: /images/food/vegan-food8.jpg
-image-2_path: /images/food/vegan-food9.jpg
+image-2_path: /images/food/plantbased-food3.jpg
 intro-paragraph-emphasis: >-
   Now I know for certain after 2.5 years of aligning my actions with my beliefs
   and only eating whole plant based food, not only do humans survive on a plant
