@@ -2,27 +2,42 @@
 layout: default
 ---
 
-<section class="banner fixed padded-5vw grid centered" style="background-image:url({{page.banner-1_path}});">
+<section class="banner fixed grid-right" style="background-image:url({{page.banner-1_path}});">
 
-  <div class="overlay"></div>
+  <!-- <div class="overlay"></div> -->
 
-  <div class="col-12-bottom banner-inner">
-
-    {% for category in page.categories limit:1%}
-      <a href="/{{category | slugify }}" class="category"> {{category}} </a>
-    {% endfor %}
-
-    <h1> {{page.title}} </h1>
-
-    <p class="post-date"> by {{page.author}} on {{page.date | date: "%m.%d.%Y" }}</p>
-
-  {% include squiggle.html %}
-
-  <a href="#post-content" class="down-arrow margin-top-2 mob-hide">
-  <img style="padding: 1rem; max-height: 6rem;" src="https://wovenmagazine.com/content/themes/woven/assets/images/arrow-scroll.png">
+  <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom">
+    <div class="banner-inner grid margin-bottom-2">
+    <div class="col-6 left">
+      <span class="author"> {{page.author}} </span> | <span class="category"> {{page.categories[0]}} </span>
+    </div>
+    <div class="col-6 right">
+        {% include squiggle.html %}
+    </div>
+    <div class="col-12">
+      <h2 class="centered"> {{page.title}} </h2>
+      <p class="author"> {{page.date | date: "%m.%d.%Y" }} </p>
+     </div>
+   </div>
   </a>
 
-</div>
+    <!-- <div class="col-12-bottom banner-inner">
+
+      {% for category in page.categories limit:1%}
+        <a href="/{{category | slugify }}" class="category"> {{category}} </a>
+      {% endfor %}
+
+      <h1> {{page.title}} </h1>
+
+      <p class="post-date"> by {{page.author}} on {{page.date | date: "%m.%d.%Y" }}</p>
+
+    {% include squiggle.html %}
+
+    <a href="#post-content" class="down-arrow margin-top-2 mob-hide">
+    <img style="padding: 1rem; max-height: 6rem;" src="https://wovenmagazine.com/content/themes/woven/assets/images/arrow-scroll.png">
+    </a>
+
+  </div> -->
 </section>
 
 <!-- this automatically outputs each category tag -->
@@ -49,20 +64,23 @@ layout: default
       <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
 
       {{page.intro-content_html}}
-
-      <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
   </div>
 </section>
 
 {% for section in page.sections %}
 
-<section class="banner fixed grid-right right" style="background-image:url({{section.banner_path}});">
+  {% unless section.banner_path == nil %}
 
-  <div class="col-4_sm-6_xs-12-bottom padded-2">
-      <p class="margin-0"> <span class="highlighted-text">{{section.banner-caption}}</span></p>
-  <div>
+  <section class="banner fixed grid-right right" style="background-image:url({{section.banner_path}});">
 
-</section>
+    <div class="col-4_sm-6_xs-12-bottom padded-2">
+        <p class="margin-0"> <span class="highlighted-text">{{section.banner-caption}}</span></p>
+    <div>
+
+  </section>
+
+{% endunless %}
+
 <section class="light-bg">
   <div class="grid-center padded capped-width blog-content">
     <div class="col-4_sm-10 centered">
@@ -81,6 +99,8 @@ layout: default
 
 {% endfor %}
 
+{% if page.gallery == true %}
+
 <section class="gallery padded capped-width centered blog-content">
   <p>
     <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
@@ -88,5 +108,7 @@ layout: default
   {% for item in page.gallery %}
   <img src="{{item.image_path}}" class="{{item.size}}">
   {% endfor %}
-  <p class="subtitle margin-top-1"> {{page.gallery-text}}</p> 
+  <p class="subtitle margin-top-1"> {{page.gallery-text}}</p>
 </section>
+
+{% endif %}

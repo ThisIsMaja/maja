@@ -152,6 +152,7 @@ sections:
       &lsquo;How Not To Die&rsquo; written by Dr Michael
       Gregor,</p><p>&nbsp;&lsquo;The China Study&rsquo; written by Colin T
       Campbell</p><p>&lsquo;The Food Revolution&rsquo; written by John Robbins</p>
+show-gallery: true   
 gallery:
   - image_path:
     size: full

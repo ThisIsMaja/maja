@@ -5,8 +5,8 @@ date: 01/01/2020
 slug:
 meta-description:
 meta-keywords:
-image_path: /images/marie and jake/Website 2-11.jpg
-banner-1_path: /images/marie and jake/Website 2-11.jpg
+image_path:
+banner-1_path: 
 categories:
   - musings
 tags:
