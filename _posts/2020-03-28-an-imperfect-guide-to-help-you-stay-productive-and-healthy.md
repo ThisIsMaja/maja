@@ -88,7 +88,7 @@ sections:
     columns: false
     main-paragraph-emphasis: I found a way to make the journal process easier for me
     body-content_html: >-
-      <p><strong>3. morning journaling</strong></p><p>I have never been a big
+      <h4><strong>3. morning journaling</strong></h4><p>I have never been a big
       journal person. I couldn&rsquo;t get myself to write down a lot of things
       or even describe my thoughts and feelings in a journal.</p><p>But last
       year, I started to understand how important it is to have control over
@@ -117,8 +117,8 @@ sections:
       again.</p><p>Completing the days tasks leaves me feeling accomplished,
       empowered and motivated to keep following my dreams. You can even use the
       5 minute journal on your phone, by downloading the app &ldquo;Five minute
-      Journal&rdquo;.</p><p><strong>4. get-to-dos and efficiency/
-      productivity&nbsp;</strong></p><p>In our relationship, I am the one who
+      Journal&rdquo;.</p><h4><strong>4. get-to-dos and efficiency/
+      productivity&nbsp;</strong></h4><p>In our relationship, I am the one who
       needs structure when it comes to our work. It calms me down to know what
       my day will look like.</p><p>Jake never needed that, he has always been a
       free, creative spirit, but now that we are running our own company, having
@@ -151,8 +151,8 @@ sections:
       to complete that task. You then fill out the circles as you go along, and
       finally note down how many Pomodoros it actually took you to finish it.
       This gives you an idea of how long certain tasks take for future
-      reference.</p><p><strong>5. easy yoga flow &amp;
-      exercise&nbsp;</strong></p><p>When it comes to being active, we don't
+      reference.</p><h4><strong>5. easy yoga flow &amp;
+      exercise&nbsp;</strong></h4><p>When it comes to being active, we don't
       follow a strict routine. Usually, we just do whatever feels right for us
       in the moment.</p><p>Both Jake and I usually practice a simple flow that
       varies every single time we get on our mats (or towels when we are
