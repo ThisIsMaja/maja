@@ -2,7 +2,7 @@
 layout: post
 date: 2020-01-01 00:00:00
 slug:
-title: 5 Things You Must Do In the Komodo Islands 2019
+title: 5 Things You Must Do In The Komodo Islands 2019
 meta-description:
 meta-keywords:
 image_path: /images/komodo-islands/Komodo-Islands4.jpg
