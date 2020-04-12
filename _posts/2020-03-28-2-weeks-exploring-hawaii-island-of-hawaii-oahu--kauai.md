@@ -196,7 +196,7 @@ sections:
       Waikiki Beach. It cost $40 per person for the 1.5-hour yoga class.</p>
   - banner_path: /uploads/oahu-dron-shot.jpg
     banner-caption:
-    columns: true
+    columns: false
     main-paragraph-emphasis: Food And Accommodation
     body-content_html: >-
       <h3>Where To Eat In Oahu</h3><p>As with the Island of Hawaii, Oahu has
