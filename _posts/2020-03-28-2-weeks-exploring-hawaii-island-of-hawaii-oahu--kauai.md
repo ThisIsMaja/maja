@@ -211,7 +211,7 @@ sections:
       wrong with this location.</li><li>Budget: Island James Villa - This is an
       amazing family spot in Oahu. You can contact them directly through<a
       href="https://www.instagram.com/islandjamesvilla/">
-      <u>Instagram</u></a>.</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+      <u>Instagram</u></a>.</li></ul>
   - banner_path: /uploads/kauai-street-view.jpg
     banner-caption:
     columns: false
