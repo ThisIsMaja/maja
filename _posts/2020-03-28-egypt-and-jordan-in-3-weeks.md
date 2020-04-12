@@ -156,6 +156,78 @@ sections:
       do&rsquo;s in Egypt are:</h3><ul><li>Karnak Temple</li><li>Pyramids of
       Giza</li><li>Abu Simbel</li><li>Hot air balloon over
       Luxor</li><li>Snorkelling in Dahab</li><li>Diving in Marsa Alam</li></ul>
+  - banner_path: /images/egypt-jordan/petra-jordan2.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>On to Jordan (4 days)</h2><p>Although we didn&rsquo;t have much time
+      left to explore the surrounding countries of Egypt we definitely wanted to
+      get a taste of Jordan before flying back to Germany for a family
+      gathering. Thankfully Travel Talk offered an extra 4-day leg which would
+      extend our tour through Jordan.</p><p>We are soo grateful we decided to
+      visit Jordan even though we would have loved to stay
+      longer.&nbsp;</p><p>Here is an overview of how we spent our short time in
+      Jordan and our highlights of the trip.</p><h3>Day 1: Wadi
+      Rum</h3><p>Spending our first night under the stars in Jordan was
+      magnificent. We actually arrived late at night and took a bus into our
+      camp also at night. We had no idea of the landscape that surrounded us
+      until we woke up the next morning. What we witnessed that morning was
+      something we will always remember and one of the best shoots we&rsquo;ve
+      ever had (Wadi Rum desert is a must-see)</p><h3>Day 2: Wadi Rum jeep tour
+      + afternoon in Petra</h3><p>Following our amazing sunrise shoot, we made
+      our way to the Wadi Rum visitors centre to start our Jeep Safari. This
+      experience was also awesome! It honestly felt like we were in a movie like
+      star wars or Indiana Jones. We didn&rsquo;t ride any camels as don&rsquo;t
+      like to use animals in any way including entertainment. However, we like
+      taking photos with camels which you can see below :)</p><p>Arriving to
+      Petra in the afternoon we made our way straight to the famous Red Rose
+      City. We will never forget that feeling of walking through the gorge as it
+      opens up to reveal the treasury, this was most definitely a once in a
+      lifetime experience and something we recommend for everyone.</p><h3>Day 3:
+      Early morning in Petra + Dead Sea</h3><p>The day before we made our plans,
+      we looked at all the places we wanted to shoot and now it was time to get
+      the shots. We were the first ones in line at 6.45 am to make the walk down
+      the gorge to the treasury. We were the first ones there and although the
+      lighting wasn&rsquo;t perfect it was great that we could shoot before the
+      crowds arrived. We highly recommend going early if you want to take photos
+      without a lot of people in the way.</p><p>Maybe the biggest disappointment
+      for us was the location we got dropped off at to see the Dead Sea. We were
+      hoping for white salt beds with shades of pink and a calm lake but we
+      didn&rsquo;t get any of that. It wasn&rsquo;t necessarily anyone&rsquo;s
+      fault it was just that the weather conditions didn&rsquo;t allow for us to
+      visit a nicer part of the lake due to risk of flooding. Swimming in the
+      Dead Sea was definitely a surreal experience and something we think you
+      should definitely try.</p><h3>Day 4: Amman</h3><p>Our last day in Jordan
+      was spent in the capital city of Amman. We visited the citadel which was
+      quite nice and a good spot for photos at sunset!</p>
+  - banner_path: /images/egypt-jordan/rue-de-seine.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Our Last Thoughts</h2><p>Our time in and Egypt and Jordan was
+      definitely a fascinating experience, it was crazy and it was full-on. In
+      our opinion, we would do it the same way over again if we could turn back
+      time. These two countries are not easy to travel, especially in Egypt. We
+      usually advocate a more do it yourself approach when it comes to travel as
+      that&rsquo;s the way we like to travel and generally the best way to get a
+      raw and real experience of a country. But for this trip, we really believe
+      a tour is your best bet to make the most out of your time.</p><p>In
+      summary, we wish we could have spent a few more days in Jordan to really
+      capture its beauty, but it is a small country and you can cover it pretty
+      quickly. This is a trip for those people seeking real adventure, it was
+      not the most comfortable trip but in terms of amazement, this trip is up
+      there with the most amazing trips we&rsquo;ve been on. Our memories of
+      this trip will be of the history, the incredible rugged landscapes, the
+      crystal clear Red Sea, camels, pharaohs, pyramids and Indiana
+      Jones.</p><p>Have you been to Egypt or Jordan? We would love to know about
+      your experience in the comments below.</p>
+  - banner_path: /images/egypt-jordan/wadi-rum.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html:
 show-gallery: true
 gallery:
   - image_path: /images/egypt-jordan/redsea-diving3.jpg
