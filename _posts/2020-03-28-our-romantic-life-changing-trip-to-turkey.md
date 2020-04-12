@@ -21,15 +21,64 @@ intro-content_html: >-
   <p>I had no idea that I would be leaving Turkey engaged to the love of my
   life. It was the most special surprise I could have ever imagined and it was
   the extra addition to an already amazing trip that topped off my favourite
-  trip ever.</p>
+  trip ever.</p><p>Turkey surprised us with its amazing landscape, beautiful
+  people and amazing food.</p>
 sections:
-  - banner_path: /images/style/maja-stock-33.jpg
+  - banner_path: /images/turkey/cappadocia-photography6.jpg
     banner-caption:
-    columns: true
-    main-paragraph-emphasis: >-
-      We love being by the sea, but nothing can compare to a winter ski trip
-      with the one you love
-    body-content_html: This is the body content
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Istanbul</h2><p>Unfortunately, we only had 10 days in Turkey. From
+      Germany, we got a cheap flight to Istanbul!</p><p>Two days of city vibes
+      in Istanbul already convinced us how amazing this country really
+      is.</p><p>Where to eat in Istanbul</p><ul><li>Dubb (Indian Food/ Istanbul
+      centre/really good &amp; spicy curries/good
+      prices)&nbsp;</li></ul><ul><li>Zencefil (vegetarian/vegan/good
+      prices)</li></ul><p>What to see in Istanbul</p><ul><li>Blue
+      mosque&nbsp;</li><li>Beautiful viewpoint&nbsp; &amp; photo spot - Kubbe
+      Istanbul/ put it in maps and you will find it.</li></ul><p>Good to
+      know</p><ul><li>Istanbul has 2 airports&nbsp;</li><li>Take a Hava Bus from
+      and to the airports (cheap/good connections)</li></ul>
+  - banner_path: /images/turkey/cappadocia-photography3.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Cappadocia&nbsp;</h2><p>From Istanbul, we took another cheap flight to
+      Kayseri, a town with the closest airport to Cappadocia.&nbsp; Here are 4
+      things to know about Cappadocia before telling you where to stay, eat and
+      what to do.</p><h3>4 things you need to know about
+      Cappadocia</h3><ul><li>The hot air balloons fly all year if the weather
+      conditions allow it.</li><li>It&rsquo;s already worth it to fly for one
+      weekend, however, if you love photography as much as we do, stay a bit
+      longer so you will get a few amazing sunrises.</li><li>Cappadocia has
+      amazing cheap food, friendly dogs that are being taken care of by the
+      locals.</li><li>Cappadocia is the PERFECT place to
+      propose.&nbsp;</li></ul>
+  - banner_path: /images/turkey/cappadocia-photography5.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h3>Things to do in Cappadocia</h3><ul><li>Fly to Keyseri -
+      Istanbul-Kayseri/cheap flights/1h flight/organize pick up from your
+      hotel.</li><li>Gr&ouml;me sunrise viewpoint on the
+      mountain&nbsp;</li><li>Love valley&nbsp;</li><li>Pigeon
+      valley&nbsp;</li><li>Once in your lifetime experience - book a balloon
+      ride! (We booked ours with Butterfly balloons)</li><li>Rent a car
+      (30&euro;) and chase Balloons!</li><li>Best spot to take photos (go
+      to/park at Hot air balloons Cappadocia (type into your maps) &amp; explore
+      from there!</li></ul><h3>Where to eat in Cappadocia</h3><ul><li>Organic
+      cafe cafe (vegetarian kebap/beans/chickpeas/pumpkin desert)</li><li>Fat
+      boys&nbsp; (great veggie options, cheap)</li><li>Silk Road (Cozy fireplace
+      for cold days, amazing lentil soup, try vegetarian plate,
+      cheap)</li></ul><h3>Where to stay in Cappadocia</h3><ul><li><a
+      href="https://www.booking.com/hotel/tr/artemis-cave-suites.en.html?aid=1557198&amp;no_rooms=1&amp;group_adults=1"><u>Artemis
+      cave (cozy room/great location/amazing breakfast)</u></a></li><li><a
+      href="https://www.booking.com/hotel/tr/koza-cave.en.html?aid=1557198&amp;no_rooms=1&amp;group_adults=1"><u>Koza
+      Caves (best view, beautiful family owned hotel, perfect photo
+      spot)</u></a></li></ul>
 show-gallery: true
 gallery:
   - image_path:
