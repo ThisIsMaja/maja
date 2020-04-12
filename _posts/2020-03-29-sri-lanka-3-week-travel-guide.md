@@ -266,7 +266,7 @@ sections:
       might see wild elephants at the lake next to the
       homestay&nbsp;</li><li>Day trip to Kaudulla National park (best park to
       see a lot of elephants)</li></ul>
-  - banner_path: /images/sri-lanka/sri-lanka-unawanta.jpg
+  - banner_path: /uploads/sri-lanka-beach.jpg
     banner-caption:
     columns: true
     main-paragraph-emphasis:
@@ -277,9 +277,9 @@ sections:
       you need any help planning your trip be sure to contact Amar at <a
       href="https://www.mindfultravels.net/"><u>Mindful Travels
       here.</u></a></p><p>If you want to read about how we saved up for this
-      trip, read our article on<a
-      href="https://www.mariefeandjakesnow.com/blog/2018/12/16/how-to-afford-a-life-of-travel"><u>
-      how to save for travel here</u></a>.</p><p>Thanks for reading, for more
+      trip, read our article on&nbsp;<a
+      href="https://www.mariefeandjakesnow.com/blog/2018/12/16/how-to-afford-a-life-of-travel"><u>how
+      to save for travel here</u></a>.</p><p>Thanks for reading, for more
       information and inspiration we hope to see you over at <a
       href="https://www.instagram.com/mariefeandjakesnow/"><u>@mariefeandjakesnow</u></a>.</p><p>Lots
       of Love</p><p>Marie and Jake</p>
