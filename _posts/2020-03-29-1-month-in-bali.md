@@ -264,7 +264,7 @@ sections:
       tour at IG: @balinusapenidatour</p>
   - banner_path: /images/bali/bali-indonesia2.jpg
     banner-caption:
-    columns: true
+    columns: false
     main-paragraph-emphasis: Explore the North
     body-content_html: >-
       <h2>Amed, Mt Agung, Munduk - 4 days</h2><p>The north of Bali sometimes
