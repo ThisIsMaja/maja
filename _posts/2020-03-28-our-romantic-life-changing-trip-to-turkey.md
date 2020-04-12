@@ -32,14 +32,14 @@ sections:
       <h2>Istanbul</h2><p>Unfortunately, we only had 10 days in Turkey. From
       Germany, we got a cheap flight to Istanbul!</p><p>Two days of city vibes
       in Istanbul already convinced us how amazing this country really
-      is.</p><p>Where to eat in Istanbul</p><ul><li>Dubb (Indian Food/ Istanbul
-      centre/really good &amp; spicy curries/good
+      is.</p><h3>Where to eat in Istanbul</h3><ul><li>Dubb (Indian Food/
+      Istanbul centre/really good &amp; spicy curries/good
       prices)&nbsp;</li></ul><ul><li>Zencefil (vegetarian/vegan/good
-      prices)</li></ul><p>What to see in Istanbul</p><ul><li>Blue
+      prices)</li></ul><h3>What to see in Istanbul</h3><ul><li>Blue
       mosque&nbsp;</li><li>Beautiful viewpoint&nbsp; &amp; photo spot - Kubbe
-      Istanbul/ put it in maps and you will find it.</li></ul><p>Good to
-      know</p><ul><li>Istanbul has 2 airports&nbsp;</li><li>Take a Hava Bus from
-      and to the airports (cheap/good connections)</li></ul>
+      Istanbul/ put it in maps and you will find it.</li></ul><h3>Good to
+      know</h3><ul><li>Istanbul has 2 airports&nbsp;</li><li>Take a Hava Bus
+      from and to the airports (cheap/good connections)</li></ul>
   - banner_path: /images/turkey/cappadocia-photography3.jpg
     banner-caption:
     columns: false
