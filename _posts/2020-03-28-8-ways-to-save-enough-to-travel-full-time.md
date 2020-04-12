@@ -12,11 +12,9 @@ banner-2-caption:
 categories:
   - travel
 tags:
-  - diet
-  - mental Health
-  - exercise
-  - yoga
-  - conscious civing
+  - photography
+  - productivity
+  - business
 author: Marie Fe & Jake Snow
 image-1_path: /images/marie-jake/Website 2-9.jpg
 image-2_path: /images/marie-jake/Website 3-1.jpg
