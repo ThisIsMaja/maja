@@ -205,7 +205,7 @@ sections:
       delicious vegan and vegetarian buffet for $12 all you can eat.
       They&rsquo;re only open during lunch time.</li><li>Beet Box
       Caf&eacute;</li><li>Mud Hen Water</li><li>Kahumana Organic Farm &amp;
-      Cafe</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h3>Where
+      Cafe</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h3>Where
       To Stay In Oahu</h3><ul><li>Luxury:<a
       href="https://www.alohilaniresort.com/special-offers/?gclid=CjwKCAjwldHsBRAoEiwAd0JybbQQ6uM5R45o04HkHyBPLszlNZgFjFj4JdHpjAtrFaTR7tHJJ_wpZRoCBEYQAvD_BwE">
       <u>Alohilani Resort</u></a> is situated in Waikiki Beach and you cannot go
