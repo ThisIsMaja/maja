@@ -197,6 +197,139 @@ sections:
       Yoga&nbsp;</li><li>Relax &ndash; sleep, read and sun bath at the
       beach</li><li>Party at Gili T</li><li>Watch the amazing sunsets at the
       beach</li></ul>
+  - banner_path: /images/marie-jake/Website 2-24.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Nusa Islands - 5 days</h2><p>Get ready for adventure and exploring!
+      Between the 3 Nusa Islands Penida, Ceningan, and Lembongan you&rsquo;ll
+      have a lot to do. We took some incredible photos over our time on the
+      islands. Our favourite Island was Ceningan, the smallest of the
+      three.</p><p>On these islands you will find a mixture of white sand
+      beaches, huge cliffs and rock formations, surf breaks, palm tree forests
+      and awesome dive spots. Rent a scooter and explore to your hearts content,
+      but we weary of the the roads (not in the best
+      condition).&nbsp;</p><h3>Nusa Ceningan</h3><h4>Where to
+      eat</h4><ul><li>The Sand (beach vibes, best place for sunset, hammocks,
+      swings, canoes)</li><li>Le private (chill pool spot)</li><li>Seabreeze
+      Warung (hammocks, on the beach, coloured umbrellas)</li><li>Next level (go
+      upstairs, cute open air cafe, beautiful view)</li></ul><h4>Where to
+      stay</h4><ul><li>Le Pirate (beach side, cute beach huts, reasonable
+      price)</li><li>D&rsquo;reborn Guest House (very nice local family, clean
+      cute rooms with aircon, pool, cheap, scooter rental)</li></ul><h4>Things
+      to do</h4><ul><li>Blue Lagoon (cliff jumping)</li><li>The secret
+      beach&nbsp;</li><li>Mahana Point (on the opposite side is a small beach
+      with crystal blue water)</li><li>The sand bar (sunset spot, hammocks,
+      paddle boards, relax, good music)</li><li>Snorkel tour,&nbsp; see the
+      Manta rays (under water Buddha sculptures)</li></ul><p>For tours contact
+      @islandtime_bali on Instagram.</p><h3>Nusa Lembongan</h3><h4>Where to
+      eat</h4><ul><li>Papa Tarros (amazing Thai food)</li><li>Ginger an Jamu
+      (amazing Breakfast, smoothie bowls right at the beach)</li><li>Green
+      Garden Warung (veggie options, cheap, good
+      atmosphere)&nbsp;</li></ul><h4>Where to stay</h4><ul><li>Hostel Devadav
+      (stylish, good Wifi, awesome owner, outdoor shower,
+      cheap)</li><li>Tigerlillys ( for couples &ndash; beautiful boutique style,
+      amazing little oasis next to the beach)</li><li>Taju Guest House (private
+      room, clean cute &amp; quiet cheap, amazing staff and
+      breakfast)</li><li>La Nusa Beach Club&nbsp; (couple hotel, beautiful room,
+      big pool with view ocean view, good breakfast) &nbsp;</li><li>Tarci
+      Bungalow (local family, cheap, at the beach, clean cute
+      rooms)</li></ul><h4>Things to do</h4><ul><li>Catch a sunset at
+      Devil&rsquo;s Tears</li><li>Ride along the Yellow Bridge</li><li>Take a
+      kayak and explore the the Mangrove Forest&nbsp;</li><li>Chill at Dream
+      Beach , Sandy Bay or Mushroom Bay</li><li>Learn how to
+      surf&nbsp;</li></ul><h3>Nusa Penida</h3><h4>Where to
+      eat</h4><ul><li>Penido Espresso (smoothie bowl, vegan
+      options)</li><li>Vegan Sol Kitchen (Good food, good price, in the
+      jungle)</li></ul><h4>Where to stay</h4><ul><li><a
+      href="https://www.booking.com/hotel/id/ramwan-guest-house.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Ramwan
+      Guesthouse</u></a> (really cheap, cute rooms with balcony, 10 min from the
+      port)&nbsp;</li><li><a
+      href="https://www.booking.com/hotel/id/rumah-pohon-tree-house.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Rumah
+      Pohon Treehouse</u></a> (amazing IG Spot, small tree house with the most
+      stunning view)</li><li><a
+      href="https://www.booking.com/hotel/id/la-roja-bungalows.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>La
+      Roja Bungalows</u></a> (cute bungalows, swimming pool, free drop off and
+      pick ups for dinner, amazing staff)</li><li><a
+      href="https://www.booking.com/hotel/id/semabu-hills-nusa-penida-bali.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Semabu
+      Hills Hotel</u></a> (Hotel style, Infinity pool with amazing view,
+      beautiful rooms)</li></ul><h4>Things to do</h4><ul><li>Kelingkeling Beach
+      (T Rex beach, take the most famous Penida photo)</li><li>Crystal Beach
+      (relax, read eat, swim)</li><li>Angel Billabong (crystal clear pool
+      tide)</li><li>Snorkel with Mantas (book a tour on the island)</li><li>Roma
+      Tree House at Rumah Pohon&nbsp;</li><li>Atuh Beach (on the opposite site
+      of the tree House)</li><li>Hidden beach (on the way to Atuh
+      Beach)</li></ul><p>You are looking for a day trip to Penida, book your
+      tour at IG: @balinusapenidatour</p>
+  - banner_path: /images/bali/bali-indonesia2.jpg
+    banner-caption:
+    columns: true
+    main-paragraph-emphasis: Explore the North
+    body-content_html: >-
+      <h2>Amed, Mt Agung, Munduk - 4 days</h2><p>The north of Bali sometimes
+      gets overlooked when planning a trip to this amazing piece of the world.
+      If you have time we totally recommend heading north to check some of these
+      places out. Whether you want to take day tours from Canggu to see the hot
+      spots or you want to stay a bit longer, there is definitely a lot to see.
+      One of our craziest experiences in Bali was waking up at 2.30am to drive
+      to Bukit Cinta to watch Mt Agung erupt while the sun
+      rose.&nbsp;</p><h3>Munduk</h3><h4>Where to eat</h4><ul><li>Warung classic
+      (good for Vegetarians, amazing spring rolls)</li><li>Eco Cafe 2 (great
+      coffee and tea, good for plant based)</li></ul><h4>Where to
+      stay</h4><ul><li><a
+      href="https://www.booking.com/hotel/id/lesong-hotel-and-restaurant.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Lesong
+      Hotel &amp; Restaurent</u></a> (beautiful location with a view, surrounded
+      by rice fields, relaxing, lovely people)</li><li><a
+      href="https://www.booking.com/hotel/id/umah-de-madya.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Umah
+      de Maya</u></a> (located in a little village, clean rooms, friendly fam,
+      great view, cheap)&nbsp;</li></ul><h4>Things to do</h4><ul><li>Chase some
+      Waterfalls (Sekumpul, Munduk Bali Waterfall, Nungnung
+      Waterfall)</li><li>Trekking trough the rice fields</li><li>Get the famous
+      IG photo at the Pandara golf course gates</li><li>Explore the famous
+      temple at Tamblingan Lake&nbsp;</li></ul><h3>Amed</h3><h4>Where to
+      eat</h4><ul><li>Warung Pantai (cheap into food)</li><li>Warung Enak (good
+      variety, cheap)</li></ul><h4>Where to stay</h4><ul><li><a
+      href="https://www.booking.com/hotel/id/the-bbq-guest-house.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
+      BBQ Guest House</u></a> (clean cute bungalows, beach view, friendly staff,
+      mountain view, quiet cheap)</li><li><a
+      href="https://www.booking.com/hotel/id/aquaterrace-amed.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Aquaterrace
+      Amed</u></a> (beautiful Hotel in boutique Style, feels like Greece, great
+      food, infinity pool, sun beds)</li><li>Babu Rack Homestay (Cute little
+      rooms, good breakfast, very cheap, kind owners)</li></ul><h4>Things to
+      do</h4><ul><li>Take a photo at Puma Lempuyang ( the famous Gates from
+      IG)</li><li>Relax at the Beach&nbsp; &ndash; Pantai
+      Jemeluk&nbsp;</li><li>Try wreck diving, snorkelling or kayaking</li><li>Go
+      hiking and see Mount Agung</li><li>Take the most stunning photo of Mount
+      Agung ( at Bukit Cinta)</li><li>Learn how to free dive&nbsp;</li><li>Visit
+      the Tirta Gangga Water palace&nbsp;</li></ul>
+  - banner_path: /images/bali/bali-indonesia9.jpg
+    banner-caption:
+    columns: false
+    main-paragraph-emphasis: Finish it off with a Bang
+    body-content_html: >-
+      <h2>Seminyak - 2 days</h2><p>By now you&rsquo;ve probably had the most
+      epic month of your life, your camera is full of amazing pictures and your
+      trip is coming to an end. Why not finish off your trip with some tasty
+      food and some beach side celebrations. Seminyak is full of beachside bars
+      and restaurants. The perfect place to enjoy yourself and reminisce about
+      your perfect month in Bali</p><h3>Where to eat</h3><ul><li>Kynd Community
+      (possibly our favourite cafe in all of Bali, plant based
+      goodness)</li><li>Sea Circus (instagram worthy, great food)</li><li>Divine
+      (pure Vegan heaven, Raw food)</li><li>Motel Mexicola (mexican tapas,
+      vibrant colours)</li><li>Warung Dua (local food, cheap, healthy, Nasi
+      Campur)</li></ul><h3>Where to stay</h3><ul><li><a
+      href="https://www.booking.com/hotel/id/seminyak-7-rooms.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>7
+      Rooms Seminyak</u></a> (stylish, Boutique, good location, reasonable
+      price)</li><li><a
+      href="https://www.booking.com/hotel/id/gria-manik-batubelig.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Gria
+      Manik Batubelig</u></a> (nice pool, good location)</li><li><a
+      href="https://www.booking.com/hotel/id/kosta-hostel.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Kosta
+      Hostel</u></a> (Value for money, nice dorms, good
+      food)</li></ul><h3>Things to do</h3><ul><li>Experience La Favela at
+      night</li><li>Watch the sunset at La Plancha</li><li>Shopping on Jalan
+      Kayu Aya</li><li>Hangout by the pool and relax/party at Mrs Sippy (sunbeds
+      and famous diveboard)</li><li>Relax at Potato Head or Ku Da Ta</li></ul>
 show-gallery: true
 gallery:
   - image_path: /images/style/maja-stock-11.jpg
