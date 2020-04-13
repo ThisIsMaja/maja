@@ -11,6 +11,7 @@ meta-keywords: >-
   eat, thing to do in madrid
 image_path: /images/city/madrid-spain1.jpg
 banner-1_path: /images/city/madrid-spain5.jpg
+banner-fixed: true
 categories:
   - travel
 tags:

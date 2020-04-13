@@ -7,6 +7,7 @@ meta-description:
 meta-keywords: 'diet, plantbased diet, vegan,'
 image_path: /images/food/vegan-food1.jpg
 banner-1_path: /images/food/vegan-food1.jpg
+banner-fixed: true
 categories:
   - wellbeing
 tags:

@@ -7,6 +7,7 @@ meta-description:
 meta-keywords:
 image_path: /images/maldives/amilla-fushi1.jpg
 banner-1_path: /images/style/maja-stock-19.jpg
+banner-fixed: true
 categories:
   - wellbeing
 tags:

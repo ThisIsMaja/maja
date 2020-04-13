@@ -9,6 +9,7 @@ meta-description: >-
 meta-keywords: 'Egypt and Jordan, travel itinerary for Egypt and Jordan'
 image_path: /images/egypt-jordan/giza-pyramids2.jpg
 banner-1_path: /images/style/maja-stock-40.jpg
+banner-fixed: true
 categories:
   - travel
 tags:

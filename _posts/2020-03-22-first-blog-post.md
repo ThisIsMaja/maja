@@ -7,6 +7,7 @@ meta-description:
 meta-keywords: 'creativity, productivity, daily routine'
 image_path: /images/style/maja-stock-29.jpg
 banner-1_path:
+banner-fixed: true
 categories:
   - wellbeing
 tags:

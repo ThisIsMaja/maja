@@ -9,6 +9,7 @@ meta-description: >-
 meta-keywords: 'travel guide sri lanka, three week in sri lanka, three weeks in sri lanka'
 image_path: /images/sri-lanka/Sri-Lanka1560995.jpg
 banner-1_path: /images/sri-lanka/sri-lanka4.jpg
+banner-fixed: false
 categories:
   - travel
 tags:
@@ -30,7 +31,7 @@ intro-content_html: >-
   our 3 weeks in Sri Lanka.</p>
 sections:
   - banner_path: /images/sri-lanka/sri-lanka5.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: false
     main-paragraph-emphasis:

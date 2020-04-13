@@ -9,6 +9,7 @@ meta-description: >-
 meta-keywords: 'south africa safari, african safari, safari holiday, guide for south africa'
 image_path: /images/south-africa/south-africa-couple2.jpg
 banner-1_path: /images/south-africa/south-africa-safari3.jpg
+banner-fixed: true
 categories:
   - travel
 tags:
