@@ -89,13 +89,16 @@ body {
   min-height: 100vh; }
 
 .dark-bg {
-  background-color: #d7b1a2; }
+  background-color: #eab9aa; }
 
 .light-bg {
   background-color: #FDFAF7; }
 
+.grey-bg {
+  background-color: #F6F6F6; }
+
 .featured-bg {
-  background-color: #f9f0e7; }
+  background-color: #f9ede7; }
 
 .light-text {
   color: white; }
@@ -435,6 +438,18 @@ footer nav a {
 footer h3 {
   font-size: 1.2rem; }
 
+@media (max-width: 768px) {
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    z-index: 2;
+    padding-bottom: 0; }
+
+  header .logo {
+    padding: 0 3rem; } }
 /* Blog Post Elements */
 /* ---- Blog loop elements style 1 ------ */
 .category-slider {
@@ -442,11 +457,11 @@ footer h3 {
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
+  -webkit-overflow-scrolling: touch;
   border-top: 1px solid #f9f0e7;
   border-bottom: 1px solid #f9f0e7;
   margin: 1rem auto;
-  text-align: center;
-  -webkit-overflow-scrolling: touch; }
+  text-align: center; }
 
 .category-slider .category {
   padding: 1rem;
@@ -534,6 +549,9 @@ footer h3 {
   margin-left: 0; }
 
 /* ---- Blog post pages ------ */
+.light-bg.odd {
+  background-color: white; }
+
 .post-date {
   margin-top: 1rem;
   font-size: 0.9rem; }
@@ -589,6 +607,24 @@ a.category:hover {
   top: 35vh;
   z-index: 2; }
 
+.mob-social-share h4,
+.social-share h4 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  font-family: p22-underground, sans-serif;
+  letter-spacing: 1px;
+  font-weight: 600; }
+
+.mob-social-share h4,
+.mob-social-share nav {
+  display: inline-block; }
+
+.social-share h4 {
+  transform: rotate(270deg);
+  position: relative;
+  left: -0.5rem;
+  top: 1.8rem; }
+
 .social-share nav [class*=fa] {
   padding: 0.5rem;
   display: block; }
@@ -615,6 +651,42 @@ a.category:hover {
 .gallery .half {
   width: calc(50% - 1rem); }
 
+.related-posts .author {
+  font-family: 'p22-underground';
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  padding: 0.5rem; }
+
+.related-posts .bg-image {
+  padding-bottom: 60%;
+  margin-bottom: 1rem; }
+
+.related-posts h3 {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+  font-weight: 600; }
+
+.previous-and-next {
+  display: flex;
+  justify-content: space-between; }
+
+.previous-and-next a {
+  padding: 5% 10%;
+  font-style: italic;
+  color: #5a5a5a; }
+
+@media (max-width: 768px) {
+  .horizontal-scroll {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch; }
+
+  .post-content .emphasis {
+    font-size: 1.5rem; }
+
+  .related-posts {
+    padding-top: 2rem; } }
 /* ---------------  Button Styles  --------- */
 /* We have created lots of different button styles, you probably don't need to have quite this many styles depending on your site */
 .button,
@@ -971,10 +1043,16 @@ h3.clear-images-h3 {
 .open::after {
   transform: rotateZ(45deg); }
 
+.mob-show {
+  display: none; }
+
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media (max-width: 768px) {
   .mob-hide {
     display: none; }
+
+  .mob-show {
+    display: block; }
 
   .hamburger {
     display: block; }
