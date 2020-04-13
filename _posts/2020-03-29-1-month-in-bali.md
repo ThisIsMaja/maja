@@ -12,6 +12,7 @@ meta-keywords: >-
   bali
 image_path: /images/bali/bali-indonesia5.jpg
 banner-1_path: /images/bali/bali-indonesia6.jpg
+banner-fixed: true
 categories:
   - travel
 tags:

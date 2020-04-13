@@ -7,6 +7,7 @@ meta-description:
 meta-keywords:
 image_path:
 banner-1_path:
+banner-fixed: true
 categories:
   - musings
 tags:
@@ -28,7 +29,7 @@ intro-content_html: >-
   believed it if you told us, but that&rsquo;s how love works!</p>
 sections:
   - banner_path: /images/style/maja-stock-33.jpg
-    banner-fixed: 
+    banner-fixed:
     banner-caption:
     columns: true
     main-paragraph-emphasis:  I never thought that I would ever be the kind of person to admit that I am struggling and actively ask for help.

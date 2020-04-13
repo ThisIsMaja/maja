@@ -7,6 +7,7 @@ meta-description:
 meta-keywords:
 image_path: /images/Italy/Dolomites-Italy6.jpg
 banner-1_path: /images/travel/maja-travel8.jpg
+banner-fixed: true
 banner-2_path:
 banner-2-caption:
 categories:

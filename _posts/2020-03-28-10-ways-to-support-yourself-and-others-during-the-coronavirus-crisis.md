@@ -7,6 +7,7 @@ meta-description:
 meta-keywords:
 image_path: /images/Coronavirus/coronavirus3.jpg
 banner-1_path: /images/Coronavirus/coronavirus2.jpg
+banner-fixed: true
 categories:
   - wellbeing
   - musings

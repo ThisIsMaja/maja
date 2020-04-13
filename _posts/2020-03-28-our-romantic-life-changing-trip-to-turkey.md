@@ -9,6 +9,7 @@ meta-description: >-
 meta-keywords:
 image_path: /images/turkey/Pamukkale.jpg
 banner-1_path: /uploads/cappadocia.jpg
+banner-fixed: true
 categories:
   - travel
 tags:

@@ -7,6 +7,7 @@ meta-description:
 meta-keywords:
 image_path: /images/style/maja-stock-style3.jpg
 banner-1_path: /images/style/maja-stock-47.jpg
+banner-fixed: true
 categories:
   - musings
 tags:
@@ -35,6 +36,7 @@ intro-content_html: >-
   resolution</li><li>You believe you will fail before you even try</li></ol>
 sections:
   - banner_path:
+    banner-fixed:
     banner-caption:
     main-paragraph-emphasis: Is this really your true goal? Ask yourself if you want to do this
     body-content_html: >-

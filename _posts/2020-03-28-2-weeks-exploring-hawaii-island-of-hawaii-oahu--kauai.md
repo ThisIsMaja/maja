@@ -11,6 +11,7 @@ meta-keywords: >-
   stay in Hawaii
 image_path: /images/hawaii/Hawaii 1-1-3.jpg
 banner-1_path: /images/hawaii/Hawaii 1-1-4.jpg
+banner-fixed: true
 categories:
   - travel
 tags:

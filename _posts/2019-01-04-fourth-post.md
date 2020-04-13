@@ -7,6 +7,7 @@ meta-description: Everything you need to know about your next ski trip in Oberta
 meta-keywords: 'ski trip, holidays in Obertauern, Obertauern, Obertauern Austria'
 image_path: /images/Obertauern/Obertauern3.jpg
 banner-1_path: /images/Obertauern/Obertauern5.jpg
+banner-fixed: true
 categories:
   - travel
 tags:
@@ -34,7 +35,7 @@ intro-content_html: >-
   stay in Obertauern.</p><h2>&nbsp;</h2>
 sections:
   - banner_path: /images/Obertauern/Obertauern4.jpg
-    banner-fixed: 
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Obertauern is also located close to Salzburg

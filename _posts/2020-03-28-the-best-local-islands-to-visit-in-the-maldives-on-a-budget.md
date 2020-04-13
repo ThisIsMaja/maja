@@ -7,6 +7,7 @@ meta-description: Explore the most beautiful and secluded islands in The Maldive
 meta-keywords: 'maldives on a budget, local islands maldives, travel guide maldives'
 image_path: /images/maldives/amilla-fushi7.jpg
 banner-1_path: /images/maldives/amilla-fushi7.jpg
+banner-fixed: true
 categories:
   - travel
 tags:
