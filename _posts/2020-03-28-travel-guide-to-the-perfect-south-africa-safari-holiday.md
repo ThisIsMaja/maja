@@ -202,7 +202,7 @@ sections:
       out of the vehicle unless your guide says you can. And if you&rsquo;re
       doing a self-drive safari, make sure your windows are closed when the
       animals are near.</li></ul>
-  - banner_path:
+  - banner_path: /uploads/kruger-national-park.jpg
     banner-caption:
     main-paragraph-emphasis: Our South African Rhino Project
     columns: false
