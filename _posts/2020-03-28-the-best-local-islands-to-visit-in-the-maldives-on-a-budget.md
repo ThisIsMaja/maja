@@ -25,6 +25,7 @@ intro-content_html: >-
   Maldives has a bit of something for everyone!</p>
 sections:
   - banner_path: /images/maldives/amilla-fushi6.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -46,6 +47,7 @@ sections:
       after spending a week soaking up the sun. The shoulder seasons are the
       best time to plan your getaway as the islands aren&rsquo;t as busy.</p>
   - banner_path: /images/maldives/amilla-fushi9.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -69,6 +71,7 @@ sections:
       restaurants. There are costs involved for this, but it&rsquo;s way more
       affordable than staying at the resort itself.</p>
   - banner_path: /images/maldives/amilla-fushi2.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: 3 of the best local islands in the Maldives
@@ -101,6 +104,7 @@ sections:
       sunset.</p><h4>Where To Stay In Thulusdhoo</h4><ul><li>Season Paradise:
       $90 per room per night, including breakfast</li></ul>
   - banner_path: /images/maldives/amilla-fushi4.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis:
@@ -133,6 +137,7 @@ sections:
       marine life.</p><h4>Where to stay in Dhigurah</h4><ul><li>Bliss Dhigurah:
       $100 per night for a double room which includes breakfast.</li></ul>
   - banner_path: /images/maldives/amilla-fushi8.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis:
@@ -156,6 +161,7 @@ sections:
       explore Goidhoo Island itself is by bike as it&rsquo;s the only way to get
       around.</p>
   - banner_path: /images/maldives/amilla-fushi1.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis:
@@ -190,6 +196,7 @@ sections:
       was great to go behind the scenes and see how Soneva is bringing their
       vision to life.</p>
   - banner_path: /images/maldives/amilla-fushi5.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis:

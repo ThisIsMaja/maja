@@ -39,6 +39,7 @@ intro-content_html: >-
   this year amazing!</p>
 sections:
   - banner_path: /images/style/maja-stock-33.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: It all starts in the morning!

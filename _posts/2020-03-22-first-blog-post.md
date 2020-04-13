@@ -32,6 +32,7 @@ intro-content_html: >-
   you?</p><p>The answer is easy: creativity.</p>
 sections:
   - banner_path: /images/style/maja-stock-33.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: >-

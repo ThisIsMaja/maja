@@ -42,6 +42,7 @@ intro-content_html: >-
   then.</p>
 sections:
   - banner_path: /images/style/maja-stock-10.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: >-
@@ -94,6 +95,7 @@ sections:
       the less we were able to stick to our healthy routines of yoga, reading,
       journaling.&nbsp;</p><h4>&nbsp;</h4>
   - banner_path: /images/style/maja-stock-style2.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Your dreams are worth pursuing

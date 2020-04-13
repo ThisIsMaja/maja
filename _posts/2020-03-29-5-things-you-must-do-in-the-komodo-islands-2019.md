@@ -28,6 +28,7 @@ intro-content_html: >-
   lifetime.</p>
 sections:
   - banner_path: /images/komodo-islands/Komodo-Islands3.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: '1'
@@ -50,6 +51,7 @@ sections:
       It feels like your on set with David Attenborough, just make sure you
       don&rsquo;t get to close to those sleepy giants!</p>
   - banner_path: /images/komodo-islands/Komodo-Islands5.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: '2'
@@ -68,6 +70,7 @@ sections:
       by then the crowd has dispersed giving you a bit more room to
       move.&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/komodo-islands/Komodo-Islands7.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: '3'
@@ -88,6 +91,7 @@ sections:
       super clean. Please keep it that way and take our rubbish with you, maybe
       even pick a few pieces up while your there.</p>
   - banner_path: /images/komodo-islands/Komodo-Islands6.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: '4'
@@ -103,6 +107,7 @@ sections:
       for yourself to believe it, trust us when we say that you will be in awe
       of this amazing event.</p>
   - banner_path: /uploads/komodo-islands.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: '5'

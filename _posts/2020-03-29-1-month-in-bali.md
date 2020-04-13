@@ -31,6 +31,7 @@ intro-content_html: >-
   and our favourite places to eat.&nbsp;</p><p>&nbsp;</p>
 sections:
   - banner_path: /images/bali/bali-indonesia4.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: First Stop
@@ -72,6 +73,7 @@ sections:
       The Lawn, La Brisa or La Laguna&nbsp;</li><li>Do some yoga with Samadi
       Bali</li><li>Party at Old Man&rsquo;s</li></ul>
   - banner_path: /uploads/uluwatu-beach.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Head to the Beaches
@@ -102,6 +104,7 @@ sections:
       Sundays Beach club for amazing blue water</li><li>Check out these beaches
       Bingin, Thomas, Karma, Green Bowl and Blue point.</li></ul>
   - banner_path: /images/bali/bali-indonesia7.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: Experience the Jungle
@@ -138,6 +141,7 @@ sections:
       awesome)</p><p>Take cooking classes (4 days raw food class at Sayuri
       Healing Food Cafe)</p>
   - banner_path: /images/bali/bali-indonesia8.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: Island time
@@ -198,6 +202,7 @@ sections:
       beach</li><li>Party at Gili T</li><li>Watch the amazing sunsets at the
       beach</li></ul>
   - banner_path: /images/marie-jake/Website 2-24.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis:
@@ -263,6 +268,7 @@ sections:
       Beach)</li></ul><p>You are looking for a day trip to Penida, book your
       tour at IG: @balinusapenidatour</p>
   - banner_path: /images/bali/bali-indonesia2.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Explore the North
@@ -304,6 +310,7 @@ sections:
       Agung ( at Bukit Cinta)</li><li>Learn how to free dive&nbsp;</li><li>Visit
       the Tirta Gangga Water palace&nbsp;</li></ul>
   - banner_path: /images/bali/bali-indonesia9.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Finish it off with a Bang

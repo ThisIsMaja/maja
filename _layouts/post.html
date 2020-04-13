@@ -71,7 +71,7 @@ layout: default
 
   {% unless section.banner_path == nil %}
 
-  <section class="banner fixed grid-right right" style="background-image:url({{section.banner_path}});">
+  <section class="banner {% if section.banner-fixed == true %} fixed {% endif %} grid-right right" style="background-image:url({{section.banner_path}});">
 
     <div class="col-4_sm-6_xs-12-bottom padded-2">
         <p class="margin-0"> <span class="highlighted-text">{{section.banner-caption}}</span></p>
