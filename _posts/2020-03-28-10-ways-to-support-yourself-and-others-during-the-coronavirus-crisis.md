@@ -33,6 +33,7 @@ intro-content_html: >-
 sections:
   - banner_path:
     banner-caption:
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis: Take a social media timeout to avoid cluttering your mind
     body-content_html: >-

@@ -34,6 +34,7 @@ intro-content_html: >-
   stay in Obertauern.</p><h2>&nbsp;</h2>
 sections:
   - banner_path: /images/Obertauern/Obertauern4.jpg
+    banner-fixed: 
     banner-caption:
     columns: false
     main-paragraph-emphasis: Obertauern is also located close to Salzburg

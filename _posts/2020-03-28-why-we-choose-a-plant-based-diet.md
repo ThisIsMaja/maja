@@ -32,6 +32,7 @@ intro-content_html: >-
   better.&nbsp;</p>
 sections:
   - banner_path: /images/food/vegan-food6.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: >-
@@ -111,6 +112,7 @@ sections:
       choices. Does the end result of your choices truly reflect what you
       believe?</p><h2>&nbsp;</h2>
   - banner_path: /images/banners/maja-banner-3.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: >-

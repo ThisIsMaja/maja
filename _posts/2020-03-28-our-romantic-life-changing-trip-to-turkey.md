@@ -25,6 +25,7 @@ intro-content_html: >-
   people and amazing food.</p>
 sections:
   - banner_path: /images/turkey/cappadocia-photography6.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -41,6 +42,7 @@ sections:
       know</h3><ul><li>Istanbul has 2 airports&nbsp;</li><li>Take a Hava Bus
       from and to the airports (cheap/good connections)</li></ul>
   - banner_path: /images/turkey/cappadocia-photography3.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -57,6 +59,7 @@ sections:
       locals.</li><li>Cappadocia is the PERFECT place to
       propose.&nbsp;</li></ul>
   - banner_path: /images/turkey/cappadocia-photography5.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:

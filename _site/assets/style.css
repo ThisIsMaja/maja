@@ -544,12 +544,18 @@ footer h3 {
 .post-meta {
   font-size: 0.9rem; }
 
+.blog-content p.emphasis {
+  text-transform: uppercase;
+  font-family: p22-underground;
+  font-size: 1rem;
+  margin-bottom: 0; }
+
 .down-arrow {
   display: block;
   margin-top: 4rem; }
 
 .post-content .emphasis {
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   text-decoration: underline;
   line-height: 1.4; }
 
@@ -1040,9 +1046,6 @@ h3.clear-images-h3 {
   background-color: white;
   padding: 0.5rem;
   transition: 0.5s all; }
-
-.banner .banner-inner.margin-bottom-2 {
-  margin-bottom: 2; }
 
 .banner-inner:hover {
   background-color: #f9f0e7; }

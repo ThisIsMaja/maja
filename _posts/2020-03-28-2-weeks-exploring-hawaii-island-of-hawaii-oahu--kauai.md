@@ -29,6 +29,7 @@ intro-content_html: >-
   practical information you need to start planning your trip.</strong></p>
 sections:
   - banner_path: /images/hawaii/Hawaii 1-1-2.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Island One
@@ -46,6 +47,7 @@ sections:
       paradise!</p><p>We recommend that you spend at least 4 days here. but even
       longer if you have the time!</p>
   - banner_path: /uploads/hawaii-view-from-the-water.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -114,6 +116,7 @@ sections:
       island, close to Hilo. The waterfall is a short walk from the parking lot
       and entrance is $5 per car.</p>
   - banner_path: /uploads/hawaii-forest-road-1.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: Food & Accommodation
@@ -138,6 +141,7 @@ sections:
       <u>this condo</u></a> are the perfect budget-friendly accommodation
       options on Big Island.</li></ul>
   - banner_path: /images/hawaii/Hawaii 1-1-5.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Island Two
@@ -147,6 +151,7 @@ sections:
       when compared to the Island of Hawaii, Oahu has a lot of attractions and
       the beaches here are some of the best in Hawaii.</p>
   - banner_path: /uploads/oahu-road-to-the-mountains.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -195,6 +200,7 @@ sections:
       lead by<a href="https://www.yogafloats.com/"> <u>Yoga Floats</u></a> at
       Waikiki Beach. It cost $40 per person for the 1.5-hour yoga class.</p>
   - banner_path: /uploads/oahu-dron-shot.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Food And Accommodation
@@ -213,6 +219,7 @@ sections:
       href="https://www.instagram.com/islandjamesvilla/">
       <u>Instagram</u></a>.</li></ul>
   - banner_path: /uploads/kauai-street-view.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Island Three
@@ -224,11 +231,13 @@ sections:
       the Island of Hawaii and Oahu instead. But the secret is out: Kauai is our
       favorite place in Hawaii!</p>
   - banner_path: /uploads/kauai-basketball-court.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
     body-content_html: "<h2>Things To Do In Kauai</h2><ul><li><h3>Boat trip to the Napali Coast</h3></li></ul><p>Words can&rsquo;t describe just how incredible the lush green forests, towering mountains, and out-of-this-world scenery are that make up the Napali Coast on Kauai Island.</p><p>It&rsquo;s located on the northwest of Kauai and the best way to experience this gorgeous coastline is with a boat cruise. We explored caves, saw countless dolphins and several giant turtles.</p><p>For $130 per person, you&rsquo;ll get 6 hours on the ocean including food, refreshments and snorkeling gear. We highly recommend<a href=\"https://kauaiseatours.com/\"> <u>Kauai Sea Tours</u></a><u> </u>for this.\uFEFF</p><ul><li><h3>Take a dive into Wailua Falls</h3></li></ul><p>Wailua Falls is a 50m high waterfall on the east of Kauai. There&rsquo;s a stunning viewpoint at the top with gorgeous views of the entire waterfall. It&rsquo;s not crowded and is a must-visit spot in Kauai.</p><p>You can walk down the trail and reach the pool at the bottom of the falls, but this can be extremely dangerous so be extra careful.</p><ul><li><h3>Take a drive to Hanalei Bay</h3></li></ul><p>Hanalei Bay is the biggest bay on the north of Kauai Island. The beaches here are beautiful and it&rsquo;s worth stopping by and exploring the town.</p><ul><li><h3>Visit Turtle Cove</h3></li></ul><p>You&rsquo;re almost guaranteed to see turtles at Turtle Cove! This was such a fun experience for us because not only are there turtles in the water, but you also get to swim in a cave.</p><ul><li><h3>Explore Queens Bath</h3></li></ul><p>Queens Bath is a tidal pool north of Kauai that has been separated from the sea by lava rock! It made for a great trip and is a must-do on Kauai Island.</p>"
   - banner_path: /uploads/kauai-drone-shot.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: Food And Accommodation
@@ -241,6 +250,7 @@ sections:
       total. It&rsquo;s a great price considering how expensive some of the
       other accommodation options in Hawaii can be.</li></ul>
   - banner_path: /uploads/hwaii-turtle.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: How To Get To Hawaii And Best Time To Visit It
@@ -260,6 +270,7 @@ sections:
       season is December to March, and you&rsquo;ll find that everything will
       cost a bit more during this time.</p>
   - banner_path: /uploads/hawaii-wave.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:

@@ -31,6 +31,7 @@ intro-content_html: >-
   adventure.</p>
 sections:
   - banner_path: /images/egypt-jordan/marsa-shagra.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: 'Egypt is full dreams, mysteries and memories'
@@ -63,6 +64,7 @@ sections:
       a precautionary safety measure which is obviously a good thing in general
       to have.</p>
   - banner_path: /images/egypt-jordan/cairo-travel.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -88,6 +90,7 @@ sections:
       cafe was the perfect touch we needed to finish our time in
       Cairo!</p><ul><li>Sea Salt Bakery and Cafe in Cairo</li></ul>
   - banner_path: /images/egypt-jordan/marsa-shagra1.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -108,6 +111,7 @@ sections:
       href="https://www.booking.com/hotel/eg/marsa-shagra-village.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Marsa
       Shagra Village</u></a></p>
   - banner_path: /images/egypt-jordan/marsa-shagra2.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis: 'Travel Talk Tour, Egypt Leg (11 days)'
@@ -146,6 +150,7 @@ sections:
       out&rsquo; so some time spent at the beach swimming in the crystal clear
       water is perfectly refreshing.</p>
   - banner_path: /images/egypt-jordan/redsea-diving2.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -157,6 +162,7 @@ sections:
       Giza</li><li>Abu Simbel</li><li>Hot air balloon over
       Luxor</li><li>Snorkelling in Dahab</li><li>Diving in Marsa Alam</li></ul>
   - banner_path: /images/egypt-jordan/petra-jordan2.jpg
+    banner-fixed: true
     banner-caption:
     columns: true
     main-paragraph-emphasis:
@@ -202,6 +208,7 @@ sections:
       was spent in the capital city of Amman. We visited the citadel which was
       quite nice and a good spot for photos at sunset!</p>
   - banner_path: /images/egypt-jordan/rue-de-seine.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -224,6 +231,7 @@ sections:
       Jones.</p><p>Have you been to Egypt or Jordan? We would love to know about
       your experience in the comments below.</p>
   - banner_path: /images/egypt-jordan/wadi-rum.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:

@@ -29,6 +29,7 @@ intro-content_html: >-
   Good Work Foundation and Care for Wild.&nbsp;</p><p>&nbsp;</p>
 sections:
   - banner_path: /images/south-africa/south-africa-couple4.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: >-
       we were constantly on edge, wondering when the next beautiful creature
@@ -71,6 +72,7 @@ sections:
       Welgevonden Game Reserve and spotted all the Big 5 in both
       parks!</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari1.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: the only good cage is an empty cage
     columns: false
@@ -88,6 +90,7 @@ sections:
       you have time. It&rsquo;s another one of our favorite places to visit in
       South Africa with great beaches.</p>
   - banner_path: /images/south-africa/south-africa-couple3.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: Accommodation
     columns: false
@@ -118,6 +121,7 @@ sections:
       on daily safaris from Mantobeni and saw the Big 5 and so many other
       animals.&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari2.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: wild life surprises you when you least expect it
     columns: false
@@ -141,6 +145,7 @@ sections:
       another hour or so to reach your destination. This flight can be expensive
       so we recommend renting a car and driving instead.</li></ul>
   - banner_path: /images/south-africa/south-africa-couple1.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: Time & Money
     columns: true
@@ -165,6 +170,7 @@ sections:
       the rangers know where the animals are and you&rsquo;ll see so much more
       wildlife this way.</p>
   - banner_path: /images/south-africa/south-africa-safari4.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: Visas & Safety
     columns: false
@@ -186,6 +192,7 @@ sections:
       valuables safely in your bag.</p><p>Even the locals are wary of their
       surroundings, so make sure you are too.</p>
   - banner_path: /images/south-africa/south-africa-safari5.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: Safari Travel Tips
     columns: false
@@ -203,6 +210,7 @@ sections:
       doing a self-drive safari, make sure your windows are closed when the
       animals are near.</li></ul>
   - banner_path: /uploads/kruger-national-park.jpg
+    banner-fixed: true
     banner-caption:
     main-paragraph-emphasis: Our South African Rhino Project
     columns: false

@@ -25,6 +25,7 @@ intro-content_html: >-
   the details of our epic 10 day Greece itinerary.</p>
 sections:
   - banner_path: /images/greece/mariefeandjakesnow-greece8.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -41,6 +42,7 @@ sections:
       streets, venture to hidden caves and swim in the bluest waters, leaving
       you feeling refreshed and rejuvenated.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece15.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Day 1
@@ -61,6 +63,7 @@ sections:
       food options nearby. Definitely check out a small vegan, raw cafe called
       'Peas' (the best food we had in Greece)</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece13.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Day 2-4

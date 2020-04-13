@@ -36,6 +36,7 @@ intro-content_html: >-
   tips for spending one day in Madrid!</strong></p><p>&nbsp;</p>
 sections:
   - banner_path: /images/city/madrid-spain2.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
@@ -56,6 +57,7 @@ sections:
       enjoying delicious tapas and exploring the city - and you&rsquo;ll burn a
       few calories as well!</p>
   - banner_path: /uploads/cozy-brown-bar-in-madrid.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: food is an experience
@@ -78,6 +80,7 @@ sections:
       drinks)</li><li>BuleBule (Live-show and music)</li><li>Kikekeller (Small
       but cozy bar with unique interior)</li></ul>
   - banner_path: /uploads/agustina-salas-lsrfau3v8de-unsplash-1.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Accommodation
@@ -97,6 +100,7 @@ sections:
       Islas Hote</u></a>l (amazing design, beautiful hotel for special
       occasions)</li></ul>
   - banner_path: /uploads/beautiful-street-of-madrid.jpg
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: We Will Be Back Madrid!
