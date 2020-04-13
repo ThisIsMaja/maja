@@ -30,7 +30,7 @@ intro-content_html: >-
   our 3 weeks in Sri Lanka.</p>
 sections:
   - banner_path: /images/sri-lanka/sri-lanka5.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: false
     main-paragraph-emphasis:
