@@ -14,10 +14,7 @@ banner-1_path: /images/city/madrid-spain5.jpg
 categories:
   - travel
 tags:
-  - photography
-  - madrid
-  - spain
-  - travel
+  - Europe
 author: Marie Fe
 image-1_path: /images/city/madrid-spain3.jpg
 image-2_path: /images/city/madrid-spain4.jpg
@@ -41,14 +38,15 @@ sections:
   - banner_path: /images/city/madrid-spain2.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: What To Do In One Day In Madrid
+    main-paragraph-emphasis:
     body-content_html: >-
-      <ul><li><a href="https://www.hop-on-hop-off-bus.com/"><u>Madrid City Tour
-      Hop-On Hop-Off</u></a></li></ul><p>This is the most comfortable way to
-      experience the whole city. If you don&rsquo;t have so much time, we
-      recommend a bicycle tour instead.</p><ul><li>Caixa Forum</li></ul><p>The
-      Caixa Forum is a museum where you can experience stunning architectural
-      designs that won&rsquo;t disappoint you.</p><ul><li><a
+      <h3>What To Do In One Day In Madrid</h3><ul><li><a
+      href="https://www.hop-on-hop-off-bus.com/"><u>Madrid City Tour Hop-On
+      Hop-Off</u></a></li></ul><p>This is the most comfortable way to experience
+      the whole city. If you don&rsquo;t have so much time, we recommend a
+      bicycle tour instead.</p><ul><li>Caixa Forum</li></ul><p>The Caixa Forum
+      is a museum where you can experience stunning architectural designs that
+      won&rsquo;t disappoint you.</p><ul><li><a
       href="https://www.tripadvisor.com/Attraction_Review-g187514-d190146-Reviews-Royal_Palace_of_Madrid-Madrid.html"><u>Royal
       Palace of Madrid</u></a></li></ul><p>This palace is an official residence
       of the royal family and is the largest functioning palace in the whole of
@@ -60,11 +58,12 @@ sections:
   - banner_path: /uploads/cozy-brown-bar-in-madrid.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Where To Eat And Drink In Madrid
+    main-paragraph-emphasis: food is an experience
     body-content_html: >-
-      <p>No good travel experience is complete without getting a taste of local
-      cuisine.&nbsp;</p><p>Below are some of our favorite cafes and restaurants
-      in Madrid:</p><ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La
+      <h3>Where To Eat And Drink In Madrid</h3><p>No good travel experience is
+      complete without getting a taste of local cuisine.&nbsp;</p><p>Below are
+      some of our favorite cafes and restaurants in
+      Madrid:</p><ul><li>Superchulo Madrid (Colorful, vegan food);</li><li>La
       hummuseria (Amazing hummus);</li><li>Celicioso (Gluten-Free
       Bakery);</li><li>Pum Pum Cafe (Super cozy, vegan-friendly
       caf&eacute;);</li><li>Bunnys_deli (Plant-based
@@ -81,14 +80,14 @@ sections:
   - banner_path: /uploads/agustina-salas-lsrfau3v8de-unsplash-1.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Where To Stay In Madrid
+    main-paragraph-emphasis: Accommodation
     body-content_html: >-
-      <p>The best place to stay during your 24-hours in Madrid is in an area
-      called Centro. It&rsquo;s ideally located close to all the attractions and
-      has some great accommodation options that cater to all
-      budgets.</p><ul><li><a href="https://www.dearhotelmadrid.com/"><u>Dear
-      Hotel Madrid</u></a> (Really central and a really nice rooftop
-      pool)</li><li><a
+      <h3>Where To Stay In Madrid</h3><p>The best place to stay during your
+      24-hours in Madrid is in an area called Centro. It&rsquo;s ideally located
+      close to all the attractions and has some great accommodation options that
+      cater to all budgets.</p><ul><li><a
+      href="https://www.dearhotelmadrid.com/"><u>Dear Hotel Madrid</u></a>
+      (Really central and a really nice rooftop pool)</li><li><a
       href="https://www.booking.com/hotel/es/zitty-madrid.en-gb.html?aid=311984%3Blabel%3Dzitty-madrid-LfxDsAEZTeL_fXDmF5klgAS162174961116%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-97356678003%3Alp9043802%3Ali%3Adec%3Adm%3Bsid%3D616967b5907ba0ab48fa3326c554927f%3Ball_sr_blocks%3D1895010_183958989_0_0_0%3Bcheckin%3D2020-01-28%3Bcheckout%3D2020-01-29%3Bdest_id%3D-390625%3Bdest_type%3Dcity%3Bdist%3D0%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Bhapos%3D1%3Bhighlighted_blocks%3D1895010_183958989_0_0_0%3Bhpos%3D1%3Bno_rooms%3D1%3Broom1%3DA%2CA%3Bsb_price_type%3Dtotal%3Bsr_order%3Dpopularity%3Bsr_pri_blocks%3D1895010_183958989_0_0_0__5170%3Bsrepoch%3D1579629141%3Bsrpvid%3D9d477daab9db01cb%3Btype%3Dtotal%3Bucfs%3D1#hotelTmpl"><u>THC
       Gran Via Hostel</u></a> (Small rooms but centrally located and affordable-
       we paid 50Euros)</li><li><a
