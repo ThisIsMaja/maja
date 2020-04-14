@@ -64,7 +64,7 @@ sections:
       food options nearby. Definitely check out a small vegan, raw cafe called
       'Peas' (the best food we had in Greece)</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece13.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: false
     main-paragraph-emphasis:
