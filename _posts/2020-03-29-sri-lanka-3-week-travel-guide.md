@@ -40,21 +40,22 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 1-2
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>COLOMBO/ Mount Lavinia</h2><p>After arriving at the airport we took a
-      cab straight to Mt Lavinia. The ride was about 45 minutes through traffic.
-      We spent the next couple days soaking up the new culture by walking around
-      the streets close to our hostel. We found a couple nice beaches and some
-      nice restaurants.&nbsp;</p><p>A couple days in Mt Lavinia is enough to get
-      a taste of Sri Lankan life before heading south. If you decide to head
-      down south first like we did, take the train &ndash; it&rsquo;s very easy
-      cheap and an incredible experience. You can get your ticket last minute at
-      the train station.&nbsp;</p><h3>Where to eat in Colombo</h3><ul><li>Rasa
-      Malaysia (at the beach, local restaurant &ndash; we recommend&nbsp; aloo
-      gobi, vegetable kohlapuri, greek Salad)</li><li>Thai Cuisine la Rambla
-      (very delicious Thai food, a bit more expensive than the local places,
-      great Pad thai)</li></ul><h3>Where to stay in Colombo</h3><ul><li><a
+      <h2>COLOMBO/ Mount Lavinia</h2><h4>Day 1-2</h4><p>After arriving at the
+      airport we took a cab straight to Mt Lavinia. The ride was about 45
+      minutes through traffic. We spent the next couple days soaking up the new
+      culture by walking around the streets close to our hostel. We found a
+      couple nice beaches and some nice restaurants.&nbsp;</p><p>A couple days
+      in Mt Lavinia is enough to get a taste of Sri Lankan life before heading
+      south. If you decide to head down south first like we did, take the train
+      &ndash; it&rsquo;s very easy cheap and an incredible experience. You can
+      get your ticket last minute at the train station.&nbsp;</p><h3>Where to
+      eat in Colombo</h3><ul><li>Rasa Malaysia (at the beach, local restaurant
+      &ndash; we recommend&nbsp; aloo gobi, vegetable kohlapuri, greek
+      Salad)</li><li>Thai Cuisine la Rambla (very delicious Thai food, a bit
+      more expensive than the local places, great Pad thai)</li></ul><h3>Where
+      to stay in Colombo</h3><ul><li><a
       href="https://www.booking.com/hotel/lk/island-hostel-mount-lavinia.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Island
       Hostel</u></a> (Stylish Dorm Room 7$ or private room 30$ inc. breakfast,
       pool, close to the beach)</li></ul><h3>&nbsp;Things to do in
@@ -70,23 +71,23 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 2-4
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Old Town GALLE</h2><p>Galle was one of our big surprises on this trip.
-      You might not believe it but we don&rsquo;t do a lot of research before we
-      visit a place. We like to experience new places with no expectation. Galle
-      Fort is an old city founded by Portuguese colonists in the 16th century.
-      Galle is a little old town surrounded by stone sea
-      walls.&nbsp;</p><p>Walking through the streets it feels like an old
-      European town that got a Sri Lankan makeover. You will find cute little
-      shops, amazing local and western food and lots of photo opportunities. You
-      will have to at least spend 2 days in Galle to experience this magical
-      place.</p><h3>Where to eat at Galle</h3><ul><li>Lucky fort Restaurant
-      (amazing local food, cute little restaurant, 10 curries for 2 people
-      15$)</li><li>Poonies Kitchen (a cute little oasis in Galle, enter through
-      a Clothing Store, amazing smoothie bowls and healthy meals</li><li>Sea
-      Waves Restaurant (cooking classes)</li></ul><h3>Where to stay at
-      Galle</h3><ul><li><a
+      <h2>Old Town GALLE</h2><h4>Day 2-4</h4><p>Galle was one of our big
+      surprises on this trip. You might not believe it but we don&rsquo;t do a
+      lot of research before we visit a place. We like to experience new places
+      with no expectation. Galle Fort is an old city founded by Portuguese
+      colonists in the 16th century. Galle is a little old town surrounded by
+      stone sea walls.&nbsp;</p><p>Walking through the streets it feels like an
+      old European town that got a Sri Lankan makeover. You will find cute
+      little shops, amazing local and western food and lots of photo
+      opportunities. You will have to at least spend 2 days in Galle to
+      experience this magical place.</p><h3>Where to eat at
+      Galle</h3><ul><li>Lucky fort Restaurant (amazing local food, cute little
+      restaurant, 10 curries for 2 people 15$)</li><li>Poonies Kitchen (a cute
+      little oasis in Galle, enter through a Clothing Store, amazing smoothie
+      bowls and healthy meals</li><li>Sea Waves Restaurant (cooking
+      classes)</li></ul><h3>Where to stay at Galle</h3><ul><li><a
       href="https://www.booking.com/hotel/lk/the-bartizan.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
       Bartizan</u></a> (very beautiful boutique hotel, amazing food, great
       location)</li></ul><h3>Things to do in Galle</h3><ul><li>explore the
@@ -99,18 +100,18 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 4-6
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Beach paradise &ndash; UNAWATUNA</h2><p>Unawatuna felt a little bit
-      like Sri Lanka&rsquo;s version of Bali&rsquo;s Uluwatu without the surf.
-      There is one main street that leads towards to beach, full with shops,
-      restaurants, spas hostel and hotels.</p><p>We spent 3 day here at Bed
-      Space Beach, we highly recommend this place. The food was great for
-      plant-based eaters and the location was also super close to the beach. We
-      rented out a scooter for our time here so we could go back and forth to
-      the beach swing, jungle beach and Galle without get a Tuk Tuk every time.
-      It was $10 a day for a scooter, not as cheap as some other places but
-      still worth it for full days exploring.</p><h3>Where to eat in
+      <h2>Beach paradise &ndash; UNAWATUNA</h2><h4>Day 4-6</h4><p>Unawatuna felt
+      a little bit like Sri Lanka&rsquo;s version of Bali&rsquo;s Uluwatu
+      without the surf. There is one main street that leads towards to beach,
+      full with shops, restaurants, spas hostel and hotels.</p><p>We spent 3 day
+      here at Bed Space Beach, we highly recommend this place. The food was
+      great for plant-based eaters and the location was also super close to the
+      beach. We rented out a scooter for our time here so we could go back and
+      forth to the beach swing, jungle beach and Galle without get a Tuk Tuk
+      every time. It was $10 a day for a scooter, not as cheap as some other
+      places but still worth it for full days exploring.</p><h3>Where to eat in
       Unawatuna</h3><ul><li>Bedspace</li><li>Skinny Toms
       Delhi&nbsp;</li><li>Pink Elephant&nbsp;</li><li>Spice Lane
       Ahangama&nbsp;</li><li>Mati Gedara (vegetarian rice curry Buffet all you
@@ -131,16 +132,16 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 6-10
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Time for yoga and surfing &ndash; TALALLA</h2><p>A lot of people stay
-      in Mirissa next. We skipped it but would still recommend it as the
-      beaches&nbsp; Our next stop was Talalla. The retreat we stayed at had it
-      all. Wellness, Yoga, Surfing and great food. The area around Tallala is
-      amazing as well. You will find the nicest beaches in Sri Lanka
-      here.</p><p>For $15 US we rented a Tuk Tuk for 3 ppl to explore the area
-      several hours.&nbsp; We took surfing lessons with the guys at Talalla Surf
-      around the Tangalle/ Dikwella area and we absolutely loved
+      <h2>Time for yoga and surfing &ndash; TALALLA</h2><h4>Day 6-10</h4><p>A
+      lot of people stay in Mirissa next. We skipped it but would still
+      recommend it as the beaches&nbsp; Our next stop was Talalla. The retreat
+      we stayed at had it all. Wellness, Yoga, Surfing and great food. The area
+      around Tallala is amazing as well. You will find the nicest beaches in Sri
+      Lanka here.</p><p>For $15 US we rented a Tuk Tuk for 3 ppl to explore the
+      area several hours.&nbsp; We took surfing lessons with the guys at Talalla
+      Surf around the Tangalle/ Dikwella area and we absolutely loved
       it.</p><h3>Where to eat at Talalla</h3><ul><li>Talalla retreat (amazing
       food, good veggie options</li><li>or at any local
       place&nbsp;</li></ul><h3>Where to stay at Talalla</h3><ul><li><a
@@ -155,13 +156,13 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 10-12
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>It is time for the first SAFARI &ndash; YALA</h2><p>Yala National Park
-      was the first time we had ever seen an Elephant in the wild and was our
-      first National Park in Sri Lanka. For this reason Yala will always hold a
-      special place in our hearts. We only stayed here for 2 days but it was
-      unforgettable. Our tent at the <a
+      <h2>It is time for the first SAFARI &ndash; YALA</h2><h4>Day
+      10-12</h4><p>Yala National Park was the first time we had ever seen an
+      Elephant in the wild and was our first National Park in Sri Lanka. For
+      this reason Yala will always hold a special place in our hearts. We only
+      stayed here for 2 days but it was unforgettable. Our tent at the <a
       href="https://www.booking.com/hotel/lk/wild-coast-tented-lodge.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Wild
       Coast Lodge</u></a> was the picture-perfect setting, monkeys, wild pigs,
       buffalo and birds surrounded our tent one afternoon. It was one of our
@@ -177,13 +178,13 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 12-14
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Safari no. 2 &ndash; UDAWALAWE</h2><p>Another place we went to
-      experience a Safari. Compared to Yala, less Jeeps are allowed in the park.
-      We saw our first elephant right next to the road on the way to our camp
-      when we arrived. It was an insane experience. The male elephant was really
-      calm and curious. We stayed at <a
+      <h2>Safari no. 2 &ndash; UDAWALAWE</h2><h4>Day 12-14</h4><p>Another place
+      we went to experience a Safari. Compared to Yala, less Jeeps are allowed
+      in the park. We saw our first elephant right next to the road on the way
+      to our camp when we arrived. It was an insane experience. The male
+      elephant was really calm and curious. We stayed at <a
       href="https://www.booking.com/hotel/lk/makulu-safari-camping.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Makulu
       Safari </u></a>Camp, this place was also a highlight. Run by local Sri
       Lankans, we experienced real Sri Lankan hospitality. The food was amazing
@@ -202,15 +203,15 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 14-16
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Lush green in ELLA</h2><p>We had heard great things about Ella before
-      arriving. It definitely seemed to be a favorite among tourists. We could
-      see why after our first day! Famous for beautiful hikes, viewpoints and of
-      course the 9 Arch Bridge, we managed to take some epic pics in Ella. The
-      town itself was quite busy, we didn&rsquo;t expect there to be so many
-      people. Although it was busier, Ella has a really cool backpacker
-      vibe.&nbsp;</p><p>We stayed in the <a
+      <h2>Lush green in ELLA</h2><h4>Day 14-16</h4><p>We had heard great things
+      about Ella before arriving. It definitely seemed to be a favorite among
+      tourists. We could see why after our first day! Famous for beautiful
+      hikes, viewpoints and of course the 9 Arch Bridge, we managed to take some
+      epic pics in Ella. The town itself was quite busy, we didn&rsquo;t expect
+      there to be so many people. Although it was busier, Ella has a really cool
+      backpacker vibe.&nbsp;</p><p>We stayed in the <a
       href="https://www.booking.com/hotel/lk/higher-ground-treehouse-ella.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Higherground
       Treehouse</u></a> which was really cool, we had so much fun playing around
       with the monkeys. They literally came into our treehouse when we left the
@@ -245,20 +246,20 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Day 17-19
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Finish with a bang &ndash; SIGIRIYA</h2><p>The last stop on our epic 3
-      week Sri Lankan adventure was Sigiriya. What a way to finish off! From
-      Sigiriya we took a day trip to Kaudulla National Park for one more safari.
-      This was our favorite safari of the whole trip. Here you will see heads of
-      30-50 elephants roaming the grass plains. We highly recommend this
-      safari.</p><p>Sigiriya itself is a quiet little town, most people are
-      there to see and climb Sigiriya and Pidurangala rock. If you didn&rsquo;t
-      have time or enough money to see both rocks in our opinion, taking into
-      account the price and the popularity of these two sites, we would prefer
-      to go to Pidurangala Rock. It is much cheaper ($3 instead of $35) and the
-      view of Sigiriya rock from the top is spectacular.&nbsp;</p><p>We have to
-      mention also that our little <a
+      <h2>Finish with a bang &ndash; SIGIRIYA</h2><h4>Day 17-19</h4><p>The last
+      stop on our epic 3 week Sri Lankan adventure was Sigiriya. What a way to
+      finish off! From Sigiriya we took a day trip to Kaudulla National Park for
+      one more safari. This was our favorite safari of the whole trip. Here you
+      will see heads of 30-50 elephants roaming the grass plains. We highly
+      recommend this safari.</p><p>Sigiriya itself is a quiet little town, most
+      people are there to see and climb Sigiriya and Pidurangala rock. If you
+      didn&rsquo;t have time or enough money to see both rocks in our opinion,
+      taking into account the price and the popularity of these two sites, we
+      would prefer to go to Pidurangala Rock. It is much cheaper ($3 instead of
+      $35) and the view of Sigiriya rock from the top is
+      spectacular.&nbsp;</p><p>We have to mention also that our little <a
       href="https://www.booking.com/hotel/lk/amba-sewana-homestay.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>homestay</u></a>
       in Sigiriya was one of our favorite places to stay in all of Sri Lanka. It
       is very basic and definitely not luxury, but the local man that owns it is
