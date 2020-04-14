@@ -68,7 +68,7 @@ sections:
       station)</li><li>Head to the south &ndash; beautiful old town
       Galle</li></ul>
   - banner_path: /images/sri-lanka/Sri-Lanka1560986.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: true
     main-paragraph-emphasis:
