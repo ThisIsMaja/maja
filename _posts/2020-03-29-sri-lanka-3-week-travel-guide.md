@@ -200,7 +200,7 @@ sections:
       Safari)</li></ul><h3>How to get to your next stop</h3><p>Udawalawe to Ella
       (by&nbsp; local bus &ndash; ask the locals, 3 hours, very cheap)</p>
   - banner_path: /uploads/sri-lanka-drone-shot.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: true
     main-paragraph-emphasis:
@@ -278,7 +278,7 @@ sections:
       homestay&nbsp;</li><li>Day trip to Kaudulla National park (best park to
       see a lot of elephants)</li></ul>
   - banner_path: /uploads/sri-lanka-beach.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: true
     main-paragraph-emphasis:
