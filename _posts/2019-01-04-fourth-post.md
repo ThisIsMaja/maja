@@ -11,8 +11,6 @@ banner-fixed: true
 categories:
   - travel
 tags:
-  - photography
-  - fashion
   - Europe
 author: Jake Snow
 image-1_path: /images/Obertauern/Obertauern1.jpg
