@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-01-01 00:00:00
+date: 2020-01-22 00:00:00
 slug: how-to-be-more-creative
 title: How to bring more creativity into your daily routine
 meta-description:
@@ -11,10 +11,6 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - diet
-  - mental Health
-  - exercise
-  - yoga
   - conscious civing
 author: Marie Fe
 image-1_path: /images/style/maja-stock-23.jpg
@@ -32,7 +28,7 @@ intro-content_html: >-
   of this rut without losing the beneficial structure a daily routine can give
   you?</p><p>The answer is easy: creativity.</p>
 sections:
-  - banner_path: /images/style/maja-stock-33.jpg
+  - banner_path: /uploads/content-pixie--lqved9iegc-unsplash-1.jpg
     banner-fixed: true
     banner-caption:
     columns: true
