@@ -3,7 +3,9 @@ layout: post
 date: 2020-01-22 00:00:00
 slug: how-to-be-more-creative
 title: How to bring more creativity into your daily routine
-meta-description:
+meta-description: >-
+  Most of us live our lives according to some form of daily routine. Read this
+  post to find how to bring in some creativity without losing your productivity.
 meta-keywords: 'creativity, productivity, daily routine'
 image_path: /images/style/maja-stock-29.jpg
 banner-1_path:
