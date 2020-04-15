@@ -8,7 +8,7 @@ meta-description: >-
   post to find how to bring in some creativity without losing your productivity.
 meta-keywords: 'creativity, productivity, daily routine'
 image_path: /images/style/maja-stock-29.jpg
-banner-1_path:
+banner-1_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
 banner-fixed: true
 categories:
   - wellbeing
@@ -31,7 +31,7 @@ intro-content_html: >-
   you?</p><p>The answer is easy: creativity.</p>
 sections:
   - banner_path: /uploads/content-pixie--lqved9iegc-unsplash-1.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: true
     main-paragraph-emphasis: >-
