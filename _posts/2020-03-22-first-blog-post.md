@@ -1,20 +1,18 @@
 ---
 layout: post
-date: 2020-01-01 00:00:00
+date: 2020-01-22 00:00:00
 slug: how-to-be-more-creative
 title: How to bring more creativity into your daily routine
-meta-description:
+meta-description: >-
+  Most of us live our lives according to some form of daily routine. Read this
+  post to find how to bring in some creativity without losing your productivity.
 meta-keywords: 'creativity, productivity, daily routine'
 image_path: /images/style/maja-stock-29.jpg
-banner-1_path:
+banner-1_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
 banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - diet
-  - mental Health
-  - exercise
-  - yoga
   - conscious civing
 author: Marie Fe
 image-1_path: /images/style/maja-stock-23.jpg
@@ -32,8 +30,8 @@ intro-content_html: >-
   of this rut without losing the beneficial structure a daily routine can give
   you?</p><p>The answer is easy: creativity.</p>
 sections:
-  - banner_path: /images/style/maja-stock-33.jpg
-    banner-fixed: true
+  - banner_path: /uploads/content-pixie--lqved9iegc-unsplash-1.jpg
+    banner-fixed: false
     banner-caption:
     columns: true
     main-paragraph-emphasis: >-

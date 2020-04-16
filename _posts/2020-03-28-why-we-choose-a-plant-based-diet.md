@@ -3,7 +3,10 @@ layout: post
 date: 2020-01-01 00:00:00
 slug: why-choose-a-plantbased-diet
 title: Why We Choose a Plant Based Diet
-meta-description:
+meta-description: >-
+  Four years ago we have made a decision to switch to a plant-based diet and it
+  has been one of the best decisions of our lives. Read this post to find out
+  why.
 meta-keywords: 'diet, plantbased diet, vegan,'
 image_path: /images/food/vegan-food1.jpg
 banner-1_path: /images/food/vegan-food1.jpg
@@ -12,10 +15,6 @@ categories:
   - wellbeing
 tags:
   - diet
-  - mental Health
-  - exercise
-  - yoga
-  - conscious civing
 author: Marie Fe
 image-1_path: /images/food/vegan-food8.jpg
 image-2_path: /images/food/plantbased-food3.jpg

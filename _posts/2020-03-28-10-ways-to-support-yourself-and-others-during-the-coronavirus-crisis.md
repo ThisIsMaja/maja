@@ -3,7 +3,10 @@ layout: post
 date: 2020-01-01 00:00:00
 slug: support-yourself-through-coronavirus
 title: 10 Ways to support yourself and others during the coronavirus crisis
-meta-description:
+meta-description: >-
+  It is a weird time we are living in. Everything around is changing and we need
+  to adjust as well. In this post we are talking about 10 ways to support
+  yourself and others during coronavirus.
 meta-keywords:
 image_path: /images/Coronavirus/coronavirus3.jpg
 banner-1_path: /images/Coronavirus/coronavirus2.jpg
