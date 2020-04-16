@@ -6,6 +6,9 @@
 
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media(max-width:768px) {
+  .fixed {
+    position: static;
+  }
 
   .mob-hide {
     display: none;

@@ -132,9 +132,10 @@ font-size: 0.9rem;
 }
 
 .blog-content p.emphasis {
-  text-transform: uppercase;
-  font-family: p22-underground;
-  font-size: 1rem;
+  // text-transform: uppercase;
+  // font-family: p22-underground;
+  font-weight: bold;
+  font-size: 1.1rem;
   margin-bottom:0;
 }
 
