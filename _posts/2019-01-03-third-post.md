@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Our Love Story
-date: 2020-01-01 00:00:00
-slug:
-meta-description:
+date: 2019-09-22 11:00:00
+slug: our-love-story
+meta-description: >-
+  In this post we tell you a crazy love story between an ocean boy from
+  Australia and a city girl from Germany.
 meta-keywords:
 image_path: /images/marie-jake/Website 2-23.jpg
 banner-1_path: /images/nature/mariefeandjakesnow-banner10.jpg
