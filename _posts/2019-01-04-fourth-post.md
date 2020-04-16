@@ -11,8 +11,6 @@ banner-fixed: true
 categories:
   - travel
 tags:
-  - photography
-  - fashion
   - Europe
 author: Jake Snow
 image-1_path: /images/Obertauern/Obertauern1.jpg
@@ -40,7 +38,7 @@ sections:
     columns: false
     main-paragraph-emphasis: Obertauern is also located close to Salzburg
     body-content_html: >-
-      <h4>Why we loved Obertauern, Austria</h4><p>With over 100km of piste in
+      <h2>Why we loved Obertauern, Austria</h2><p>With over 100km of piste in
       Obertauern, there&rsquo;s so much to explore. The ski slopes are ideal for
       advanced skiers or snowboarders, yet they also vary in slope size and so
       it&rsquo;s also a great place for beginners to learn how to
@@ -57,7 +55,7 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4>The Best Time To Go On a Winter Holiday To Obertauern</h4><p>The
+      <h2>The Best Time To Go On a Winter Holiday To Obertauern</h2><p>The
       winter season in Obertauern, Austria, starts toward the end of November
       and lasts until the beginning of May. To make the most out of your time,
       the best snowfall will be in December, January and February.</p><p>The
@@ -70,7 +68,7 @@ sections:
     columns: false
     main-paragraph-emphasis: many hotels have a little spa area in-house
     body-content_html: >-
-      <h4>Things To Do In Obertauern</h4><ul><li>Skiing&nbsp; - 4 days, starting
+      <h2>Things To Do In Obertauern</h2><ul><li>Skiing&nbsp; - 4 days, starting
       from 64 Euros for skis &amp; 39 Euros for boots - depending on the season
       - Ski pass for 4 days 188 Euros</li><li>Snowboarding - 4 days, 85
       Euros&nbsp; for a board &amp; 39 Euros for boots - depending on the season
@@ -88,7 +86,7 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4>Where To Eat And Stay In Obertauern</h4><p>5 best cafes where to have
+      <h2>Where To Eat And Stay In Obertauern</h2><p>5 best cafes where to have
       delicious food:</p><ul><li>L&uuml;rzer Alm (vegan salads and asian
       wok)</li><li>Seekarhaus (on the skipist, only very few
       options)</li><li>Fritz &amp; Friedrich (amazing Asian food incl. the best
@@ -110,7 +108,7 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4>Highlight of Obertauern</h4><p>Ski in Ski out - you are immediately on
+      <h2>Highlight of Obertauern</h2><p>Ski in Ski out - you are immediately on
       the piste once you walk out of your hotel. This is really cool feature of
       Obertauern. If you&rsquo;ve been on a winter holiday before, you know
       exactly what we mean.&nbsp;</p><p>The best way to spend your winter in

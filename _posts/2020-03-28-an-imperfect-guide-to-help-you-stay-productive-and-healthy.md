@@ -1,9 +1,12 @@
 ---
 layout: post
 date: 2020-02-12 00:00:00
-slug: an-imperfect-guide-to-stay-productive-and-healthy
+slug: guide-to-stay-productive-and-healthy
 title: An (imperfect) guide to help you stay productive and healthy
-meta-description:
+meta-description: >-
+  Ever felt like having zero motivation to do anything? We all have been there.
+  Read this post to find simple yet effective ways to stay productive and
+  healthy.
 meta-keywords: 'productivity, guide'
 image_path: /images/maldives/amilla-fushi5.jpg
 banner-1_path: /images/office/home-office4.jpg

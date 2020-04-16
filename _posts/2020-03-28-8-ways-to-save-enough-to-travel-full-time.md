@@ -1,9 +1,11 @@
 ---
 layout: post
 date: 2020-01-01 00:00:00
-slug:
+slug: ways-to-save-to-travel-full-time
 title: 8 ways to save enough to travel full time
-meta-description:
+meta-description: >-
+  In this post we tell simple yet effective and realistic ways how to save money
+  and afford a full-time traveling life.
 meta-keywords:
 image_path: /images/Italy/Dolomites-Italy6.jpg
 banner-1_path: /images/travel/maja-travel8.jpg

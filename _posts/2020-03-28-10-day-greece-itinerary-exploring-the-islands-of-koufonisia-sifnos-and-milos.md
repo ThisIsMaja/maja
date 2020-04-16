@@ -46,15 +46,15 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Day 1
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Greece Itinerary: Athens</h2><p>Athens is the capital city of Greece
-      and home to the Acropolis, which holds the remains of many ancient
-      buildings. Most international flights arrive in Athens and it&rsquo;s best
-      to take advantage of this opportunity and spend the night here.</p><p>The
-      Acropolis is open from 08:00 daily. It closes at 16:00 on Mondays and at
-      20:00 from Tuesday to Sunday. If you need to get to the Acropolis, the
-      easiest and safest way is with <a
+      <h2>Greece Itinerary: Athens</h2><h4>Day 1</h4><p>Athens is the capital
+      city of Greece and home to the Acropolis, which holds the remains of many
+      ancient buildings. Most international flights arrive in Athens and
+      it&rsquo;s best to take advantage of this opportunity and spend the night
+      here.</p><p>The Acropolis is open from 08:00 daily. It closes at 16:00 on
+      Mondays and at 20:00 from Tuesday to Sunday. If you need to get to the
+      Acropolis, the easiest and safest way is with <a
       href="https://thebeat.co/en/"><u>Beat</u></a>, a local taxi app which
       connects you to nearby drivers.</p><h3>Athens Accommodation</h3><p>We
       spent our night in Athens at <a
@@ -64,24 +64,24 @@ sections:
       food options nearby. Definitely check out a small vegan, raw cafe called
       'Peas' (the best food we had in Greece)</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece13.jpg
-    banner-fixed: true
+    banner-fixed: false
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Day 2-4
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Greece Itinerary: Koufonisia (3 nights)</h2><p>Koufonisia was the
-      first island of our 10 day Greece itinerary. It&rsquo;s a tiny island
-      located in the heart of the Aegean Sea and the smallest of the 3 we
-      visited. Koufonisia is a tranquil island and if you&rsquo;re looking for
-      undiscovered island life we&rsquo;d highly recommend you include it in
-      your Greece itinerary.</p><h3>How to get to Koufonisia from
-      Athens</h3><p>There is no airport on Koufonisia and the only way to access
-      the island is via ferry. The ferry departs from Piraeus Port in Athens and
-      takes about 5 hours to reach Koufonisia. You can contact&nbsp;<a
-      href="https://hellenicseaways.gr/en/"><u>Hellenic Seaways</u></a> to
-      inquire about ticket options.</p><p>If you&rsquo;d prefer a shorter ferry
-      trip, you can also fly to nearby Naxos. You then need to catch a ferry
-      from Naxos to Koufonisia which takes 2.5 hours.</p>
+      <h2>Greece Itinerary: Koufonisia (3 nights)</h2><h4>Day
+      2-4</h4><p>Koufonisia was the first island of our 10 day Greece itinerary.
+      It&rsquo;s a tiny island located in the heart of the Aegean Sea and the
+      smallest of the 3 we visited. Koufonisia is a tranquil island and if
+      you&rsquo;re looking for undiscovered island life we&rsquo;d highly
+      recommend you include it in your Greece itinerary.</p><h3>How to get to
+      Koufonisia from Athens</h3><p>There is no airport on Koufonisia and the
+      only way to access the island is via ferry. The ferry departs from Piraeus
+      Port in Athens and takes about 5 hours to reach Koufonisia. You can
+      contact&nbsp;<a href="https://hellenicseaways.gr/en/"><u>Hellenic
+      Seaways</u></a> to inquire about ticket options.</p><p>If you&rsquo;d
+      prefer a shorter ferry trip, you can also fly to nearby Naxos. You then
+      need to catch a ferry from Naxos to Koufonisia which takes 2.5 hours.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece3.jpg
     banner-caption:
     columns: true
@@ -140,12 +140,12 @@ sections:
   - banner_path: /images/greece/mariefeandjakesnow-greece10.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Day 5-7
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Greece Itinerary: Sifnos (3 nights)</h2><p>Sifnos, the second stop of
-      our 10 day Greece itinerary, is a bigger and busier island than
-      Koufonisia. This island is home to quaint villages and beautiful beaches
-      and is known to be the culinary and cultural destination of
+      <h2>Greece Itinerary: Sifnos (3 nights)</h2><h4>Day 5-7</h4><p>Sifnos, the
+      second stop of our 10 day Greece itinerary, is a bigger and busier island
+      than Koufonisia. This island is home to quaint villages and beautiful
+      beaches and is known to be the culinary and cultural destination of
       Greece.</p><h3>How to get to Sifnos from Koufonisia</h3><p>If you&rsquo;re
       following our 10 day Greece itinerary, you&rsquo;ll arrive in Sifnos via a
       ferry from Koufonisia.&nbsp;<a
@@ -202,26 +202,26 @@ sections:
   - banner_path: /images/greece/mariefeandjakesnow-greece1.jpg
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Day 8-10
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Greece Itinerary: Milos (3 nights)</h2><p>Milos is the very reason we
-      wanted to return to Greece. We traveled to this island 2 years ago and
-      were completely blown away by the color of the water and incredible free
-      diving.</p><p>Words cannot describe the beauty that lies on Milos Island.
-      It&rsquo;s actually a volcanic island with beautiful caves tucked below
-      the bright blue waters. Milos is fast becoming a tourist hotspot. It was
-      the most popular island on our Greece itinerary, yet it still has that
-      unique charm that we love so much.</p><h3>How to get to Milos from Sifnos
-      or Athens</h3><p>Milos is just over 60km away from Sifnos and the easiest
-      way to get between the two is via ferry. Bookings can be made through<a
-      href="https://www.seajets.gr/"> <u>Sea Jets</u></a> and the trip takes
-      approximately 40 minutes.</p><p>There is an airport on Milos Island with
-      daily flights to and from Athens. If you&rsquo;d prefer to follow our 10
-      day Greece itinerary in reverse, you can fly into Milos before moving to
-      the islands of Sifnos and Koufonisia.</p><h3>Milos Accommodation</h3><p>We
-      stayed at&nbsp;<a href="http://skinopi.com/"><u>Skinopi
-      Lodge</u></a>&nbsp;whilst in Milos.</p><h3>Milos
-      Restaurants</h3><ul><li><a
+      <h2>Greece Itinerary: Milos (3 nights)</h2><h4>Day 8-10</h4><p>Milos is
+      the very reason we wanted to return to Greece. We traveled to this island
+      2 years ago and were completely blown away by the color of the water and
+      incredible free diving.</p><p>Words cannot describe the beauty that lies
+      on Milos Island. It&rsquo;s actually a volcanic island with beautiful
+      caves tucked below the bright blue waters. Milos is fast becoming a
+      tourist hotspot. It was the most popular island on our Greece itinerary,
+      yet it still has that unique charm that we love so much.</p><h3>How to get
+      to Milos from Sifnos or Athens</h3><p>Milos is just over 60km away from
+      Sifnos and the easiest way to get between the two is via ferry. Bookings
+      can be made through<a href="https://www.seajets.gr/"> <u>Sea Jets</u></a>
+      and the trip takes approximately 40 minutes.</p><p>There is an airport on
+      Milos Island with daily flights to and from Athens. If you&rsquo;d prefer
+      to follow our 10 day Greece itinerary in reverse, you can fly into Milos
+      before moving to the islands of Sifnos and Koufonisia.</p><h3>Milos
+      Accommodation</h3><p>We stayed at&nbsp;<a
+      href="http://skinopi.com/"><u>Skinopi Lodge</u></a>&nbsp;whilst in
+      Milos.</p><h3>Milos Restaurants</h3><ul><li><a
       href="https://www.facebook.com/pages/O-Hamos/377153249022792"><u>O! Hamos
       restaurant</u></a> (possible the best plant-based we had in
       Greece</li><li><a href="https://www.barriello.com/"><u>Bariello

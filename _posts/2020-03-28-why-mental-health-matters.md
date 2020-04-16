@@ -3,7 +3,10 @@ layout: post
 date: 2020-01-01 00:00:00
 slug: mental-health-matters
 title: (Why) Mental Health Matters
-meta-description:
+meta-description: >-
+  Good health is the key to a happy life and it gives us power to do great
+  things. In this post we focus on our mental health and talk about why is it so
+  important.
 meta-keywords: 'mental health,'
 image_path: /images/style/maja-stock-style2.jpg
 banner-1_path: /images/style/mental-health2.jpg

@@ -1,9 +1,11 @@
 ---
 layout: post
-date: 01/01/2020
-slug:
+date: 2020-01-01 00:00:00
+slug: how-to make-amazing-couple-photos
 title: 5 Steps to Taking Amazing Couple Photos
-meta-description:
+meta-description: >-
+  In this post we tell you all the secrets we've learned over the years on how
+  to create the most amazing couple photos.
 meta-keywords:
 image_path: /images/maldives/amilla-fushi1.jpg
 banner-1_path: /images/style/maja-stock-19.jpg
@@ -28,9 +30,11 @@ sections:
     banner-fixed: true
     banner-caption:
     columns: true
-    main-paragraph-emphasis: We love being by the sea, but nothing can compare to a winter ski trip with the one you love
-    body-content_html: This is the body content
-show-gallery: true     
+    main-paragraph-emphasis: >-
+      We love being by the sea, but nothing can compare to a winter ski trip
+      with the one you love
+    body-content_html: <p>This is the body content</p>
+show-gallery: true
 gallery:
   - image_path: /images/greece/mariefeandjakesnow-greece9.jpg
     size: full
