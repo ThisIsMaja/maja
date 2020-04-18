@@ -563,9 +563,8 @@ footer h3 {
   font-size: 0.9rem; }
 
 .blog-content p.emphasis {
-  text-transform: uppercase;
-  font-family: p22-underground;
-  font-size: 1rem;
+  font-weight: bold;
+  font-size: 1.1rem;
   margin-bottom: 0; }
 
 .down-arrow {
@@ -1048,6 +1047,9 @@ h3.clear-images-h3 {
 
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media (max-width: 768px) {
+  .fixed {
+    position: static; }
+
   .mob-hide {
     display: none; }
 
