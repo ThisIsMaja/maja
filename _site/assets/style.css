@@ -123,6 +123,10 @@ body {
   column-count: 2;
   column-gap: 2rem; }
 
+.bump-left {
+  position: relative;
+  margin-left: -2rem; }
+
 /* General typography */
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
@@ -179,6 +183,17 @@ p a.emphasis {
 .bg-animation {
   background-image: url("/images/icons/maja_wave_website.gif"); }
 
+.spinning-sun {
+  animation: rotation 5s infinite ease;
+  animation-direction: alternate;
+  max-width: 3rem;
+  vertical-align: bottom; }
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(359deg); } }
 .blog-content h2:not(:first-child),
 .blog-content h3:not(:first-child),
 .blog-content h4:not(:first-child) {
