@@ -128,15 +128,15 @@ sections:
       general, this tour around the Komodo Islands was something we will never
       forget. The quality of content we were able to produce and the experiences
       we had, were absolutely top-notch.</p><p>We want to say a big thank you to
-      the guys at <a
+      the guys at <a target="_blank"
       href="https://travass.life/komodoisland/"><u>Travass.Life</u></a> for
       making our trip so memorable. We can&rsquo;t recommend them highly
       enough.</p><p>Most of our Komodo photos were edited with presets from our
-      Ultimate Preset Package that you can find <a
+      Ultimate Preset Package that you can find <a target="_blank"
       href="https://shopmariefeandjakesnow.com/"><u>here</u></a>!</p><p>This
       adventure was the perfect add on to our month-long stay in Bali, for an
       in-depth guide to Bali and the surrounding Islands check out this article
-      <a href="/posts/one-month-in-bali"><u>here</u></a>!</p>
+      <a target="_blank" href="/posts/one-month-in-bali"><u>here</u></a>!</p>
 show-gallery: true
 gallery:
   - image_path:
