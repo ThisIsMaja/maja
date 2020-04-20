@@ -48,7 +48,7 @@ sections:
   - banner_path: /images/style/maja-stock-10.jpg
     banner-fixed: true
     banner-caption:
-    columns: false
+    columns: true
     main-paragraph-emphasis: >-
       Think about it: When someone asks you how you are doing, how likely are
       you to respond with “I am struggling”
@@ -106,7 +106,7 @@ sections:
       the less we were able to stick to our healthy routines of yoga, reading,
       journaling.&nbsp;</p>
   - banner_path: /images/style/maja-stock-38.jpg
-    banner-fixed: false
+    banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis: Your dreams are worth pursuing
