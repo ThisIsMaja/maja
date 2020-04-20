@@ -62,14 +62,14 @@ sections:
       from the volcano, and mingling with the dusky shades of the sky.</p><p>It
       was a surreal experience and one of those &ldquo;pinch me&rdquo; kind of
       moments.</p><p>Costs to visit Hawaii Volcanoes National Park</p><p>We
-      joined<a href="https://www.epiclava.com/"> <u>Epic Lava&rsquo;s Volcano
-      Park Tour</u></a><u> </u>and met with their team at the Kilauea Visitor
-      Center.</p><p>The tour prices start from $125 per person for the 4-hour
-      tour, which we highly recommend. Their guides are extremely passionate
-      about the island, and the history behind the park.</p><p>If this is out of
-      your price range, you can also visit Hawaii Volcanoes National Park
-      independently.</p><p>The entrance fee is only $25 per car which gives you
-      access for the whole week.</p><ul><li><h3>Go
+      joined&nbsp;<u><a target="_blank" href="https://www.epiclava.com/">Epic
+      Lava&rsquo;s Volcano Park Tour</a></u>&nbsp;and met with their team at the
+      Kilauea Visitor Center.</p><p>The tour prices start from $125 per person
+      for the 4-hour tour, which we highly recommend. Their guides are extremely
+      passionate about the island, and the history behind the park.</p><p>If
+      this is out of your price range, you can also visit Hawaii Volcanoes
+      National Park independently.</p><p>The entrance fee is only $25 per car
+      which gives you access for the whole week.</p><ul><li><h3>Go
       canoeing</h3></li></ul><p>After arriving on the Island of Hawaii, we were
       so excited to get out and about! We checked into our hotel and headed
       straight to the beach, got a canoe and paddled out into the ocean for
@@ -84,8 +84,8 @@ sections:
       Rays</h3></li></ul><p>Snorkeling with Manta Rays at night was a magical
       experience and one of the highlights of our time in Hawaii.</p><p>They are
       huge and may seem quite scary at first, but they&rsquo;re calm, gentle
-      giants.</p><p>Our manta experience was organized by<a
-      href="https://www.anelakaiadventures.com/"> <u>Anelakaia
+      giants.</p><p>Our manta experience was organized by&nbsp;<a
+      target="_blank" href="https://www.anelakaiadventures.com/"><u>Anelakaia
       Adventures,</u></a> an eco-friendly tour operator in Hawaii. We ventured
       out from Kona and made our way into the ocean on a canoe with no
       engine.</p><p>Snorkeling at night when you&rsquo;re surrounded by Manta
@@ -105,17 +105,17 @@ sections:
       coast of the Island of Hawaii. The bay is surrounded by towering cliffs
       and is completely deserted.</p><p>It&rsquo;s a great outing to pair with
       the Pololu Valley hike above, even in the rain!</p><ul><li><h3>Make some
-      delicious Kona coffee</h3></li></ul><p>We joined<a
-      href="https://www.ucc-hawaii.com/"> <u>UCC Hawaii</u></a> and got our
-      hands dirty roasting our very own coffee in Kona. The team explained the
-      entire coffee-making process and we enjoyed a few cups of our freshly
-      roasted coffee after!</p><p>The coffee tour costs $45 per person which
-      includes 2 bags of coffee with your own custom label.</p><ul><li><h3>Check
-      out the largest waterfall in Hawaii</h3></li></ul><p>At 135m high, Akaka
-      Waterfall is Hawaii&rsquo;s largest waterfall and one of the best places
-      to visit on the Island of Hawaii.</p><p>It&rsquo;s located east of the
-      island, close to Hilo. The waterfall is a short walk from the parking lot
-      and entrance is $5 per car.</p>
+      delicious Kona coffee</h3></li></ul><p>We joined&nbsp;<a target="_blank"
+      href="https://www.ucc-hawaii.com/"><u>UCC Hawaii</u></a> and got our hands
+      dirty roasting our very own coffee in Kona. The team explained the entire
+      coffee-making process and we enjoyed a few cups of our freshly roasted
+      coffee after!</p><p>The coffee tour costs $45 per person which includes 2
+      bags of coffee with your own custom label.</p><ul><li><h3>Check out the
+      largest waterfall in Hawaii</h3></li></ul><p>At 135m high, Akaka Waterfall
+      is Hawaii&rsquo;s largest waterfall and one of the best places to visit on
+      the Island of Hawaii.</p><p>It&rsquo;s located east of the island, close
+      to Hilo. The waterfall is a short walk from the parking lot and entrance
+      is $5 per car.</p>
   - banner_path: /uploads/hawaii-forest-road-1.jpg
     banner-fixed: true
     banner-caption:
@@ -127,20 +127,20 @@ sections:
       on the Island of Hawaii.</p><ul><li>Sweet Potato Kitchen</li><li>Pōmaikaʻi
       Cafe</li><li>Sweet Cane Cafe</li><li>Vibe</li><li>Conscious Culture
       Cafe</li><li>Under the Bodhi Tree</li></ul><p>&nbsp;</p><h3>Where To Stay
-      On The Island Of Hawaii</h3><ul><li>Luxury:<a
-      href="https://www.fairmont.com/orchid-hawaii/"> <u>Fairmont Orchid</u></a>
+      On The Island Of Hawaii</h3><ul><li>Luxury:&nbsp;<a target="_blank"
+      href="https://www.fairmont.com/orchid-hawaii/"><u>Fairmont Orchid</u></a>
       - This luxurious resort is the perfect place to return to after a full day
       of exploring. They also have kayaks, SUP&rsquo;s and snorkeling equipment
       which you can use and there are turtles right on the beach in front of the
       hotel.</li><li>Budget: We love staying in self-catering apartments when
       we&rsquo;re traveling. Not only are they cheaper than hotels, but you can
       also prepare your own meals so you save costs by not eating out. Places
-      like<a
-      href="https://www.booking.com/hotel/us/knigge-farms.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaPsBiAEBmAEJuAEXyAEP2AEB6AEB-AELiAIBqAIDuAKnmNnrBcACAQ;sid=5749569209fd8fc978a9f9ab489366fe;all_sr_blocks=250036601_147135960_2_0_0;checkin=2020-06-18;checkout=2020-06-19;dest_id=20030951;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=5;highlighted_blocks=250036601_147135960_2_0_0;hpos=5;nflt=pri%3D2%3Bpri%3D3%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1568034050;srpvid=44e75b804f8801fd;type=total;ucfs=1&amp;#hotelTmpl">
-      <u>Knigge Farms</u></a><u> </u>and<a
-      href="https://www.airbnb.com/rooms/871013?adults=2&amp;source_impression_id=p3_1568033759_t0qK0eXaA3v9LH5u&amp;toddlers=0">
-      <u>this condo</u></a> are the perfect budget-friendly accommodation
-      options on Big Island.</li></ul>
+      like&nbsp;<a target="_blank"
+      href="https://www.booking.com/hotel/us/knigge-farms.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaPsBiAEBmAEJuAEXyAEP2AEB6AEB-AELiAIBqAIDuAKnmNnrBcACAQ;sid=5749569209fd8fc978a9f9ab489366fe;all_sr_blocks=250036601_147135960_2_0_0;checkin=2020-06-18;checkout=2020-06-19;dest_id=20030951;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=5;highlighted_blocks=250036601_147135960_2_0_0;hpos=5;nflt=pri%3D2%3Bpri%3D3%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1568034050;srpvid=44e75b804f8801fd;type=total;ucfs=1&amp;#hotelTmpl"><u>Knigge
+      Farms</u></a>&nbsp;and&nbsp;<a target="_blank"
+      href="https://www.airbnb.com/rooms/871013?adults=2&amp;source_impression_id=p3_1568033759_t0qK0eXaA3v9LH5u&amp;toddlers=0"><u>this
+      condo</u></a> are the perfect budget-friendly accommodation options on Big
+      Island.</li></ul>
   - banner_path: /images/hawaii/Hawaii 1-1-5.jpg
     banner-fixed: true
     banner-caption:
@@ -158,31 +158,31 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <h2>Things To Do In Oahu</h2><ul><li><h3>Kualoa Ranch Private Nature
-      Reserve</h3></li></ul><p>This is the day we were most excited for!<a
-      href="https://www.kualoa.com/"> <u>Kualoa Ranch</u></a><u> </u>is a 4 000
-      acre nature reserve located on the East coast of Oahu.</p><p>Remember the
-      movies Jurassic Park, Jumanji, Mighty Joe Young, and Godzilla? And who can
-      forget Lost or 50 First Dates! Well, Kualoa Ranch is the filming location
-      for all of these. How crazy is that!</p><p>There are various tours
-      starting from $40 per person, going up to $150 depending on your
-      preferences.</p><ul><li><h3>Watch dolphins on a boat
-      tour</h3></li></ul><p>The highlight of all our trips involves some sort of
-      adventure, and this was no different!</p><p>We headed West of Oahu for a
-      boat trip where we spent the morning watching dolphins and
-      free-diving.</p><p>This 4-hour boat tour with<a
-      href="https://sailhawaii.com/"> <u>Wild Side Speciality Tours</u></a><u>
-      </u>costs $175 per person which includes your snorkeling gear, lunch,
-      snacks, and water.</p><ul><li><h3>Explore Haleiwa</h3></li></ul><p>Haleiwa
-      is located on Oahu&rsquo;s north shore and is famous for its big waves and
-      great beaches.</p><p>This is where all the big surfing competitions take
-      place so if you&rsquo;re here at the right time, you might be able to
-      watch the pro&rsquo;s as they take on some of the biggest waves in the
-      world!</p><ul><li><h3>Explore the streets of Kaka&rsquo;ako
-      District</h3></li></ul><p>A street art community project was started by
-      Pow Wow Worldwide which showcases the talent of the community. Head to the
-      Kaka&rsquo;ako District to check it out!</p><p>It really is incredible to
-      see just how creative people are, and how we can express ourselves through
-      different forms of art.</p><ul><li><h3>Swim with
+      Reserve</h3></li></ul><p>This is the day we were most excited for!&nbsp;<a
+      target="_blank" href="https://www.kualoa.com/"><u>Kualoa
+      Ranch</u></a>&nbsp;is a 4 000 acre nature reserve located on the East
+      coast of Oahu.</p><p>Remember the movies Jurassic Park, Jumanji, Mighty
+      Joe Young, and Godzilla? And who can forget Lost or 50 First Dates! Well,
+      Kualoa Ranch is the filming location for all of these. How crazy is
+      that!</p><p>There are various tours starting from $40 per person, going up
+      to $150 depending on your preferences.</p><ul><li><h3>Watch dolphins on a
+      boat tour</h3></li></ul><p>The highlight of all our trips involves some
+      sort of adventure, and this was no different!</p><p>We headed West of Oahu
+      for a boat trip where we spent the morning watching dolphins and
+      free-diving.</p><p>This 4-hour boat tour with&nbsp;<a target="_blank"
+      href="https://sailhawaii.com/"><u>Wild Side Speciality
+      Tours</u></a>&nbsp;costs $175 per person which includes your snorkeling
+      gear, lunch, snacks, and water.</p><ul><li><h3>Explore
+      Haleiwa</h3></li></ul><p>Haleiwa is located on Oahu&rsquo;s north shore
+      and is famous for its big waves and great beaches.</p><p>This is where all
+      the big surfing competitions take place so if you&rsquo;re here at the
+      right time, you might be able to watch the pro&rsquo;s as they take on
+      some of the biggest waves in the world!</p><ul><li><h3>Explore the streets
+      of Kaka&rsquo;ako District</h3></li></ul><p>A street art community project
+      was started by Pow Wow Worldwide which showcases the talent of the
+      community. Head to the Kaka&rsquo;ako District to check it out!</p><p>It
+      really is incredible to see just how creative people are, and how we can
+      express ourselves through different forms of art.</p><ul><li><h3>Swim with
       turtles</h3></li></ul><p>We can never get enough of turtles, so we headed
       to Laniakea Beach. There are so many secret spots nearby where
       you&rsquo;ll have the beach to yourself.</p><p>As Marie was gently
@@ -198,8 +198,9 @@ sections:
       and we were put to the test in Oahu when we did yoga, on a stand-up
       paddleboard, in the middle of the ocean!</p><p>It was a beautiful way to
       take in our first sunset on Oahu Island in Hawaii.</p><p>Our session was
-      lead by<a href="https://www.yogafloats.com/"> <u>Yoga Floats</u></a> at
-      Waikiki Beach. It cost $40 per person for the 1.5-hour yoga class.</p>
+      lead by&nbsp;<a target="_blank" href="https://www.yogafloats.com/"><u>Yoga
+      Floats</u></a> at Waikiki Beach. It cost $40 per person for the 1.5-hour
+      yoga class.</p>
   - banner_path: /uploads/oahu-dron-shot.jpg
     banner-fixed: true
     banner-caption:
@@ -212,13 +213,14 @@ sections:
       delicious vegan and vegetarian buffet for $12 all you can eat.
       They&rsquo;re only open during lunch time.</li><li>Beet Box
       Caf&eacute;</li><li>Mud Hen Water</li><li>Kahumana Organic Farm &amp;
-      Cafe</li></ul><h3>Where To Stay In Oahu</h3><ul><li>Luxury:<a
-      href="https://www.alohilaniresort.com/special-offers/?gclid=CjwKCAjwldHsBRAoEiwAd0JybbQQ6uM5R45o04HkHyBPLszlNZgFjFj4JdHpjAtrFaTR7tHJJ_wpZRoCBEYQAvD_BwE">
-      <u>Alohilani Resort</u></a> is situated in Waikiki Beach and you cannot go
-      wrong with this location.</li><li>Budget: Island James Villa - This is an
-      amazing family spot in Oahu. You can contact them directly through<a
-      href="https://www.instagram.com/islandjamesvilla/">
-      <u>Instagram</u></a>.</li></ul>
+      Cafe</li></ul><h3>Where To Stay In Oahu</h3><ul><li>Luxury:&nbsp;<a
+      target="_blank"
+      href="https://www.alohilaniresort.com/special-offers/?gclid=CjwKCAjwldHsBRAoEiwAd0JybbQQ6uM5R45o04HkHyBPLszlNZgFjFj4JdHpjAtrFaTR7tHJJ_wpZRoCBEYQAvD_BwE"><u>Alohilani
+      Resort</u></a> is situated in Waikiki Beach and you cannot go wrong with
+      this location.</li><li>Budget: Island James Villa - This is an amazing
+      family spot in Oahu. You can contact them directly through&nbsp;<a
+      target="_blank"
+      href="https://www.instagram.com/islandjamesvilla/"><u>Instagram</u></a>.</li></ul>
   - banner_path: /uploads/kauai-street-view.jpg
     banner-fixed: true
     banner-caption:
@@ -236,7 +238,7 @@ sections:
     banner-caption:
     columns: false
     main-paragraph-emphasis:
-    body-content_html: "<h2>Things To Do In Kauai</h2><ul><li><h3>Boat trip to the Napali Coast</h3></li></ul><p>Words can&rsquo;t describe just how incredible the lush green forests, towering mountains, and out-of-this-world scenery are that make up the Napali Coast on Kauai Island.</p><p>It&rsquo;s located on the northwest of Kauai and the best way to experience this gorgeous coastline is with a boat cruise. We explored caves, saw countless dolphins and several giant turtles.</p><p>For $130 per person, you&rsquo;ll get 6 hours on the ocean including food, refreshments and snorkeling gear. We highly recommend<a href=\"https://kauaiseatours.com/\"> <u>Kauai Sea Tours</u></a><u> </u>for this.\uFEFF</p><ul><li><h3>Take a dive into Wailua Falls</h3></li></ul><p>Wailua Falls is a 50m high waterfall on the east of Kauai. There&rsquo;s a stunning viewpoint at the top with gorgeous views of the entire waterfall. It&rsquo;s not crowded and is a must-visit spot in Kauai.</p><p>You can walk down the trail and reach the pool at the bottom of the falls, but this can be extremely dangerous so be extra careful.</p><ul><li><h3>Take a drive to Hanalei Bay</h3></li></ul><p>Hanalei Bay is the biggest bay on the north of Kauai Island. The beaches here are beautiful and it&rsquo;s worth stopping by and exploring the town.</p><ul><li><h3>Visit Turtle Cove</h3></li></ul><p>You&rsquo;re almost guaranteed to see turtles at Turtle Cove! This was such a fun experience for us because not only are there turtles in the water, but you also get to swim in a cave.</p><ul><li><h3>Explore Queens Bath</h3></li></ul><p>Queens Bath is a tidal pool north of Kauai that has been separated from the sea by lava rock! It made for a great trip and is a must-do on Kauai Island.</p>"
+    body-content_html: "<h2>Things To Do In Kauai</h2><ul><li><h3>Boat trip to the Napali Coast</h3></li></ul><p>Words can&rsquo;t describe just how incredible the lush green forests, towering mountains, and out-of-this-world scenery are that make up the Napali Coast on Kauai Island.</p><p>It&rsquo;s located on the northwest of Kauai and the best way to experience this gorgeous coastline is with a boat cruise. We explored caves, saw countless dolphins and several giant turtles.</p><p>For $130 per person, you&rsquo;ll get 6 hours on the ocean including food, refreshments and snorkeling gear. We highly recommend&nbsp;<a target=\"_blank\" href=\"https://kauaiseatours.com/\"><u>Kauai Sea Tours</u></a>&nbsp;for this.\uFEFF</p><ul><li><h3>Take a dive into Wailua Falls</h3></li></ul><p>Wailua Falls is a 50m high waterfall on the east of Kauai. There&rsquo;s a stunning viewpoint at the top with gorgeous views of the entire waterfall. It&rsquo;s not crowded and is a must-visit spot in Kauai.</p><p>You can walk down the trail and reach the pool at the bottom of the falls, but this can be extremely dangerous so be extra careful.</p><ul><li><h3>Take a drive to Hanalei Bay</h3></li></ul><p>Hanalei Bay is the biggest bay on the north of Kauai Island. The beaches here are beautiful and it&rsquo;s worth stopping by and exploring the town.</p><ul><li><h3>Visit Turtle Cove</h3></li></ul><p>You&rsquo;re almost guaranteed to see turtles at Turtle Cove! This was such a fun experience for us because not only are there turtles in the water, but you also get to swim in a cave.</p><ul><li><h3>Explore Queens Bath</h3></li></ul><p>Queens Bath is a tidal pool north of Kauai that has been separated from the sea by lava rock! It made for a great trip and is a must-do on Kauai Island.</p>"
   - banner_path: /uploads/kauai-drone-shot.jpg
     banner-fixed: true
     banner-caption:
@@ -245,9 +247,9 @@ sections:
     body-content_html: >-
       <h3>Where To Eat in Kauai</h3><ul><li>Papayas natural foods</li><li>Java
       Kai Kauai</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h3>Where To
-      Stay in Kauai</h3><ul><li><a
+      Stay in Kauai</h3><ul><li><a target="_blank"
       href="https://www.booking.com/searchresults.en-gb.html?aid=311984%3Blabel%3Dplantation-hale-suites-tkG0r5DaGNCNgpfXy8ayvQS162176855714%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t2%3Aneg%3Afi%3Atiaud-285284110726%3Akwd-287175170%3Alp1028684%3Ali%3Adec%3Adm%3Bsid%3D5749569209fd8fc978a9f9ab489366fe%3Bcity%3D20030979%3Bexpand_sb%3D1%3Bhighlighted_hotels%3D279993%3Bhlrd%3Dno_dates%3Bkeep_landing%3D1%3Bredirected%3D1%3Bsource%3Dhotel&amp;gclid=CjwKCAjwldHsBRAoEiwAd0JybeK-7fjkTfccZaXZHuTqrd-dOAe4dP2pGVPgERo9TGV5e2S5sY0tohoC-AUQAvD_BwE"><u>Plantation
-      Hale Suites:</u></a><u> </u>We stayed here for 3 nights and paid $450 in
+      Hale Suites:</u></a>&nbsp;We stayed here for 3 nights and paid $450 in
       total. It&rsquo;s a great price considering how expensive some of the
       other accommodation options in Hawaii can be.</li></ul>
   - banner_path: /uploads/hwaii-turtle.jpg
