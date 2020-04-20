@@ -45,7 +45,7 @@ intro-content_html: >-
   lot of past traumas that had manifested into my physical reality back
   then.</p>
 sections:
-  - banner_path: /images/style/maja-stock-10.jpg
+  - banner_path: /images/Italy/Dolomites-Italy5.jpg
     banner-fixed: true
     banner-caption:
     columns: true
@@ -65,7 +65,8 @@ sections:
       sunshine?</p><p>Most of us suffer from traumas, in one way or another.
       Whether that&rsquo;s birth trauma, events in our childhoods that left
       scars in our hearts or a toxic relationship that made us lose trust in our
-      friends and/ or significant others.&nbsp;</p><h3>How willing are you to
+      friends and/ or significant
+      others.&nbsp;</p><h3>&nbsp;</h3><h3>&nbsp;</h3><h3>How willing are you to
       open up and ask for help?&nbsp;</h3><p>Becoming aware of, working through
       and releasing those traumas is crucial in order to be able to live a life
       of emotional freedom. Healing is a journey that takes time and consistent
@@ -105,7 +106,7 @@ sections:
       grew, the more time we spent in front of screens. The more we traveled,
       the less we were able to stick to our healthy routines of yoga, reading,
       journaling.&nbsp;</p>
-  - banner_path: /images/style/maja-stock-38.jpg
+  - banner_path: /images/nature/mariefeandjakesnow-banner4.jpg
     banner-fixed: true
     banner-caption:
     columns: false
