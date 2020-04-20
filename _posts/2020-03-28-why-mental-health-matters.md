@@ -15,9 +15,6 @@ categories:
   - wellbeing
 tags:
   - mental Health
-  - exercise
-  - yoga
-  - conscious civing
 author: Marie Fe
 image-1_path: /images/style/maja-stock-15.jpg
 image-2_path: /images/style/mental-health3.jpg
@@ -90,22 +87,21 @@ sections:
       <h3>Love turned my world around</h3><p>You all know him, and I won&rsquo;t
       go into too much detail in regard to our love story for now :) . You can
       read more about how Jake and I met&nbsp;<a target="_blank"
-      href="https://exotic-chair.cloudvent.net/posts/our-love-story">here.</a></p><p>1
-      year ago, the love of my life &amp; fianc&eacute; Jake and myself became
-      something completely different. Because we realised that we didn&rsquo;t
-      have to live an ordinary life. We had built something out of pure passion,
-      endless love for life and each other. And a strong excitement to explore
-      this beautiful planet we get to call our home.</p><p>So, we decided to
-      start traveling full-time.&nbsp;</p><p>Not only did we invest all of our
-      time, energy and attention into building our personal online brand, but
-      worked incredibly hard to touch as many lives as possible. We wanted to be
-      part of the change we wished to see in this world. All we wanted back then
-      was being together 24/7, do what we love for a living and empower people
-      all across the globe to fearlessly go after their dreams as
-      well.&nbsp;</p><p>And so, we did. And the more our &ldquo;baby&rdquo;
-      grew, the more time we spent in front of screens. The more we traveled,
-      the less we were able to stick to our healthy routines of yoga, reading,
-      journaling.&nbsp;</p>
+      href="/posts/our-love-story">here.</a></p><p>1 year ago, the love of my
+      life &amp; fianc&eacute; Jake and myself became something completely
+      different. Because we realised that we didn&rsquo;t have to live an
+      ordinary life. We had built something out of pure passion, endless love
+      for life and each other. And a strong excitement to explore this beautiful
+      planet we get to call our home.</p><p>So, we decided to start traveling
+      full-time.&nbsp;</p><p>Not only did we invest all of our time, energy and
+      attention into building our personal online brand, but worked incredibly
+      hard to touch as many lives as possible. We wanted to be part of the
+      change we wished to see in this world. All we wanted back then was being
+      together 24/7, do what we love for a living and empower people all across
+      the globe to fearlessly go after their dreams as well.&nbsp;</p><p>And so,
+      we did. And the more our &ldquo;baby&rdquo; grew, the more time we spent
+      in front of screens. The more we traveled, the less we were able to stick
+      to our healthy routines of yoga, reading, journaling.&nbsp;</p>
   - banner_path: /images/nature/mariefeandjakesnow-banner4.jpg
     banner-fixed: true
     banner-caption:
