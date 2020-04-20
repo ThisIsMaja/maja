@@ -60,6 +60,9 @@ body {
 .padded-2-h {
   padding: 0 2rem; }
 
+.padded-2-v {
+  padding: 2rem 0; }
+
 .padded-left {
   padding-left: 2rem; }
 
@@ -95,6 +98,9 @@ body {
   background-color: #FDFAF7; }
 
 .grey-bg {
+  background-color: #F6F6F6; }
+
+.light-grey-bg {
   background-color: #F6F6F6; }
 
 .featured-bg {
@@ -282,7 +288,6 @@ p.emphasis {
   max-width: 300px; }
 
 .about-page h1 {
-  font-family: p22-underground, sans-serif;
   text-transform: uppercase;
   font-weight: normal;
   font-size: 2.5rem; }
@@ -295,17 +300,35 @@ p.emphasis {
   display: inline-block; }
 
 .about-page h2 {
-  font-weight: 300;
-  font-family: p22-underground, sans-serif;
+  font-weight: bold;
   font-size: 1.3rem; }
 
 .about-page p {
-  font-size: 1.6rem; }
+  font-size: 2.2rem; }
 
 .signoff {
   padding: 0.5rem;
   max-width: 15rem; }
 
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%; }
+
+.embed-container embed,
+.embed-container iframe,
+.embed-container object {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+@media (max-width: 768px) {
+  .about-page p {
+    font-size: 1.8rem; } }
 /* Headers and footers */
 header {
   padding: 1% 5%; }
@@ -438,6 +461,17 @@ footer nav a {
 footer h3 {
   font-size: 1.2rem; }
 
+.sub-footer p a {
+  font-family: 'orpheuspro';
+  text-transform: none;
+  font-size: 1rem;
+  border-bottom: 0; }
+
+.sub-footer a,
+.subfooter p {
+  padding: 1rem;
+  font-size: 0.7rem; }
+
 @media (max-width: 768px) {
   header {
     position: fixed;
@@ -505,13 +539,13 @@ footer h3 {
   bottom: 0; }
 
 .blog-item .image-overlay h3 {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   letter-spacing: 3px;
-  color: #d7b1a2; }
+  color: #5a5a5a; }
 
 .blog-item:hover .image-overlay {
   opacity: 1;
-  background-color: rgba(249, 240, 231, 0.9); }
+  background-color: rgba(220, 220, 220, 0.8); }
 
 .blog-loop .blog-item {
   color: inherit;
@@ -1080,9 +1114,6 @@ h3.clear-images-h3 {
   .social-share {
     left: 0.5rem; }
 
-  .about-page p {
-    font-size: 1.5rem; }
-
   footer {
     padding: 2rem 5%; }
 
@@ -1093,6 +1124,9 @@ h3.clear-images-h3 {
 /* This media query kicks into action at the gridlex xs breakpoint */
 /* end media query */
 /* Slick slider */
+.slick-blog-container {
+  padding: 5% 10%; }
+
 .slick-next {
   right: 1rem; }
 

@@ -159,6 +159,19 @@
     font-size: 1.2rem;
   }
 
+  .sub-footer p a {
+    font-family: 'orpheuspro';
+    text-transform: none;
+    font-size: 1rem;
+    border-bottom: 0;
+  }
+
+  .sub-footer a,
+  .subfooter p {
+    padding: 1rem;
+    font-size: 0.7rem;
+  }
+
   @media(max-width:768px) {
     header {
       position: fixed;
