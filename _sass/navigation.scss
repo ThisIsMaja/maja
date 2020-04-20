@@ -145,6 +145,20 @@
   }
 
 
+  // About Sections
+
+  .about-arrow img {
+    max-height: 3rem;
+    transition: all 0.5s;
+    position: relative;
+    left: 0;
+  }
+
+  .about-link:hover img {
+    left: 1rem;
+  }
+
+
   /* -- Footer -- */
 
   footer .info {

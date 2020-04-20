@@ -18,59 +18,62 @@ banner-position: 50% 50%;
 <section class="banner" style="background-image:url({{page.banner-1_path}}); background-position: {{page.banner-position}};">
 
 </section>
+<div class="featured-bg">
+  <div class="bg-animation">
 
-<section class="padded centered">
-  <nav class="margin-bottom-1">
-    <a href="/blog"> Explore </a>
-  </nav>
-  <h2 class="text-animation">
-    <a class="emphasis" href="/travel" data-aos="fade" data-aos-offset="100"><span> Travel </span></a>
-    <a class="emphasis" href="/lifestyle" data-aos="fade" data-aos-offset="150" data-aos-delay="100"><span> Lifestyle </span></a>
-    <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="180" data-aos-delay="150"><span> Wellbeing </span></a>
-    <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="200" data-aos-delay="200"><span> Musings </span></a>
-  </h2>
-</section>
+    <section class="padded centered">
+      <nav class="margin-bottom-1">
+        <a href="/blog"> Explore </a>
+      </nav>
+      <h2 class="text-animation">
+        <a class="emphasis" href="/travel" data-aos="fade" data-aos-offset="100"><span> Travel </span></a>
+        <a class="emphasis" href="/lifestyle" data-aos="fade" data-aos-offset="150" data-aos-delay="100"><span> Lifestyle </span></a>
+        <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="180" data-aos-delay="150"><span> Wellbeing </span></a>
+        <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="200" data-aos-delay="200"><span> Musings </span></a>
+      </h2>
+    </section>
 
-<section class="slick-blog-container">
+    <section class="slick-blog-container">
 
-  <div class="relative slick-blog-loop">
+      <div class="relative slick-blog-loop">
 
-    {% for post in site.posts limit:6 %}
+        {% for post in site.posts limit:6 %}
 
-    <div>
-      <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
-        <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
-          <div class="col-6 left mob-hide">
-            <span class="author"> {{post.author}} </span> | <span class="category"> {{post.categories[0]}} </span>
-          </div>
-          <div class="col-6 right mob-hide">
-              {% include squiggle.html %}
-          </div>
-          <div class="col-12 centered">
-            <h2> {{post.title}} </h2>
-           </div>
-        </a>
-    </div>
+        <div>
+          <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
+            <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
+              <div class="col-6 left mob-hide">
+                <span class="author"> {{post.author}} </span> | <span class="category"> {{post.categories[0]}} </span>
+              </div>
+              <div class="col-6 right mob-hide">
+                  {% include squiggle.html %}
+              </div>
+              <div class="col-12 centered">
+                <h2> {{post.title}} </h2>
+               </div>
+            </a>
+        </div>
 
-    </div>
+        </div>
 
-    {% endfor %}
+        {% endfor %}
 
+      </div>
+
+    </section>
+
+    <section class="padded grid-spaceAround">
+      <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-left">
+        <h2> <a href="/about" class="about-link"> about  <span class="about-arrow"> <img src="/images/icons/waves.png"> </span> </a></h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+      </div>
+      <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-right">
+        <h2><a href="/about#must-haves" class="about-link">  our must haves <span class="about-arrow"> <img src="/images/icons/waves.png"> </span> </a> </a></h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+      </div>
+    </section>
   </div>
-
-</section>
-
-<section class="padded grid-spaceAround">
-  <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-left">
-    <h2> <a href="/about"> about  </a></h2>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-  </div>
-  <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-right">
-    <h2><a href="/about#must-haves">  our must haves  </a></h2>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-  </div>
-</section>
-
+</div>
 <!--  Banner 2  -->
 <section class="banner" style="background-image:url({{page.banner-2_path}}); background-position: {{page.banner-2-position}};">
 
@@ -81,7 +84,7 @@ banner-position: 50% 50%;
     <span class="quote-icon"> “ </span>
   </div>
   <div class="col-4_md-6_sm-9 padded-1">
-    <p class="quote-text"> I never thought I would ever be the knd of person to admin that I am struggling and actively ask for help. </p>
+    <p class="quote-text editable"> I never thought I would ever be the knd of person to admin that I am struggling and actively ask for help. </p>
   </div>
   <div class="col-2_sm-1 left padded-1">
     <span class="quote-icon"> ” </span>

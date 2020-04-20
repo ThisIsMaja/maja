@@ -24,7 +24,8 @@
     display: inline-block;
   }
 
-  .bg-image {
+  .bg-image,
+  .bg-animation {
     background-size: cover;
     background-position: center;
   }
@@ -135,6 +136,17 @@
     font-style: italic;
   }
 
+  //  Unique content
+
+  .bg-animation {
+    background-image: url('/images/icons/maja_wave_website.gif');
+    // opacity: 0.5;
+  }
+  // .bg-animation section {
+  //   opacity: 1;
+  // }
+
+
   .blog-content h2:not(:first-child),
   .blog-content h3:not(:first-child),
   .blog-content h4:not(:first-child) {
@@ -145,6 +157,8 @@
     min-width: 8rem;
     min-height: 2rem;
     display:inline-block;
+    line-height:1.2;
+    margin-bottom:0.5rem;
   }
 
   .text-animation .emphasis span {

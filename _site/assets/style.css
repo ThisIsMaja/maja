@@ -20,7 +20,8 @@ img {
   height: auto;
   display: inline-block; }
 
-.bg-image {
+.bg-image,
+.bg-animation {
   background-size: cover;
   background-position: center; }
 
@@ -175,6 +176,9 @@ p a:hover {
 p a.emphasis {
   font-style: italic; }
 
+.bg-animation {
+  background-image: url("/images/icons/maja_wave_website.gif"); }
+
 .blog-content h2:not(:first-child),
 .blog-content h3:not(:first-child),
 .blog-content h4:not(:first-child) {
@@ -183,7 +187,9 @@ p a.emphasis {
 .text-animation .emphasis {
   min-width: 8rem;
   min-height: 2rem;
-  display: inline-block; }
+  display: inline-block;
+  line-height: 1.2;
+  margin-bottom: 0.5rem; }
 
 .text-animation .emphasis span {
   position: relative;
@@ -450,6 +456,15 @@ header.fixed {
   font-size: 1.4rem;
   letter-spacing: 0;
   font-weight: 200; }
+
+.about-arrow img {
+  max-height: 3rem;
+  transition: all 0.5s;
+  position: relative;
+  left: 0; }
+
+.about-link:hover img {
+  left: 1rem; }
 
 /* -- Footer -- */
 footer .info {
@@ -1125,7 +1140,7 @@ h3.clear-images-h3 {
 /* end media query */
 /* Slick slider */
 .slick-blog-container {
-  padding: 5% 10%; }
+  padding: 5% 15%; }
 
 .slick-next {
   right: 1rem; }
@@ -1178,5 +1193,5 @@ h3.clear-images-h3 {
 @media (max-width: 768px) {
   .slick-blog-loop h2 {
     margin-bottom: 0;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     text-align: right; } }
