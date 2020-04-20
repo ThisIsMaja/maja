@@ -289,7 +289,7 @@ sections:
       you need any help planning your trip be sure to contact Amar at <a
       href="https://www.mindfultravels.net/"><u>Mindful Travels
       here.</u></a></p><p>If you want to read about how we saved up for this
-      trip, read our article on&nbsp;<a
+      trip, read our article on&nbsp;<a target="_blank"
       href="/posts/ways-to-save-to-travel-full-time"><u>how to save for travel
       here</u></a>.</p><p>Thanks for reading, for more information and
       inspiration we hope to see you over at <a
