@@ -136,8 +136,7 @@ sections:
       href="https://shopmariefeandjakesnow.com/"><u>here</u></a>!</p><p>This
       adventure was the perfect add on to our month-long stay in Bali, for an
       in-depth guide to Bali and the surrounding Islands check out this article
-      <a
-      href="https://www.mariefeandjakesnow.com/blog/2018/12/15/1-month-in-bali"><u>here</u></a>!</p>
+      <a href="/posts/one-month-in-bali"><u>here</u></a>!</p>
 show-gallery: true
 gallery:
   - image_path:

@@ -290,9 +290,9 @@ sections:
       href="https://www.mindfultravels.net/"><u>Mindful Travels
       here.</u></a></p><p>If you want to read about how we saved up for this
       trip, read our article on&nbsp;<a
-      href="https://www.mariefeandjakesnow.com/blog/2018/12/16/how-to-afford-a-life-of-travel"><u>how
-      to save for travel here</u></a>.</p><p>Thanks for reading, for more
-      information and inspiration we hope to see you over at <a
+      href="/posts/ways-to-save-to-travel-full-time"><u>how to save for travel
+      here</u></a>.</p><p>Thanks for reading, for more information and
+      inspiration we hope to see you over at <a
       href="https://www.instagram.com/mariefeandjakesnow/"><u>@mariefeandjakesnow</u></a>.</p><p>Lots
       of Love</p><p>Marie and Jake</p>
 show-gallery: true

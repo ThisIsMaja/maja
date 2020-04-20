@@ -217,18 +217,18 @@ sections:
       this happening too often and coral is destroyed by these reckless
       actions.</li><li>Wear reef free sunscreen as chemicals from normal
       sunscreens are harmful to the underwater ecosystem.</li><li><a
-      href="https://www.mariefeandjakesnow.com/blog/2018/12/16/sri-lanka-3-weeks"><u>Sri
-      Lanka</u></a> is a stone's throw away from the Maldives so it&rsquo;s a
-      great add-on to your Sri Lanka trip.</li></ul><p>&nbsp;</p><h3>Tip How To
-      Plan Your Maldives Trip On a Budget</h3><p>We&rsquo;ve only spoken about 3
-      of the many local islands in the Maldives. There are so many more to
-      explore and if you&rsquo;re looking for the best travel advice, contact
-      Kristy from<a href="http://www.indulgemaldives.com/"> <u>Indulge
-      Maldives.</u></a> She was amazing at customizing our itinerary and
-      ensuring that we had a trip of a lifetime!</p><p>Thanks to Indulge
-      Maldives for showing us the best of what the Maldives has to offer. As
-      always, all views are our own and we&rsquo;re so excited for our readers
-      to experience the Maldives just as we did!</p>
+      href="/posts/travel-guide-sri-lanka"><u>Sri Lanka</u></a> is a stone's
+      throw away from the Maldives so it&rsquo;s a great add-on to your Sri
+      Lanka trip.</li></ul><p>&nbsp;</p><h3>Tip How To Plan Your Maldives Trip
+      On a Budget</h3><p>We&rsquo;ve only spoken about 3 of the many local
+      islands in the Maldives. There are so many more to explore and if
+      you&rsquo;re looking for the best travel advice, contact Kristy from<a
+      href="http://www.indulgemaldives.com/"> <u>Indulge Maldives.</u></a> She
+      was amazing at customizing our itinerary and ensuring that we had a trip
+      of a lifetime!</p><p>Thanks to Indulge Maldives for showing us the best of
+      what the Maldives has to offer. As always, all views are our own and
+      we&rsquo;re so excited for our readers to experience the Maldives just as
+      we did!</p>
 show-gallery: true
 gallery:
   - image_path:
