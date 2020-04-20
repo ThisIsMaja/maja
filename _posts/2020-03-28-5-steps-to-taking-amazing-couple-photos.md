@@ -8,7 +8,7 @@ meta-description: >-
   to create the most amazing couple photos.
 meta-keywords:
 image_path: /images/maldives/amilla-fushi1.jpg
-banner-1_path: /images/egypt-jordan/wadi-rum.jpg
+banner-1_path: /images/Philippines/Philippines 1-1-5.jpg
 banner-fixed: true
 categories:
   - musings
