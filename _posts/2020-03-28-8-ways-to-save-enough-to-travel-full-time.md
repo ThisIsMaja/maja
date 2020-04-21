@@ -13,7 +13,7 @@ banner-fixed: true
 banner-2_path:
 banner-2-caption:
 categories:
-  - musings
+  - journal
 tags:
   - opinion
 author: Marie Fe & Jake Snow

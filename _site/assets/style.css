@@ -423,7 +423,7 @@ header .dropdown:hover .dropdown-menu {
 /* Fixed Header Option */
 header.fixed {
   position: fixed;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: white;
   top: 0;
   left: 0;
   right: 0;
@@ -1212,6 +1212,9 @@ h3.clear-images-h3 {
   left: 0;
   right: 0;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 50%); }
+
+.slick-slider .banner {
+  min-height: 70vh; }
 
 .banner .banner-inner {
   position: relative;

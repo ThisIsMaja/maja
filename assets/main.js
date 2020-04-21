@@ -48,7 +48,8 @@ $(document).ready(function() {
 
 	// Slick Slider
 	$('.slick-blog-loop').slick({
-		autoplay: false
+		autoplay: true,
+  	autoplaySpeed: 5000
 	});
 
 });
@@ -86,7 +87,7 @@ $(window).scroll(function () {
 
   function reset(){
 
-    delayOpen = setTimeout(function(){ $('.nav-bar ').fadeIn(); }, 2000);
+    delayOpen = setTimeout(function(){ $('.nav-bar ').fadeIn(); }, 500);
   };
 
   reset()

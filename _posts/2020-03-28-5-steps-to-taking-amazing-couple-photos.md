@@ -7,15 +7,15 @@ meta-description: >-
   In this post we tell you all the secrets we've learned over the years on how
   to create the most amazing couple photos.
 meta-keywords:
-image_path: /images/Philippines/Philippines 1-1-3.jpg
-banner-1_path: /images/Philippines/Philippines 1-1-5.jpg
+image_path: /images/Philippines/philippines-travel0.jpg
+banner-1_path: /images/Philippines/philippines-travel0.jpg
 banner-fixed: false
 categories:
-  - musings
+  - journal
 tags:
   - opinion
 author: Jake Snow
-image-1_path: /images/Philippines/Philippines 1-1-6.jpg
+image-1_path: /images/philippines-travel0.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   It wasn’t too long ago that we were going through all of the settings in our
