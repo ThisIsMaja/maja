@@ -78,7 +78,7 @@ var st = $(this).scrollTop();
         if (st < lastScrollTop){
             $('.nav-bar ').fadeIn();
         } else {
-          $('.nav-bar ').fadeOut();
+          $('.nav-bar ').fadeOut().delay(1000).fadeIn()
         }
         lastScrollTop = st;
   })
