@@ -7,7 +7,7 @@ meta-description: >-
   In this post we tell you all the secrets we've learned over the years on how
   to create the most amazing couple photos.
 meta-keywords:
-image_path: /images/maldives/amilla-fushi1.jpg
+image_path: /images/Philippines/Philippines 1-1-3.jpg
 banner-1_path: /images/Philippines/Philippines 1-1-5.jpg
 banner-fixed: false
 categories:
