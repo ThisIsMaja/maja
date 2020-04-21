@@ -372,12 +372,15 @@ nav a {
   font-family: p22-underground, sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  display: inline-block; }
 
-header nav a,
+header nav a {
+  padding: 0.5rem 2rem; }
+
 .inline a {
   display: inline-block;
-  padding: 0.5rem 2rem; }
+  padding: 0.5rem; }
 
 nav a:hover {
   color: #be9a85; }
