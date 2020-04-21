@@ -63,7 +63,7 @@ sections:
       Thulusdhoo, Dhigurah, and Goidhoo.</p><p>When planning your trip,
       it&rsquo;s best to stick to 2 or 3 local islands as the fast boats getting
       to and from them can be quite costly. We have tons of behind-the-scenes
-      stories on our&nbsp;<a
+      stories on our&nbsp;<a target="_blank"
       href="https://www.instagram.com/stories/highlights/17866901527518257/"><u>Instagram
       highlights</u></a>&nbsp;so check those out!</p><p>If you&rsquo;re
       traveling on a budget, but still want a taste of that luxury Maldives
@@ -217,13 +217,14 @@ sections:
       this happening too often and coral is destroyed by these reckless
       actions.</li><li>Wear reef free sunscreen as chemicals from normal
       sunscreens are harmful to the underwater ecosystem.</li><li><a
-      href="/posts/travel-guide-sri-lanka"><u>Sri Lanka</u></a> is a stone's
-      throw away from the Maldives so it&rsquo;s a great add-on to your Sri
-      Lanka trip.</li></ul><p>&nbsp;</p><h3>Tip How To Plan Your Maldives Trip
-      On a Budget</h3><p>We&rsquo;ve only spoken about 3 of the many local
-      islands in the Maldives. There are so many more to explore and if
-      you&rsquo;re looking for the best travel advice, contact Kristy from<a
-      href="http://www.indulgemaldives.com/"> <u>Indulge Maldives.</u></a> She
+      target="_blank" href="/posts/travel-guide-sri-lanka"><u>Sri Lanka</u></a>
+      is a stone's throw away from the Maldives so it&rsquo;s a great add-on to
+      your Sri Lanka trip.</li></ul><p>&nbsp;</p><h3>Tip How To Plan Your
+      Maldives Trip On a Budget</h3><p>We&rsquo;ve only spoken about 3 of the
+      many local islands in the Maldives. There are so many more to explore and
+      if you&rsquo;re looking for the best travel advice, contact Kristy
+      from&nbsp;<a target="_blank"
+      href="http://www.indulgemaldives.com/"><u>Indulge Maldives.</u></a> She
       was amazing at customizing our itinerary and ensuring that we had a trip
       of a lifetime!</p><p>Thanks to Indulge Maldives for showing us the best of
       what the Maldives has to offer. As always, all views are our own and

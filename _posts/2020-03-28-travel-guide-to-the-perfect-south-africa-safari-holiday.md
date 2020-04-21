@@ -178,13 +178,13 @@ sections:
     body-content_html: >-
       <h3>Planning Your South African Safari Holiday: South Africa
       Visas</h3><p>Visa requirements for South Africa vary depending on where
-      you&rsquo;re from. Check out<a
-      href="http://www.dha.gov.za/index.php/immigration-services/exempt-countries">
-      <u>this site</u></a> for more info. Australian and German citizens
-      don&rsquo;t need a visa so we were both lucky enough to enter South Africa
-      with no hassles.</p><h3>Is South Africa Safe</h3><p>We get asked this all
-      the time and with all the crime happening in the world, it&rsquo;s good to
-      alert and ask questions about the countries you&rsquo;re
+      you&rsquo;re from. Check out&nbsp;<a target="_blank"
+      href="http://www.dha.gov.za/index.php/immigration-services/exempt-countries"><u>this
+      site</u></a> for more info. Australian and German citizens don&rsquo;t
+      need a visa so we were both lucky enough to enter South Africa with no
+      hassles.</p><h3>Is South Africa Safe</h3><p>We get asked this all the time
+      and with all the crime happening in the world, it&rsquo;s good to alert
+      and ask questions about the countries you&rsquo;re
       visiting.</p><p>We&rsquo;ve traveled to South Africa twice and have never
       felt unsafe in the country. But there is crime, and you need to be
       streetwise. We wouldn&rsquo;t recommend hitchhiking or going anywhere with
@@ -241,27 +241,34 @@ sections:
       in!</p><p>We&rsquo;ve partnered with Care for Wild and Good Work
       Foundation in an effort to support and raise awareness against rhino
       poaching as well as to help empower and educate the children in the rural
-      communities of South Africa. All you have to do is click on<a
-      href="https://www.omaze.com/products/south-african-glamping-safari">
-      <u>this link,</u></a> donate to the below charities and you could win an
+      communities of South Africa. All you have to do is click on&nbsp;<a
+      target="_blank"
+      href="https://www.omaze.com/products/south-african-glamping-safari"><u>this
+      link,</u></a> donate to the below charities and you could win an
       all-expenses-paid trip to South Africa, where you&rsquo;ll stay with us at
-      Mhondoro Lodge and Mantobeni Safari Camp.</p><h4>Care For Wild Rhino
-      Sanctuary In Hoedspruit</h4><p><a
+      Mhondoro Lodge and Mantobeni Safari Camp.</p>
+  - banner_path:
+    banner-fixed: true
+    banner-caption:
+    main-paragraph-emphasis:
+    columns: false
+    body-content_html: >-
+      <h4>Care For Wild Rhino Sanctuary In Hoedspruit</h4><p><a target="_blank"
       href="https://www.careforwild.co.za/"><u>Care For Wild</u></a> is the
       biggest rhino sanctuary in the world. This organization does an incredible
       job of rescuing animals and rehabilitating them so that they&rsquo;re able
       to return to their natural environment. The staff is extremely passionate
       about what they do and they have dedicated their lives to helping these
       animals. They are a true inspiration to us.</p><h4>Good Work
-      Foundation</h4><p><a href="https://www.goodworkfoundation.org/"><u>The
-      Good Work Foundation</u></a> aims to educate children in rural
-      communities. They do this with the help of dedicated facilitators who use
-      technology and various interactive exercises to teach and help
-      underprivileged children. We spent a day with the kids, dancing, singing
-      and learning with them. The positive energy was contagious!</p><p>So, by
-      entering you will not only be contributing to a great cause, but you will
-      also have a once in a lifetime experience exploring South Africa with
-      us!</p>
+      Foundation</h4><p><a target="_blank"
+      href="https://www.goodworkfoundation.org/"><u>The Good Work
+      Foundation</u></a> aims to educate children in rural communities. They do
+      this with the help of dedicated facilitators who use technology and
+      various interactive exercises to teach and help underprivileged children.
+      We spent a day with the kids, dancing, singing and learning with them. The
+      positive energy was contagious!</p><p>So, by entering you will not only be
+      contributing to a great cause, but you will also have a once in a lifetime
+      experience exploring South Africa with us!</p>
 show-gallery: true
 gallery-text: >-
   Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">

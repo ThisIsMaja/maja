@@ -14,11 +14,8 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - diet
   - mental Health
-  - exercise
-  - yoga
-  - conscious civing
+  - productivity
 author: Marie Fe
 image-1_path: /images/office/maja-content1.jpg
 image-2_path:
@@ -42,7 +39,7 @@ intro-content_html: >-
   off the new year with new positive energy and a great routine for you to make
   this year amazing!</p>
 sections:
-  - banner_path: /images/style/maja-stock-33.jpg
+  - banner_path: /images/style/maja-stock-14.jpg
     banner-fixed: true
     banner-caption:
     columns: true
@@ -102,6 +99,7 @@ sections:
       denominator is to have a basic ritual. And one of those rituals to add to
       your routine is to journal.&nbsp;</p><p>Only a few weeks ago, I found a
       way to make the journal process easier for me.</p><p>I am using my <a
+      target="_blank"
       href="https://www.intelligentchange.com/?rfsn=3332515.84c023"><strong>Five
       Minute Journal</strong></a> now that my life coach recommended to me, and
       it truly helps me to set my intentions for the day and raise my
@@ -142,6 +140,7 @@ sections:
       &ldquo;had&rdquo; to do I started being grateful for any and every
       task.</p><p>We love our job, so approaching them differently made a huge
       difference. I was so excited when I started working with my <a
+      target="_blank"
       href="https://www.intelligentchange.com/?rfsn=3332515.84c023"><strong>Productivity
       Planner</strong></a> because this really helped me prioritise my tasks and
       allowed me to track how long it took me to complete a task.</p><p>Inside

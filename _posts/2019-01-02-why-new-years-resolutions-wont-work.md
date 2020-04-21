@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons why your New Year’s resolutions won’t work
-date: 2020-04-06 00:00:00
+date: 2019-12-22 10:00:00
 slug: why-new-years-resolutions-wont-work
 meta-description: >-
   Have you ever set New Year's resolutions and haven't been able to keep them?
@@ -13,7 +13,6 @@ banner-fixed: true
 categories:
   - musings
 tags:
-  - business
   - opinion
   - productivity
 author: Jake Snow
