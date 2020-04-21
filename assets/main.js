@@ -70,14 +70,27 @@ $(function() {
 // Nav bar appear and dissapear on scroll
 
 var lastScrollTop = 0;
+var delayOpen;
 
 $(window).scroll(function () {
 
-var st = $(this).scrollTop();
-        if (st < lastScrollTop){
-            $('.nav-bar ').fadeIn();
-        } else {
-          $('.nav-bar ').fadeOut()
-        }
-        lastScrollTop = st;
-  })
+  if (delayOpen) {clearTimeout( delayOpen )};
+
+  var st = $(this).scrollTop();
+
+  if (st < lastScrollTop){
+    $('.nav-bar ').fadeIn();
+  } else {
+    $('.nav-bar ').fadeOut()
+  };
+
+  function reset(){
+
+    delayOpen = setTimeout(function(){ $('.nav-bar ').fadeIn(); }, 2000);
+  };
+
+  reset()
+
+  lastScrollTop = st;
+
+})
