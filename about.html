@@ -85,7 +85,7 @@ jakes-products:
   <!-- <div class="col-5_sm-12-middle editable ">
     <img src="/images/marie-jake/Website 2-23.jpg" class="editable"></img>
   </div> -->
-  <div class="capped-width editable padded">
+  <div class="capped-width padded">
     <div class="centered">
       <!-- <img src="/images/logo/maja-logo4.png" class="signoff"> -->
       <h1 data-aos="fade" data-aos-offset="200"> ma<span>•</span>ja</h1>
@@ -121,11 +121,7 @@ jakes-products:
 
 <!-- Sliding banner -->
 <section class="relative slick-blog-loop">
-  {% for image in page.banner limit:6 %}
-  <div class="banner" style="background-image:url({{image.image_path}})" title="{{image.image-caption}}">
-
-  </div>
-  {% endfor %}
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/304801248' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 </section>
 
 <section class="grid padded light-bg">
@@ -135,10 +131,10 @@ jakes-products:
     {% include squiggle.html %}
     </div>
   </div>
-  <div class="col-6_sm-12 editable padded-1 about-page" data-aos="fade">
+  <div class="col-6_sm-12 editable padded-1" data-aos="fade">
     <p><strong> Jake </strong> can't live without <a href="#" target="_blank" class="emphasis"> duis aute irure </a> dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint <a href="#" target="_blank" class="emphasis"> aute irure </a> occaecat cupidatat non proident, <a href="#" target="_blank" class="emphasis"> Duis aute irure </a> qui officia deserunt mollit anim id est laborum occaecat cupidatat. </p>
   </div>
-  <div class="col-6_sm-12 editable padded-1 about-page" data-aos="fade">
+  <div class="col-6_sm-12 editable padded-1" data-aos="fade">
     <p> <strong> Marie </strong> starts every day with <a href="#" target="_blank" class="emphasis"> luis aute irure </a> dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint <a href="#" target="_blank" class="emphasis"> aute irure </a> occaecat cupidatat non proident, <a href="#" target="_blank" class="emphasis"> Duis aute irure </a> qui officia deserunt mollit anim id est laborum. </p>
   </div>
 </section>

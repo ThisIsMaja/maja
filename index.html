@@ -18,59 +18,62 @@ banner-position: 50% 50%;
 <section class="banner" style="background-image:url({{page.banner-1_path}}); background-position: {{page.banner-position}};">
 
 </section>
+<div class="featured-bg">
+  <div class="bg-animation">
 
-<section class="light-bg padded centered">
-  <nav class="margin-bottom-1">
-    <a href="/blog"> Explore </a>
-  </nav>
-  <h2 class="text-animation">
-    <a class="emphasis" href="/travel" data-aos="fade" data-aos-offset="100"><span> Travel </span></a>
-    <a class="emphasis" href="/lifestyle" data-aos="fade" data-aos-offset="150" data-aos-delay="100"><span> Lifestyle </span></a>
-    <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="180" data-aos-delay="150"><span> Wellbeing </span></a>
-    <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="200" data-aos-delay="200"><span> Musings </span></a>
-  </h2>
-</section>
+    <section class="padded centered">
+      <nav class="margin-bottom-1">
+        <a href="/blog"> Explore </a>
+      </nav>
+      <h2 class="text-animation">
+        <a class="emphasis" href="/travel" data-aos="fade" data-aos-offset="100"><span> Travel </span></a>
+        <a class="emphasis" href="/lifestyle" data-aos="fade" data-aos-offset="150" data-aos-delay="100"><span> Lifestyle </span></a>
+        <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="180" data-aos-delay="150"><span> Wellbeing </span></a>
+        <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="200" data-aos-delay="200"><span> Musings </span></a>
+      </h2>
+    </section>
 
-<section class="padded-2-h">
+    <section class="slick-blog-container">
 
-  <div class="relative slick-blog-loop">
+      <div class="relative slick-blog-loop">
 
-    {% for post in site.posts limit:6 %}
+        {% for post in site.posts limit:6 %}
 
-    <div>
-      <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
-        <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
-          <div class="col-6 left mob-hide">
-            <span class="author"> {{post.author}} </span> | <span class="category"> {{post.categories[0]}} </span>
-          </div>
-          <div class="col-6 right mob-hide">
-              {% include squiggle.html %}
-          </div>
-          <div class="col-12 centered">
-            <h2> {{post.title}} </h2>
-           </div>
-        </a>
-    </div>
+        <div>
+          <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
+            <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
+              <div class="col-6 left mob-hide">
+                <span class="author"> {{post.author}} </span> | <span class="category"> {{post.categories[0]}} </span>
+              </div>
+              <div class="col-6 right mob-hide">
+                  {% include squiggle.html %}
+              </div>
+              <div class="col-12 centered">
+                <h2> {{post.title}} </h2>
+               </div>
+            </a>
+        </div>
 
-    </div>
+        </div>
 
-    {% endfor %}
+        {% endfor %}
 
+      </div>
+
+    </section>
+
+    <section class="padded grid-spaceAround">
+      <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-left">
+        <h2><a class="about-link" href="/about">about<strong> </strong><span class="about-arrow"> <img src="/images/icons/waves.png" /> </span> </a></h2>
+        <p>What is <strong>M A J A</strong> all about? Come and get to know us, we've got a lot to share with you.</p>
+      </div>
+      <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-right">
+        <h2><a class="about-link" href="/about#must-haves">our must haves <span class="about-arrow"> <img src="/images/icons/waves.png" /> </span> </a></h2>
+        <p>These products help us achieve happiness, efficiency and producitivity every day. &nbsp;</p>
+      </div>
+    </section>
   </div>
-
-</section>
-
-<section class="padded grid-spaceAround">
-  <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-left">
-    <h2> <a href="/about"> about  </a></h2>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-  </div>
-  <div class="col-4_md_6-sm-12 editable padded-1" data-aos="fade-right">
-    <h2><a href="/about#must-haves">  our must haves  </a></h2>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-  </div>
-</section>
-
+</div>
 <!--  Banner 2  -->
 <section class="banner" style="background-image:url({{page.banner-2_path}}); background-position: {{page.banner-2-position}};">
 
@@ -81,38 +84,41 @@ banner-position: 50% 50%;
     <span class="quote-icon"> “ </span>
   </div>
   <div class="col-4_md-6_sm-9 padded-1">
-    <p class="quote-text"> I never thought I would ever be the knd of person to admin that I am struggling and actively ask for help. </p>
+    <p class="quote-text editable">
+      We've been thinking about where the world is going and how important it is to take back control of our lives by conscious lifestyle design
+    </p>
   </div>
   <div class="col-2_sm-1 left padded-1">
     <span class="quote-icon"> ” </span>
   </div>
   <div class="col-6_md-8_sm-12 right padded-1">
-    <img src="/images/logo/signoff.png" class="signoff">
+    <img src="/images/logo/signoff_maja_black.gif" class="signoff" />
   </div>
 </section>
 
-<!-- <section class="padded grid capped-width mob-flex-flip">
-  <div class="col-7_sm-12-middle editable padded right" data-aos="fade-right">
-    <h2> How to build a life you love</h2>
-    {% include squiggle.html %}
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  </p>
-    <a href="/about" class="button"> Read More </a>
+<section class="padded featured-bg">
+  <div class="grid-centered capped-width">
+    <div class="col-5_sm-12-middle editable ">
+      <p><img src="/images/free-preset/free-preset.jpg" /></p>
+    </div>
+    <div class="col-6_sm-12-middle editable padded bump-left light-bg" data-aos="fade-left">
+      <h2>Free Preset Anyone? <img class="spinning-sun" src="/images/icons/sun.png" /></h2>
+      <form id="email_signup" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate"><input type="hidden" value="PfjdXw" name="g" /> <input type="hidden" value="$consent" name="$fields" /> <input type="hidden" value="$consent" name="$list_fields" />
+        <div class="klaviyo_field_group"><input type="email" value="" id="k_id_email" placeholder="Your email" name="email" /><button type="submit" class="button klaviyo_submit_button">Subscribe</button></div>
+      </form>
+    </div>
   </div>
-  <div class="col-5_sm-12-middle editable ">
-    <img src="/images/marie-jake/Website 2-23.jpg" class="editable"></img>
-  </div>
-</section> -->
-
+</section>
 
 
 
 <!-- <section class="grid ig-banner light-bg">
   <div class="col-4_sm-12 grid">
-    <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[0]}}')"></div>
+    <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[0]}}')">
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[1]}}')"></div>
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[2]}}')"></div>
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[3]}}')"></div>
-  </div>
+
   <div class="col-4_sm-12-middle centered padded">
     <h2 class="margin-top-1 text-animation" data-aos="fade" data-aos-offset="0">
       <a class="emphasis" href="http://www.instagram.com/mariefeandjakesnow"> <span> follow us </span> </a>
@@ -125,4 +131,4 @@ banner-position: 50% 50%;
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[6]}}')"></div>
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[7]}}')"></div>
   </div>
-</section> -->
+ -->

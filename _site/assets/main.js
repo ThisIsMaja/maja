@@ -65,3 +65,19 @@ $(function() {
 	window.addEventListener('load', AOS.refresh);
 
 });
+
+
+// Nav bar appear and dissapear on scroll
+
+var lastScrollTop = 0;
+
+$(window).scroll(function () {
+
+var st = $(this).scrollTop();
+        if (st < lastScrollTop){
+            $('.nav-bar ').fadeIn();
+        } else {
+          $('.nav-bar ').fadeOut()
+        }
+        lastScrollTop = st;
+  })

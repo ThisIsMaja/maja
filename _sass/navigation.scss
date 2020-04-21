@@ -1,13 +1,17 @@
 
   /* Headers and footers */
 
+  body {
+    padding-top: 5.6rem;
+  }
+
   header {
-    padding: 1% 5%;
+    padding: 0.2rem 5%;
     // border-bottom: 1px solid #f9f0e7;
   }
 
   header .logo {
-    padding: 0.5rem 3rem;
+    padding: 0.5rem 3rem 0.2rem;
     max-width: 12rem;
   }
 
@@ -24,13 +28,18 @@
     font-weight: 300;
     letter-spacing: 1px;
     text-transform: uppercase;
+    display: inline-block;
   }
 
-  header nav a,
+  header nav a {
+    padding: 0.5rem 2rem;
+  }
+
   .inline a {
     display: inline-block;
     padding: 0.5rem;
   }
+
   nav a:hover {
     color: #be9a85;
   }
@@ -78,14 +87,12 @@
 
   header.fixed {
     position: fixed;
-    background-color: #f9ca24;
+    background-color: rgba(255,255,255,0.9);
     top:0;
     left:0;
     right:0;
     z-index: 2;
     margin:0;
-    padding: 1%;
-    text-align: center;
   }
   .bump-for-header {
     min-height: 4rem;
@@ -145,6 +152,20 @@
   }
 
 
+  // About Sections
+
+  .about-arrow img {
+    max-height: 3rem;
+    transition: all 0.5s;
+    position: relative;
+    left: 0;
+  }
+
+  .about-link:hover img {
+    left: 1rem;
+  }
+
+
   /* -- Footer -- */
 
   footer .info {
@@ -157,6 +178,19 @@
 
   footer h3 {
     font-size: 1.2rem;
+  }
+
+  .sub-footer p a {
+    font-family: 'orpheuspro';
+    text-transform: none;
+    font-size: 1rem;
+    border-bottom: 0;
+  }
+
+  .sub-footer a,
+  .subfooter p {
+    padding: 1rem;
+    font-size: 0.7rem;
   }
 
   @media(max-width:768px) {

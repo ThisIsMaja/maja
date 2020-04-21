@@ -13,8 +13,8 @@ banner-1_path: /images/Coronavirus/coronavirus2.jpg
 banner-fixed: true
 categories:
   - wellbeing
-  - musings
 tags:
+  - mental Health
 author: Marie Fe
 image-1_path: /images/Coronavirus/coronavirus1.jpg
 image-2_path:

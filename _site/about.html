@@ -65,7 +65,7 @@
 
   <!-- This is your site header, you can replace this with whichever header you want to use -->
 
-<header>
+<header class="nav-bar fixed">
   <div class="grid-center">
       <nav class="col-4-middle right mob-hide" data-aos="fade" data-aos-delay="500">
         <a href="/blog"> BLOG </a>
@@ -112,7 +112,7 @@
   <!-- <div class="col-5_sm-12-middle editable ">
     <img src="/images/marie-jake/Website 2-23.jpg" class="editable"></img>
   </div> -->
-  <div class="capped-width editable padded">
+  <div class="capped-width padded">
     <div class="centered">
       <!-- <img src="/images/logo/maja-logo4.png" class="signoff"> -->
       <h1 data-aos="fade" data-aos-offset="200"> ma<span>•</span>ja</h1>
@@ -149,19 +149,7 @@
 
 <!-- Sliding banner -->
 <section class="relative slick-blog-loop">
-  
-  <div class="banner" style="background-image:url(/images/banners/maja-banner-3.jpg)" title="test 123">
-
-  </div>
-  
-  <div class="banner" style="background-image:url(/images/banners/maja-banner2.jpg)" title="test 234">
-
-  </div>
-  
-  <div class="banner" style="background-image:url(/images/banners/maja-banner1.jpg)" title="test 456">
-
-  </div>
-  
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/304801248' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 </section>
 
 <section class="grid padded light-bg">
@@ -172,10 +160,10 @@
 
     </div>
   </div>
-  <div class="col-6_sm-12 editable padded-1 about-page" data-aos="fade">
+  <div class="col-6_sm-12 editable padded-1" data-aos="fade">
     <p><strong> Jake </strong> can't live without <a href="#" target="_blank" class="emphasis"> duis aute irure </a> dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint <a href="#" target="_blank" class="emphasis"> aute irure </a> occaecat cupidatat non proident, <a href="#" target="_blank" class="emphasis"> Duis aute irure </a> qui officia deserunt mollit anim id est laborum occaecat cupidatat. </p>
   </div>
-  <div class="col-6_sm-12 editable padded-1 about-page" data-aos="fade">
+  <div class="col-6_sm-12 editable padded-1" data-aos="fade">
     <p> <strong> Marie </strong> starts every day with <a href="#" target="_blank" class="emphasis"> luis aute irure </a> dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint <a href="#" target="_blank" class="emphasis"> aute irure </a> occaecat cupidatat non proident, <a href="#" target="_blank" class="emphasis"> Duis aute irure </a> qui officia deserunt mollit anim id est laborum. </p>
   </div>
 </section>
@@ -420,7 +408,11 @@
 <!-- Add your content for the about page here -->
 
 
-  <footer class="grid featured-bg">
+  <footer class="bg-light-grey">
+  <div class="padded-1 centered sub-footer mob-show">
+    <p> <a href="#top">^ <br> Scroll to top </a> </p>
+  </div>
+  <div class="grid grey-bg">
   <!-- column -->
   <div class="col-5_sm-12 padded">
     <h3> FOLLOW <span class="subtle-heading"><strong>@mariefeandjakesnow </strong></span></h3>
@@ -450,6 +442,13 @@
     </nav>
 
   </div>
+  </div>
+  <div class="padded-1 centered sub-footer">
+      <a href="/privacy-policy">  Copyright 2020 </a>
+      <a href="/privacy-policy">  Privacy Policy </a>
+      <a href="http://www.instituteofcode.com">  Website by Institute of Code </a>
+      <a href="/privacy-policy">  Animations by @caroline.kjellberg </a>
+  </div>
 </footer>
 
 
@@ -469,6 +468,10 @@
 
 <!-- Animate on scroll  -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<!--  Klavio Contact Forms and Popups -->
+<script type="text/javascript" async
+ src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=NsHJym"></script>
 
 <!-- this is your custom javascript/jQuery file -->
 <script src="/assets/main.js"></script>

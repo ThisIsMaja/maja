@@ -214,12 +214,12 @@ sections:
       yet it still has that unique charm that we love so much.</p><h3>How to get
       to Milos from Sifnos or Athens</h3><p>Milos is just over 60km away from
       Sifnos and the easiest way to get between the two is via ferry. Bookings
-      can be made through<a href="https://www.seajets.gr/"> <u>Sea Jets</u></a>
-      and the trip takes approximately 40 minutes.</p><p>There is an airport on
-      Milos Island with daily flights to and from Athens. If you&rsquo;d prefer
-      to follow our 10 day Greece itinerary in reverse, you can fly into Milos
-      before moving to the islands of Sifnos and Koufonisia.</p><h3>Milos
-      Accommodation</h3><p>We stayed at&nbsp;<a
+      can be made through&nbsp;<a href="https://www.seajets.gr/"><u>Sea
+      Jets</u></a> and the trip takes approximately 40 minutes.</p><p>There is
+      an airport on Milos Island with daily flights to and from Athens. If
+      you&rsquo;d prefer to follow our 10 day Greece itinerary in reverse, you
+      can fly into Milos before moving to the islands of Sifnos and
+      Koufonisia.</p><h3>Milos Accommodation</h3><p>We stayed at&nbsp;<a
       href="http://skinopi.com/"><u>Skinopi Lodge</u></a>&nbsp;whilst in
       Milos.</p><h3>Milos Restaurants</h3><ul><li><a
       href="https://www.facebook.com/pages/O-Hamos/377153249022792"><u>O! Hamos

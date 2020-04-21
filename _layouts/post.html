@@ -78,11 +78,11 @@ layout: default
     {% unless section.main-paragraph-emphasis == nil %}
     <div class="col-4_sm-10 centered">
 
-        {% include soft-wave.html %}
+
 
         <p class="emphasis"> {{section.main-paragraph-emphasis}}</p>
 
-        {% include soft-wave.html %}
+        {% include flick-lite.html %}
 
     </div>
     {% endunless %}
@@ -92,6 +92,10 @@ layout: default
   </div>
 
   {% if forloop.last == true %}
+
+  <div class="signoff right padded"> 
+      <img src="/images/logo/signoff_maja_black.gif" class="signoff">
+  </div>
 
   <div class="previous-and-next">
 
@@ -127,7 +131,7 @@ layout: default
 
 <section class="dark-bg padded related-posts">
 
-  <h4 class=" centered subtle-heading"> Related Posts </h4>
+<h4 class=" centered subtle-heading"> Related Posts </h4>
 
 <div class="horizontal-scroll grid">
   {% for post in site.posts limit:3 %}
