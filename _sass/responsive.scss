@@ -6,6 +6,10 @@
 
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media(max-width:768px) {
+  body {
+    padding-top: 4.3rem;
+  }
+
   .fixed {
     position: static;
   }
