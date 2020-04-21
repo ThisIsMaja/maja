@@ -1,10 +1,9 @@
 ---
-title: All Star Pack
-layout: product
-price: $18
+title: Beyond Ocean Pack
+price: $12
 compare-at-price: $22
 image_path: /images/free-preset/free-preset.jpg
-short-description: 8 mobile + desktop presets perfect for portraits
+short-description: Stunning vibrant presets for your next tropical holiday
 preset-tags:
   - colourful
   - skin
@@ -17,15 +16,5 @@ gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-reviews: 233
+reviews: 190
 ---

@@ -1,10 +1,9 @@
 ---
-title: All Star Pack
-layout: product
+title: Ultimate Mobile Pack
 price: $18
 compare-at-price: $22
 image_path: /images/free-preset/free-preset.jpg
-short-description: 8 mobile + desktop presets perfect for portraits
+short-description: The original maja preset pack for all of your travels
 preset-tags:
   - colourful
   - skin
@@ -17,15 +16,5 @@ gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-reviews: 233
+reviews: 197
 ---

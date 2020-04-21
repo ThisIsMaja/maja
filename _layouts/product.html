@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="padded grid shop-details">
+  <div class="col-5 padded-1">
+    <img src="{{page.image_path}}">
+  </div>
+  <div class="col-7 padded-1">
+    <h1> {{page.title}}</h1>
+    <h3> <span class="compare-at-price">{{page.compare-at-price}} </span> {{page.price}} </h3>
+    <p> {{page.short-description}} </p>
+    <p>
+    {% for tag in page.preset-tags %}<span class="category"> {{tag}} </span> {% endfor%}
+    </p>
+
+    <a class="button-solid margin-bottom-1" href="#"> Buy Now </a>
+    <p class="stars"> ★★★★★ ({{page.reviews}}) </p>
+  </div>
+</section>
+<section class="light-bg padded centered">
+    <h2> Product Details </h2>
+    {% include squiggle.html %}
+    <p> {{page.description}} </p>
+
+</section>
+<section class="padded centered">
+  <h2> Gallery </h2>
+  {% include squiggle.html %}
+  <div class="col-12 columns-4">
+    {% for image in page.gallery %}
+    <img src="{{image.image_path}}" alt="{{image.alt}}">
+    {% endfor %}
+  </div>
+</section>

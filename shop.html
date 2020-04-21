@@ -1,0 +1,45 @@
+---
+layout: default
+title: Shop Page
+meta-description:
+meta-keywords:
+featured-image_path:
+---
+
+<section class="capped-width">
+  <h1 class="centered padded" data-aos="fade"> Shop Maja Presets </h1>
+  <div class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+
+    {% for category in site.data.preset-tags %}
+      <a href="#" class="category"> {{category}} </a>
+    {% endfor %}
+
+  </div>
+</section>
+
+<section class="padded">
+
+
+  <div class="blog-loop blog-masonry">
+
+    {% for product in site.products limit: 15 %}
+
+        <div class="masonry-item padded-1 shop-item
+        {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
+        " data-aos="fade" data-aos-delay="500">
+            <a href="{{product.url}}" class="">
+              <img src="{{product.image_path}}">
+              <div class="padded-1">
+                <h3> {{product.title}} - <span class="price"> {{product.price}} </span> </h3>
+                <p>{{product.short-description}} </p>
+                <p class="stars"> ★★★★★ ({{product.reviews}}) </p>
+                {% for tag in product.preset-tags %}<span class="category"> {{tag}} </span> {% endfor%}
+              </div>
+            </a>
+          </div>
+
+    {% endfor %}
+
+  </div>
+
+</section>

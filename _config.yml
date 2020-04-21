@@ -11,6 +11,8 @@ defaults:
 collections:
   archives:
     output: true
+  products:
+    output: true
 
 sizes:
   - full
