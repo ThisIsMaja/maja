@@ -36,6 +36,9 @@ body {
 [class*=col] {
   padding: 0; }
 
+[class*=grid].padded-1 {
+  padding: 1rem; }
+
 /* ------------- Utility Classes --------------  */
 .left {
   text-align: left; }
@@ -96,7 +99,7 @@ body {
   background-color: #eab9aa; }
 
 .light-bg {
-  background-color: #FDFAF7; }
+  background-color: #fcf6f3; }
 
 .grey-bg {
   background-color: #F6F6F6; }
@@ -495,6 +498,13 @@ footer nav a {
 footer h3 {
   font-size: 1.2rem; }
 
+footer .border-right {
+  border-right: 2px solid white;
+  margin: 2rem 0; }
+
+.sub-footer {
+  padding: 1rem 1rem 0; }
+
 .sub-footer p a {
   font-family: 'orpheuspro';
   text-transform: none;
@@ -517,7 +527,15 @@ footer h3 {
     padding-bottom: 0; }
 
   header .logo {
-    padding: 0 3rem; } }
+    padding: 0 3rem; }
+
+  .main-footer {
+    padding: 2rem; }
+
+  .sub-footer a,
+  .subfooter p {
+    padding: 0.2rem;
+    font-size: 0.6rem; } }
 /* Blog Post Elements */
 /* ---- Blog loop elements style 1 ------ */
 .category-slider {
@@ -770,6 +788,11 @@ a.category:hover {
   font-weight: 400;
   letter-spacing: 1px;
   font-family: p22-underground, sans-serif; }
+
+.klaviyo_submit_button {
+  color: inherit;
+  background-color: #f2d3ce;
+  border: 2px solid #f2d3ce; }
 
 .button:hover {
   color: #3c3c3c; }

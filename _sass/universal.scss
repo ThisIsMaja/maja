@@ -36,8 +36,9 @@
   }
 
    /* this overrides the default padding and margin on gridlex elements */
-  [class*=grid] {   margin: 0;  }
-  [class*=col]  {   padding: 0; }
+  [class*=grid]           {   margin: 0;  }
+  [class*=col]            {   padding: 0; }
+  [class*=grid].padded-1  {  padding: 1rem;  }
 
 
   /* ------------- Utility Classes --------------  */
@@ -66,7 +67,7 @@
   .tall-100 {  min-height: 100vh;  }
 
   .dark-bg      {  background-color: #eab9aa;     }
-  .light-bg     {  background-color: #FDFAF7;  }
+  .light-bg     {  background-color: #fcf6f3;  }
   .grey-bg     {  background-color: #F6F6F6;  }
   .light-grey-bg     {  background-color: #F6F6F6;  }
   .featured-bg  {  background-color: #f9ede7;   }
