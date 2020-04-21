@@ -480,7 +480,7 @@ header.fixed {
   font-weight: 200; }
 
 .about-arrow img {
-  max-height: 3rem;
+  max-width: 4rem;
   transition: all 0.5s;
   position: relative;
   left: 0; }
@@ -1221,7 +1221,7 @@ h3.clear-images-h3 {
   transition: 0.5s all; }
 
 .banner-inner:hover {
-  background-color: #f9f0e7; }
+  background-color: #F6F6F6; }
 
 .banner-inner .author {
   font-family: 'p22-underground';
