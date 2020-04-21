@@ -810,7 +810,8 @@ a.category:hover {
 
 /* ----- FORMS --------------------------- */
 input,
-textarea {
+textarea,
+#klaviyo-form .ixqaWu {
   border-style: solid;
   border: 2px solid #f9f0e7;
   padding: 0.8em;

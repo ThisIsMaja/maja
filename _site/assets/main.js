@@ -67,7 +67,6 @@ $(function() {
 });
 
 
-
 // Nav bar appear and dissapear on scroll
 
 var lastScrollTop = 0;
@@ -78,7 +77,7 @@ var st = $(this).scrollTop();
         if (st < lastScrollTop){
             $('.nav-bar ').fadeIn();
         } else {
-          $('.nav-bar ').fadeOut().delay(1000).fadeIn()
+          $('.nav-bar ').fadeOut()
         }
         lastScrollTop = st;
   })
