@@ -93,8 +93,8 @@ layout: default
 
   {% if forloop.last == true %}
 
-  <div class="signoff right padded"> 
-      <img src="/images/logo/signoff_maja_black.gif" class="signoff">
+  <div class="right padded padded-t-0 bump-up capped-width">
+      <img src="/images/logo/signoff_maja_black.gif" class="signoff" nopin="nopin">
   </div>
 
   <div class="previous-and-next">
@@ -129,12 +129,16 @@ layout: default
 
 {% endif %}
 
-<section class="dark-bg padded related-posts">
+<section class="featured-bg padded related-posts">
 
 <h4 class=" centered subtle-heading"> Related Posts </h4>
 
 <div class="horizontal-scroll grid">
-  {% for post in site.posts limit:3 %}
+
+
+{% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
+{% assign relevant = site.categories[pageCategory] | except: 'title', page.title %}
+  {% for post in relevant limit:3 %}
 
       <a href="{{post.url}}" class="col-4_xs-12 padded-2 centered">
         <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>

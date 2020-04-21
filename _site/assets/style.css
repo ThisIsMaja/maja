@@ -70,6 +70,12 @@ body {
 .padded-left {
   padding-left: 2rem; }
 
+.padded-right {
+  padding-right: 2rem; }
+
+.padded-t-0 {
+  padding-top: 0; }
+
 .margin-0 {
   margin: 0; }
 
@@ -129,6 +135,9 @@ body {
 .bump-left {
   position: relative;
   margin-left: -2rem; }
+
+.bump-up {
+  margin-top: -2rem; }
 
 /* General typography */
 h1, h2, h3, h4, h5, h6 {
@@ -375,11 +384,11 @@ nav a {
   font-family: p22-underground, sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
-  text-transform: uppercase;
-  display: inline-block; }
+  text-transform: uppercase; }
 
 header nav a {
-  padding: 0.5rem 2rem; }
+  padding: 0.5rem 2rem;
+  display: inline-block; }
 
 .inline a {
   display: inline-block;
@@ -477,6 +486,7 @@ header.fixed {
   margin-bottom: 2rem; }
 
 .mobile-menu .logo {
+  width: 15rem;
   max-width: 80%; }
 
 .mobile-menu a {
@@ -555,6 +565,9 @@ footer .border-right {
   padding: 1rem;
   font-size: 0.7rem; }
 
+@media (max-width: 1000px) {
+  header nav a {
+    padding: 0.5rem 1rem; } }
 @media (max-width: 768px) {
   header {
     position: fixed;
