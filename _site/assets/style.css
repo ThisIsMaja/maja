@@ -351,11 +351,14 @@ p.emphasis {
   .about-page p {
     font-size: 1.8rem; } }
 /* Headers and footers */
+body {
+  padding-top: 5.6rem; }
+
 header {
-  padding: 1% 5%; }
+  padding: 0.2rem 5%; }
 
 header .logo {
-  padding: 0.5rem 3rem;
+  padding: 0.5rem 3rem 0.2rem;
   max-width: 12rem; }
 
 footer .logo {
@@ -374,7 +377,7 @@ nav a {
 header nav a,
 .inline a {
   display: inline-block;
-  padding: 0.5rem; }
+  padding: 0.5rem 2rem; }
 
 nav a:hover {
   color: #be9a85; }
@@ -414,14 +417,12 @@ header .dropdown:hover .dropdown-menu {
 /* Fixed Header Option */
 header.fixed {
   position: fixed;
-  background-color: #f9ca24;
+  background-color: rgba(255, 255, 255, 0.9);
   top: 0;
   left: 0;
   right: 0;
   z-index: 2;
-  margin: 0;
-  padding: 1%;
-  text-align: center; }
+  margin: 0; }
 
 .bump-for-header {
   min-height: 4rem; }
