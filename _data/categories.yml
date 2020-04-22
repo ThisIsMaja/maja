@@ -1,7 +1,9 @@
 travel:
+  - africa
+  - americas
   - asia
   - europe
-  - africa
+  - travel tips
 lifestyle:
   - business
   - photography
@@ -10,13 +12,15 @@ lifestyle:
   - sustainability
   - fashion
   - minimalism
+  - design
 wellbeing:
   - diet
+  - recipes
   - mental health
-  - exercise
+  - fitness
   - yoga
   - conscious living
-musings:
-  - reflections
-  - opinion
-  - our story
+journal:
+  - our relationships
+  - our thoughts
+  - maja talk

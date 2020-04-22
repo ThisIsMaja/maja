@@ -11,10 +11,12 @@ meta-keywords: >-
   stay in Hawaii
 image_path: /images/hawaii/Hawaii 1-1-3.jpg
 banner-1_path: /images/hawaii/Hawaii 1-1-4.jpg
-banner-fixed: true
+banner-fixed: false
 categories:
   - travel
 tags:
+  - americas
+  - Photography
 author: Marie Fe
 image-1_path: /images/hawaii/Hawaii 1-1.jpg
 image-2_path:

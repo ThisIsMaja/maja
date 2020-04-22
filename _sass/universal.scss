@@ -53,7 +53,9 @@
   .padded-2 {  padding: 2rem;  }
   .padded-2-h {  padding: 0 2rem;  }
   .padded-2-v {  padding: 2rem 0;  }
-  .padded-left { padding-left: 2rem; }
+  .padded-left  { padding-left: 2rem; }
+  .padded-right { padding-right: 2rem; }
+  .padded-t-0   { padding-top:0;       }
 
   .margin-0 {margin: 0;}
   .margin-top-1 { margin-top: 1rem; }
@@ -87,9 +89,23 @@
     column-gap: 2rem;
   }
 
+  .columns-4 {
+    column-count: 4;
+    column-gap: 1rem;
+  }
+
+  .columns-4 img {
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+
   .bump-left {
     position: relative;
     margin-left: -2rem;
+  }
+
+  .bump-up {
+    margin-top: -2rem;
   }
 
   /* General typography */

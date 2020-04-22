@@ -6,7 +6,7 @@ $(document).ready(function() {
 	$(".hamburger").click(function(){
 
 	  $(this).toggleClass('active');
-	  $(".mobile-menu").fadeToggle();
+	  $(".mobile-menu").fadeToggle().toggleClass('active');
 
 	});
 	// end hamburger menu
@@ -48,7 +48,8 @@ $(document).ready(function() {
 
 	// Slick Slider
 	$('.slick-blog-loop').slick({
-		autoplay: false
+		autoplay: true,
+  	autoplaySpeed: 5000
 	});
 
 });
@@ -86,7 +87,7 @@ $(window).scroll(function () {
 
   function reset(){
 
-    delayOpen = setTimeout(function(){ $('.nav-bar ').fadeIn(); }, 2000);
+    delayOpen = setTimeout(function(){ $('.nav-bar ').fadeIn(); }, 500);
   };
 
   reset()
@@ -94,3 +95,37 @@ $(window).scroll(function () {
   lastScrollTop = st;
 
 })
+
+// End Nav Bar
+
+// JQuery filtering for shop page
+
+$(document).ready(function(){
+  /* filtering */
+
+  $('nav#product-filter a').click(function(e){
+    e.preventDefault();
+
+    /* make this link class active and remove class 'active' from any other links */
+    $('nav#product-filter .active').removeClass('active');
+    $(this).addClass('active');
+
+    /* get the name of the cateory from this link */
+    var filterVal = $(this).text().replace(' ','-').toLowerCase();
+
+    $('#product-loop .shop-item').each(function() {
+        if(filterVal == 'all'){
+          $(this).removeClass('hidden');
+        }else{
+          if(!$(this).hasClass(filterVal)) {
+            $(this).addClass('hidden'); // hide those that don't have the filter
+          }else{
+            $(this).removeClass('hidden'); // show those that do have the filter
+          }
+				};
+    });
+      
+});
+
+
+});

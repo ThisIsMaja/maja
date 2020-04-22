@@ -13,9 +13,12 @@ banner-fixed: true
 banner-2_path:
 banner-2-caption:
 categories:
-  - musings
+  - travel
+  - Lifestyle
 tags:
-  - opinion
+  - productivity
+  - Business
+  - Self Improvement
 author: Marie Fe & Jake Snow
 image-1_path: /images/marie-jake/Website 2-9.jpg
 image-2_path: /images/marie-jake/Website 3-1.jpg

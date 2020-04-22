@@ -11,7 +11,7 @@ image_path: /images/marie-jake/Website 2-23.jpg
 banner-1_path: /images/nature/mariefeandjakesnow-banner10.jpg
 banner-fixed: true
 categories:
-  - musings
+  - journal
 tags:
   - reflections
   - our story

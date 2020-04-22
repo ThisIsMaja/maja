@@ -73,11 +73,11 @@
       </nav>
       <div class="col-3_sm-12-middle centered">
         <a href="/" data-aos="fade">
-          <img class="logo" src="/images/logo/maja-logo-6.png">
+          <img class="logo" src="/images/logo/maja-logo-6.png" nopin="nopin">
         </a>
       </div>
       <nav class="col-4-middle mob-hide" data-aos="fade" data-aos-delay="500">
-        <a href="https://shopmariefeandjakesnow.com/" target="_blank"> SHOP </a>
+        <a href="/shop"> SHOP </a>
         <a href="/subscribe"> SUBSCRIBE </a>
       </nav>
   </div>
@@ -94,14 +94,33 @@
 
 <!-- This is the mobile menu  -->
 <nav class="mobile-menu">
-  <a href="/">
-    <h2 class="logo"> MAJA </h2>
-  </a>
-  <hr>
-  <a href="/blog"> Blog </a>
-  <a href="/about"> About </a>
-  <a href="https://shopmariefeandjakesnow.com/" target="_blank"> SHOP </a>
-  <a href="/subscribe"> Subscribe </a>
+  <div class="hamburger close"> X </div>
+  <div class="mini-header">
+    <a href="/" data-aos="fade">
+      <img class="logo" src="/images/logo/maja-logo-6.png" nopin = "nopin">
+    </a>
+  </div>
+  <div class="padded-1">
+    <a href="/" style="--index: 0;"> Home </a>
+    <a href="/blog" style="--index: 1;"> Blog </a>
+    <a href="/about" style="--index: 2;"> About </a>
+    <a href="https://shopmariefeandjakesnow.com/" target="_blank" style="--index: 3;"> SHOP </a>
+    <a href="/subscribe" class="emphasis" style="--index: 4;"> Subscribe </a>
+  </div>
+  <nav class="inline socials">
+    <a href="http://www.instagram.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-instagram"></i> -->
+      instagram
+    </a>
+    <a href="http://www.youtube.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-youtube"></i> -->
+      youtube
+    </a>
+    <a href="https://vm.tiktok.com/W1teQt/" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-youtube"></i> -->
+      tiktok
+    </a>
+  </nav>
 </nav>
 
 
@@ -124,7 +143,7 @@
         <a class="emphasis" href="/travel" data-aos="fade" data-aos-offset="100"><span> Travel </span></a>
         <a class="emphasis" href="/lifestyle" data-aos="fade" data-aos-offset="150" data-aos-delay="100"><span> Lifestyle </span></a>
         <a class="emphasis" href="/wellbeing" data-aos="fade" data-aos-offset="180" data-aos-delay="150"><span> Wellbeing </span></a>
-        <a class="emphasis" href="/musings" data-aos="fade" data-aos-offset="200" data-aos-delay="200"><span> Musings </span></a>
+        <a class="emphasis" href="/journal" data-aos="fade" data-aos-offset="200" data-aos-delay="200"><span> Journal </span></a>
       </h2>
     </section>
 
@@ -135,10 +154,10 @@
         
 
         <div>
-          <div class="banner grid-right" style="background-image:url(/images/Philippines/Philippines 1-1-5.jpg); padding: 0.5rem;">
+          <div class="banner grid-right" style="background-image:url(/images/Philippines/philippines-travel0.jpg); padding: 0.5rem;">
             <a href="/posts/how-to-make-amazing-couple-photos" class="col-5_sm-7_xs-10-bottom banner-inner grid">
               <div class="col-6 left mob-hide">
-                <span class="author"> Jake Snow </span> | <span class="category"> musings </span>
+                <span class="author"> Jake Snow </span> | <span class="category"> journal </span>
               </div>
               <div class="col-6 right mob-hide">
                   <img class="margin-top-1 margin-bottom-1 squiggle" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
@@ -260,12 +279,23 @@
 
     <section class="padded grid-spaceAround">
       <div class="col-4_md-6_sm-12 editable padded-1" data-aos="fade-left">
-        <h2><a class="about-link" href="/about">about<strong> </strong><span class="about-arrow"> <img src="/images/icons/waves.png" /> </span> </a></h2>
-        <p>What is MAJA all about? Come and get to know us, we've got a lot to share with you.</p>
+
+        <a class="about-link" href="/about">
+          <h2>about
+          <span class="about-arrow"> <img src="/images/icons/arrow.png" /> </span>
+          </h2>
+          <p>What is <strong>M A J A</strong> all about? Come and get to know us, we've got a lot to share with you.</p>
+        </a>
+
+
       </div>
       <div class="col-4_md-6_sm-12 editable padded-1" data-aos="fade-right">
-        <h2><a class="about-link" href="/about#must-haves">our must haves <span class="about-arrow"> <img src="/images/icons/waves.png" /> </span> </a></h2>
-        <p>These products help us achieve happiness, efficiency and producitivity every day. &nbsp;</p>
+        <a class="about-link" href="/about#must-haves">
+          <h2>our must haves
+          <span class="about-arrow"> <img src="/images/icons/arrow.png" /> </span>
+          </h2>
+          <p>These products help us achieve happiness, efficiency and producitivity every day. &nbsp;</p>
+        </a>
       </div>
     </section>
   </div>
@@ -297,8 +327,9 @@
     <div class="col-5_sm-12-middle editable ">
       <p><img src="/images/free-preset/free-preset.jpg" /></p>
     </div>
-    <div class="col-6_sm-12-middle editable padded bump-left light-bg" data-aos="fade-left">
-      <h2> Free Preset Anyone? <img src="/images/icons/sun.png" class="spinning-sun"> </h2>
+    <div class="col-6_sm-12-middle padded bump-left light-bg" data-aos="fade-left">
+      <h2>Free Preset Anyone? <img class="spinning-sun" src="/images/icons/sun.png" /></h2>
+
       <form id="email_signup" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
 
     <input type="hidden" name="g" value="PfjdXw">
@@ -329,6 +360,7 @@
       }
     });
   </script>
+
 
     </div>
   </div>
