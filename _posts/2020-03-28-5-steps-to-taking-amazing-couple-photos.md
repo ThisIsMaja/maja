@@ -17,6 +17,7 @@ tags:
   - Photography
   - Self Improvement
   - Business
+  - Travel tips
 author: Jake Snow
 image-1_path: /images/philippines/philippines-travel4.jpg
 image-2_path: /images/philippines/philippines-travel8.jpg
