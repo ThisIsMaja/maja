@@ -695,8 +695,7 @@ footer .border-right {
   margin-left: 0; }
 
 /* ---- Blog post pages ------ */
-.post-content h3,
-.subtle-heading {
+.post-content h3 {
   font-family: 'p22-underground';
   text-transform: uppercase;
   font-size: 1.5rem;
