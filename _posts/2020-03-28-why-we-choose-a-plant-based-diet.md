@@ -13,6 +13,7 @@ banner-1_path: /images/food/vegan-food1.jpg
 banner-fixed: true
 categories:
   - wellbeing
+  - Lifestyle
 tags:
   - diet
 author: Marie Fe
