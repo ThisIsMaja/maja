@@ -1,3 +1,26 @@
+//  Shop Page
+
+.shop-item.hidden {
+  display: none;
+}
+
+.shop-item .card {
+  border-radius: 10px;
+  -webkit-border-radius:10px;
+  display: block;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.1);
+  padding: 0;
+}
+
+.shop-item .card:hover {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+.shop-item img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
 .shop-item .category,
 .shop-details .category {
   border: 1px solid rgb(180,180,190);
@@ -15,16 +38,12 @@
   font-weight: 300;
 }
 
+
+
+//  Product Page
+
 .compare-at-price {
   text-decoration: line-through;
   color: rgb(180,180,190);
   padding-right: 1rem;
-}
-
-.shop-item {
-  border-radius: 10px;
-}
-
-.shop-item:hover {
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
 }

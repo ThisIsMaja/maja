@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<section class="padded grid shop-details">
-  <div class="col-5 padded-1">
+<section class="padded grid-center shop-details">
+  <div class="col-5">
     <img src="{{page.image_path}}">
   </div>
-  <div class="col-7 padded-1">
-    <h1> {{page.title}}</h1>
-    <h3> <span class="compare-at-price">{{page.compare-at-price}} </span> {{page.price}} </h3>
-    <p> {{page.short-description}} </p>
+  <div class="col-5 padded-2">
+    <h1> {{page.title}} </h1>
+    <p class="stars"> ★★★★★ ({{page.reviews}}) </p>
+    <!-- <span class="compare-at-price">{{page.compare-at-price}} </span> {{page.price}} -->
+    <a class="button-solid margin-bottom-2" href="#"> Buy Now {{page.price}}</a>
+    <h4> {{page.short-description}}  </h4>
+    <p> {{page.description }} </p>
     <p>
     {% for tag in page.preset-tags %}<span class="category"> {{tag}} </span> {% endfor%}
     </p>
-
-    <a class="button-solid margin-bottom-1" href="#"> Buy Now </a>
-    <p class="stars"> ★★★★★ ({{page.reviews}}) </p>
   </div>
 </section>
 <section class="light-bg padded centered">
