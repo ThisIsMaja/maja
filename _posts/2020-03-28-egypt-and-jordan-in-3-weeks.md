@@ -237,7 +237,7 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html:
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path: /images/egypt-jordan/redsea-diving3.jpg
     size: full
