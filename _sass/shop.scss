@@ -1,4 +1,59 @@
-//  Shop Page
+
+
+// Explore Shop page
+
+.shop-banner .banner {
+  min-height: 80vh;
+}
+
+.shop-banner .banner-inner {
+  padding: 1rem;
+  text-align: center;
+}
+
+.shop-banner h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+.shop-banner p {
+  font-size: 1rem;
+  line-height: 1.1;
+  margin-bottom: 0;
+}
+
+// Shop
+
+.text-animation .mini-card img {
+  max-width: 5rem;
+  display: block;
+  margin: 0 auto 0.5rem;
+}
+
+.text-animation .mini-card {
+  // border: 1px solid rgb(120,120,130);
+  color: rgb(120,120,130);
+  padding: 1rem;
+  margin: 0.5rem;
+  min-width: auto;
+}
+
+.mini-card {
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  font-family: p22-underground;
+  text-transform: uppercase;
+  border-bottom: 1px solid transparent;
+}
+
+.mini-card:hover {
+  color: #eab9aa;
+  border-bottom: 1px solid #eab9aa;
+  // box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+
+//  Shop Presets Page
 
 .shop-item.hidden {
   display: none;

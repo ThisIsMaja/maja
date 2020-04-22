@@ -1,8 +1,8 @@
 ---
-title: Beyond Ocean Pack
+title: Ultimate Pack 2
 price: $12
 compare-at-price: $22
-image_path: /images/free-preset/free-preset.jpg
+image_path: /images/shop/ultimate-2.PNG
 short-description: Stunning vibrant presets for your next tropical holiday
 preset-tags:
   - colourful

@@ -4,23 +4,85 @@ title: Shop Page
 meta-description:
 meta-keywords:
 featured-image_path:
+banners:
+  - image_path: /images/banners/maja-banner-3.jpg
+    title: Our Best Sellers
+    paragraph: Explore our most popular presets
+    button-text: Explore
+    button_url: /shop-presets
+  - image_path: /images/banners/give-cafe2-before.jpg
+    title: Earn with MAJA Presets
+    paragraph: Get paid to share our presets
+    button-text: yes please!
+    button_url: /preset-affiliate
+
 ---
 
-<section class="capped-width">
-  <div class="centered padded">
-  <h1 data-aos="fade"> Shop Maja Presets </h1>
-  <p> One-Click Mobile & Desktop Presets for Lightroom </p>
-  </div>
-  <nav id="product-filter" class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
-      <a href="#" class="category"> all </a>
-    {% for category in site.data.preset-tags %}
-      <a href="#" class="category"> {{category}} </a>
+<section class="shop-banner">
+  <div class="relative slick-loop">
+
+    {% for banner in page.banners limit:6 %}
+
+    <div>
+      <div class="banner grid-centered-bottom padded-1" style="background-image:url({{banner.image_path}});">
+        <div class="col-3_md-6_sm-12 banner-inner">
+            <h2> {{banner.title}} </h2>
+            <p> {{banner.paragraph}} </p>
+            <a class="button-solid" href="{{banner.button_url}}"> {{banner.button-text}} </a>
+        </div>
+      </div>
+    </div>
+
     {% endfor %}
 
-  </nav>
+  </div>
 </section>
 
-<section class="padded">
+<section class="padded centered featured-bg">
+  <h2 class="text-animation">
+    <a class="emphasis mini-card" href="/travel" data-aos="fade" data-aos-offset="100">
+      <img src="/images/icons/sun.png">
+       Presets
+    </a>
+    <a class="emphasis mini-card" href="/travel" data-aos="fade" data-aos-offset="100">
+      <img src="/images/icons/sun.png">
+       Freebies
+    </a>
+    <a class="emphasis mini-card" href="/travel" data-aos="fade" data-aos-offset="100">
+      <img src="/images/icons/sun.png">
+       Compare
+    </a>
+    <a class="emphasis mini-card" href="/travel" data-aos="fade" data-aos-offset="100">
+      <img src="/images/icons/sun.png">
+       FAQs
+    </a>
+  </h2>
+</section>
+<section class="capped-width">
+  <div class="centered padded">
+    <h2 data-aos="fade"> Our Style </h2>
+    {% include squiggle.html %}
+    <p> We like to create things that are made for beginners as much as professionals. </p>
+    <p> Colourful, dreamy, happy vibes. </p>
+    <p> Made for mobile & camera photography </p>
+    <p> We're here to help </p>
+    <img src=/images/signoff/signoff.gif class="signoff">
+  </div>
+</section>
+
+
+<section class="grey-bg padded">
+  <div class="centered padded-1 capped-width">
+  <h1 data-aos="fade"> Preset Packs </h1>
+  <p> One-click mobile and desktop presets by @mariefeandjakesnow </p>
+  </div>
+  <!-- <nav id="product-filter" class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+      <a href="#" class="category">all</a>
+    {% for category in site.data.preset-tags %}
+      <a href="#" class="category">{{category}}</a>
+    {% endfor %}
+  </nav> -->
+<div class="padded-1">
 
   <div id="product-loop" class="blog-masonry">
 
