@@ -13,8 +13,7 @@ banner-fixed: true
 categories:
   - journal
 tags:
-  - reflections
-  - our story
+  - our relationships
 author: Tina May
 image-1_path: /images/style/maja-stock-34.jpg
 image-2_path: /images/style/maja-stock-16.jpg
