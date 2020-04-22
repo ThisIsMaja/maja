@@ -11,9 +11,11 @@ image_path: /images/style/maja-stock-29.jpg
 banner-1_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
 banner-fixed: true
 categories:
-  - wellbeing
+  - Lifestyle
+  - journal
 tags:
-  - conscious civing
+  - productivity
+  - Self Improvement
 author: Marie Fe
 image-1_path: /images/style/maja-stock-23.jpg
 image-2_path: /images/style/maja-stock-29.jpg
