@@ -8,7 +8,7 @@ meta-description: >-
   to create the most amazing couple photos.
 meta-keywords:
 image_path: /images/philippines/philippines-travel8.jpg
-banner-1_path: /images/philippines/philippines-travel3.jpg
+banner-1_path: /images/komodo-islands/Komodo-Islands2.jpg
 banner-fixed: false
 categories:
   - travel
@@ -19,7 +19,7 @@ tags:
   - Business
 author: Jake Snow
 image-1_path: /images/philippines/philippines-travel4.jpg
-image-2_path: /images/philippines/philippines-travel11.jpg
+image-2_path: /images/philippines/philippines-travel8.jpg
 intro-paragraph-emphasis: >-
   It wasn’t too long ago that we were going through all of the settings in our
   camera with absolutely no idea of what everything did.
