@@ -12,10 +12,12 @@ image_path: /images/maldives/amilla-fushi5.jpg
 banner-1_path: /images/office/home-office4.jpg
 banner-fixed: true
 categories:
+  - Lifestyle
   - wellbeing
 tags:
   - mental Health
   - productivity
+  - Self Improvement
 author: Marie Fe
 image-1_path: /images/office/maja-content1.jpg
 image-2_path:

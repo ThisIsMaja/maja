@@ -231,13 +231,13 @@ sections:
       crystal clear Red Sea, camels, pharaohs, pyramids and Indiana
       Jones.</p><p>Have you been to Egypt or Jordan? We would love to know about
       your experience in the comments below.</p>
-  - banner_path: /images/egypt-jordan/wadi-rum.jpg
+  - banner_path:
     banner-fixed: true
     banner-caption:
     columns: false
     main-paragraph-emphasis:
     body-content_html:
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path: /images/egypt-jordan/redsea-diving3.jpg
     size: full

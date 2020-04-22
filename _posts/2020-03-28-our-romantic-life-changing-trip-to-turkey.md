@@ -13,7 +13,6 @@ banner-fixed: true
 categories:
   - travel
 tags:
-  - asia
 author: Marie Fe & Jake Snow
 image-1_path: /images/turkey/cappadocia-photography2.jpg
 image-2_path:
