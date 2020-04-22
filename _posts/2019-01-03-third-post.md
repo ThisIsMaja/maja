@@ -14,9 +14,9 @@ categories:
   - journal
 tags:
   - our relationships
-author: Tina May
+author: Marie & Jake
 image-1_path: /images/style/maja-stock-34.jpg
-image-2_path: /images/style/maja-stock-16.jpg
+image-2_path:
 intro-paragraph-emphasis: We found true love on a beach in Thailand
 intro-content_html: >-
   <p>It&rsquo;s hard to imagine our lives any different than what they are now.
