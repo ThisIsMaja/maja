@@ -11,9 +11,12 @@ image_path: /images/Philippines/philippines-travel0.jpg
 banner-1_path: /images/Philippines/philippines-travel0.jpg
 banner-fixed: false
 categories:
-  - journal
+  - travel
+  - Lifestyle
 tags:
-  - opinion
+  - Photography
+  - Self Improvement
+  - Business
 author: Jake Snow
 image-1_path: /images/philippines-travel0.jpg
 image-2_path:
