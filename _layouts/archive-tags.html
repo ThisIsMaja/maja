@@ -21,7 +21,7 @@ layout: default
 
     {% for tag in site.data.categories[cat] %}
       <a href="/tag/{{tag | slugify }}" class="category
-       {% if page.title == tag %}active{% endif %}"> {{tag}} </a>
+       {% if page.title == tag %}active{% endif %}">{{tag}}</a>
     {% endfor %}
 
   </div>

@@ -1,9 +1,9 @@
 ---
-title: All Star Pack
+title: Ultimate Pack
 layout: product
 price: $18
 compare-at-price: $22
-image_path: /images/free-preset/free-preset.jpg
+image_path: /images/shop/ultimate.PNG
 short-description: 8 mobile + desktop presets perfect for portraits
 preset-tags:
   - colourful

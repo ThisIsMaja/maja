@@ -1,8 +1,8 @@
 ---
-title: Ultimate Mobile Pack
+title: Ultimate Pack 3
 price: $18
 compare-at-price: $22
-image_path: /images/free-preset/free-preset.jpg
+image_path: /images/shop/ultimate-3.PNG
 short-description: The original maja preset pack for all of your travels
 preset-tags:
   - soft colors

@@ -695,8 +695,13 @@ footer .border-right {
   margin-left: 0; }
 
 /* ---- Blog post pages ------ */
-.light-bg.odd {
-  background-color: white; }
+.post-content h3,
+.subtle-heading {
+  font-family: 'p22-underground';
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  color: #78787d; }
 
 .post-date {
   margin-top: 1rem;
@@ -1179,56 +1184,6 @@ h3.clear-images-h3 {
 .open::after {
   transform: rotateZ(45deg); }
 
-.mob-show {
-  display: none; }
-
-/* This media query kicks into action at the gridlex sm breakpoint */
-@media (max-width: 768px) {
-  body {
-    padding-top: 4.3rem; }
-
-  .fixed {
-    position: static; }
-
-  .mob-hide {
-    display: none; }
-
-  .mob-show {
-    display: block; }
-
-  .hamburger {
-    display: block; }
-
-  .blog-item-wide .bg-image {
-    padding-bottom: 60%; }
-
-  #body .text-bump {
-    margin: -0.5rem; }
-
-  .capped-width {
-    width: 100%; }
-
-  .mob-flex-flip {
-    flex-direction: column-reverse; }
-
-  .columns {
-    column-count: 1; }
-
-  .blog-masonry {
-    column-count: 1; }
-
-  .social-share {
-    left: 0.5rem; }
-
-  footer {
-    padding: 2rem 5%; }
-
-  footer,
-  footer .right {
-    text-align: center; } }
-/* end media query */
-/* This media query kicks into action at the gridlex xs breakpoint */
-/* end media query */
 /* Slick slider */
 .slick-blog-container {
   padding: 5% 15%; }
@@ -1290,6 +1245,44 @@ h3.clear-images-h3 {
     margin-bottom: 0;
     font-size: 1.2rem;
     text-align: right; } }
+.shop-banner .banner {
+  min-height: 80vh; }
+
+.shop-banner .banner-inner {
+  padding: 1rem;
+  text-align: center; }
+
+.shop-banner h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0; }
+
+.shop-banner p {
+  font-size: 1rem;
+  line-height: 1.1;
+  margin-bottom: 0; }
+
+.text-animation .mini-card img {
+  max-width: 5rem;
+  display: block;
+  margin: 0 auto 0.5rem; }
+
+.text-animation .mini-card {
+  color: #787882;
+  padding: 1rem;
+  margin: 0.5rem;
+  min-width: auto; }
+
+.mini-card {
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  font-family: p22-underground;
+  text-transform: uppercase;
+  border-bottom: 1px solid transparent; }
+
+.mini-card:hover {
+  color: #eab9aa;
+  border-bottom: 1px solid #eab9aa; }
+
 .shop-item.hidden {
   display: none; }
 
@@ -1326,3 +1319,54 @@ h3.clear-images-h3 {
   text-decoration: line-through;
   color: #b4b4be;
   padding-right: 1rem; }
+
+.mob-show {
+  display: none; }
+
+/* This media query kicks into action at the gridlex sm breakpoint */
+@media (max-width: 768px) {
+  body {
+    padding-top: 4.3rem; }
+
+  .fixed {
+    background-attachment: scroll; }
+
+  .mob-hide {
+    display: none; }
+
+  .mob-show {
+    display: block; }
+
+  .hamburger {
+    display: block; }
+
+  .blog-item-wide .bg-image {
+    padding-bottom: 60%; }
+
+  #body .text-bump {
+    margin: -0.5rem; }
+
+  .capped-width {
+    width: 100%; }
+
+  .mob-flex-flip {
+    flex-direction: column-reverse; }
+
+  .columns {
+    column-count: 1; }
+
+  .blog-masonry {
+    column-count: 1; }
+
+  .social-share {
+    left: 0.5rem; }
+
+  footer {
+    padding: 2rem 5%; }
+
+  footer,
+  footer .right {
+    text-align: center; } }
+/* end media query */
+/* This media query kicks into action at the gridlex xs breakpoint */
+/* end media query */

@@ -52,6 +52,11 @@ $(document).ready(function() {
   	autoplaySpeed: 5000
 	});
 
+	$('.slick-loop').slick({
+		autoplay: true,
+		autoplaySpeed: 5000
+	});
+
 });
 
 
@@ -124,7 +129,7 @@ $(document).ready(function(){
           }
 				};
     });
-      
+
 });
 
 
