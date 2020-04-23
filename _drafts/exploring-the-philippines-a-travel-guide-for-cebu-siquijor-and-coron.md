@@ -25,7 +25,7 @@ intro-content_html: >-
   to offer. We spent 12 days in this paradise and it completely exceeded our
   expectations!&nbsp;</p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/bali/bali-indonesia4.jpg
+  - banner_path: /images/philippines/philippines-travel8.jpg
     banner-fixed: true
     banner-caption:
     columns: true
