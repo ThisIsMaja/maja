@@ -71,43 +71,43 @@ sections:
       Beautiful resort located at the quiet end of White Beach. Sea view or pool
       view options available. Standard double room will cost around $80USD a
       night.&nbsp;</li></ul>
-  - banner_path: /images/bali/bali-indonesia7.jpg
-    banner-fixed: true
+  - banner_path: /images/philippines/philippines-travel9.jpg
+    banner-fixed: false
     banner-caption:
     columns: true
-    main-paragraph-emphasis: Experience the Jungle
+    main-paragraph-emphasis: 'Chasing waterfalls is easy in the mystical, laid-back island of Siquijor'
     body-content_html: >-
-      <h2>Ubud - 4 days</h2><p>Some people say that Ubud is more like a culture
-      than a place and honestly when you&rsquo;re there, it feels like it. A
-      hideaway for Yogi&rsquo;s, spiritual healers, naturopath&rsquo;s,
-      environmentalists and artists. Ubud is heaven for plant based eaters,
-      filled with cafe&rsquo;s and restaurants catered to a more compassionate
-      lifestyle. Surrounded by waterfalls and filled with markets, spending 4
-      days in Ubud could either be a relaxing escape or a wild
-      adventure.&nbsp;</p><h3>Where to eat Ubud</h3><ul><li>Sayuri Healing Food
-      Cafe (healthy plant based food)</li><li>Kafe (Love this Cafe, we dined
-      here 4 times when we first met)</li><li>Down to Earth (vegan, half price
-      on Monday, Cinema)</li><li>The Seeds of life (amazing raw plant
-      food)</li></ul><h3>Where to stay in Ubud</h3><ul><li><a
-      href="https://www.booking.com/hotel/id/pondok-bungkuan.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Pondok
-      Bungkuan</u></a> (quiet area, in the rice fields, epic view, sustainable
-      food, good wifi, nice staff)</li><li><a
-      href="https://www.booking.com/hotel/id/pangkung-sari.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Pangkung
-      Sari</u></a> (friendly owners, cheap, great breakfast)</li><li><a
-      href="https://www.booking.com/hotel/id/kausala-at-bisma-ubud.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Kausala
-      at Bisma</u></a> (central, private rooms, good price)</li><li><a
-      href="https://www.booking.com/hotel/id/wanderlust-hostel.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Wanderlust
-      hostel</u></a> (stylish, cool community, cheaper)</li><li><a
-      href="https://www.booking.com/hotel/id/jannata-resort-and-spa.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Jannata
-      Resort and Spa</u></a> (honeymoon, incredible view)</li></ul><h3>Things to
-      do in Ubud</h3><ul><li>Visit the Monkey Forest&nbsp;</li><li>Take photos
-      at one of the many rice terraces&nbsp;</li><li>Try some Yoga and
-      meditation (The Yoga Barn)</li><li>Ubud Organic Farmers
-      Market&nbsp;</li><li>Take a tour to the surrounding waterfalls (Tukad
-      Cepung at 9-11am)</li></ul><h4>You want to stay longer?</h4><p>1 week
-      Retreat at Firefly Resort (yoga, cooking, meditation etc./ cheap &amp;
-      awesome)</p><p>Take cooking classes (4 days raw food class at Sayuri
-      Healing Food Cafe)</p>
+      <h3>SIQUIJOR</h3><p>Chasing waterfalls is easy in the mystical, laid-back
+      island of Siquijor. The island is a bit off the beaten path of the
+      Philippines, located right under Cebu. It&rsquo;s known for having some of
+      the most beautiful waterfalls around, white sandy beaches, and super
+      friendly locals. You can get here via ferry from Dumaguete (40 mins), or
+      from Bohol (90 mins). From Cebu, you can take a ferry to Tagbilaran, and
+      from there transfer onto another ferry for
+      Siquijor.&nbsp;</p><p><strong>WHERE TO EAT IN
+      SIQUIJOR:</strong></p><ul><li><em>Monkey Business</em>: vegan-friendly
+      restaurant with a cool island vibe: hanging swing seats and delicious
+      Asian, European, and Filipino cuisines. Banana fries are a must-try menu
+      item.&nbsp;</li></ul><ul><li><em>Loka Loco</em>:&nbsp; Great spot for
+      healthy, vegan food. Food presentation is impressive &ndash; try one of
+      their buddha or smoothie bowls here for a filling healthy meal that looks
+      as good as it tastes.&nbsp;&nbsp;</li></ul><p><strong>THINGS TO DO IN
+      SIQUIJOR:</strong></p><ul><li><em>Cambugahay Falls:&nbsp; </em>This
+      beautiful waterfall is a popular tourist spot, so go early in the morning
+      to avoid the crowds. Take a swing on the Tarzan-style rope and jump right
+      into the crisp water below &mdash;you will not regret
+      it!&nbsp;</li></ul><ul><li><em>Cliff Jumping at Salagdoong Beach:
+      </em>This is the most famous cliff jumping spot in Siquijor and for good
+      reason. The water is the bluest of blues and you can get some really great
+      photos here. If cliff jumping is not your thing, Salagdoong Beach is still
+      a great place to relax on the beautiful white sand and enjoy the
+      view.</li></ul><p><strong>WHERE TO STAY IN
+      SIQUIJOR:</strong></p><ul><li><em>Glamping Siquijor: </em>Basic
+      accommodations (tents on the beach) but such a cool experience. Just a few
+      steps away from the beautiful Solangon Beach. You will enjoy some amazing
+      sunsets here.&nbsp;</li></ul><ul><li><em>Daydream Guesthouse:
+      </em>Beachfront guesthouses with all basic amenities included. The hotel
+      will arrange for motorbike rental and diving excursions.&nbsp;</li></ul>
   - banner_path: /images/bali/bali-indonesia8.jpg
     banner-fixed: true
     banner-caption:
