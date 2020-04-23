@@ -39,37 +39,38 @@ sections:
       rainy season is super affordable accommodations, and often you may only
       see a short downpour once or twice a day and sunshine
       throughout.&nbsp;</p>
-  - banner_path: /uploads/uluwatu-beach.jpg
-    banner-fixed: true
+  - banner_path:
+    banner-fixed: false
     banner-caption:
     columns: false
-    main-paragraph-emphasis: Head to the Beaches
+    main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Uluwatu - 4 days</h2><p>A lot of people arrive in Bali, make it to
-      their hotel, unpack their bags then head to the beach and are shocked that
-      the sand isn&rsquo;t white. Bali is most definitely a tropical paradise
-      but it is not known for its pristine beaches&hellip;&hellip;&hellip;
-      unless you&rsquo;re in Uluwatu. One of our favourite places in Bali, we
-      make sure to spend at least a few days here everytime we come back. The
-      beaches are surrounded by huge jagged cliff faces, the sand is white and
-      the water is super clear. Generally a lot quieter than Canggu and
-      Seminyak. Uluwatu is definitely the place to go if your looking to relax
-      on the beach.&nbsp;</p><h3>Where to eat in Uluwatu</h3><ul><li>Bukit Cafe
-      (healthy, organic)</li><li>La Baracca (amazing Italian food, vegan
-      options)</li><li>Cashew Tree (relax, grassy area to chill, vegan
-      options)</li><li>Kelly&rsquo;s Warung (watch the surfers, cheaper, close
-      to beach)</li></ul><h3>Where to stay in Uluwatu</h3><ul><li>Uluwatu Surf
-      Villas (incredible location, best sunset we&rsquo;ve ever seen)</li><li><a
-      href="https://www.booking.com/hotel/id/dreamsea-bali.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Dreamsea
-      Bali</u></a> (boho style, beautiful interior, beach vibes)</li><li><a
-      href="https://www.booking.com/hotel/id/the-bingin-greenview.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
-      Bingin Green View</u></a> (Value for money, 5 min to the beach, Bungalow
-      style)</li></ul><h3>Things to do in Uluwatu</h3><ul><li>Learn to surf at
-      Padang Padang Bay&nbsp;</li><li>Visit the monkey temple (those monkeys are
-      fierce)</li><li>Catch a sunset at Single Fin&nbsp;</li><li>Head to Drifter
-      cafe for food and an outdoor cinema experience&nbsp;</li><li>Head to
-      Sundays Beach club for amazing blue water</li><li>Check out these beaches
-      Bingin, Thomas, Karma, Green Bowl and Blue point.</li></ul>
+      <p>Cebu is one of the most popular destinations in the Philippines and the
+      perfect place to start your journey. Getting here is simple thanks to the
+      fact there is an international airport right on the island! We opted to
+      stay in nearby town of Moalboal, which is southwest of Cebu. You can take
+      the bus from Cebu South Terminal for around $4 and it will take
+      approximately 3 hours.&nbsp;</p><h4><strong>WHERE TO EAT IN
+      CEBU:</strong></h4><ul><li><em>Shaka:</em> One of our favourite
+      plant-based restaurants in Moalboal. Try one of their signature smoothie
+      bowls or delicious fresh juices.&nbsp;</li></ul><ul><li>&nbsp;<em>Venz
+      Kitchen</em>: Small, locally owned restaurant specializing in Filipino
+      food.&nbsp;</li></ul><h4><strong>THINGS TO DO IN
+      CEBU:</strong></h4><ul><li><em>Kawasan Waterfall:&nbsp; </em>This was our
+      first time visiting Kawasan Waterfall in Cebu and we were blown away. We
+      arrived by 7AM and had the place to ourselves!&nbsp;</li><li><em>Swim with
+      Turtles:&nbsp; </em>The snorkeling in Moalboal is amazing. Beautiful
+      coral, lots of marine life and turtle spotting makes this a favourite
+      dive-spot for travelers.&nbsp;</li></ul><h4><strong>WHERE TO STAY IN
+      CEBU:</strong></h4><ul><li><em>Ralph&rsquo;s Pension House</em>: Located
+      centrally within Moalboal, right next to the ocean. The Kawasan Waterfalls
+      are only 16kms out from this hotel, making it an easy ride over in the
+      morning.&nbsp; Room rate will vary depending on the time of year but
+      expect to pay around $50 for a double room per
+      night.&nbsp;</li></ul><ul><li><em>The Blue Orchid Resort</em>:&nbsp;
+      Beautiful resort located at the quiet end of White Beach. Sea view or pool
+      view options available. Standard double room will cost around $80USD a
+      night.&nbsp;</li></ul>
   - banner_path: /images/bali/bali-indonesia7.jpg
     banner-fixed: true
     banner-caption:
