@@ -52,6 +52,7 @@ layout: default
   <div class="col-6_sm-12 padded-1">
       <p class="emphasis"> {{page.intro-paragraph-emphasis}}</p>
 
+
       <span class="mob-hide"> {% include squiggle.html %} </span>
 
       {{page.intro-content_html}}
@@ -82,7 +83,9 @@ layout: default
 
         <p class="emphasis"> {{section.main-paragraph-emphasis}}</p>
 
-        {% include flick-lite.html %}
+        <img src="/images/gifs/dots.gif" style="transform: rotate(270deg);
+    max-width: 4rem;">
+        <!-- {% include flick-lite.html %} -->
 
     </div>
     {% endunless %}

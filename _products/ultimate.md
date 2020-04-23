@@ -3,7 +3,7 @@ title: Ultimate Pack
 layout: product
 price: $18
 compare-at-price: $22
-image_path: /images/shop/ultimate.PNG
+image_path: /images/shop/ultimate-1.PNG
 short-description: 8 mobile + desktop presets perfect for portraits
 preset-tags:
   - colourful
