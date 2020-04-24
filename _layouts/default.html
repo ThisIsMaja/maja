@@ -13,5 +13,9 @@
 
   {% include body-scripts.html %}
 
+  {% if page.hide-from-google == true %}
+  <META NAME="ROBOTS" CONTENT="NOINDEX, FOLLOW">
+  {% endif %}
+
 </body>
 </html>
