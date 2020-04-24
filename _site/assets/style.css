@@ -546,18 +546,24 @@ header.fixed {
   left: 1rem; }
 
 /* -- Footer -- */
-footer .info {
-  padding-right: 3rem; }
+footer .socials svg {
+  width: 2rem;
+  height: 2rem;
+  fill: #b4b4be; }
 
 footer nav a {
-  display: block; }
+  display: inline-block;
+  vertical-align: middle; }
 
 footer h3 {
   font-size: 1.2rem; }
 
 footer .border-right {
-  border-right: 2px solid white;
-  margin: 2rem 0; }
+  border-right: 1px solid #b4b4be;
+  margin-right: 2rem;
+  min-height: 5rem;
+  display: inline-block;
+  vertical-align: middle; }
 
 .sub-footer {
   padding: 1rem 1rem 0; }

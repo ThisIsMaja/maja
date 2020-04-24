@@ -217,12 +217,15 @@
 
   /* -- Footer -- */
 
-  footer .info {
-    padding-right: 3rem;
+  footer .socials svg {
+    width: 2rem;
+    height: 2rem;
+    fill: rgb(180,180,190);
   }
 
   footer nav a {
-    display:block;
+    display:inline-block;
+    vertical-align: middle;
   }
 
   footer h3 {
@@ -230,8 +233,11 @@
   }
 
   footer .border-right {
-    border-right: 2px solid white;
-    margin: 2rem 0;
+    border-right: 1px solid rgb(180,180,190);
+    margin-right: 2rem;
+    min-height: 5rem;
+    display: inline-block;
+    vertical-align: middle;
   }
 
   .sub-footer {
