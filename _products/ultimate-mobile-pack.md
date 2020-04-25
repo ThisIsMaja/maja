@@ -3,7 +3,9 @@ title: Ultimate Mobile Pack
 price: $19.95
 compare-at-price: $49.95
 image_path: /images/shop/ultimate-2.PNG
-short-description: Best Seller for mobile photos. 12 mobile&desktop photos
+short-description: >-
+  Every maja pack works for mobile but this works best. 12 mobile&desktop
+  presets
 preset-tags:
   - travel
   - outdoor
