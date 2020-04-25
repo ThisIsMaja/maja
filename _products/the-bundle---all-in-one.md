@@ -1,5 +1,5 @@
 ---
-title: The bundle - All in one
+title: The Bundle - All in one
 layout: product
 price: $75.95
 compare-at-price: $215.95
