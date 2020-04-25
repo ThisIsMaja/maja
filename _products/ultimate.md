@@ -26,7 +26,7 @@ description: >-
 faqs:
   - question: What's Included?
     answer_html: >-
-      <p>24 Presets -&nbsp;<strong>PHOTO FILTERS</strong>&nbsp;// 12x
+      <p>24 Presets&nbsp; photo filter // 12x
       &nbsp;<strong>Desktop</strong>&nbsp;Presets for Adobe Lightroom CC
       //12x&nbsp;<strong>Mobile</strong>&nbsp;Presets for
       your&nbsp;<strong>FREE</strong>&nbsp;MOBILE Adobe Lightroom CC
@@ -40,8 +40,8 @@ faqs:
       colours</li><li><strong>Coconut Icecream
       </strong>-<strong>&nbsp;</strong>no reds</li><li><strong>Colour
       Blitz</strong>&nbsp;- bright blues</li><li><strong>Fairytales are
-      real</strong>&nbsp;- soft blues, bright oranges</li><li><strong>In love
-      with summer</strong>&nbsp;- &nbsp;poppy colours</li><li><strong>Ocean
+      real</strong>&nbsp;- soft blues, bright reds</li><li><strong>In love with
+      summer</strong>&nbsp;- &nbsp;poppy colours</li><li><strong>Ocean
       Blues</strong>&nbsp;- bright blues</li><li><strong>1970s</strong>&nbsp;-
       old school look</li></ol>
   - question: Is this pack for me?
