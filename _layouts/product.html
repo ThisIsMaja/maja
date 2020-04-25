@@ -20,26 +20,35 @@ layout: default
 </section>
 
 
-<section class="padded" id="faqs">
-  <h3 class="centered padded-1 subtle-heading"> About this preset pack </h3>
+<section class="padded relative" id="faqs">
+  <div class="capped-width">
+    <h3 class="centered padded-1 subtle-heading"> About this preset pack </h3>
 
-  <dl class="accordion padded-1">
+    <dl class="accordion padded-1">
 
-    {% for question in page.faqs %}
+      {% for question in page.faqs %}
 
-    <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
-    <dd>{{question.answer_html}}</dd>
+      <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
+      <dd>{{question.answer_html}}</dd>
 
-    {% endfor %}
+      {% endfor %}
 
-    {% for question in site.data.preset-faqs %}
+      {% for question in site.data.preset-faqs %}
 
-    <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
-    <dd>{{question.answer_html}}</dd>
+      <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
+      <dd>{{question.answer_html}}</dd>
 
-    {% endfor %}
+      {% endfor %}
 
-  </dl>
+    </dl>
+    <div class="padded-1">
+      <p> As always we thank you so much for your support, we really appreciate every single one of you. </p>
+      <p> Lots of Love </p>
+
+      <img src=/images/logo/signoff_maja_black.gif class="signoff">
+    </div> 
+  </div>
+    <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
 </section>
 <section class="padded centered light-bg">
   <h3> Your Photos + Our Presets = <img class="spinning-sun" src="/images/icons/sun.png" /> </h3>
