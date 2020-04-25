@@ -15,11 +15,21 @@ description: >-
   8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
   tones, food, selfies, lifestyle, indoors/outdoors :)
 main-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Mobile-Pack/mobile-1.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Mobile-Pack/mobile-2.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Mobile-Pack/mobile-3.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-4.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-5.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-6.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-7.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-8.jpg
     alt: short description of this image
 faqs:
   - question: What's Included?

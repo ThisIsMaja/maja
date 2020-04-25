@@ -5,11 +5,35 @@ price: $10.00
 compare-at-price: $39.95
 image_path: /images/shop/ultimate-2.PNG
 main-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Ocean/ocean-1.JPG
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Ocean/ocean-2.JPG
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Ocean/ocean-3.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-4.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-5.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-6.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-7.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-8.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-9.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-10.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-11.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-12.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-13.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-14.JPG
+    alt: short description of this image
+  - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
 short-description: For ocean lovers and beach addicts but also anything else.
 preset-tags:
