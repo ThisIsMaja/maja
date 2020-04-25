@@ -1,15 +1,24 @@
 ---
-title: Ultimate Pack
+title: The Ultimate Pack 1
 layout: product
-price: $18
-compare-at-price: $22
+price: $39.95$
+compare-at-price: $14.95$
 image_path: /images/shop/ultimate-1.PNG
-short-description: 8 mobile + desktop presets perfect for portraits
+short-description: >-
+  12 mobile + desktop presets made in 2017, very bright, sharp & colourful
+  filters
 preset-tags:
+  - travel
+  - outdoor
   - colourful
-  - skin
-  - ocean
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - sharp
+  - landscape
+  - very colourful
+  -
+description: >-
+  This is the first pack we ever created. This pack is what launched our
+  Instagram and our photography to where it is now. You are getting bright
+  colours, orange tones and eye popping filters.
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
@@ -29,3 +38,4 @@ gallery:
     alt: short description of this image
 reviews: 233
 ---
+
