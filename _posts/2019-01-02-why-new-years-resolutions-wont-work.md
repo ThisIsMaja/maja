@@ -13,7 +13,7 @@ banner-fixed: true
 categories:
   - journal
 tags:
-  - opinion
+  - Self Improvement
   - productivity
 author: Jake Snow
 image-1_path: /images/style/maja-stock-style3.jpg
