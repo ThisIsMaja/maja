@@ -1,5 +1,5 @@
 ---
-title: The Ultimate Preset Pack 1
+title: Ultimate Pack 1
 layout: product
 price: $14.95
 compare-at-price: $34.95
@@ -29,7 +29,7 @@ faqs:
   - question: How is this different to the other Ultimate Packs?
     answer_html: <p> You just follow our instructions dummy </p>
 gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-1/1970_BA_1080x.jpg
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
