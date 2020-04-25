@@ -1,5 +1,6 @@
 ---
 title: Ultimate Mobile Pack
+layout: product
 price: $19.95
 compare-at-price: $49.95
 image_path: /images/shop/ultimate-2.PNG
@@ -12,11 +13,22 @@ preset-tags:
   - mobile
   - selfie
   - indoor
-  -
+main-gallery:
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
 description: >-
   Presets designed for any camera and great for mobile photography. Perfect for
   Skin tones, food, selfies, lifestyle, indoors/outdoors! Transform all your
   phone photos with just one click!!
+faqs:
+  - question: What's Included?
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How is this different to the other Ultimate Packs?
+    answer_html: <p> You just follow our instructions dummy </p>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image

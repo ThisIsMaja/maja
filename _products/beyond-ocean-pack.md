@@ -1,8 +1,16 @@
 ---
 title: Beyond Ocean Pack
+layout: product
 price: $10.00
 compare-at-price: $39.95
 image_path: /images/shop/ultimate-2.PNG
+main-gallery:
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
 short-description: 10 Allrounder Presets for 10$!!
 preset-tags:
   - travel
@@ -12,6 +20,11 @@ preset-tags:
 description: >-
   For ocean lovers and beach addicts but not only, great to edit anything else.
   20% of all our sales will be donated to help clean up and save our oceans.
+faqs:
+  - question: What's Included?
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How is this different to the other Ultimate Packs?
+    answer_html: <p> You just follow our instructions dummy </p>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image

@@ -1,5 +1,6 @@
 ---
 title: The Allstar Bonus Pack
+layout: default
 price: $10.00
 compare-at-price: $19.95
 image_path: /images/shop/ultimate-2.PNG
@@ -10,10 +11,21 @@ preset-tags:
   - indoor
   - mobile
   - soft
-  -
 description: >-
   8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
   tones, food, selfies, lifestyle, indoors/outdoors :)
+main-gallery:
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+faqs:
+  - question: What's Included?
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How is this different to the other Ultimate Packs?
+    answer_html: <p> You just follow our instructions dummy </p>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
