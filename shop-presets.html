@@ -29,10 +29,11 @@ featured-image_path:
             <a href="{{product.url}}" class="card">
               <img src="{{product.image_path}}">
               <div class="padded-1">
-                <h3> {{product.title}} - <span class="price"> {{product.price}} </span> </h3>
+                <h3> {{product.title}}</h3>
                 <p>{{product.short-description}} </p>
+                <p> <span class="compare-at-price">{{page.compare-at-price}} </span> {{page.price}} </p>
                 <p class="stars"> ★★★★★ ({{product.reviews}}) </p>
-                {% for tag in product.preset-tags %}<span class="category"> {{tag}} </span> {% endfor%}
+                <!-- {% for tag in product.preset-tags %}<span class="category"> {{tag}} </span> {% endfor%} -->
               </div>
             </a>
           </div>
