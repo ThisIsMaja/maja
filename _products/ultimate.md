@@ -1,5 +1,5 @@
 ---
-title: The Ultimate Preset Pack 1
+title: Ultimate Pack 1
 layout: product
 price: $14.95
 compare-at-price: $34.95
