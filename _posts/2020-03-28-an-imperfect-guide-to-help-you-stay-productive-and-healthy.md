@@ -171,7 +171,7 @@ sections:
       different muscle groups.</p><p>This year a major goal for us is to reach a
       new level of fitness and health which means we will be more consistent and
       work harder in our exercise routines. We will keep you updated with our
-      progress on <a
+      progress on <a target="_blank"
       href="https://www.instagram.com/mariefeandjakesnow/">Instagram</a>.</p><p>We
       hope you enjoyed reading about what has helped us in 2019 to feel happier,
       healthier and more productive. We are still optimising and tweaking things
