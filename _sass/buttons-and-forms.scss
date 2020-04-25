@@ -49,6 +49,18 @@
     border-color: rgb(60, 60, 60);
   }
 
+  .button-subtle {
+    font-family: p22-underground, sans-serif;
+    font-weight: normal;
+    color: rgb(120,120,130);
+    padding: 0.5rem;
+    text-transform: uppercase;
+  }
+
+  .button-subtle:hover {
+    color: rgb(90,90,100);
+  }
+
   .arrow { /* this is the arrow button */
     font-size: 1.5rem;
     display: inline-block;
@@ -112,15 +124,24 @@
       margin-top:1rem;
     }
 
-    .email-signup .button-solid {
+    .email-signup .button-solid,
+    .work-with-us .button-solid {
       padding: 0.8em;
       border-radius: 0;
       font-size: 1rem;
       // background-color: #f9f0e7;
     }
+
+    .work-with-us input {
+      width: 100%;
+      display: inline-block;
+      margin-bottom:0.2rem;
+    }
+
      form .button {
        width:100%;
      }
+
 
 
 
