@@ -1,8 +1,8 @@
 ---
-title: The Ultimate Pack 1
+title: The Ultimate Preset Pack 1
 layout: product
-price: $39.95$
-compare-at-price: $14.95$
+price: $14.95
+compare-at-price: $34.95
 image_path: /images/shop/ultimate-1.PNG
 short-description: >-
   Colour bomb: 12 mobile + desktop presets made in 2017, very bright, sharp &
