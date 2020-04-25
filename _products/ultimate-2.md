@@ -3,7 +3,7 @@ title: Ultimate Pack 2
 layout: product
 price: $19.95
 compare-at-price: $49.95
-image_path: /images/shop/ultimate-2.PNG
+image_path:  /images/shop/cover-2.jpg
 main-gallery:
   - image_path: /images/shop/Pack-2/pack2-1.jpg
     alt: short description of this image

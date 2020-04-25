@@ -3,7 +3,7 @@ title: Beyond Ocean Pack
 layout: product
 price: $10.00
 compare-at-price: $39.95
-image_path: /images/shop/ultimate-2.PNG
+image_path:  /images/shop/cover-2.jpg
 main-gallery:
   - image_path: /images/shop/Ocean/ocean-1.JPG
     alt: short description of this image

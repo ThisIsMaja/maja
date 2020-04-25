@@ -17,18 +17,25 @@ preset-tags:
   - indoor
   - colourful
   - sharp
-  -
 description: >-
   Designed and customised - all of our bestsellers at once! Within this pack is
   a preset would use for any situation you could think of. Sun, cloud, dark,
   bright, jungle, beach, sunset, portrait, city, moody, poppy etc etc, it is in
   here!
 main-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/cover-1.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/cover-2.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/cover-3.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-4.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-5.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-6.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-7.jpg
     alt: short description of this image
 faqs:
   - question: What's Included?
@@ -53,4 +60,3 @@ gallery:
     alt: short description of this image
 reviews: 190
 ---
-

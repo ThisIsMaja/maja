@@ -3,7 +3,7 @@ title: Ultimate Mobile Pack
 layout: product
 price: $19.95
 compare-at-price: $49.95
-image_path: /images/shop/ultimate-2.PNG
+image_path:  /images/shop/cover-5.jpg
 short-description: >-
   Every maja pack works for mobile but this works best. 12 mobile&desktop
   presets

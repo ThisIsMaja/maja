@@ -3,7 +3,7 @@ title: The Allstar Bonus Pack
 layout: product
 price: $10.00
 compare-at-price: $19.95
-image_path: /images/shop/ultimate-2.PNG
+image_path:   /images/shop/cover-4.jpg
 short-description: 8 Bonus Presets designed for all occasions/styles.
 preset-tags:
   - travel
