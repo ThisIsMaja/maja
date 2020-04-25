@@ -79,8 +79,8 @@ sections:
       quality time to rest)</li><li>Free riding - if you are up for the
       challenge, it&rsquo;s a trip &lsquo;way up high&rsquo; - it is possible to
       hire a guide</li></ul><p>If you want further information or book
-      something, head to the Obertauern website<a
-      href="https://www.obertauern.com/en.html"><u> HERE</u></a></p>
+      something, head to the Obertauern website&nbsp;<u><a target="_blank"
+      href="https://www.obertauern.com/en.html">HERE</a>.</u></p>
   - banner_path: /uploads/snowy-mountain-1.jpg
     banner-caption:
     columns: true
@@ -93,16 +93,17 @@ sections:
       sushi)</li><li>Rigele Royal (amazing food and the best vegan meals on
       request)</li><li>Steinbock (vegan options)</li></ul><p>&nbsp;</p><p>So
       many nice hotels in the area but we have picked four, that we think are
-      the best ones:&nbsp;</p><ul><li>4* Superior<a
+      the best ones:&nbsp;</p><ul><li>4* Superior<a target="_blank"
       href="https://www.rigele-royal.com/en/"> <u>Hotel Rigele Royal</u></a>
       (Food was great, Sauna is the best after a long day being active + in /
-      outdoor pool)</li><li><a
+      outdoor pool)</li><li><a target="_blank"
       href="https://www.dasalpenland.at/en/">Alpenland</a> (great spa
-      area)</li><li><a
+      area)</li><li><a target="_blank"
       href="https://www.alpenverein.de/Huetten-Wege-Touren/Huetten-des-Bundesverbands/DAV-Haus-Obertauern/"><u>DAV
       Haus</u></a> (mid range, shared rooms available, good
-      vibes)&nbsp;</li><li><a href="https://www.foxy.at/"><u>Foxy
-      Obertauern</u></a> (modern, stylish, good price)</li></ul>
+      vibes)&nbsp;</li><li><a target="_blank"
+      href="https://www.foxy.at/"><u>Foxy Obertauern</u></a> (modern, stylish,
+      good price)</li></ul>
   - banner_path: /uploads/obertauern-by-night-1.jpg
     banner-caption:
     columns: false
