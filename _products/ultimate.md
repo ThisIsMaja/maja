@@ -17,7 +17,7 @@ description: >-
   This pack is what launched our Instagram and our photography to where it is
   now. You are getting bright colours, orange tones and eye popping filters.
 gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-1/1970_BA_1080x.jpg
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
