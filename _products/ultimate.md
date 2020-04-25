@@ -4,6 +4,13 @@ layout: product
 price: $14.95
 compare-at-price: $34.95
 image_path: /images/shop/ultimate-1.PNG
+main-gallery:
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
 short-description: COLOUR BOMB 12mobile& desktop Presets
 preset-tags:
   - travel
@@ -16,8 +23,13 @@ description: >-
   Bright, sharp & colourful filters. This is the first pack we created in 2017.
   This pack is what launched our Instagram and our photography to where it is
   now. You are getting bright colours, orange tones and eye popping filters.
+faqs:
+  - question: What's Included?
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How is this different to the other Ultimate Packs?
+    answer_html: <p> You just follow our instructions dummy </p>
 gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-1/1970_BA_1080x.jpg
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
