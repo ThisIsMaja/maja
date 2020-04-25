@@ -1,7 +1,7 @@
 ---
-title: Ultimate Pack 2
-price: $12
-compare-at-price: $22
+title: The Ultimate Preset Pack 2
+price: $19.95
+compare-at-price: $49.95
 image_path: /images/shop/ultimate-2.PNG
 short-description: >-
   Our travel best seller: vibrant, colourful presets, includes sunrise and
