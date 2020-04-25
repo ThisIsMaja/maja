@@ -10,8 +10,8 @@ preset-tags:
   - colourful
   - sharp
 description: >-
-  8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
-  tones, food, selfies, lifestyle, indoors/outdoors :)
+  For ocean lovers and beach addicts but not only, great to edit anything else.
+  20% of all our sales will be donated to help clean up and save our oceans.
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
