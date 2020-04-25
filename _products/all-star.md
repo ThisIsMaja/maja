@@ -32,7 +32,12 @@ faqs:
       dark</li><li>The Warm - soft faded</li><li>The Whites - soft
       whites&nbsp;</li></ol>
   - question: How is this different to the other Ultimate Packs?
-    answer_html: <p> You just follow our instructions dummy </p>
+    answer_html: >-
+      <p>All packs are mostly working as allrounders. This pack is for you
+      if&nbsp;</p><ul><li>you are looking for soft &amp; dreamy
+      presets</li><li>if you are starting with presets or&nbsp;</li><li>you want
+      another pack as an addition&nbsp;</li><li>you take photos on a phone or
+      with a camera</li></ul>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
