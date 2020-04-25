@@ -114,21 +114,23 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3>Books to read</h3><p>-&nbsp;<a
+      <h3>Books to read</h3><p>-&nbsp;<a target="_blank"
       href="https://www.amazon.de/gp/product/B00NTPC5GK/ref=as_li_ss_tl?ie=UTF8&amp;language=de_DE&amp;linkCode=sl1&amp;linkId=ffada430baaec3f34fef2e8f99bf8b30&amp;tag=lauraherde-21">The
-      Power of Vulnerability</a></p><p>-&nbsp;<a
+      Power of Vulnerability</a></p><p>-&nbsp;<a target="_blank"
       href="https://www.amazon.de/gp/product/178180933X/ref=as_li_ss_tl?ie=UTF8&amp;language=de_DE&amp;linkCode=sl1&amp;linkId=47d128af22d166280186c4ba7ae303a8&amp;tag=lauraherde-21">The
-      Universe Has Your Back</a></p><p>-&nbsp;<a
+      Universe Has Your Back</a></p><p>-&nbsp;<a target="_blank"
       href="https://amzn.to/2C0Sf6k">50 Ways to Yay</a></p><p>-&nbsp;<a
+      target="_blank"
       href="https://www.amazon.de/gp/product/3492058736/ref=as_li_ss_tl?ie=UTF8&amp;language=de_&amp;linkCode=sl1&amp;linkId=649976911d40ac8552c0528e167adc6e&amp;tag=lauraherde-21">Die
       Kunst des Guten Lebens</a></p><p>If you&rsquo;re looking for a life coach,
       feel free to contact Laura directly, she is really awesome and know what
       she is doing, I can really recommend working with her :)</p><p>Laura Herde
-      - Website:&nbsp;<a
+      - Website:&nbsp;<a target="_blank"
       href="http://www.lauraherde.com/">www.lauraherde.com</a>&nbsp;Coaching
-      Programs:&nbsp;<a
+      Programs:&nbsp;<a target="_blank"
       href="https://www.lauraherde.com/work-with-me">https://www.lauraherde.com/work-with-me</a>&nbsp;Instagram:
-      @<a href="https://www.instagram.com/laura.herde/">laura.herde</a></p>
+      @<a target="_blank"
+      href="https://www.instagram.com/laura.herde/">laura.herde</a></p>
 show-gallery: true
 gallery-text: >-
   Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
