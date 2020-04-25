@@ -13,6 +13,8 @@ banner-fixed: true
 categories:
   - travel
 tags:
+  - asia
+  - Europe
 author: Marie Fe & Jake Snow
 image-1_path: /images/turkey/cappadocia-photography2.jpg
 image-2_path:
@@ -77,8 +79,10 @@ sections:
       boys&nbsp; (great veggie options, cheap)</li><li>Silk Road (Cozy fireplace
       for cold days, amazing lentil soup, try vegetarian plate,
       cheap)</li></ul><h3>Where to stay in Cappadocia</h3><ul><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/tr/artemis-cave-suites.en.html?aid=1557198&amp;no_rooms=1&amp;group_adults=1"><u>Artemis
       cave (cozy room/great location/amazing breakfast)</u></a></li><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/tr/koza-cave.en.html?aid=1557198&amp;no_rooms=1&amp;group_adults=1"><u>Koza
       Caves (best view, beautiful family owned hotel, perfect photo
       spot)</u></a></li></ul>
