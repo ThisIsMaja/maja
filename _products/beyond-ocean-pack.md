@@ -3,7 +3,7 @@ title: Beyond Ocean Pack
 price: $10.00
 compare-at-price: $39.95
 image_path: /images/shop/ultimate-2.PNG
-short-description: 10 Allrounder Presets for 10$!!
+short-description: For ocean lovers and beach addicts but also anything else.
 preset-tags:
   - travel
   - outdoor
@@ -21,6 +21,8 @@ gallery:
     alt: short description of this image
 reviews: 190
 ---
+
+&nbsp;
 
 **30 Presets (PHOTO FILTERS)**&nbsp;// 15 x Desktop Presets&nbsp; & 15 x Mobile presets for your free Lightroom CC app
 
