@@ -57,6 +57,11 @@ $(document).ready(function() {
 		autoplaySpeed: 5000
 	});
 
+	$('.slick-product-loop').slick({
+		autoplay: true,
+		autoplaySpeed: 5000
+	});
+
 });
 
 
