@@ -1,6 +1,6 @@
 ---
 title: The Allstar Bonus Pack
-layout: default
+layout: product
 price: $10.00
 compare-at-price: $19.95
 image_path: /images/shop/ultimate-2.PNG
