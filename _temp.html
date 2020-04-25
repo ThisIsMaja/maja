@@ -1,0 +1,144 @@
+---
+maries-products:
+- name: Ordinary
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+  buy-text: Soft Skin
+- name: kapten bag
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+- name: Beautiful face
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+- name: ring
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+- name: ring
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+jakes-products:
+- name: shirt
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+- name: shirt
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+- name: shirt
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+- name: shirt
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+- name: shirt
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  thumbnail_image: /images/placeholder.jpg
+  banner_image: /images/placeholder.jpg
+  price: 14
+  buy-link: #
+---
+
+
+
+
+<!-- - - - - - - - - - - - - - Product Intro Section Marie - - - - - - - - - - - - - -->
+<!-- <section class="must-haves padded centered">
+  <h2 class="Montserrat"> Marie's Must Haves </h2>
+  <div class="grid-center">
+
+    {% for item in page.maries-products %}
+    <div class="col-4">
+      <a href="#{{item.name}}" class="must-have-item padded bg-image" style="background-image: url('{{item.thumbnail_image}}');">
+        <h3> {{item.name}} </h3>
+      </a>
+    </div>
+
+    {% endfor %}
+
+  </div>
+</section> -->
+
+<!-- - - - - - - - - - - - - - Product Intro Section Jake - - - - - - - - - - - - --->
+<!-- <section class="must-haves padded centered">
+  <h2 class="Montserrat margin-bottom-2"> Jakes Must Haves </h2>
+  <div class="grid-center capped-width">
+
+    {% for item in page.jakes-products %}
+
+    <div class="col-4">
+      <a href="#{{item.name}}" class="must-have-item padded bg-image" style="background-image: url('{{item.thumbnail_image}}');">
+        <h3> {{item.name}} </h3>
+      </a>
+    </div>
+
+
+    {% endfor %}
+
+  </div>
+</section> -->
+
+<!-- - - - - - - - - - - - - - Products Section Marie - - - - - - - - - - - - - -->
+<!-- <section class="padded light-bg">
+  <h2 class="centered Montserrat"> Why Marie Loves it... </h2>
+  <hr class="centered"> {% for item in page.maries-products %}
+  <div class="grid-center padded-2" id="{{item.name | slugify}}">
+    <div class="col-6_xs-12 tall-50 padded bg-image" style="background-image: url('{{item.banner_image}}');">
+    </div>
+    <div class="col-4_xs-12 padded-left">
+      <h3> {{item.name}} </h3>
+      <p> {{item.description}} </p>
+      <a href="{{item.buy-link}}" class="button"> {{item.buy-text}} | ${{item.price}} </a>
+    </div>
+  </div>
+
+  {% endfor %}
+
+</section> -->
+
+
+<!-- - - - - - - - - - - - - - Products Section Jake - - - - - - - - - - - - - -->
+<!-- <section class="padded">
+
+  <h2 class="centered Montserrat"> Why Jake Loves it... </h2>
+  <hr class="centered"> {% for item in page.jakes-products %}
+  <div class="grid-center padded-2" id="{{item.name | slugify}}">
+
+    <div class="col-4_xs-12 padded-left">
+      <h3> {{item.name}} </h3>
+      <p> {{item.description}} </p>
+      <a href="{{item.buy-link}}" class="button"> Buy Now | ${{item.price}} </a>
+    </div>
+    <div class="col-6_xs-12 tall-50 padded bg-image" style="background-image: url('{{item.banner_image}}');">
+    </div>
+  </div>
+
+
+  {% endfor %}
+
+</section> -->

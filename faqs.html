@@ -1,0 +1,47 @@
+---
+layout: default
+title: FAQs | Marie Fe and Jake Snow
+meta-description:
+meta-keywords:
+featured-image_path:
+faq:
+  - question: How do I install my presets on desktop
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How do I install my presets on desktop
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How do I install my presets on desktop
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How do I install my presets on desktop
+    answer_html: <p> You just follow our instructions dummy </p>
+
+---
+
+<section class="featured-bg centered editable padded">
+  <div class="padded-1 editable">
+    <h2> How to install your presets </h2>
+    <p> Short description </p>
+  </div>
+  <div class="padded-1">
+      <div class='embed-container'><iframe src='https://www.youtube.com/embed/1KV_B4mVgOg' frameborder='0' allowfullscreen></iframe></div>
+  </div>
+</section>
+<section class="padded" id="faqs">
+  <h2 class="centered padded-1"> Frequently Asked Questions </h2>
+
+  <dl class="accordion padded-1">
+
+    {% for question in page.faq %}
+
+    <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
+    <dd>{{question.answer_html}}</dd>
+
+    {% endfor %}
+  </dl>
+</section>
+<section class="light-bg padded">
+  <div class="padded-1 editable">
+    <h3> Still need help? </h3>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <img src=/images/logo/signoff_maja_black.gif class="signoff">
+  </div>
+</section>

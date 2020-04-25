@@ -18,10 +18,13 @@ layout: default
     </p>
   </div>
 </section>
+
+{% unless type== 'freebie' %}
+
 <section class="light-bg padded centered">
     <h2> Product Details </h2>
     {% include squiggle.html %}
-    <p> {{page.description}} </p>
+    <p> {{content}} </p>
 
 </section>
 <section class="padded centered">
@@ -33,3 +36,5 @@ layout: default
     {% endfor %}
   </div>
 </section>
+
+{% endunless %}

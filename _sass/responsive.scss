@@ -3,7 +3,14 @@
   display: none;
 }
 
+/* This media query kicks into action at the gridlex md breakpoint */
+@media(max-width:1000px) {
+  #body .tab-hide {
+    display: none;
+  }
 
+
+}
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media(max-width:768px) {
   body {
@@ -14,8 +21,15 @@
     background-attachment: scroll;
   }
 
-  .mob-hide {
+  #body .mob-hide {
     display: none;
+  }
+
+  .bump-left {
+    margin-left: 0;
+  }
+  .bump-right {
+    margin-right: 0;
   }
 
   .mob-show {

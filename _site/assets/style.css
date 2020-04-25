@@ -107,6 +107,9 @@ body {
 .light-bg {
   background-color: #fcf6f3; }
 
+.white-bg {
+  background-color: white; }
+
 .grey-bg {
   background-color: #F6F6F6; }
 
@@ -143,6 +146,11 @@ body {
 .bump-left {
   position: relative;
   margin-left: -2rem; }
+
+.bump-right {
+  position: relative;
+  margin-right: -2rem;
+  z-index: 2; }
 
 .bump-up {
   margin-top: -2rem; }
@@ -547,9 +555,12 @@ header.fixed {
 
 /* -- Footer -- */
 footer .socials svg {
-  width: 2rem;
-  height: 2rem;
-  fill: #b4b4be; }
+  width: 1.2rem;
+  height: 1.2rem;
+  fill: #413c3c; }
+
+footer .socials svg:hover {
+  fill: #be9a85; }
 
 footer nav a {
   display: inline-block;
@@ -885,6 +896,16 @@ a.category:hover {
   background-color: #3c3c3c;
   border-color: #3c3c3c; }
 
+.button-subtle {
+  font-family: p22-underground, sans-serif;
+  font-weight: normal;
+  color: #787882;
+  padding: 0.5rem;
+  text-transform: uppercase; }
+
+.button-subtle:hover {
+  color: #5a5a64; }
+
 .arrow {
   /* this is the arrow button */
   font-size: 1.5rem;
@@ -939,10 +960,16 @@ form [class*=col-] {
   max-width: 250px;
   margin-top: 1rem; }
 
-.email-signup .button-solid {
+.email-signup .button-solid,
+.work-with-us .button-solid {
   padding: 0.8em;
   border-radius: 0;
   font-size: 1rem; }
+
+.work-with-us input {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 0.2rem; }
 
 form .button {
   width: 100%; }
@@ -1158,13 +1185,17 @@ h3.clear-images-h3 {
   height: 100%; }
 
 /* Accordian slides */
+.accordion dt {
+  margin: 0.25rem 0; }
+
 .accordion dt a {
-  padding: 0.25rem;
   margin: 0.25rem 0;
+  padding: 0.5rem 2rem 0.5rem 0.5rem;
   display: block;
-  color: #e67e22;
   position: relative;
-  text-decoration: none; }
+  text-decoration: none;
+  font-size: 1.2rem;
+  line-height: 1.2; }
 
 .accordion dd {
   padding: 0.5rem; }
@@ -1172,8 +1203,8 @@ h3.clear-images-h3 {
 /* Accordian Icon */
 .accordion dt a::after {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 0.5rem;
+  right: 0.5rem;
   display: block;
   width: 1rem;
   height: 1rem;
@@ -1288,6 +1319,18 @@ h3.clear-images-h3 {
   color: #eab9aa;
   border-bottom: 1px solid #eab9aa; }
 
+.affiliate-box img {
+  max-width: 5rem;
+  display: block;
+  margin: 0 auto 0.5rem; }
+
+.affiliate-box h3 {
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  font-family: p22-underground;
+  text-transform: uppercase;
+  color: #787882; }
+
 .shop-item.hidden {
   display: none; }
 
@@ -1328,6 +1371,10 @@ h3.clear-images-h3 {
 .mob-show {
   display: none; }
 
+/* This media query kicks into action at the gridlex md breakpoint */
+@media (max-width: 1000px) {
+  #body .tab-hide {
+    display: none; } }
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media (max-width: 768px) {
   body {
@@ -1336,8 +1383,14 @@ h3.clear-images-h3 {
   .fixed {
     background-attachment: scroll; }
 
-  .mob-hide {
+  #body .mob-hide {
     display: none; }
+
+  .bump-left {
+    margin-left: 0; }
+
+  .bump-right {
+    margin-right: 0; }
 
   .mob-show {
     display: block; }
