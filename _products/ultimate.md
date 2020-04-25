@@ -45,7 +45,13 @@ faqs:
       Blues</strong>&nbsp;- bright blues</li><li><strong>1970s</strong>&nbsp;-
       old school look</li></ol>
   - question: Is this pack for me?
-    answer_html: <p>This is a little blurb...&nbsp;</p>
+    answer_html: >-
+      <p>All packs are mostly working as allrounders. This pack is for you
+      if&nbsp;</p><ul><li>you want very bright popping colours</li><li>want your
+      photos to look intense</li><li>you want bright reds and
+      blues</li><li>happy vibes&nbsp;</li><li>pay only 10$ :)</li></ul><p>Make
+      sure you underexpose your photos and use natural light for the best
+      outcome</p>
 gallery:
   - image_path: /images/shop/Pack-1/1970_BA_1080x.jpg
     alt:
