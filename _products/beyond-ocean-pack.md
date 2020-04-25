@@ -34,8 +34,14 @@ faqs:
       this pack are 6 of our all time favourite&nbsp;<strong>underwater
       presets</strong>! Underwater photos can be super hard to edit but these
       presets after countless hours of adjusting make it easy.&nbsp;&nbsp;</p>
-  - question: How is this different to the other Ultimate Packs?
-    answer_html: <p> You just follow our instructions dummy </p>
+  - question: Is this pack for me?
+    answer_html: >-
+      <p>All packs are mostly working as allrounders. This pack is for you
+      if&nbsp;</p><ul><li>you want presets that also work under water and for
+      water photos</li><li>you want to support our ocean&nbsp;</li><li>you like
+      sharp and colourful presets</li><li>you want allrounder presets (6) that
+      are a similar style to preset pack 2 but better skin
+      colours&nbsp;</li></ul>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
@@ -48,12 +54,4 @@ reviews: 190
 
 &nbsp;
 
-**30 Presets (PHOTO FILTERS)**&nbsp;// 15 x Desktop Presets&nbsp; & 15 x Mobile presets for your free Lightroom CC app
-
-**What kind of presets?**
-
-* 6x&nbsp;**allrounder**&nbsp;presets ( moody, classic, bright whites, bright blues, comic blues, stand out)&nbsp;
-* 6x&nbsp;**underwater photos**&nbsp;(gopro, phone, action cam)
-* 3x&nbsp;**half under**&nbsp;water, half above (dome go pro case, also work for other photos)
-
-Within this pack are 6 of our all time favourite&nbsp;**underwater presets**\! Underwater photos can be super hard to edit but these presets after countless hours of adjusting make it easy.&nbsp;&nbsp;
+&nbsp;
