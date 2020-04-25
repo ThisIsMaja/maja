@@ -14,7 +14,6 @@ preset-tags:
   - sharp
   - landscape
   - very colourful
-  -
 description: >-
   This is the first pack we ever created. This pack is what launched our
   Instagram and our photography to where it is now. You are getting bright
