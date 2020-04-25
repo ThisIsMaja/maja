@@ -44,8 +44,13 @@ faqs:
       whites</li><li><strong>Soft Fade</strong> -cool washout
       style</li><li><strong>Summer</strong> -bright &amp; fresh
       greens</li><li><strong>Tan</strong> - skin glow</li></ol>
-  - question: How is this different to the other Ultimate Packs?
-    answer_html: <p> You just follow our instructions dummy </p>
+  - question: Is this pack for me?
+    answer_html: >-
+      <p>All packs are mostly working as allrounders. This pack is for you
+      if</p><ul><li>you love soft and bright colours</li><li>soft presets make
+      any&nbsp; good photo look great</li><li>you like taking photos on your
+      phone (of course they also work on you camera pics</li><li>you want to get
+      a great deal - 14.95$ only :)</li></ul>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
