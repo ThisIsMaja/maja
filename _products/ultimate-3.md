@@ -13,7 +13,6 @@ main-gallery:
     alt: short description of this image
 short-description: Allrounder & Best Seller for Portraits. 18 mobile + desktop presets.
 preset-tags:
-  - ocean
   - selfies
   - outdoor
   - indoor
@@ -23,13 +22,33 @@ preset-tags:
   - colourful
   - soft
   - sharp
-  - mobile
 description: >-
   This is the most versatile pack we have ever created. It will work perfectly
   for portraits, selfies, travel, mobile photography and almost anything else.
 faqs:
   - question: What's Included?
-    answer_html: <p> You just follow our instructions dummy </p>
+    answer_html: >-
+      <h6 id="whats-included">36 Presets // 18x &nbsp;Desktop Presets for Adobe
+      Lightroom CC // 18x Mobile Presets for your FREE MOBILE Adobe Lightroom CC
+      app</h6><p>Let us introduce you our BRAND NEW
+      PRESETS</p><ol><li><strong>Acceptance - sunset &amp;
+      sunrise</strong></li><li><strong>Authenticity -
+      moody</strong></li><li><strong>Clarity -&nbsp;
+      bright</strong></li><li><strong>Compassion - soft
+      browns</strong></li><li><strong>Confidence -
+      light&amp;bright</strong></li><li><strong>Forgiveness - sift blues, nice
+      skin</strong></li><li><strong>Fulfillment - old
+      school</strong></li><li><strong>Generosity -
+      soft&nbsp;</strong></li><li><strong>Gratitude - nice
+      taint</strong></li><li><strong>Humility - faded nice
+      tones</strong></li><li><strong>Kindness -
+      bright!</strong></li><li><strong>Love -
+      vintage</strong></li><li><strong>Mindfulness -
+      dark</strong></li><li><strong>Passion - orange &amp;
+      bright&nbsp;</strong></li><li><strong>Positivity -
+      soft&nbsp;</strong></li><li><strong>Strength - sharp skin
+      colours</strong></li><li><strong>Warmth - washed
+      out</strong></li><li><strong>Wellness - colourful</strong></li></ol>
   - question: How is this different to the other Ultimate Packs?
     answer_html: <p> You just follow our instructions dummy </p>
 gallery:
@@ -48,32 +67,7 @@ This is the most versatile pack we have ever created. It will work perfectly for
 
 We wanted this pack to be a constant positive influence on your life by reminding you of what’s important whenever you are using these presets. The names of the presets remind ourselves of what matters most to us :)
 
-###### WHAT’S INCLUDED?
-
-&nbsp;
-
-**36 Presets**&nbsp;// 18x &nbsp;**Desktop**&nbsp;Presets for Adobe Lightroom CC // 18x&nbsp;**Mobile**&nbsp;Presets for your&nbsp;**FREE**&nbsp;MOBILE Adobe Lightroom CC app
-
-**Let us introduce you our BRAND NEW PRESETS**
-
-1. **Acceptance&nbsp;**
-2. **Authenticity**
-3. **Clarity**
-4. **Compassion**
-5. **Confidence**
-6. **Forgiveness**
-7. **Fulfillment&nbsp;**
-8. **Generosity**
-9. **Gratitude**
-10. **Humility**
-11. **Kindness**
-12. **Love**
-13. **Mindfulness**
-14. **Passion**
-15. **Positivity**
-16. **Strength&nbsp;**
-17. **Warmth**
-18. **Wellness**
+###### &nbsp;
 
 ### &nbsp;
 
