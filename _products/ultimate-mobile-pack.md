@@ -48,9 +48,10 @@ faqs:
     answer_html: >-
       <p>All packs are mostly working as allrounders. This pack is for you
       if</p><ul><li>you love soft and bright colours</li><li>soft presets make
-      any&nbsp; good photo look great</li><li>you like taking photos on your
-      phone (of course they also work on you camera pics</li><li>you want to get
-      a great deal - 14.95$ only :)</li></ul>
+      any good photo look great</li><li>you like taking photos on your phone (of
+      course they also work&nbsp; for you camera pics)</li><li>you want to get a
+      great deal - 14.95$ only :)</li></ul><p>It is a best seller and no
+      brainer!</p>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
