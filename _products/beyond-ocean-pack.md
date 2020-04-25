@@ -11,7 +11,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-short-description: 10 Allrounder Presets for 10$!!
+short-description: For ocean lovers and beach addicts but also anything else.
 preset-tags:
   - travel
   - outdoor
@@ -34,6 +34,8 @@ gallery:
     alt: short description of this image
 reviews: 190
 ---
+
+&nbsp;
 
 **30 Presets (PHOTO FILTERS)**&nbsp;// 15 x Desktop Presets&nbsp; & 15 x Mobile presets for your free Lightroom CC app
 

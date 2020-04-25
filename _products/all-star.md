@@ -4,7 +4,7 @@ layout: default
 price: $10.00
 compare-at-price: $19.95
 image_path: /images/shop/ultimate-2.PNG
-short-description: 10 Allrounder Presets for 10$!!
+short-description: 8 Bonus Presets designed for all occasions/styles.
 preset-tags:
   - travel
   - outdoor
