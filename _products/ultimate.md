@@ -25,9 +25,27 @@ description: >-
   now. You are getting bright colours, orange tones and eye popping filters.
 faqs:
   - question: What's Included?
-    answer_html: <p> You just follow our instructions dummy </p>
-  - question: How is this different to the other Ultimate Packs?
-    answer_html: <p> You just follow our instructions dummy </p>
+    answer_html: >-
+      <p>24 Presets -&nbsp;<strong>PHOTO FILTERS</strong>&nbsp;// 12x
+      &nbsp;<strong>Desktop</strong>&nbsp;Presets for Adobe Lightroom CC
+      //12x&nbsp;<strong>Mobile</strong>&nbsp;Presets for
+      your&nbsp;<strong>FREE</strong>&nbsp;MOBILE Adobe Lightroom CC
+      app</p><p>Let us introduce you our 12 best sellers: intense reds, soft and
+      bright blues, colourbomb</p><ol><li><strong>Beachyness</strong>&nbsp;-
+      orange, tan skin, soft blues</li><li><strong>Woolbay</strong>&nbsp;- poppy
+      colours</li><li><strong>Tropicana&nbsp;</strong>intense
+      reds</li><li><strong>Sunset Bliss </strong>- for sunrise &amp;
+      sunsets</li><li><strong>Retro Summer </strong>-
+      retro</li><li><strong>Philipine glow </strong>- poppy
+      colours</li><li><strong>Coconut Icecream
+      </strong>-<strong>&nbsp;</strong>no reds</li><li><strong>Colour
+      Blitz</strong>&nbsp;- bright blues</li><li><strong>Fairytales are
+      real</strong>&nbsp;- soft blues, bright oranges</li><li><strong>In love
+      with summer</strong>&nbsp;- &nbsp;poppy colours</li><li><strong>Ocean
+      Blues</strong>&nbsp;- bright blues</li><li><strong>1970s</strong>&nbsp;-
+      old school look</li></ol>
+  - question: Is this pack for me?
+    answer_html: <p>This is a little blurb...&nbsp;</p>
 gallery:
   - image_path: /images/shop/Pack-1/1970_BA_1080x.jpg
     alt: short description of this image
