@@ -4,9 +4,7 @@ layout: product
 price: $14.95
 compare-at-price: $34.95
 image_path: /images/shop/ultimate-1.PNG
-short-description: >-
-  Colour bomb: 12 mobile + desktop presets made in 2017, very bright, sharp &
-  colourful filters
+short-description: COLOUR BOMB 12mobile& desktop Presets
 preset-tags:
   - travel
   - outdoor
@@ -15,9 +13,9 @@ preset-tags:
   - landscape
   - very colourful
 description: >-
-  This is the first pack we ever created. This pack is what launched our
-  Instagram and our photography to where it is now. You are getting bright
-  colours, orange tones and eye popping filters.
+  Bright, sharp & colourful filters. This is the first pack we created in 2017.
+  This pack is what launched our Instagram and our photography to where it is
+  now. You are getting bright colours, orange tones and eye popping filters.
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
