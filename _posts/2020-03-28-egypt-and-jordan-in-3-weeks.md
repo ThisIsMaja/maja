@@ -40,7 +40,7 @@ sections:
       <h2>How to get around</h2><p>After doing a fair bit of research we decided
       that travelling around Egypt and making the most of our time there was
       best done on an organised tour. We found a company called Travel Talk that
-      did&nbsp;<a
+      did&nbsp;<a target="_blank"
       href="https://www.traveltalktours.com/destinations/egypt-tours/"><u>15 day
       Egypt and Jordan tours</u></a>&nbsp;for a great price so we booked for the
       last two weeks of our time in Egypt. In our honest opinion looking back at
@@ -108,7 +108,7 @@ sections:
       Marsa Alam we spent some time exploring the picturesque deserted
       coastline. We absolutely loved it and took some great photos.</p><p>We
       only stayed and ate at one place. It was awesome!</p><p>Stay, eat and
-      organise dolphin tour + Diving</p><p>- <a
+      organise dolphin tour + Diving</p><p>- <a target="_blank"
       href="https://www.booking.com/hotel/eg/marsa-shagra-village.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Marsa
       Shagra Village</u></a></p>
   - banner_path: /images/egypt-jordan/marsa-shagra2.jpg
