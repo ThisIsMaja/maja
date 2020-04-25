@@ -57,7 +57,7 @@ sections:
       Acropolis, the easiest and safest way is with <a
       href="https://thebeat.co/en/"><u>Beat</u></a>, a local taxi app which
       connects you to nearby drivers.</p><h3>Athens Accommodation</h3><p>We
-      spent our night in Athens at <a
+      spent our night in Athens at <a target="_blank"
       href="https://www.urbanstripesathens.com/en"><u>Urban Stripes</u></a>, a
       minimalist hotel situated just a stone's throw away from the Acropolis.
       The hotel is located in a friendly neighborhood with plenty of plant-based
@@ -78,10 +78,11 @@ sections:
       Koufonisia from Athens</h3><p>There is no airport on Koufonisia and the
       only way to access the island is via ferry. The ferry departs from Piraeus
       Port in Athens and takes about 5 hours to reach Koufonisia. You can
-      contact&nbsp;<a href="https://hellenicseaways.gr/en/"><u>Hellenic
-      Seaways</u></a> to inquire about ticket options.</p><p>If you&rsquo;d
-      prefer a shorter ferry trip, you can also fly to nearby Naxos. You then
-      need to catch a ferry from Naxos to Koufonisia which takes 2.5 hours.</p>
+      contact&nbsp;<a target="_blank"
+      href="https://hellenicseaways.gr/en/"><u>Hellenic Seaways</u></a> to
+      inquire about ticket options.</p><p>If you&rsquo;d prefer a shorter ferry
+      trip, you can also fly to nearby Naxos. You then need to catch a ferry
+      from Naxos to Koufonisia which takes 2.5 hours.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece3.jpg
     banner-caption:
     columns: true
@@ -104,7 +105,7 @@ sections:
       but Kato Koufonisi and Keros islet are both uninhabited. We stopped off at
       Kato Koufonisi and explored this sleepy island on foot before heading back
       to our hotel.</p><p>If you&rsquo;re looking to do a boat tour around
-      Koufonisia, we highly recommend booking through&nbsp;<a
+      Koufonisia, we highly recommend booking through&nbsp;<a target="_blank"
       href="https://www.e-kyklades.gr/showroom/tourism/PRASINOSTOURS?lang=en"><u>Prasinos
       Tours</u></a>.</p><h4>3) Enjoy yoga</h4><p>Our health and well-being are
       so important to us, and despite our hectic schedules, we love taking some
@@ -116,7 +117,7 @@ sections:
       any photo, and you won&rsquo;t have to fight the crowds to get that
       snap.</p><h4>5) Freedive and shoot underwater at Ksylompatis
       Caves.</h4><p>One of the coolest places we&rsquo;ve ever had the pleasure
-      of seeing. You can find the location&nbsp;<a
+      of seeing. You can find the location&nbsp;<a target="_blank"
       href="https://www.google.com/maps/place/Ksylompatis+Caves/@36.94803,25.6211076,15z/data=!4m5!3m4!1s0x0:0x66c301b9882e8b6a!8m2!3d36.94803!4d25.6211076"><u>here.</u></a></p><h4>6)
       Explore Koufonisia on bike</h4><p>More adventure awaits! Koufonisia is
       such a small island and the best way to explore is on a bike. You can rent
@@ -126,13 +127,13 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3>Koufonisia Accommodation</h3><p>We stayed at&nbsp;<a
+      <h3>Koufonisia Accommodation</h3><p>We stayed at&nbsp;<a target="_blank"
       href="https://myislandhome.gr/"><u>My Island Home</u></a> in Koufonisia
       and absolutely loved our time here. The cottages are beautifully decorated
       with an incredible open plan kitchen. My Island Home is ideally located
       nearby Pori Beach and the owners are so kind and helpful. We will
       definitely be revisiting one day!!</p><h3>Koufonisia Restaurants that
-      offer plant-based meals</h3><ul><li><a
+      offer plant-based meals</h3><ul><li><a target="_blank"
       href="https://mikrescyclades.com/"><u>Mikres Cyclades</u></a></li><li>If
       you&rsquo;re looking to save money, why not make your own food. You can
       buy fresh produce on the island and prepare your own healthy meals at My
@@ -148,18 +149,19 @@ sections:
       beaches and is known to be the culinary and cultural destination of
       Greece.</p><h3>How to get to Sifnos from Koufonisia</h3><p>If you&rsquo;re
       following our 10 day Greece itinerary, you&rsquo;ll arrive in Sifnos via a
-      ferry from Koufonisia.&nbsp;<a
+      ferry from Koufonisia.&nbsp;<a target="_blank"
       href="https://www.seajets.gr/"><u>Seajets</u></a><u> </u>offer frequent
       trips from Koufonisia to Sifnos and the travel time is just over 4
       hours.</p><p>There is no airport on the island so taking a ferry is the
       only way to reach Sifnos.</p><h3>Sifnos Accommodation</h3><p>We stayed
-      at&nbsp;<a href="https://www.selanasuites.com/en/"><u>Selena
-      Suites</u></a> on Sifnos Island and absolutely loved it.</p><p>Sifnos
-      Restaurants that offer plant-based meals:</p><ul><li><a
+      at&nbsp;<a target="_blank"
+      href="https://www.selanasuites.com/en/"><u>Selena Suites</u></a> on Sifnos
+      Island and absolutely loved it.</p><p>Sifnos Restaurants that offer
+      plant-based meals:</p><ul><li><a target="_blank"
       href="https://www.facebook.com/chrisopigi2284071295/"><u>Chrisopigi
-      Restaurant</u></a></li><li><a
+      Restaurant</u></a></li><li><a target="_blank"
       href="https://www.facebook.com/CayenneRestaurantSifnos"><u>Cayenne
-      Restaurant</u></a></li><li><a
+      Restaurant</u></a></li><li><a target="_blank"
       href="https://www.tripadvisor.co.za/Restaurant_Review-g1163211-d1795520-Reviews-Meropi-Kamares_Sifnos_Cyclades_South_Aegean.html"><u>Meropi
       Restaurant</u></a></li></ul>
   - banner_path: /images/greece/mariefeandjakesnow-greece5.jpg
@@ -171,8 +173,9 @@ sections:
       Sifnos Island</h4><p>Sifnos is home to over 200 churches and monasteries.
       We visited one situated at the top of a hill, overlooking the Aegean Sea.
       It was absolutely gorgeous!</p><p>Be sure to check out&nbsp;<a
+      target="_blank"
       href="https://www.google.com/maps/place/Chrisopigi+Monastery/@36.9364079,24.7441238,17z/data=!3m1!4b1!4m5!3m4!1s0x1498f2f1b0c16ddd:0x3d5ed8e88275d039!8m2!3d36.9364079!4d24.7463125"><u>Chrisopigi
-      Monastery</u></a> and&nbsp;<a
+      Monastery</u></a> and&nbsp;<a target="_blank"
       href="https://www.google.com/maps/place/%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CE%AC+%CF%84%CE%BF%CF%85+%CE%B2%CE%BF%CF%85%CE%BD%CE%BF%CF%8D/@36.939512,24.7339233,15z/data=!4m8!1m2!2m1!1sVirgin+mary+of+the+Mountain+Monastery!3m4!1s0x1498f28c2aa052f5:0x9cc2573bc9be3928!8m2!3d36.9385989!4d24.7321129"><u>Virgin
       Mary of the Mountain Monastery.</u></a> Both can be found on Google
       maps.</p><h4>2) Go back in time at Kastro Village</h4><p>Kastro village is
@@ -214,18 +217,20 @@ sections:
       yet it still has that unique charm that we love so much.</p><h3>How to get
       to Milos from Sifnos or Athens</h3><p>Milos is just over 60km away from
       Sifnos and the easiest way to get between the two is via ferry. Bookings
-      can be made through&nbsp;<a href="https://www.seajets.gr/"><u>Sea
-      Jets</u></a> and the trip takes approximately 40 minutes.</p><p>There is
-      an airport on Milos Island with daily flights to and from Athens. If
-      you&rsquo;d prefer to follow our 10 day Greece itinerary in reverse, you
-      can fly into Milos before moving to the islands of Sifnos and
-      Koufonisia.</p><h3>Milos Accommodation</h3><p>We stayed at&nbsp;<a
-      href="http://skinopi.com/"><u>Skinopi Lodge</u></a>&nbsp;whilst in
-      Milos.</p><h3>Milos Restaurants</h3><ul><li><a
+      can be made through&nbsp;<a target="_blank"
+      href="https://www.seajets.gr/"><u>Sea Jets</u></a> and the trip takes
+      approximately 40 minutes.</p><p>There is an airport on Milos Island with
+      daily flights to and from Athens. If you&rsquo;d prefer to follow our 10
+      day Greece itinerary in reverse, you can fly into Milos before moving to
+      the islands of Sifnos and Koufonisia.</p><h3>Milos Accommodation</h3><p>We
+      stayed at&nbsp;<a target="_blank" href="http://skinopi.com/"><u>Skinopi
+      Lodge</u></a>&nbsp;whilst in Milos.</p><h3>Milos
+      Restaurants</h3><ul><li><a target="_blank"
       href="https://www.facebook.com/pages/O-Hamos/377153249022792"><u>O! Hamos
       restaurant</u></a> (possible the best plant-based we had in
-      Greece</li><li><a href="https://www.barriello.com/"><u>Bariello
-      Mediterranean restaurant</u></a></li></ul>
+      Greece</li><li><a target="_blank"
+      href="https://www.barriello.com/"><u>Bariello Mediterranean
+      restaurant</u></a></li></ul>
   - banner_path: /images/greece/mariefeandjakesnow-greece4.jpg
     banner-caption:
     columns: true
@@ -239,17 +244,18 @@ sections:
       we found was just off the coast of the uninhabited island of Polyaigos.
       The waters here were incredibly blue and we were both completely blown
       away by the beauty.</p><p>You can find out more information on their boat
-      trips<a href="https://www.excellentyachting.com/"><u>
-      here.</u></a></p><h4>2) Rent a car in Milos and go on an
-      adventure</h4><p>Milos is a much bigger island than the other two on our
-      Greece itinerary. The best way to explore is by car from<a
-      href="http://www.milosrent.gr/"> <u>Milos Rent</u></a><u> </u>and find
-      those attractions which are off the beaten track.</p><h4>3) Explore the
-      beaches in Milos</h4><ul><li>Sarakiniko Beach: Sarakiniko Beach is located
-      to the northeast of Milos and is one of the most picturesque beaches on
-      the island. We loved the cliff jumping here and the water was clearer than
-      we remembered it to be from our first visit.<a
-      href="https://yogajourneymilos.com/"> <u>Yoga Journeys</u></a><u> </u>also
+      trips&nbsp;<a target="_blank"
+      href="https://www.excellentyachting.com/"><u>here.</u></a></p><h4>2) Rent
+      a car in Milos and go on an adventure</h4><p>Milos is a much bigger island
+      than the other two on our Greece itinerary. The best way to explore is by
+      car from&nbsp;<a target="_blank" href="http://www.milosrent.gr/"><u>Milos
+      Rent</u></a>&nbsp;and find those attractions which are off the beaten
+      track.</p><h4>3) Explore the beaches in Milos</h4><ul><li>Sarakiniko
+      Beach: Sarakiniko Beach is located to the northeast of Milos and is one of
+      the most picturesque beaches on the island. We loved the cliff jumping
+      here and the water was clearer than we remembered it to be from our first
+      visit.&nbsp;<a target="_blank"
+      href="https://yogajourneymilos.com/"><u>Yoga Journeys</u></a>&nbsp;also
       offer yoga on Sarakiniko Beach.</li></ul><ul><li>Tsigrado Beach: Tsigrado
       beach is a white sandy beach enclosed by massive boulders. To access the
       beach, you&rsquo;ll need to make your way there on a dirt road and climb
@@ -273,7 +279,8 @@ sections:
       islands were a lot quieter as peak season continues from mid-July to
       August.</p><h3>How to get to Greece</h3><p>We flew to Greece with Aegean
       Airlines, the multi-awarded Greek Airline. You can check out their
-      prices&nbsp;<a href="https://en.aegeanair.com/"><u>here</u></a>.</p>
+      prices&nbsp;<a target="_blank"
+      href="https://en.aegeanair.com/"><u>here</u></a>.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece7.jpg
     banner-caption:
     columns: false
@@ -288,10 +295,11 @@ sections:
       thousands more to be uncovered. It won&rsquo;t be long before we are back
       in the crystal clear waters of Greece with the sun on our backs living
       life to the fullest.</p><p>Disclosure: This post was created in
-      partnership with&nbsp;<u><a href="http://www.discovergreece.com/">Discover
-      Greece</a></u>&nbsp;in order to explore islands that you probably
-      haven&rsquo;t heard of. As always, all the reviews and opinions expressed
-      are based on our personal view.</p>
+      partnership with&nbsp;<u><a target="_blank"
+      href="http://www.discovergreece.com/">Discover Greece</a></u>&nbsp;in
+      order to explore islands that you probably haven&rsquo;t heard of. As
+      always, all the reviews and opinions expressed are based on our personal
+      view.</p>
 show-gallery: true
 gallery:
   - image_path:
