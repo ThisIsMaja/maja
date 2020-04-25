@@ -5,11 +5,41 @@ price: $24.95
 compare-at-price: $59.95
 image_path: /images/shop/ultimate-3.PNG
 main-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-3/pack3-1.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-3/pack3-2.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-3/pack3-3.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-4.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-5.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-6.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-7.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-8.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-9.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-10.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-11.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-12.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-13.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-14.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-15.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-16.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-17.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-3/pack3-18.jpg
     alt: short description of this image
 short-description: Allrounder & Best Seller for Portraits. 18 mobile + desktop presets.
 preset-tags:

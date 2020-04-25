@@ -3,8 +3,11 @@ layout: default
 ---
 
 <section class="padded grid-center shop-details light-bg">
-  <div class="col-5_sm-12">
+  <div class="col-5_sm-12 slick-product-loop">
     <img src="{{page.image_path}}">
+    {% for product in page.main-gallery %}
+    <img src="{{product.image_path}}">
+    {% endfor %}
   </div>
   <div class="col-5_sm-12 padded-2">
     <h1> {{page.title}} </h1>

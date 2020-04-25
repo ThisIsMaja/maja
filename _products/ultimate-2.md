@@ -5,11 +5,35 @@ price: $19.95
 compare-at-price: $49.95
 image_path: /images/shop/ultimate-2.PNG
 main-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-2/pack2-1.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-2/pack2-2.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-2/pack2-3.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-4.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-5.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-6.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-7.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-8.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-9.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-10.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-11.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-12.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-13.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-14.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-2/pack2-15.jpg
     alt: short description of this image
 short-description: Our Travel Best Seller 15 mobile & desktop presets
 faqs:
