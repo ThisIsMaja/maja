@@ -29,8 +29,11 @@ faqs:
       colourful</li><li>Pastel&nbsp; -soft</li><li>Life is a beach - faded
       reds</li><li>Le Riad -less orange</li><li>Bali - bright
       whites</li><li>Brighten up&nbsp; -intense colour</li></ol>
-  - question: How is this different to the other Ultimate Packs?
-    answer_html: <p> You just follow our instructions dummy </p>
+  - question: Is this for me?
+    answer_html: >-
+      <p>This is for you if..</p><ul><li>you have travel photos you want to
+      edit</li><li>like sharp, colourful photos</li><li>want great sunrise
+      sunset presets</li><li>love taking landscape photos</li></ul>
 preset-tags:
   - travel
   - outdoor
