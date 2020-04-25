@@ -22,9 +22,9 @@ faqs:
       href="https://www.instagram.com/tv/BqpXoO9hejL/">video</a>&nbsp;for
       instructions.&nbsp;</p><p>Let us introduce you our 15 ULTIMATE PACK 2
       PRESETS&nbsp; &nbsp;</p><ol><li>Cinematic - sharp&nbsp;</li><li>Lush
-      Jungle - greens</li><li>My Marie - intense colour</li><li>Pool side&nbsp;
-      - soft</li><li>Safari - nice skin</li><li>Sand storm -
-      sunny</li><li>Summer Shadow - sharp</li><li>When the sun rises -
+      Jungle - greens</li><li>My Marie - lush greens</li><li>Pool side&nbsp; -
+      soft</li><li>Safari - nice skin, lush greens</li><li>Sand storm - sunny,
+      lush greens</li><li>Summer Shadow - sharp</li><li>When the sun rises -
       sunrise&nbsp;</li><li>When the sun sets - sunset</li><li>Wadi Rum -
       colourful</li><li>Pastel&nbsp; -soft</li><li>Life is a beach - faded
       reds</li><li>Le Riad -less orange</li><li>Bali - bright
