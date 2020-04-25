@@ -13,6 +13,8 @@ collections:
     output: true
   products:
     output: true
+  freebies:
+    output: true
 
 sizes:
   - full

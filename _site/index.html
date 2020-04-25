@@ -286,7 +286,6 @@
           <p>What is <strong>M A J A</strong> all about? Come and get to know us, we've got a lot to share with you.</p>
         </a>
 
-
       </div>
       <div class="col-4_md-6_sm-12 editable padded-1" data-aos="fade-right">
         <a class="about-link" href="/about#must-haves">
@@ -329,36 +328,13 @@
     <div class="col-6_sm-12-middle padded bump-left light-bg" data-aos="fade-left">
       <h2>Free Preset Anyone? <img class="spinning-sun" src="/images/icons/sun.png" /></h2>
 
-      <form id="email_signup" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
+      <form id="email_signup" action="//manage.kmail-lists.com/subscriptions/subscribe" method="POST">
+  <input type="hidden" name="g" value="LIST_ID_HERE">
+  <input type="email" value="" name="email" id="k_id_email" placeholder="Your email" />
+  <button type="submit" class="button-solid">Subscribe</button>
+</form>
 
-    <input type="hidden" name="g" value="PfjdXw">
-    <input type="hidden" name="$fields" value="$consent">
-    <input type="hidden" name="$list_fields" value="$consent">
-    <div class="klaviyo_field_group">
-      <input class="" type="email" value="" name="email" id="k_id_email" placeholder="Your email" />
-      <button type="submit" class="button klaviyo_submit_button">Yes Please!</button>
-    </div>
-    </div>
-    <div class="klaviyo_messages">
-      <div class="success_message" style="display:none;"></div>
-      <div class="error_message" style="display:none;"></div>
-    </div>
-  </form>
-
-
-  <script type="text/javascript" src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
-  <script type="text/javascript">
-    KlaviyoSubscribe.attachToForms('#email_signup', {
-      hide_form_on_success: true,
-      extra_properties: {
-        $source: '$embed',
-        $method_type: "Klaviyo Form",
-        $method_id: 'embed',
-        hide_form_on_success: true,
-        success_message: "Your free preset is on it's way!"
-      }
-    });
-  </script>
+<script type="text/javascript" src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
 
 
     </div>

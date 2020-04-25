@@ -1,5 +1,6 @@
 ---
 title: Ultimate Pack 3
+layout: product
 price: $18
 compare-at-price: $22
 image_path: /images/shop/ultimate-3.PNG
