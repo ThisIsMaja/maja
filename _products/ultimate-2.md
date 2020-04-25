@@ -1,18 +1,30 @@
 ---
 title: The Ultimate Preset Pack 2
+layout: product
 price: $19.95
 compare-at-price: $49.95
 image_path: /images/shop/ultimate-2.PNG
+main-gallery:
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
+  - image_path: /images/free-preset/free-preset.jpg
+    alt: short description of this image
 short-description: >-
   Our travel best seller: vibrant, colourful presets, includes sunrise and
   sunset presets.
+faqs:
+  - question: What's Included?
+    answer_html: <p> You just follow our instructions dummy </p>
+  - question: How is this different to the other Ultimate Packs?
+    answer_html: <p> You just follow our instructions dummy </p>
 preset-tags:
   - travel
   - outdoor
   - colourful
   - sharp
   - sunrise & sunset
-  -
 description: >-
   For travel addicts sun and nature lovers. Designed to bring more
   professionalism to your photos in ONE CLICK while keeping that colourful, eye

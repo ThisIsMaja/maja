@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="padded grid-center shop-details">
+<section class="padded grid-center shop-details light-bg">
   <div class="col-5_sm-12">
     <img src="{{page.image_path}}">
   </div>
@@ -19,22 +19,34 @@ layout: default
   </div>
 </section>
 
-{% unless type== 'freebie' %}
 
-<section class="light-bg padded centered">
-    <h2> Product Details </h2>
-    {% include squiggle.html %}
-    <p> {{content}} </p>
+<section class="padded" id="faqs">
+  <h3 class="centered padded-1 subtle-heading"> About this preset pack </h3>
 
+  <dl class="accordion padded-1">
+
+    {% for question in page.faqs %}
+
+    <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
+    <dd>{{question.answer_html}}</dd>
+
+    {% endfor %}
+
+    {% for question in site.data.preset-faqs %}
+
+    <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
+    <dd>{{question.answer_html}}</dd>
+
+    {% endfor %}
+
+  </dl>
 </section>
-<section class="padded centered">
-  <h2> Gallery </h2>
+<section class="padded centered light-bg">
+  <h3> Your Photos + Our Presets = <img class="spinning-sun" src="/images/icons/sun.png" /> </h3>
   {% include squiggle.html %}
-  <div class="col-12 columns-4">
+  <div class="col-12 columns-3">
     {% for image in page.gallery %}
     <img src="{{image.image_path}}" alt="{{image.alt}}">
     {% endfor %}
   </div>
 </section>
-
-{% endunless %}
