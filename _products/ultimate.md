@@ -9,7 +9,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Pack-1/pack1-2.jpg
     alt: short description of this image
 short-description: COLOUR BOMB 12mobile& desktop Presets
 preset-tags:
