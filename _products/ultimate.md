@@ -7,29 +7,11 @@ image_path: /images/shop/cover-1.jpg
 main-gallery:
   - image_path: /images/shop/Pack-1/pack1-1.jpg
     alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-2.jpg
+  - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-3.jpg
+  - image_path: /images/shop/Pack-2/pack2-12.jpg
     alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-4.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-5.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-6.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-7.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-8.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-9.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-10.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-11.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-12.jpg
-    alt: short description of this image
-short-description: COLOUR BOMB 12 mobile & desktop presets
+short-description: COLOUR BOMB 12mobile& desktop Presets
 preset-tags:
   - travel
   - outdoor
@@ -87,7 +69,6 @@ gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-shopify-id: 1587820485974
 reviews: 233
 ---
 
