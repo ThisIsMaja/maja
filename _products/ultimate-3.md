@@ -49,8 +49,14 @@ faqs:
       soft&nbsp;</strong></li><li><strong>Strength - sharp skin
       colours</strong></li><li><strong>Warmth - washed
       out</strong></li><li><strong>Wellness - colourful</strong></li></ol>
-  - question: How is this different to the other Ultimate Packs?
-    answer_html: <p> You just follow our instructions dummy </p>
+  - question: Is this pack for me?
+    answer_html: >-
+      <p>This pack is an amazing allrounder pack with 18 presets (!!) that
+      combines portrait &amp; travel photography. A best seller!!</p><p>This
+      pack is for you if you...</p><ul><li>want a big variety of
+      presets</li><li>like sharp colourful presets</li><li>take outdoor and
+      selfie pics</li><li>want a big variety of presets&nbsp;</li><li>want
+      different skin colours to choose from :)</li></ul><p>&nbsp;</p>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
