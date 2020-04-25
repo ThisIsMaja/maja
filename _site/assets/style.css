@@ -25,6 +25,15 @@ img {
   background-size: cover;
   background-position: center; }
 
+.bg-image.overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;
+  bottom: 0;
+  opacity: 0.1; }
+
 body {
   font-family: orpheuspro, serif;
   color: #413c3c; }
@@ -1200,7 +1209,8 @@ h3.clear-images-h3 {
   position: relative;
   text-decoration: none;
   font-size: 1.2rem;
-  line-height: 1.2; }
+  line-height: 1.2;
+  font-weight: 500; }
 
 .accordion dd {
   padding: 0.5rem; }

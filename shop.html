@@ -4,6 +4,10 @@ title: Shop Marie Fe And Jake Snow
 meta-description:
 meta-keywords:
 featured-image_path:
+best-sellers:
+  - mobile
+  - ultimate-3
+  - all-star
 banners:
   - image_path: /images/banners/maja-banner-3.jpg
     title: Our Best Sellers
@@ -15,7 +19,6 @@ banners:
     paragraph: Get paid to share our presets
     button-text: yes please!
     button_url: /preset-affiliate
-
 ---
 
 <section class="shop-banner">
@@ -58,8 +61,9 @@ banners:
     </a>
   </h2>
 </section>
-<section class="capped-width">
-  <div class="centered padded">
+<section class=" relative">
+  <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
+  <div class="capped-width centered padded">
     <h2 data-aos="fade"> Our Style </h2>
     {% include squiggle.html %}
     <p> We like to create things that are made for beginners as much as professionals. </p>
@@ -86,7 +90,7 @@ banners:
 
   <div id="product-loop" class="blog-masonry">
 
-    {% for product in site.products limit: 15 %}
+    {% for product in site.products limit: 3 %}
 
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
