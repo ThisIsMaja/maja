@@ -3,9 +3,19 @@ title: Ultimate Pack 3
 price: $24.95
 compare-at-price: $59.95
 image_path: /images/shop/ultimate-3.PNG
-short-description: 18mobile+desktop Presets. Best Seller for portraits. Soft and sharp allrounder
+short-description: Allrounder & Best Seller for Portraits. 18mobile+desktop Presets.
 preset-tags:
   - ocean
+  - selfies
+  - outdoor
+  - indoor
+  - landscape
+  - allrounder
+  - mobile
+  - colourful
+  - soft
+  - sharp
+  - mobile
 description: >-
   This is the most versatile pack we have ever created. It will work perfectly
   for portraits, selfies, travel, mobile photography and almost anything else.
