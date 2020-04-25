@@ -38,13 +38,12 @@ faqs:
       portraits)<strong>&nbsp;</strong></li><li>BEYOND OCEAN PACK (20% donation
       to the ocean)</li><li>NEW ULTIMATE MOBILE PACK (amazing new
       tones)</li></ul>
-  - question: How is this different to the other Ultimate Packs?
+  - question: Is this Pack for me?
     answer_html: >-
-      <p>All packs are mostly working as allrounders. This pack is for you
-      if&nbsp;</p><ul><li>you are looking for soft &amp; dreamy
-      presets</li><li>if you are starting with presets or&nbsp;</li><li>you want
-      another pack as an addition&nbsp;</li><li>you take photos on a phone or
-      with a camera</li></ul>
+      <p>This pack is for you if</p><ul><li>you want to get all presets that we
+      ever created</li><li>you want to edit like us and have an option for any
+      photo you ever took&nbsp;</li><li>you want presets that normally cost
+      215$&nbsp;</li><li>you want to save over 140$ :)</li></ul>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
