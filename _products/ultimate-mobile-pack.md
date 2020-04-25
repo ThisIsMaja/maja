@@ -28,9 +28,30 @@ description: >-
   phone photos with just one click!!
 faqs:
   - question: What's Included?
-    answer_html: <p> You just follow our instructions dummy </p>
-  - question: How is this different to the other Ultimate Packs?
-    answer_html: <p> You just follow our instructions dummy </p>
+    answer_html: >-
+      <p>12 Mobile Presets designed for all occasions/styles. Perfect for Skin
+      tones, food, selfies, lifestyle, indoors/outdoors! We have also included
+      the desktop filters so you have the choice to edit on your desktop as
+      well!&nbsp;</p><p><strong>Let us introduce you our BRAND NEW MOBILE
+      PRESETS</strong></p><ol><li><strong>Avocado&nbsp;</strong>- allrounder
+      bright&nbsp;</li><li><strong>Home</strong> - allrounder
+      dreamy</li><li><strong>Memories</strong> - allrounder
+      soft</li><li><strong>Mocha</strong> -Moody/
+      Retro</li><li><strong>Ocean</strong> - Great
+      blues</li><li><strong>Peach</strong> - Soft</li><li><strong>Pinky
+      Purple</strong> - Pink sunrise/sunset</li><li><strong>Ros&egrave;</strong>
+      - soft</li><li><strong>Shine</strong> -bright &amp; soft
+      whites</li><li><strong>Soft Fade</strong> -cool washout
+      style</li><li><strong>Summer</strong> -bright &amp; fresh
+      greens</li><li><strong>Tan</strong> - skin glow</li></ol>
+  - question: Is this pack for me?
+    answer_html: >-
+      <p>All packs are mostly working as allrounders. This pack is for you
+      if</p><ul><li>you love soft and bright colours</li><li>soft presets make
+      any good photo look great</li><li>you like taking photos on your phone (of
+      course they also work&nbsp; for you camera pics)</li><li>you want to get a
+      great deal - 14.95$ only :)</li></ul><p>It is a best seller and no
+      brainer!</p>
 gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
