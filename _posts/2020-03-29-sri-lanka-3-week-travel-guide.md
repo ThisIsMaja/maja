@@ -35,7 +35,7 @@ sections:
     banner-caption:
     columns: false
     main-paragraph-emphasis:
-    body-content_html: "<h2>Helpful advice to start your trip</h2><ul><li>Get a sim card at the airport (Mobitel sim 40 Gb for 18$, works almost everywhere).</li><li>If you decide to head down south first, like we did, take the train &ndash; it&rsquo;s very easy cheap and an incredible experience. Don&rsquo;t worry, you can get your ticket last minute at the train station.</li><li>Don&rsquo;t be afraid to visit Sri Lanka during low season. We only had one rainy day.&nbsp; Low season is much cheaper, you can save up to 40-50% on rooms and its not very busy at all.&nbsp;</li></ul><p>If you need more information or want to plan a guided tour through Sri Lanka we cannot speak highly enough of Mindful Travels. This is a tour company owned by our good friend Amar. He is one of the most genuine and caring people we have met in all our travels. You can find his website <a href=\"https://www.mindfultravels.net/\"><u>here</u></a>. If you mention that you know Marie and Jake, he will give you a good deal \U0001F642</p>"
+    body-content_html: "<h2>Helpful advice to start your trip</h2><ul><li>Get a sim card at the airport (Mobitel sim 40 Gb for 18$, works almost everywhere).</li><li>If you decide to head down south first, like we did, take the train &ndash; it&rsquo;s very easy cheap and an incredible experience. Don&rsquo;t worry, you can get your ticket last minute at the train station.</li><li>Don&rsquo;t be afraid to visit Sri Lanka during low season. We only had one rainy day.&nbsp; Low season is much cheaper, you can save up to 40-50% on rooms and its not very busy at all.&nbsp;</li></ul><p>If you need more information or want to plan a guided tour through Sri Lanka we cannot speak highly enough of Mindful Travels. This is a tour company owned by our good friend Amar. He is one of the most genuine and caring people we have met in all our travels. You can find his website <a target=\"_blank\" href=\"https://www.mindfultravels.net/\"><u>here</u></a>. If you mention that you know Marie and Jake, he will give you a good deal \U0001F642</p>"
   - banner_path: /images/sri-lanka/Sri-Lanka1560977.jpg
     banner-fixed: true
     banner-caption:
@@ -55,7 +55,7 @@ sections:
       &ndash; we recommend&nbsp; aloo gobi, vegetable kohlapuri, greek
       Salad)</li><li>Thai Cuisine la Rambla (very delicious Thai food, a bit
       more expensive than the local places, great Pad thai)</li></ul><h3>Where
-      to stay in Colombo</h3><ul><li><a
+      to stay in Colombo</h3><ul><li><a target="_blank"
       href="https://www.booking.com/hotel/lk/island-hostel-mount-lavinia.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Island
       Hostel</u></a> (Stylish Dorm Room 7$ or private room 30$ inc. breakfast,
       pool, close to the beach)</li></ul><h3>&nbsp;Things to do in
@@ -88,6 +88,7 @@ sections:
       little oasis in Galle, enter through a Clothing Store, amazing smoothie
       bowls and healthy meals</li><li>Sea Waves Restaurant (cooking
       classes)</li></ul><h3>Where to stay at Galle</h3><ul><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/lk/the-bartizan.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
       Bartizan</u></a> (very beautiful boutique hotel, amazing food, great
       location)</li></ul><h3>Things to do in Galle</h3><ul><li>explore the
@@ -116,10 +117,10 @@ sections:
       Delhi&nbsp;</li><li>Pink Elephant&nbsp;</li><li>Spice Lane
       Ahangama&nbsp;</li><li>Mati Gedara (vegetarian rice curry Buffet all you
       can eat for 3$ USD/ 5 different dishes)</li></ul><h3>Where to stay in
-      Unawatuna</h3><ul><li><a
+      Unawatuna</h3><ul><li><a target="_blank"
       href="https://www.booking.com/hotel/lk/bedspace-beach.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Bedspace
       Beach</u></a> (located at the beach, amazing food, cute room with a
-      hammock, nice bathrooms, big balcony)</li><li><a
+      hammock, nice bathrooms, big balcony)</li><li><a target="_blank"
       href="https://www.booking.com/hotel/lk/manuel-garden-guesthouse.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Bedspace</u></a>
       (delicious food, stylish)</li></ul><h3>Things to do in
       Unawatuna</h3><ul><li>Famous swing&nbsp;</li><li>Chill at the beach:
@@ -145,6 +146,7 @@ sections:
       it.</p><h3>Where to eat at Talalla</h3><ul><li>Talalla retreat (amazing
       food, good veggie options</li><li>or at any local
       place&nbsp;</li></ul><h3>Where to stay at Talalla</h3><ul><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/lk/talalla-retreat.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Talalla
       retreat</u></a> (yoga, surfing, wellness, great people and
       food).</li></ul><h3>Things to do at Talalla</h3><ul><li>Take a tuk-tuk and
@@ -163,17 +165,17 @@ sections:
       Elephant in the wild and was our first National Park in Sri Lanka. For
       this reason Yala will always hold a special place in our hearts. We only
       stayed here for 2 days but it was unforgettable. Our tent at the <a
+      target="_blank"
       href="https://www.booking.com/hotel/lk/wild-coast-tented-lodge.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Wild
       Coast Lodge</u></a> was the picture-perfect setting, monkeys, wild pigs,
       buffalo and birds surrounded our tent one afternoon. It was one of our
       favorite experiences of the whole trip.</p><h3>Where stay at / eat at in
-      Yala</h3><ul><li><a
-      href="https://www.booking.com/hotel/lk/wild-coast-tented-lodge.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Wildcoast
-      lodge ( very unique experience, honeymoon
-      destination)</u></a></li></ul><h3>Things to do in Yala</h3><ul><li>Safari
-      at Yala National Park&nbsp; $35 (6.30 am or 3 pm)</li></ul><h3>How to get
-      to your next stop</h3><p>Yala to Udawalawe (van and local bus, 2 -3
-      hours)</p>
+      Yala</h3><ul><li><a target="_blank"
+      href="https://www.booking.com/hotel/lk/wild-coast-tented-lodge.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1">Wildcoast
+      lodge</a> ( very unique experience, honeymoon
+      destination)</li></ul><h3>Things to do in Yala</h3><ul><li>Safari at Yala
+      National Park&nbsp; $35 (6.30 am or 3 pm)</li></ul><h3>How to get to your
+      next stop</h3><p>Yala to Udawalawe (van and local bus, 2 -3 hours)</p>
   - banner_path: /images/sri-lanka/Sri-Lanka1560881.jpg
     banner-fixed: true
     banner-caption:
@@ -184,7 +186,7 @@ sections:
       we went to experience a Safari. Compared to Yala, less Jeeps are allowed
       in the park. We saw our first elephant right next to the road on the way
       to our camp when we arrived. It was an insane experience. The male
-      elephant was really calm and curious. We stayed at <a
+      elephant was really calm and curious. We stayed at <a target="_blank"
       href="https://www.booking.com/hotel/lk/makulu-safari-camping.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Makulu
       Safari </u></a>Camp, this place was also a highlight. Run by local Sri
       Lankans, we experienced real Sri Lankan hospitality. The food was amazing
@@ -192,6 +194,7 @@ sections:
       in a canoe for sunset.&nbsp;</p><h3>Where to eat at
       Udawalawe</h3><ul><li>Makulu Camp has amazing local
       food</li></ul><h3>Where to stay at Udawalawe</h3><ul><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/lk/makulu-safari-camping.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Makulu
       Safari Camping</u></a> - Tent for 4 for 65$/night, amazing camp with
       little river and boat to take out, outstanding local
@@ -211,7 +214,7 @@ sections:
       hikes, viewpoints and of course the 9 Arch Bridge, we managed to take some
       epic pics in Ella. The town itself was quite busy, we didn&rsquo;t expect
       there to be so many people. Although it was busier, Ella has a really cool
-      backpacker vibe.&nbsp;</p><p>We stayed in the <a
+      backpacker vibe.&nbsp;</p><p>We stayed in the <a target="_blank"
       href="https://www.booking.com/hotel/lk/higher-ground-treehouse-ella.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Higherground
       Treehouse</u></a> which was really cool, we had so much fun playing around
       with the monkeys. They literally came into our treehouse when we left the
@@ -233,7 +236,7 @@ sections:
       price)</li><li>Cafe chill (Western food an local food)</li><li>The Barn
       (good Wifi, nice setup, good food)</li></ul><h3>Where to stay in
       Ella</h3><ul><li>Ella natural village (cheap, nice local family, great
-      food, 5 min by scooter from Ella Centre)</li><li><a
+      food, 5 min by scooter from Ella Centre)</li><li><a target="_blank"
       href="https://www.booking.com/hotel/lk/higher-ground-treehouse-ella.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Higherground
       Treehouse</u></a> (very unique Treehouse, a lot of monkeys around, fits 6
       people, great Breakfast)</li></ul><h3>Things to do in Ella</h3><ul><li>9
@@ -268,6 +271,7 @@ sections:
       now!&nbsp;</p><h3>Where to eat in Sigiriya</h3><ul><li>Croissant hut (good
       food but we waited a long time for it)</li><li>Amba Sewana, our Homestay
       made great dinner</li></ul><h3>Where to stay in Sigiriya</h3><ul><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/lk/amba-sewana-homestay.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Amba
       Sewana Homestay</u></a> (amazing local family, central, 36$ for 2
       nights/3ppl incl breakfast, the owner will drive you to the rock for 3 $
@@ -287,12 +291,12 @@ sections:
       much every aspect of this country. Perfectly safe to travel and full of so
       much beauty!! We hope you will enjoy this country as much as we did. If
       you need any help planning your trip be sure to contact Amar at <a
-      href="https://www.mindfultravels.net/"><u>Mindful Travels
+      target="_blank" href="https://www.mindfultravels.net/"><u>Mindful Travels
       here.</u></a></p><p>If you want to read about how we saved up for this
       trip, read our article on&nbsp;<a target="_blank"
       href="/posts/ways-to-save-to-travel-full-time"><u>how to save for travel
       here</u></a>.</p><p>Thanks for reading, for more information and
-      inspiration we hope to see you over at <a
+      inspiration we hope to see you over at <a target="_blank"
       href="https://www.instagram.com/mariefeandjakesnow/"><u>@mariefeandjakesnow</u></a>.</p><p>Lots
       of Love</p><p>Marie and Jake</p>
 show-gallery: true
