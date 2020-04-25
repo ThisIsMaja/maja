@@ -149,7 +149,8 @@ body {
 
 .bump-right {
   position: relative;
-  margin-right: -2rem; }
+  margin-right: -2rem;
+  z-index: 2; }
 
 .bump-up {
   margin-top: -2rem; }
@@ -1318,6 +1319,18 @@ h3.clear-images-h3 {
   color: #eab9aa;
   border-bottom: 1px solid #eab9aa; }
 
+.affiliate-box img {
+  max-width: 5rem;
+  display: block;
+  margin: 0 auto 0.5rem; }
+
+.affiliate-box h3 {
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  font-family: p22-underground;
+  text-transform: uppercase;
+  color: #787882; }
+
 .shop-item.hidden {
   display: none; }
 
@@ -1375,6 +1388,9 @@ h3.clear-images-h3 {
 
   .bump-left {
     margin-left: 0; }
+
+  .bump-right {
+    margin-right: 0; }
 
   .mob-show {
     display: block; }
