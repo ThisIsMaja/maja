@@ -4,7 +4,7 @@ layout: product
 shopify-id: 4360618344491
 price: $14.95
 compare-at-price: $34.95
-save-percentage: 50%
+save-percentage: 57%
 image_path: /images/shop/cover-1.jpg
 main-gallery:
   - image_path: /images/shop/Pack-1/pack1-1.jpg
