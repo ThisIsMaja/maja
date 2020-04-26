@@ -7,9 +7,9 @@ compare-at-price: $34.95
 save-percentage: 57%
 image_path: /images/shop/cover-1.jpg
 main-gallery:
-  - image_path: /images/shop/Pack-1/pack1-4.jpg
-    alt: short description of this image
   - image_path: /images/shop/Pack-1/pack1-7.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Pack-1/pack1-4.jpg
     alt: short description of this image
   - image_path: /images/shop/Pack-1/pack1-10.jpg
     alt: short description of this image
