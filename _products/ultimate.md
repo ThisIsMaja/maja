@@ -91,7 +91,7 @@ gallery:
     alt: short description of this image
 reviews: 233
 show-on-compare-page: true
-video_banner_path: /videos/mobile-pack.mp4
+video_banner_path: /images/shop/pack1-compare.mp4
 video_poster_path: /images/shop/pack1-cover.jpg
 ---
 
