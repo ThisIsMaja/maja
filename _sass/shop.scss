@@ -22,6 +22,21 @@
   margin-bottom: 0;
 }
 
+.save {
+    position: absolute;
+    top: 0;
+    right: 2rem;
+    line-height: 1.1;
+    text-align: center;
+    background-color: white;
+    padding: 0.5rem;
+    font-size: 0.7rem;
+    font-family: p22-underground;
+    color: rgb(120,120,130);
+    border-radius: 100%;
+
+}
+
 // Shop
 
 .text-animation .mini-card img {

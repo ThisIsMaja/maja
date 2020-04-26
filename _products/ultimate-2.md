@@ -4,6 +4,7 @@ shopify-id: 1830368641088
 layout: product
 price: $19.95
 compare-at-price: $49.95
+save-percentage: 50%
 image_path: /images/shop/cover-2.jpg
 main-gallery:
   - image_path: /images/shop/Pack-2/pack2-1.jpg
@@ -78,6 +79,9 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 190
+show-on-compare-page: true
+video_banner_path: /videos/mobile-pack.MOV
+video_poster_path:
 ---
 
 Designed to bring more professionalism to your photos in ONE CLICK while keeping that colourful, eye catching style. If you need any help, message us @majapresets\!

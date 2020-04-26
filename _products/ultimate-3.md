@@ -4,6 +4,7 @@ shopify-id: 3666480234557
 layout: product
 price: $24.95
 compare-at-price: $59.95
+save-percentage: 50%
 home-page-feature: true
 image_path: /images/shop/cover-3.jpg
 main-gallery:
@@ -97,6 +98,9 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 197
+show-on-compare-page: true
+video_banner_path: /videos/mobile-pack.MOV
+video_poster_path:
 ---
 
 18 PROFESSIONAL, MORE SOFT, WARM, MOODY TONES, VIBRANT TONES, ALLROUNDER PRESETS

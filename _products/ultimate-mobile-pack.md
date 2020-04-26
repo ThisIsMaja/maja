@@ -5,6 +5,7 @@ layout: product
 price: $19.95
 compare-at-price: $49.95
 home-page-feature: true
+save-percentage: 50%
 image_path: /images/shop/cover-5.jpg
 short-description: The Bestseller for Mobile photography. 12 soft & dreamy Mobile&Desktop Presets
 preset-tags:
@@ -77,6 +78,9 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 190
+show-on-compare-page: true
+video_banner_path: /videos/mobile-pack.MOV
+video_poster_path:
 ---
 
 12 Mobile Presets designed for all occasions/styles. Perfect for Skin tones, food, selfies, lifestyle, indoors/outdoors\! We have also included the desktop filters so you have the choice to edit on your desktop as well\!&nbsp;
