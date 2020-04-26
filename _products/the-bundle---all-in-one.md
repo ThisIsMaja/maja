@@ -62,7 +62,7 @@ gallery:
     alt: short description of this image
 reviews: 69
 show-on-compare-page: true
-video_banner_path: /videos/mobile-pack.MOV
+video_banner_path:
 video_poster_path:
 ---
 
