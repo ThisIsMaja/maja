@@ -7,7 +7,7 @@ compare-at-price: $19.95
 save-percentage: 50%
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
-short-description: BRAND NEW! Soft Allrounders. 8 Mobile&Desktop Presets.
+short-description: Brand New! Soft Allrounders. 8 Mobile&Desktop Presets.
 preset-tags:
   - travel
   - outdoor
@@ -16,8 +16,8 @@ preset-tags:
   - soft
   - mobile
 description: >-
-  8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
-  tones, food, selfies, lifestyle, indoors/outdoors :)
+  This Bonus Pack designed for all occasions/styles. Perfect for Skin tones,
+  food, selfies, lifestyle, indoors/outdoors :)
 main-gallery:
   - image_path: /images/shop/Allstar-Bonus-Pack/allstar-1.JPG
     alt: short description of this image
