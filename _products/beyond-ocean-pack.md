@@ -78,7 +78,7 @@ gallery:
 reviews: 73
 show-on-compare-page: true
 video_banner_path: /images/shop/ocean-cover.jpg
-video_poster_path:
+video_poster_path: /images/shop/ocean-cover.jpg
 ---
 
 &nbsp;
