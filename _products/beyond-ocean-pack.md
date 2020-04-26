@@ -35,7 +35,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
-short-description: For ocean lovers & beach addicts.  15 Mobile&Desktop Presets.
+short-description: For ocean lovers & beach addicts.  15 Mobile&Desktop PresetsPresets.
 preset-tags:
   - travel
   - outdoor
