@@ -6,7 +6,7 @@ price: $24.95
 compare-at-price: $59.95
 save-percentage: 50%
 home-page-feature: true
-image_path: /images/shop/cover-3.jpg
+image_path: /images/shop/cover-7.jpg
 main-gallery:
   - image_path: /images/shop/Pack-3/pack3-1.jpg
     alt: short description of this image
