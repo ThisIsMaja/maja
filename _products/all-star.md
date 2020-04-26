@@ -19,21 +19,21 @@ description: >-
   8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
   tones, food, selfies, lifestyle, indoors/outdoors :)
 main-gallery:
-  - image_path: /images/shop/Mobile-Pack/mobile-1.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-1.JPG
     alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-2.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-2.JPG
     alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-3.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-3.JPG
     alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-4.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-4.JPG
     alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-5.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-5.JPG
     alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-6.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-6.JPG
     alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-7.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-7.JPG
     alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-8.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-8.JPG
     alt: short description of this image
 faqs:
   - question: What's Included?
