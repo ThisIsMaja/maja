@@ -17,12 +17,12 @@ banner-gallery:
   - image_path: /images/shop/ig-feeds/ocean.PNG
     title: Ocean Pack
 ---
-<section class="grid featured-bg">
+<section class="grid-centered featured-bg">
   <div class="col-5_sm-12-middle right padded">
     <h2> Compare Maja Preset Packs </h2>
     <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
   </div>
-  <div class="col-7_sm-12 padded">
+  <div class="col-4_md_7_sm-12 padded">
     <div class="slick-compare-loop">
 
     {% for product in page.banner-gallery %}
@@ -30,7 +30,7 @@ banner-gallery:
       <div class="card">
         <img src="{{product.image_path}}">
         <div class="card-inner light-bg">
-          <a class="subtle-button" href="{{product.url}}"> Shop {{product.title}}</a>
+          <a class="subtle-button" href="{{product.url}}"> Shop {{product.title}} > </a>
         </div>
       </div>
     </div>
