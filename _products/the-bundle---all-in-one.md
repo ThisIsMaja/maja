@@ -4,7 +4,7 @@ layout: product
 price: $75.95
 compare-at-price: $215.95
 image_path: /images/shop/bundle-cover.jpg
-short-description: 72 Mobile&Desktop Presets
+short-description: All you need! 72 Mobile&Desktop Presets
 preset-tags:
   - travel
   - outdoor
