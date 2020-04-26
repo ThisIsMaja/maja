@@ -8,9 +8,14 @@ layout: default
 
   <div class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
 
-    {% for tag in site.data.categories[page.title] %}
-      <a href="/tag/{{tag | slugify }}" class="category"> {{tag}} </a>
+    <a href="/blog" class="category"> ALL </a>
+    {% for category in site.categories %}
+      <a href="/{{category[0] | slugify }}" class="category"> {{category[0]}} </a>
     {% endfor %}
+
+    <!-- {% for tag in site.data.categories[page.title] %}
+      <a href="/tag/{{tag | slugify }}" class="category"> {{tag}} </a>
+    {% endfor %} -->
 
   </div>
 
