@@ -14,10 +14,12 @@ banner-2_path:
 banner-2-caption:
 categories:
   - Lifestyle
+  - travel
 tags:
   - productivity
   - Business
   - Self Improvement
+  - Travel Tips
 author: Marie Fe & Jake Snow
 image-1_path: /images/marie-jake/Website 2-9.jpg
 image-2_path: /images/marie-jake/Website 3-1.jpg
