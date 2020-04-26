@@ -3,8 +3,8 @@ title: The Bundle - All in one
 layout: product
 price: $75.95
 compare-at-price: $215.95
-image_path:  /images/shop/bundle-cover.jpg
-short-description: 144 presets - 72 mobile & 72 desktop presets
+image_path: /images/shop/bundle-cover.jpg
+short-description: 72 Mobile&Desktop Presets
 preset-tags:
   - travel
   - outdoor
@@ -60,3 +60,4 @@ gallery:
     alt: short description of this image
 reviews: 190
 ---
+
