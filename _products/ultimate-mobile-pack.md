@@ -7,7 +7,7 @@ compare-at-price: $49.95
 home-page-feature: true
 save-percentage: 50%
 image_path: /images/shop/cover-5.jpg
-short-description: The Bestseller for Mobile photos. 12 soft & dreamy Mobile&Desktop Presets
+short-description: The Bestseller for Mobile photos. 12 soft & dreamy mobile & desktop presets
 preset-tags:
   - travel
   - outdoor
@@ -79,7 +79,7 @@ gallery:
     alt: short description of this image
 reviews: 190
 show-on-compare-page: true
-video_banner_path: /videos/mobile-pack.MOV
+video_banner_path: /videos/mobile-pack.mp4
 video_poster_path:
 ---
 
