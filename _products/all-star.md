@@ -1,8 +1,10 @@
 ---
 title: The Allstar Bonus Pack
 layout: product
+shopify-id: 4389821513771
 price: $10.00
 compare-at-price: $19.95
+home-page-feature: true
 image_path: /images/shop/cover-4.jpg
 short-description: 8 Mobile&Desktop Bonus Presets. Soft Allrounders.
 preset-tags:

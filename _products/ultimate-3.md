@@ -1,8 +1,10 @@
 ---
 title: Ultimate Pack 3
+shopify-id: 3666480234557
 layout: product
 price: $24.95
 compare-at-price: $59.95
+home-page-feature: true
 image_path: /images/shop/cover-3.jpg
 main-gallery:
   - image_path: /images/shop/Pack-3/pack3-1.jpg

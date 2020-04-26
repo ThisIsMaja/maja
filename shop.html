@@ -86,11 +86,13 @@ banners:
   </h2>
 </section> -->
 
-<section class=" relative">
+<section class="shop-intro relative">
   <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
   <div class="capped-width centered padded">
-    <h2 data-aos="fade"> Our Style </h2>
-    {% include squiggle.html %}
+    <h2 data-aos="fade" class="mob-hide"> Our Style </h2>
+    <span class="mob-hide">
+        {% include squiggle.html %}
+    </span>
     <p> We like to create things that are made for beginners as much as professionals. </p>
     <p> Colourful, dreamy, happy vibes. </p>
     <p> Made for mobile & camera photography </p>
@@ -98,7 +100,6 @@ banners:
     <img src=/images/logo/signoff_maja_black.gif class="signoff">
   </div>
 </section>
-
 
 <section class="grey-bg padded">
   <div class="centered padded-1 capped-width">
@@ -115,7 +116,9 @@ banners:
 
   <div id="product-loop" class="blog-masonry">
 
-    {% for product in site.products limit: 3 %}
+    {% for product in site.products %}
+
+    {% if product.home-page-feature == true %}
 
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
@@ -132,6 +135,8 @@ banners:
               </div>
             </a>
           </div>
+
+          {% endif %}
 
     {% endfor %}
 

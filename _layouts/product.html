@@ -11,9 +11,12 @@ layout: default
   </div>
   <div class="col-5_sm-12 padded-2">
     <h1> {{page.title}} </h1>
-    <p class="stars"> ★★★★★ ({{page.reviews}}) </p>
+    <a class="stars" href="#looxreviews"> ★★★★★ ({{page.reviews}}) </p>
+
     <p> <span class="compare-at-price">{{page.compare-at-price}} </span> {{page.price}} </p>
-    <div id='product-component-{{page.shopify-id}}'></div>
+    <div class="shopif-buy-button-styles">
+        <div id='product-component-{{page.shopify-id}}'></div>
+     </div> 
     <!-- <a class="button-solid margin-bottom-2" href=""> Buy Now {{page.price}}</a> -->
     <h4> {{page.short-description}}  </h4>
     <p> {{page.description }} </p>
@@ -63,6 +66,9 @@ layout: default
     {% endfor %}
   </div>
 </section>
+<section class="padded dark-bg" id="loox-reviews">
+  <div id="looxReviews" data-product-id="{{page.shopify-id}}" class="loox-reviews-default"></div>
+</section>
 
 
 <!--  Javascript for the buy button -->
@@ -95,7 +101,7 @@ layout: default
     });
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
-        id: '1829753225280',
+        id: '{{page.shopify-id}}',
         node: document.getElementById('product-component-{{page.shopify-id}}'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
@@ -110,7 +116,7 @@ layout: default
         "text-align": "left"
       },
       "button": {
-        "font-family": "Open Sans, sans-serif",
+        "font-family": "p22-underground, sans-serif",
         ":hover": {
           "background-color": "#ab8b78"
         },
@@ -158,7 +164,7 @@ layout: default
         }
       },
       "button": {
-        "font-family": "Open Sans, sans-serif",
+        "font-family": "p22-underground, sans-serif",
         ":hover": {
           "background-color": "#ab8b78"
         },
@@ -176,7 +182,7 @@ layout: default
   "cart": {
     "styles": {
       "button": {
-        "font-family": "Open Sans, sans-serif",
+        "font-family": "p22-underground, sans-serif",
         ":hover": {
           "background-color": "#ab8b78"
         },
@@ -240,7 +246,7 @@ layout: default
   "toggle": {
     "styles": {
       "toggle": {
-        "font-family": "Open Sans, sans-serif",
+        "font-family": "p22-underground, sans-serif",
         "background-color": "#be9a85",
         ":hover": {
           "background-color": "#ab8b78"
@@ -298,3 +304,5 @@ layout: default
 })();
 /*]]>*/
 </script>
+
+<script async src="//loox.io/widget/loox.js?shop=shop-mariefeandjakesnow.myshopify.com"></script>

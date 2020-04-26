@@ -1,8 +1,10 @@
 ---
 title: Ultimate Mobile Pack
+shopify-id: 4360618344491
 layout: product
 price: $19.95
 compare-at-price: $49.95
+home-page-feature: true
 image_path:  /images/shop/cover-5.jpg
 short-description: >-
   Every maja pack works for mobile but this works best. 12 mobile&desktop

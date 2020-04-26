@@ -2,8 +2,8 @@
 
 // Explore Shop page
 
-.shop-banner .banner {
-  min-height: 80vh;
+.shop.video-banner video{
+  max-height:80vh
 }
 
 .shop-banner .banner-inner {
@@ -51,6 +51,7 @@
   border-bottom: 1px solid #eab9aa;
   // box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
 }
+
 
 // Affiliate Page
 .affiliate-box img {
@@ -115,4 +116,15 @@
   text-decoration: line-through;
   color: rgb(180,180,190);
   padding-right: 1rem;
+}
+
+
+@media(max-width: 767px) {
+  .shop-intro .overlay {
+    background-position: left;
+  }
+
+  .shop-intro p {
+    margin-bottom:0;
+  }
 }

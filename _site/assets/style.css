@@ -644,6 +644,9 @@ footer .border-right {
   padding: 1rem;
   white-space: nowrap; }
 
+.shop.category-slider .category {
+  font-size: 0.9rem; }
+
 .banner-inner .category {
   margin-bottom: 1rem; }
 
@@ -869,21 +872,22 @@ a.category:hover {
     padding-top: 2rem; }
 
   .category-slider {
-    justify-content: center; }
+    justify-content: left;
+    padding-top: 6px; }
 
   .category-slider::-webkit-scrollbar {
     -webkit-appearance: none; }
 
   .category-slider::-webkit-scrollbar:horizontal {
-    height: 11px; }
+    height: 2px; }
 
   .category-slider::-webkit-scrollbar-thumb {
     border-radius: 8px;
-    border: 2px solid white;
-    background-color: white; }
+    border: 2px solid #eab9aa;
+    background-color: #eab9aa; }
 
   .category-slider::-webkit-scrollbar-track {
-    background-color: #fff;
+    background-color: #f9ede7;
     border-radius: 8px; } }
 /* ---------------  Button Styles  --------- */
 /* We have created lots of different button styles, you probably don't need to have quite this many styles depending on your site */
@@ -1317,8 +1321,8 @@ h3.clear-images-h3 {
     margin-bottom: 0;
     font-size: 1.2rem;
     text-align: right; } }
-.shop-banner .banner {
-  min-height: 80vh; }
+.shop.video-banner video {
+  max-height: 80vh; }
 
 .shop-banner .banner-inner {
   padding: 1rem;
@@ -1404,6 +1408,12 @@ h3.clear-images-h3 {
   color: #b4b4be;
   padding-right: 1rem; }
 
+@media (max-width: 767px) {
+  .shop-intro .overlay {
+    background-position: left; }
+
+  .shop-intro p {
+    margin-bottom: 0; } }
 .mob-show {
   display: none; }
 
