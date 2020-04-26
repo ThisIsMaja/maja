@@ -81,7 +81,7 @@ gallery:
 reviews: 391
 show-on-compare-page: true
 video_banner_path: /images/shop/pack2-compare.mp4
-video_poster_path:
+video_poster_path: /images/shop/pack2-cover.jpg
 ---
 
 Designed to bring more professionalism to your photos in ONE CLICK while keeping that colourful, eye catching style. If you need any help, message us @majapresets\!
