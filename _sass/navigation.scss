@@ -157,7 +157,7 @@
     padding: 0.6rem;
     display: block;
     text-decoration: none;
-    color: rgb(180,180,190);
+    color: rgb(120,120,130);
     font-size: 1.4rem;
     letter-spacing: 1px;
   }
@@ -288,10 +288,12 @@
       padding: 2rem;
     }
 
-
     .sub-footer a,
     .subfooter p {
       padding: 0.2rem;
       font-size: 0.6rem;
+    }
+    .about-link {
+      text-align:center;
     }
   }
