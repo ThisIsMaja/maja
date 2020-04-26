@@ -285,7 +285,7 @@ a.category:hover {
     .horizontal-scroll {
       overflow-x: auto;
       flex-wrap: nowrap;
-      -webkit-overflow-scrolling: touch;
+      -webkit-overflow-scrolling: auto;
     }
   .post-content .emphasis {
     font-size: 1.5rem;

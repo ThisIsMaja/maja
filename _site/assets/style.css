@@ -863,7 +863,7 @@ a.category:hover {
   .horizontal-scroll {
     overflow-x: auto;
     flex-wrap: nowrap;
-    -webkit-overflow-scrolling: touch; }
+    -webkit-overflow-scrolling: auto; }
 
   .post-content .emphasis {
     font-size: 1.5rem; }
@@ -1349,6 +1349,9 @@ h3.clear-images-h3 {
   font-family: p22-underground;
   color: #787882;
   border-radius: 100%; }
+
+.product-price {
+  color: #eab9aa; }
 
 .text-animation .mini-card img {
   max-width: 5rem;
