@@ -14,9 +14,15 @@ banner-position: 50% 50%;
 
 <!-- banner -->
 
-<section class="padded padded-t-0">
+<section class="padded padded-t-0 home-page-banner mob-hide centered">
  <img src="{{page.banner-1_path}}">
 </section>
+<section class="home-video-banner mob-show">
+  <video width="100%" height="auto" autoplay muted loop playsinline poster="/videos/home-video-poster-mobile.png">
+    <source src="/videos/mobile-banner-2.mp4" type="video/mp4" />
+  </video>
+</section>
+
 <div class="featured-bg">
   <div class="bg-animation">
 
@@ -105,14 +111,14 @@ banner-position: 50% 50%;
   </div>
 </section>
 
-<section class="padded featured-bg">
+<section class="padded light-bg">
   <div class="grid-centered capped-width">
     <div class="col-5_sm-12-middle editable ">
-      <p><img src="/images/free-preset/free-preset.jpg" /></p>
+      <p><img src="/images/gifs/gif-download.gif" /></p>
     </div>
-    <div class="col-6_sm-12-middle padded bump-left light-bg" data-aos="fade-left">
-      <h2>Free Preset Anyone? <img class="spinning-sun" src="/images/icons/sun.png" /></h2>
-
+    <div class="col-6_sm-12-middle padded bump-left white-bg" data-aos="fade-left">
+      <h2 class="editable">Free MAJA Gifs <img class="spinning-sun" src="/images/icons/sun.png" /></h2>
+      <p class="editable"> Short text for Jake </p>
       {% include free-preset-signup.html %}
 
     </div>
