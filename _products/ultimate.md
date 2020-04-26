@@ -11,7 +11,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-12.jpg
     alt: short description of this image
-short-description: COLOUR BOMB 12mobile& desktop Presets
+short-description: Colour bomb Pack!  12 Mobile& Desktop Presets
 preset-tags:
   - travel
   - outdoor
