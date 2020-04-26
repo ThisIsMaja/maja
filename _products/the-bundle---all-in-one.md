@@ -61,7 +61,7 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 69
-show-on-compare-page: true
+show-on-compare-page: false
 video_banner_path:
 video_poster_path:
 ---
