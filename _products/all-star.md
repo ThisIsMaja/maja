@@ -3,14 +3,16 @@ title: The Allstar Bonus Pack
 layout: product
 price: $10.00
 compare-at-price: $19.95
-image_path:   /images/shop/cover-4.jpg
-short-description: 8 Bonus Presets designed for all occasions/styles.
+image_path: /images/shop/cover-4.jpg
+short-description: 8 Mobile&Desktop Bonus Presets. Soft Allrounders.
 preset-tags:
   - travel
   - outdoor
   - indoor
   - mobile
   - soft
+  - mobile
+  -
 description: >-
   8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
   tones, food, selfies, lifestyle, indoors/outdoors :)
