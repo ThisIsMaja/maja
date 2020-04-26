@@ -5,13 +5,40 @@ meta-description:
 meta-keywords:
 featured-image_path:
 video_banner_path: /videos/banner-small.mp4
+banner-gallery:
+  - image_path: /images/shop/ig-feeds/mobile.PNG
+    title: Mobile Pack
+  - image_path: /images/shop/ig-feeds/pack-1.PNG
+    title: Pack 1
+  - image_path: /images/shop/ig-feeds/pack-2.PNG
+    title: Pack 2
+  - image_path: /images/shop/ig-feeds/pack-3.PNG
+    title: Pack 3
+  - image_path: /images/shop/ig-feeds/ocean.PNG
+    title: Ocean Pack
 ---
+<section class="grid featured-bg">
+  <div class="col-5_sm-12-middle right padded">
+    <h2> Compare Maja Preset Packs </h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+  </div>
+  <div class="col-7_sm-12 padded">
+    <div class="slick-compare-loop">
 
-<section class="shop video-banner">
-  <video width="100%" height="auto" autoplay muted loop>
-    <source src="{{page.video_banner_path}}" type="video/mp4">
-  </video>
+    {% for product in page.banner-gallery %}
+    <div>
+      <div class="card">
+        <img src="{{product.image_path}}">
+        <div class="card-inner light-bg">
+          <a class="subtle-button" href="{{product.url}}"> Shop {{product.title}}</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 </section>
+
 
 <section class="grey-bg">
   <div class="centered padded capped-width">
