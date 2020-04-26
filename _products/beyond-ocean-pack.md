@@ -37,7 +37,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
-short-description: Ocean and Beach Preset - Donate 20%.  15 Mobile & Desktop
+short-description: Ocean and Beach Presets - Donate 20%.  15 Mobile & Desktop
 preset-tags:
   - travel
   - outdoor
