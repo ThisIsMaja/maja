@@ -13,7 +13,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-3.jpg
     alt: short description of this image
-  - image_path: /images/shop/Pack-2/pack2-4.jpg
+  - image_path: /images/shop/Pack-2/pack2-4.png
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-5.jpg
     alt: short description of this image
