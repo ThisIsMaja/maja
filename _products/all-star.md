@@ -59,9 +59,9 @@ gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-reviews: 190
+reviews: 90
 show-on-compare-page: true
-video_banner_path: /videos/mobile-pack.mp4
+video_banner_path: /images/shop/allstar-compare.mp4
 video_poster_path:
 ---
 
