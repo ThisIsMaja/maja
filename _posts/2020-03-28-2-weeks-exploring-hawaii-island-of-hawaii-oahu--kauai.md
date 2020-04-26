@@ -16,7 +16,6 @@ categories:
   - travel
 tags:
   - americas
-  - Photography
 author: Marie Fe
 image-1_path: /images/hawaii/Hawaii 1-1.jpg
 image-2_path:

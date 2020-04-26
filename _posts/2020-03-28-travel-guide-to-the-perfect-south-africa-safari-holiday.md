@@ -98,11 +98,11 @@ sections:
     body-content_html: >-
       <h3>Where To Stay On Your South Africa Safari
       Holiday</h3><p>&nbsp;</p><ul><li><h4>Mhondoro Lodge</h4></li></ul><p><a
-      href="https://www.mhondoro.com/"><u>Mhondoro Lodge</u></a> is a safari
-      lover&rsquo;s dream. The lodge is situated in Welgevonden Game Reserve,
-      which is actually closer to Johannesburg than it is to Kruger National
-      Park.</p><p>The beautiful pool opens up to gorgeous views of the park
-      where animals are free to roam. We had elephants right in front of us
+      target="_blank" href="https://www.mhondoro.com/"><u>Mhondoro Lodge</u></a>
+      is a safari lover&rsquo;s dream. The lodge is situated in Welgevonden Game
+      Reserve, which is actually closer to Johannesburg than it is to Kruger
+      National Park.</p><p>The beautiful pool opens up to gorgeous views of the
+      park where animals are free to roam. We had elephants right in front of us
       during our morning swim! It was quite intimidating having these majestic
       creatures peacefully go about their day, oblivious to us being
       there.</p><p>We went on several safaris from Mhondoro Lodge and saw all of
@@ -112,14 +112,14 @@ sections:
       incredible.</p><p>After our visit to Mhondoro Lodge, we headed to the
       Kruger National Park where we went
       glamping!</p><p>&nbsp;</p><ul><li><h4>Honeyguide Mantobeni luxury tented
-      camp</h4></li></ul><p><a
-      href="https://honeyguidecamp.com/mantobeni-camp/"><u>Mantobeni</u></a><u>
-      </u>is the ultimate glamping experience. It&rsquo;s inside the Kruger
-      National Park with no fences and no barriers between us and the animals.
-      You can hear them at night and it&rsquo;s an exhilarating feeling knowing
-      that they could be meters away from you. On one occasion Jake was stuck in
-      our tent unable to leave as it was surrounded by elephants!</p><p>We went
-      on daily safaris from Mantobeni and saw the Big 5 and so many other
+      camp</h4></li></ul><p><a target="_blank"
+      href="https://honeyguidecamp.com/mantobeni-camp/"><u>Mantobeni</u></a>&nbsp;is
+      the ultimate glamping experience. It&rsquo;s inside the Kruger National
+      Park with no fences and no barriers between us and the animals. You can
+      hear them at night and it&rsquo;s an exhilarating feeling knowing that
+      they could be meters away from you. On one occasion Jake was stuck in our
+      tent unable to leave as it was surrounded by elephants!</p><p>We went on
+      daily safaris from Mantobeni and saw the Big 5 and so many other
       animals.&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari2.jpg
     banner-fixed: true
@@ -195,15 +195,15 @@ sections:
   - banner_path: /images/south-africa/south-africa-safari5.jpg
     banner-fixed: true
     banner-caption:
-    main-paragraph-emphasis: Safari Travel Tips
+    main-paragraph-emphasis:
     columns: false
     body-content_html: >-
-      <ul><li>The best time to do a safari is either early morning or before
-      sunset as the animals take shelter when it heats up during the
-      day.</li><li>Make sure you&rsquo;re properly covered when doing any
-      outdoor activities and sleep under a mosquito net. Jake and Elliot got
-      tick bite fever as a result of being bitten by a tick! These symptoms
-      include headaches and high fever but are easily treated with
+      <h2>Safari Travel Tips</h2><ul><li>The best time to do a safari is either
+      early morning or before sunset as the animals take shelter when it heats
+      up during the day.</li><li>Make sure you&rsquo;re properly covered when
+      doing any outdoor activities and sleep under a mosquito net. Jake and
+      Elliot got tick bite fever as a result of being bitten by a tick! These
+      symptoms include headaches and high fever but are easily treated with
       antibiotics.</li><li>Pack a hat, sunglasses, and sunblock - even during
       winter.</li><li>Bring a camera with a good lens. The animal sightings are
       incredible!</li><li>Be safe whilst driving through the parks! Do not get
