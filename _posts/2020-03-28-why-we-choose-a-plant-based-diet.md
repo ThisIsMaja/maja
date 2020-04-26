@@ -14,8 +14,10 @@ banner-fixed: false
 categories:
   - wellbeing
   - Lifestyle
+  - journal
 tags:
   - diet
+  - Self Improvement
 author: Marie Fe
 image-1_path: /images/food/vegan-food8.jpg
 image-2_path: /images/food/plantbased-food3.jpg
