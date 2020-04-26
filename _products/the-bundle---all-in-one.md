@@ -29,10 +29,6 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/cover-2.jpg
     alt: short description of this image
-  - image_path: /images/shop/cover-3.jpg
-    alt: short description of this image
-  - image_path: /images/shop/cover-4.jpg
-    alt: short description of this image
   - image_path: /images/shop/cover-5.jpg
     alt: short description of this image
   - image_path: /images/shop/cover-6.jpg
