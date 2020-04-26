@@ -35,9 +35,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
-short-description: >-
-  15 Mobile&Desktop Presets. For ocean lovers and beach addicts, includes
-  Allrounder Presets.
+short-description: For ocean lovers & beach addicts.  15 Mobile&Desktop Presets.
 preset-tags:
   - travel
   - outdoor
