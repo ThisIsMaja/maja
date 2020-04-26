@@ -39,7 +39,7 @@ banner-gallery:
     {% for product in page.banner-gallery %}
     <div>
       <div class="card">
-        <img src="{{product.image_path}}" />
+        <img src="{{product.image_path}}" nopin="nopin" />
         <div class="card-inner light-bg">
           <a class="subtle-button" href="{{product.url}}"> Shop {{product.title}} > </a>
         </div>
@@ -76,6 +76,7 @@ banner-gallery:
               </video>
               <a class="card-inner" href="{{product.url}}">
                 <h3> {{product.title}}</h3>
+                <p> {{product.price}} <span class="compare-at-price">{{product.compare-at-price}} </span></p>
                 <span class="subtle-button"> Shop this preset > </span>
               </a></div>
 
