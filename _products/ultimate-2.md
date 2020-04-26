@@ -3,7 +3,7 @@ title: Ultimate Pack 2
 layout: product
 price: $19.95
 compare-at-price: $49.95
-image_path:  /images/shop/cover-2.jpg
+image_path: /images/shop/cover-2.jpg
 main-gallery:
   - image_path: /images/shop/Pack-2/pack2-1.jpg
     alt: short description of this image
@@ -35,7 +35,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-15.jpg
     alt: short description of this image
-short-description: Our Travel Best Seller 15 mobile & desktop presets
+short-description: Our Travel Best Seller. 15 Mobile & Desktop Presets
 faqs:
   - question: What's Included?
     answer_html: >-
