@@ -44,7 +44,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-3/pack3-18.jpg
     alt: short description of this image
-short-description: Allrounder & Best Seller for Portraits. 18 Mobile&Desktop Presets.
+short-description: Allrounder & Best Seller for Portraits & Travel. 18 Mobile&Desktop Presets.
 preset-tags:
   - selfies
   - outdoor
@@ -99,7 +99,7 @@ gallery:
     alt: short description of this image
 reviews: 193
 show-on-compare-page: true
-video_banner_path: /images/shop/pack3-compare.mp4
+video_banner_path: /images/shop/pack3.mp4
 video_poster_path: /images/shop/pack3-cover.jpg
 ---
 

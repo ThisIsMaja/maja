@@ -11,6 +11,7 @@ show-more-posts-button: false
   <h1 class="centered padded" data-aos="fade"> Latest on the blog </h1>
   <div class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
 
+    <a href="/blog" class="category"> ALL </a>
     {% for category in site.categories %}
       <a href="/{{category[0] | slugify }}" class="category"> {{category[0]}} </a>
     {% endfor %}

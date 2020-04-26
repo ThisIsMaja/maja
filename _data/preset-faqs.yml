@@ -1,14 +1,8 @@
-- question: What Pack works best for me?
-  answer_html: <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p>
-- question: How do I receive  my Presets
+- question: Examples for all Packs
   answer_html: >-
-    <p>After you purchase a preset pack you will receive an email with a
-    download link. If you did not receive an email you
-    either...</p><ul><li>misspelled your email address - for help contact IG <a
-    href="https://www.instagram.com/majapresets">@majapresets</a></li><li>or our
-    email ended up in your spam folder. If you are downloading straight from
-    your phone watch our tutorials for
-    instructions!</li></ul><p><strong>&nbsp;</strong></p>
+    <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p><p>Click
+    - <a href="/compare-presets">HERE</a> -&nbsp; to see an example of how the
+    presets work</p><p>&nbsp;</p>
 - question: Installation tutorials
   answer_html: >-
     <p>Do you need help to install the presets (phone or desktop) or anything
@@ -47,13 +41,19 @@
     all your questions.<strong>&nbsp;&nbsp;</strong></p>
 - question: Important notes
   answer_html: >-
-    <p>All photos and cameras are different, these presets will give you a great
-    base to start from which you can make a few adjustments to really nail those
-    pics down.&nbsp;</p><p>Not every preset will work for every photo, however
-    we designed the pack so that at least 1 preset would work for almost any
-    mobile photo.</p><p>Make sure you have updated Lightroom on your desktop to
-    the most recent version, these preset files will only upload with the new
-    2018 Lightroom Update.</p><p>AND</p><ul><li>Mobile Presets = .dng files //
+    <p>After you purchase a preset pack you will receive an email with a
+    download link. If you did not receive an email you
+    either...</p><ul><li>misspelled your email address - for help contact IG <a
+    href="https://www.instagram.com/majapresets">@majapresets</a></li><li>or our
+    email ended up in your spam folder. If you are downloading straight from
+    your phone watch our tutorials for instructions!</li></ul><p>All photos and
+    cameras are different, these presets will give you a great base to start
+    from which you can make a few adjustments to really nail those pics
+    down.&nbsp;</p><p>Not every preset will work for every photo, however we
+    designed the pack so that at least 1 preset would work for almost any mobile
+    photo.</p><p>Make sure you have updated Lightroom on your desktop to the
+    most recent version, these preset files will only upload with the new 2018
+    Lightroom Update.</p><p>AND</p><ul><li>Mobile Presets = .dng files //
     Desktop Presets = .xmp files,&nbsp;<strong>not .lrtemplate
     file&nbsp;</strong>(you need to update your subscription</li><li>Prices are
     in USD</li><li>Results will be great with any Iphone model 7 or higher,

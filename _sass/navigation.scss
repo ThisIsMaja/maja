@@ -157,7 +157,7 @@
     padding: 0.6rem;
     display: block;
     text-decoration: none;
-    color: rgb(180,180,190);
+    color: rgb(120,120,130);
     font-size: 1.4rem;
     letter-spacing: 1px;
   }
@@ -199,7 +199,10 @@
     transform: translate(0);
   }
 
-
+  .back-button img {
+    max-width: 2.5rem;
+    opacity: 0.8;
+  }
 
   // About Sections
 
@@ -278,7 +281,7 @@
       right:0;
       background-color: white;
       z-index: 2;
-      padding-bottom: 0;
+      padding: 0.5rem 0 0 0;
     }
     header .logo {
       padding: 0 3rem;
@@ -288,10 +291,12 @@
       padding: 2rem;
     }
 
-
     .sub-footer a,
     .subfooter p {
       padding: 0.2rem;
       font-size: 0.6rem;
+    }
+    .about-link {
+      text-align:center;
     }
   }

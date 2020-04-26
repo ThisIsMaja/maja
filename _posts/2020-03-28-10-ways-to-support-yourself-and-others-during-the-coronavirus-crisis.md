@@ -15,6 +15,7 @@ categories:
   - wellbeing
 tags:
   - mental Health
+  - conscious living
 author: Marie Fe
 image-1_path: /images/Coronavirus/coronavirus1.jpg
 image-2_path:

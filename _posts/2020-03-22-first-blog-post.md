@@ -15,7 +15,7 @@ categories:
   - journal
 tags:
   - productivity
-  - Self Improvement
+  - self-important
 author: Marie Fe
 image-1_path: /images/style/maja-stock-23.jpg
 image-2_path: /images/style/maja-stock-29.jpg
