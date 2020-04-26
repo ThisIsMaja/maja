@@ -634,7 +634,7 @@ footer .border-right {
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: auto;
   border-top: 1px solid #f9f0e7;
   border-bottom: 1px solid #f9f0e7;
   margin: 1rem auto;
@@ -863,7 +863,7 @@ a.category:hover {
   .horizontal-scroll {
     overflow-x: auto;
     flex-wrap: nowrap;
-    -webkit-overflow-scrolling: touch; }
+    -webkit-overflow-scrolling: auto; }
 
   .post-content .emphasis {
     font-size: 1.5rem; }
@@ -1337,6 +1337,22 @@ h3.clear-images-h3 {
   line-height: 1.1;
   margin-bottom: 0; }
 
+.save {
+  position: absolute;
+  top: 0;
+  right: 2rem;
+  line-height: 1.1;
+  text-align: center;
+  background-color: white;
+  padding: 0.5rem;
+  font-size: 0.7rem;
+  font-family: p22-underground;
+  color: #787882;
+  border-radius: 100%; }
+
+.product-price {
+  color: #eab9aa; }
+
 .text-animation .mini-card img {
   max-width: 5rem;
   display: block;
@@ -1358,6 +1374,40 @@ h3.clear-images-h3 {
 .mini-card:hover {
   color: #eab9aa;
   border-bottom: 1px solid #eab9aa; }
+
+.shop-details .save {
+  top: 1rem;
+  right: 1rem; }
+
+.shopify-buy-button-styles {
+  margin-top: -1rem;
+  margin-bottom: 1rem; }
+
+.slick-compare-loop .card {
+  max-width: 40vh;
+  padding: 0;
+  margin: 1rem 1rem 2rem; }
+
+.slick-compare-loop .card .card-inner {
+  padding: 1rem;
+  margin-top: -1rem;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-align: center; }
+
+.slick-product-loop .slick-next,
+.slick-compare-loop .slick-next {
+  right: -1.5rem; }
+
+.slick-product-loop .slick-prev,
+.slick-compare-loop .slick-prev {
+  left: -1.5rem; }
+
+.slick-product-loop .slick-next:before,
+.slick-product-loop .slick-prev:before,
+.slick-compare-loop .slick-next:before,
+.slick-compare-loop .slick-prev:before {
+  color: grey; }
 
 .affiliate-box img {
   max-width: 5rem;
@@ -1385,7 +1435,8 @@ h3.clear-images-h3 {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2); }
 
 .shop-item img,
-.shop-item video {
+.shop-item video,
+.slick-compare-loop .card img {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px; }
 

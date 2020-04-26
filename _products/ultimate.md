@@ -4,6 +4,7 @@ layout: product
 shopify-id: 4360618344491
 price: $14.95
 compare-at-price: $34.95
+save-percentage: 57%
 image_path: /images/shop/cover-1.jpg
 main-gallery:
   - image_path: /images/shop/Pack-1/pack1-1.jpg
@@ -71,6 +72,9 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 233
+show-on-compare-page: true
+video_banner_path: /videos/mobile-pack.mp4
+video_poster_path:
 ---
 
 ###### &nbsp;

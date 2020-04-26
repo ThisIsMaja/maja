@@ -1,17 +1,52 @@
 ---
 layout: default
-title: Shop Marie Fe and Jake Snow Presets
+title: Compare Presets
 meta-description:
 meta-keywords:
 featured-image_path:
 video_banner_path: /videos/banner-small.mp4
+banner-gallery:
+  - image_path: /images/shop/ig-feeds/mobile.PNG
+    title: Ultimate Mobile Pack
+  - image_path: /images/shop/ig-feeds/pack-1.PNG
+    title: Pack 1
+    url:
+  - image_path: /images/shop/ig-feeds/pack-2.PNG
+    title: Pack 2
+    url:
+  - image_path: /images/shop/ig-feeds/pack-3.PNG
+    title: Pack 3
+    url:
+  - image_path: /images/shop/ig-feeds/ocean.PNG
+    title: Ocean Pack
+    url:
+  - image_path: /uploads/IMG_3396.PNG
+    title: The Bonus Allstar Pack
+    url:
 ---
 
-<section class="shop video-banner">
-  <video width="100%" height="auto" autoplay muted loop>
-    <source src="{{page.video_banner_path}}" type="video/mp4">
-  </video>
+<section class="grid-centered featured-bg">
+  <div class="col-5_sm-12-middle right padded">
+    <h2> Compare Maja Preset Packs </h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+  </div>
+  <div class="col-4_md_7_sm-12 padded">
+    <div class="slick-compare-loop">
+
+    {% for product in page.banner-gallery %}
+    <div>
+      <div class="card">
+        <img src="{{product.image_path}}" />
+        <div class="card-inner light-bg">
+          <a class="subtle-button" href="{{product.url}}"> Shop {{product.title}} > </a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 </section>
+
 
 <section class="grey-bg">
   <div class="centered padded capped-width">
@@ -24,7 +59,7 @@ video_banner_path: /videos/banner-small.mp4
       <a href="#" class="category">{{category}}</a>
     {% endfor %}
 
-  </nav> -->
+   -->
 
   <div id="product-loop" class="padded blog-masonry">
 
@@ -33,14 +68,14 @@ video_banner_path: /videos/banner-small.mp4
         <div class="shop-item masonry-item padded-1
         " data-aos="fade" data-aos-delay="500">
             <div class="card">
-              <video width="100%" height="auto" controls muted poster="{{product.video_poster_path}}" >
-                <source src="{{page.video_banner_path}}" type="video/mp4">
+              <video width="100%" height="auto" controls muted playsinline poster="{{product.video_poster_path}}">
+                <source src="{{product.video_banner_path}}" type="video/mp4" />
               </video>
-              <a class="card-inner" href="{{product.url}}" >
+              <a class="card-inner" href="{{product.url}}">
                 <h3> {{product.title}}</h3>
                 <span class="subtle-button"> Shop this preset > </span>
-              </div>
-            </a>
+              </a></div>
+
           </div>
 
     {% endfor %}

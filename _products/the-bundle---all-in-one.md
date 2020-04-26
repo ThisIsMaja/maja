@@ -4,6 +4,7 @@ shopify-id: 1587870997181
 layout: product
 price: $75.95
 compare-at-price: $215.95
+save-percentage: 65%
 image_path: /images/shop/bundle-cover.jpg
 short-description: All you need! 72 Mobile&Desktop Presets
 preset-tags:
@@ -60,5 +61,8 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 190
+show-on-compare-page: true
+video_banner_path: /videos/mobile-pack.MOV
+video_poster_path:
 ---
 

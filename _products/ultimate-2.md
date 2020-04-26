@@ -4,7 +4,8 @@ shopify-id: 1830368641088
 layout: product
 price: $19.95
 compare-at-price: $49.95
-image_path: /images/shop/cover-2.jpg
+save-percentage: 60%
+image_path: /images/shop/cover-6.jpg
 main-gallery:
   - image_path: /images/shop/Pack-2/pack2-1.jpg
     alt: short description of this image
@@ -71,13 +72,16 @@ description: >-
   Vibrant, colourful presets, includes sunrise and sunset presets. For travel
   addicts sun and nature lovers. We recommend our presets to beginners as well.
 gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/free-preset/IMG_2439.jpg
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 190
+show-on-compare-page: true
+video_banner_path: /videos/mobile-pack.MOV
+video_poster_path:
 ---
 
 Designed to bring more professionalism to your photos in ONE CLICK while keeping that colourful, eye catching style. If you need any help, message us @majapresets\!
