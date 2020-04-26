@@ -15,7 +15,6 @@ preset-tags:
   - mobile
   - soft
   - mobile
-  -
 description: >-
   8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
   tones, food, selfies, lifestyle, indoors/outdoors :)
@@ -61,6 +60,9 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 190
+show-on-compare-page: true
+video_banner_path: /videos/mobile-pack.mp4
+video_poster_path:
 ---
 
 8 Presets designed for all occasions/styles. Perfect for Skin tones, food, selfies, lifestyle, indoors/outdoors\! We have also included the desktop filters so you have the choice to edit on your desktop as well\!&nbsp;
