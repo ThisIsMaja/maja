@@ -4,10 +4,9 @@ layout: product
 shopify-id: 4389821513771
 price: $10.00
 compare-at-price: $19.95
-save-percentage: 50%
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
-short-description: BRAND NEW! Soft Allrounders. 8 Mobile&Desktop Bonus Presets.
+short-description: BRAND NEW! Soft Allrounders. 8 Mobile&Desktop Presets.
 preset-tags:
   - travel
   - outdoor
@@ -15,6 +14,7 @@ preset-tags:
   - mobile
   - soft
   - mobile
+  -
 description: >-
   8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
   tones, food, selfies, lifestyle, indoors/outdoors :)
@@ -60,9 +60,6 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 190
-show-on-compare-page: true
-video_banner_path: /videos/mobile-pack.MOV
-video_poster_path:
 ---
 
 8 Presets designed for all occasions/styles. Perfect for Skin tones, food, selfies, lifestyle, indoors/outdoors\! We have also included the desktop filters so you have the choice to edit on your desktop as well\!&nbsp;
