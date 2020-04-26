@@ -1375,6 +1375,14 @@ h3.clear-images-h3 {
   color: #eab9aa;
   border-bottom: 1px solid #eab9aa; }
 
+.shop-details .save {
+  top: 1rem;
+  right: 1rem; }
+
+.shopify-buy-button-styles {
+  margin-top: -1rem;
+  margin-bottom: 1rem; }
+
 .slick-compare-loop .card {
   max-width: 40vh;
   padding: 0;
