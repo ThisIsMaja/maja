@@ -71,7 +71,7 @@ description: >-
   Vibrant, colourful presets, includes sunrise and sunset presets. For travel
   addicts sun and nature lovers. We recommend our presets to beginners as well.
 gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/free-preset/IMG_2439.jpg
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
