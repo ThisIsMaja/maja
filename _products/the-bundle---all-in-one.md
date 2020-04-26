@@ -29,10 +29,6 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/cover-2.jpg
     alt: short description of this image
-  - image_path: /images/shop/cover-3.jpg
-    alt: short description of this image
-  - image_path: /images/shop/cover-4.jpg
-    alt: short description of this image
   - image_path: /images/shop/cover-5.jpg
     alt: short description of this image
   - image_path: /images/shop/cover-6.jpg
@@ -61,7 +57,7 @@ gallery:
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
 reviews: 69
-show-on-compare-page: true
+show-on-compare-page: false
 video_banner_path:
 video_poster_path:
 ---
