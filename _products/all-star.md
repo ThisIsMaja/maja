@@ -4,7 +4,7 @@ layout: product
 price: $10.00
 compare-at-price: $19.95
 image_path: /images/shop/cover-4.jpg
-short-description: 8 Mobile&Desktop Bonus Presets. Soft Allrounders.
+short-description: BRAND NEW! Soft Allrounders. 8 Mobile&Desktop Bonus Presets.
 preset-tags:
   - travel
   - outdoor
