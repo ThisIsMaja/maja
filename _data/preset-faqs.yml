@@ -1,4 +1,6 @@
-- question: How to receive presets
+- question: What Pack works best for me?
+  answer_html: <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p>
+- question: How do I receive  my Presets
   answer_html: >-
     <p>After you purchase a preset pack you will receive an email with a
     download link. If you did not receive an email you
@@ -102,5 +104,3 @@
     love</p><p>Marie and Jake&nbsp;</p>
 - question: I can not decide which pack I want
   answer_html:
-- question: What Pack works best for me?
-  answer_html: <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p>
