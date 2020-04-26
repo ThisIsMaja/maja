@@ -57,6 +57,18 @@
     text-transform: uppercase;
   }
 
+  .back-button {
+    font-family: p22-underground, sans-serif;
+    font-weight: normal;
+    color: #787882;
+    padding: 0.5rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: none;
+  }
+
   .button-subtle:hover {
     color: rgb(90,90,100);
   }

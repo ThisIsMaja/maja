@@ -939,6 +939,17 @@ a.category:hover {
   padding: 0.5rem;
   text-transform: uppercase; }
 
+.back-button {
+  font-family: p22-underground, sans-serif;
+  font-weight: normal;
+  color: #787882;
+  padding: 0.5rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  -webkit-appearance: none;
+  background-color: transparent;
+  border: none; }
+
 .button-subtle:hover {
   color: #5a5a64; }
 
@@ -1378,6 +1389,11 @@ h3.clear-images-h3 {
 .shop-details .save {
   top: 1rem;
   right: 1rem; }
+
+.shop-details h4 {
+  font-family: p22-underground;
+  text-transform: uppercase;
+  line-height: 1.3; }
 
 .shopify-buy-button-styles {
   margin-top: -1rem;
