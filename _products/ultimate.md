@@ -92,7 +92,7 @@ gallery:
 reviews: 233
 show-on-compare-page: true
 video_banner_path: /videos/mobile-pack.mp4
-video_poster_path: /images/shop/mobilepack-cover.jpg
+video_poster_path: /images/shop/cover-1.jpg
 ---
 
 ###### &nbsp;
