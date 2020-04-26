@@ -4,18 +4,9 @@ title: FAQs | Marie Fe and Jake Snow
 meta-description:
 meta-keywords:
 featured-image_path:
-faq:
-  - question: How do I install my presets on desktop
-    answer_html: <p> You just follow our instructions dummy </p>
-  - question: How do I install my presets on desktop
-    answer_html: <p> You just follow our instructions dummy </p>
-  - question: How do I install my presets on desktop
-    answer_html: <p> You just follow our instructions dummy </p>
-  - question: How do I install my presets on desktop
-    answer_html: <p> You just follow our instructions dummy </p>
 ---
 
-<section class="featured-bg centered editable padded">
+<!-- <section class="featured-bg centered editable padded">
   <div class="padded-1 editable">
     <h2> How to install your presets </h2>
     <p> Short description </p>
@@ -23,13 +14,17 @@ faq:
   <div class="padded-1">
       <div class='embed-container'><iframe src='https://www.youtube.com/embed/1KV_B4mVgOg' frameborder='0' allowfullscreen></iframe></div>
   </div>
-</section>
-<section class="padded" id="faqs">
+</section> -->
+<section class="padded relative" id="faqs">
+  <div class="col-12 left padding-0">
+    <button class="back-button" onclick="goBack()">< Go Back</button>
+  </div>
+  <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
   <h2 class="centered padded-1"> Frequently Asked Questions </h2>
 
   <dl class="accordion padded-1">
 
-    {% for question in page.faq %}
+    {% for question in site.data.preset-faqs %}
 
     <dt class="grey-bg"><a href="#">{{question.question}}</a></dt>
     <dd>{{question.answer_html}}</dd>
