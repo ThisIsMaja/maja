@@ -23,7 +23,7 @@ banners:
 
 <section class="shop video-banner">
   <video width="100%" height="auto" autoplay muted loop>
-    <source src="/videos/banner-small.mp4" type="video/mp4">
+    <source src="/videos/banner-small.mp4" type="video/mp4" />
   </video>
 </section>
 
@@ -45,15 +45,15 @@ banners:
 
     {% endfor %}
 
-  </div>
-</section> -->
+  
+ -->
 <!-- <nav id="product-filter" class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
     <a href="#" class="category">all</a>
   {% for category in site.data.preset-tags %}
     <a href="#" class="category">{{category}}</a>
   {% endfor %}
 
-</nav> -->
+ -->
  <section>
   <nav class="shop category-slider featured-bg">
     <a class="category" href="/shop-presets"> MAJA Presets </a>
@@ -86,19 +86,20 @@ banners:
   </h2>
 </section> -->
 
-<section class=" relative">
+<section class="shop-intro relative">
   <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
   <div class="capped-width centered padded">
-    <h2 data-aos="fade"> Our Style </h2>
-    {% include squiggle.html %}
-    <p> We like to create things that are made for beginners as much as professionals. </p>
-    <p> Colourful, dreamy, happy vibes. </p>
-    <p> Made for mobile & camera photography </p>
-    <p> We're here to help </p>
-    <img src=/images/logo/signoff_maja_black.gif class="signoff">
+    <h2 data-aos="fade" class="mob-hide"> Our Style </h2>
+    <span class="mob-hide">
+        {% include squiggle.html %}
+    </span>
+    <div class="editable">
+      <p>Here we share our passion and our lessons with you so that you can experience the same joy we feel when we capture and create unforgettable memories! We created our photo filters for beginners and even intermediate photographers can produce beautiful images in just a few seconds!</p>
+      <p>Colourful, dreamy, vibrant and outstanding photos coming right up.</p>
+    </div> 
+    <img src=/images/logo/signoff_maja_black.gif class="signoff" />
   </div>
 </section>
-
 
 <section class="grey-bg padded">
   <div class="centered padded-1 capped-width">
@@ -110,18 +111,20 @@ banners:
     {% for category in site.data.preset-tags %}
       <a href="#" class="category">{{category}}</a>
     {% endfor %}
-  </nav> -->
+   -->
 <div class="padded-1">
 
   <div id="product-loop" class="blog-masonry">
 
-    {% for product in site.products limit: 3 %}
+    {% for product in site.products %}
+
+    {% if product.home-page-feature == true %}
 
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
             <a href="{{product.url}}" class="card">
-              <img src="{{product.image_path}}">
+              <img src="{{product.image_path}}" />
               <div class="padded-1">
                 <h3> {{product.title}}</h3>
                 <p> {{product.price}}  <span class="compare-at-price">{{product.compare-at-price}} </span> </p>
@@ -133,11 +136,13 @@ banners:
             </a>
           </div>
 
+          {% endif %}
+
     {% endfor %}
 
   </div>
 
-</section>
+</div></section>
 
 <section class="padded-1">
 

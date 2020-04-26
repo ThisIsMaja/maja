@@ -2,8 +2,8 @@
 
 // Explore Shop page
 
-.shop-banner .banner {
-  min-height: 80vh;
+.shop.video-banner video{
+  max-height:80vh
 }
 
 .shop-banner .banner-inner {
@@ -52,6 +52,7 @@
   // box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
 }
 
+
 // Affiliate Page
 .affiliate-box img {
   max-width: 5rem;
@@ -85,7 +86,9 @@
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
 }
 
-.shop-item img {
+
+.shop-item img,
+.shop-item video {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
@@ -107,6 +110,10 @@
   font-weight: 300;
 }
 
+.card-inner {
+  padding: 1rem;
+  display: block;
+}
 
 
 //  Product Page
@@ -115,4 +122,15 @@
   text-decoration: line-through;
   color: rgb(180,180,190);
   padding-right: 1rem;
+}
+
+
+@media(max-width: 767px) {
+  .shop-intro .overlay {
+    background-position: left;
+  }
+
+  .shop-intro p {
+    margin-bottom:0;
+  }
 }

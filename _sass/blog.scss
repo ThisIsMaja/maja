@@ -18,6 +18,10 @@
   white-space: nowrap;
 }
 
+.shop.category-slider .category {
+  font-size: 0.9rem;
+}
+
 .banner-inner .category {
   margin-bottom: 1rem;
 }
@@ -291,22 +295,23 @@ a.category:hover {
   }
 
   .category-slider {
-    justify-content: center;
+    justify-content: left;
+    padding-top:6px;
   }
 
   .category-slider::-webkit-scrollbar {
     -webkit-appearance: none;
   }
   .category-slider::-webkit-scrollbar:horizontal {
-      height: 11px;
+      height: 2px;
   }
   .category-slider::-webkit-scrollbar-thumb {
       border-radius: 8px;
-      border: 2px solid white;
-      background-color: white;
+      border: 2px solid #eab9aa;
+      background-color: #eab9aa;
   }
   .category-slider::-webkit-scrollbar-track {
-      background-color: #fff;
+      background-color: #f9ede7;
       border-radius: 8px;
   }
 

@@ -1,6 +1,7 @@
 ---
 title: Ultimate Pack 1
 layout: product
+shopify-id: 4360618344491
 price: $14.95
 compare-at-price: $34.95
 image_path: /images/shop/cover-1.jpg
@@ -11,7 +12,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-12.jpg
     alt: short description of this image
-short-description: Colour bomb Pack!  12 Mobile& Desktop Presets
+short-description: Colour bomb pack! 12 Mobile & Desktop Presets
 preset-tags:
   - travel
   - outdoor

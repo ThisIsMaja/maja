@@ -1,8 +1,10 @@
 ---
 title: Ultimate Mobile Pack
+shopify-id: 4360618344491
 layout: product
 price: $19.95
 compare-at-price: $49.95
+home-page-feature: true
 image_path: /images/shop/cover-5.jpg
 short-description: The Bestseller for Mobile photography. 12 soft & dreamy Mobile&Desktop Presets
 preset-tags:

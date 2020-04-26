@@ -1,7 +1,7 @@
 ---
-title: Free Stickers
+title: Winery Ebook
 layout: freebie
-klaviyo_id: XiGDHi
+klaviyo_id: X6eSJL
 image_path: /images/shop/ultimate-2.PNG
 short-description: Free Sticker for your Stories
 description: >-
