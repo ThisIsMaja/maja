@@ -100,7 +100,7 @@ gallery:
 reviews: 193
 show-on-compare-page: true
 video_banner_path: /images/shop/pack3-compare.mp4
-video_poster_path:
+video_poster_path: /images/shop/pack3-cover.jpg
 ---
 
 18 PROFESSIONAL, MORE SOFT, WARM, MOODY TONES, VIBRANT TONES, ALLROUNDER PRESETS
