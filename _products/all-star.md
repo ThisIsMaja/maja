@@ -19,7 +19,7 @@ description: >-
   8 Mobile&Desktop Preset designed for all occasions/styles. Perfect for Skin
   tones, food, selfies, lifestyle, indoors/outdoors :)
 main-gallery:
-  - image_path: /images/shop/Mobile-Pack/mobile-1.jpg
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-1.JPG
     alt: short description of this image
   - image_path: /images/shop/Mobile-Pack/mobile-2.jpg
     alt: short description of this image
