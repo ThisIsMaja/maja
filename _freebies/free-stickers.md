@@ -1,7 +1,7 @@
 ---
 title: Free Stickers
 layout: freebie
-klaviyo_id: 12345-free-stickers
+klaviyo_id: S9ZL7k
 image_path: /images/shop/ultimate-2.PNG
 short-description: Stunning vibrant presets for your next tropical holiday
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

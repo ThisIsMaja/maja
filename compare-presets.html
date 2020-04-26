@@ -1,0 +1,58 @@
+---
+layout: default
+title: Shop Marie Fe and Jake Snow Presets
+meta-description:
+meta-keywords:
+featured-image_path:
+video_banner_path: /videos/banner-small.mp4
+---
+
+<section class="shop video-banner">
+  <video width="100%" height="auto" autoplay muted loop>
+    <source src="{{page.video_banner_path}}" type="video/mp4">
+  </video>
+</section>
+
+<section class="grey-bg">
+  <div class="centered padded capped-width">
+    <h1 data-aos="fade"> Compare Maja Presets </h1>
+    <p> One-Click Mobile & Desktop Presets for Lightroom </p>
+  </div>
+  <!-- <nav id="product-filter" class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+      <a href="#" class="category">all</a>
+    {% for category in site.data.preset-tags %}
+      <a href="#" class="category">{{category}}</a>
+    {% endfor %}
+
+  </nav> -->
+
+  <div id="product-loop" class="padded blog-masonry">
+
+    {% for product in site.products limit: 15 %}
+
+        <div class="shop-item masonry-item padded-1
+        " data-aos="fade" data-aos-delay="500">
+            <div class="card">
+              <video width="100%" height="auto" controls muted poster="{{product.video_poster_path}}" >
+                <source src="{{page.video_banner_path}}" type="video/mp4">
+              </video>
+              <a class="card-inner" href="{{product.url}}" >
+                <h3> {{product.title}}</h3>
+                <span class="subtle-button"> Shop this preset > </span>
+              </div>
+            </a>
+          </div>
+
+    {% endfor %}
+
+  </div>
+</section>
+
+<section class="featured-bg centered editable padded">
+  <h2> How presets work </h2>
+  <p> These are one-click presets for desktop and mobile to be used in the Adobe Lightroom app.  </p>
+  <div class="padded-2">
+      <div class='embed-container'><iframe src='https://www.youtube.com/embed/1KV_B4mVgOg' frameborder='0' allowfullscreen></iframe></div>
+  </div>
+  <a href="/faqs" class="button-subtle"> More Instructions & FAQs  > </a>
+</section>
