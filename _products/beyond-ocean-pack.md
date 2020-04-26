@@ -3,7 +3,7 @@ title: Beyond Ocean Pack
 layout: product
 price: $10.00
 compare-at-price: $39.95
-image_path:  /images/shop/cover-2.jpg
+image_path: /images/shop/cover-2.jpg
 main-gallery:
   - image_path: /images/shop/Ocean/ocean-1.JPG
     alt: short description of this image
@@ -35,7 +35,9 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
-short-description: For ocean lovers and beach addicts but also anything else.
+short-description: >-
+  15 Mobile&Desktop Presets. For ocean lovers and beach addicts, includes
+  Allrounder Presets.
 preset-tags:
   - travel
   - outdoor
