@@ -561,6 +561,10 @@ header.fixed {
   opacity: 1;
   transform: translate(0); }
 
+.back-button img {
+  max-width: 2.5rem;
+  opacity: 0.8; }
+
 .about-arrow img {
   max-width: 4rem;
   transition: all 0.5s;
@@ -618,7 +622,7 @@ footer .border-right {
     right: 0;
     background-color: white;
     z-index: 2;
-    padding-bottom: 0; }
+    padding: 0.5rem 0 0 0; }
 
   header .logo {
     padding: 0 3rem; }
