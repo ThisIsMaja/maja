@@ -21,9 +21,9 @@ banners:
     button_url: /preset-affiliate
 ---
 
-<section class="video-banner">
+<section class="shop video-banner">
   <video width="100%" height="auto" autoplay muted loop>
-    <source src="/videos/shop-banner-vid.mp4" type="video/mp4">
+    <source src="/videos/banner-small.mp4" type="video/mp4">
   </video>
 </section>
 
@@ -47,8 +47,25 @@ banners:
 
   </div>
 </section> -->
+<!-- <nav id="product-filter" class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+    <a href="#" class="category">all</a>
+  {% for category in site.data.preset-tags %}
+    <a href="#" class="category">{{category}}</a>
+  {% endfor %}
 
-<section class="padded centered featured-bg">
+</nav> -->
+ <section>
+  <nav class="shop category-slider featured-bg">
+    <a class="category" href="/shop-presets"> MAJA Presets </a>
+    <a class="category" href="/shop-freebies"> Freebies </a>
+    <a class="category" href="/compare-presets"> Compare Presets </a>
+    <a class="category" href="/faqs"> FAQs </a>
+    <a class="category" href="/shop-reviews"> Reviews </a>
+    <a class="category" href="/preset-ambassador"> Make an income with us </a>
+  </nav>
+</section>
+
+<!-- <section class="padded centered featured-bg">
   <h2 class="text-animation">
     <a class="emphasis mini-card" href="/shop-presets" data-aos="fade" data-aos-offset="100">
       <img src="/images/icons/sun.png">
@@ -67,7 +84,8 @@ banners:
        FAQs
     </a>
   </h2>
-</section>
+</section> -->
+
 <section class=" relative">
   <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
   <div class="capped-width centered padded">
