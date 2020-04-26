@@ -1,9 +1,8 @@
-- question: What Pack works best for me?
-  answer_html: <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p>
-- question: Show me the Presets in action
+- question: What Pack works best for me? Examples here
   answer_html: >-
-    <p>Click - <a href="/compare-presets">HERE</a> -&nbsp; to see an example of
-    how the presets work</p>
+    <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p><p>Click
+    - <a href="/compare-presets">HERE</a> -&nbsp; to see an example of how the
+    presets work</p><p>&nbsp;</p>
 - question: Installation tutorials
   answer_html: >-
     <p>Do you need help to install the presets (phone or desktop) or anything
