@@ -3,7 +3,7 @@ title: Ultimate Pack 3
 layout: product
 price: $24.95
 compare-at-price: $59.95
-image_path: /images/shop/ultimate-3.PNG
+image_path: /images/shop/cover-3.jpg
 main-gallery:
   - image_path: /images/shop/Pack-3/pack3-1.jpg
     alt: short description of this image
@@ -41,7 +41,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-3/pack3-18.jpg
     alt: short description of this image
-short-description: Allrounder & Best Seller for Portraits. 18 mobile + desktop presets.
+short-description: Allrounder & Best Seller for Portraits. 18 Mobile&Desktop Presets.
 preset-tags:
   - selfies
   - outdoor

@@ -3,8 +3,8 @@ title: The Bundle - All in one
 layout: product
 price: $75.95
 compare-at-price: $215.95
-image_path: /images/shop/ultimate-2.PNG
-short-description: 144 presets - 72 mobile&72 desktop presets
+image_path: /images/shop/bundle-cover.jpg
+short-description: All you need! 72 Mobile&Desktop Presets
 preset-tags:
   - travel
   - outdoor
@@ -17,18 +17,25 @@ preset-tags:
   - indoor
   - colourful
   - sharp
-  -
 description: >-
   Designed and customised - all of our bestsellers at once! Within this pack is
   a preset would use for any situation you could think of. Sun, cloud, dark,
   bright, jungle, beach, sunset, portrait, city, moody, poppy etc etc, it is in
   here!
 main-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/cover-1.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/cover-2.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/cover-3.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-4.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-5.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-6.jpg
+    alt: short description of this image
+  - image_path: /images/shop/cover-7.jpg
     alt: short description of this image
 faqs:
   - question: What's Included?

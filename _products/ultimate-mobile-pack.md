@@ -3,10 +3,8 @@ title: Ultimate Mobile Pack
 layout: product
 price: $19.95
 compare-at-price: $49.95
-image_path: /images/shop/ultimate-2.PNG
-short-description: >-
-  Every maja pack works for mobile but this works best. 12 mobile&desktop
-  presets
+image_path: /images/shop/cover-5.jpg
+short-description: The Bestseller for Mobile photography. 12 soft & dreamy Mobile&Desktop Presets
 preset-tags:
   - travel
   - outdoor
@@ -16,12 +14,29 @@ preset-tags:
   - selfie
   - indoor
 main-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Mobile-Pack/mobile-1.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Mobile-Pack/mobile-2.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
+  - image_path: /images/shop/Mobile-Pack/mobile-3.jpg
     alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-4.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-5.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-6.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-7.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-8.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-9.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-10.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-11.jpg
+    alt: short description of this image
+  - image_path: /images/shop/Mobile-Pack/mobile-12.jpg
 description: >-
   Presets designed for any camera and great for mobile photography. Perfect for
   Skin tones, food, selfies, lifestyle, indoors/outdoors! Transform all your

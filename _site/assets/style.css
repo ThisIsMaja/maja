@@ -866,7 +866,25 @@ a.category:hover {
     font-size: 1.5rem; }
 
   .related-posts {
-    padding-top: 2rem; } }
+    padding-top: 2rem; }
+
+  .category-slider {
+    justify-content: center; }
+
+  .category-slider::-webkit-scrollbar {
+    -webkit-appearance: none; }
+
+  .category-slider::-webkit-scrollbar:horizontal {
+    height: 11px; }
+
+  .category-slider::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    border: 2px solid white;
+    background-color: white; }
+
+  .category-slider::-webkit-scrollbar-track {
+    background-color: #fff;
+    border-radius: 8px; } }
 /* ---------------  Button Styles  --------- */
 /* We have created lots of different button styles, you probably don't need to have quite this many styles depending on your site */
 .button,
