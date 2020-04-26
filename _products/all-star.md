@@ -7,7 +7,7 @@ compare-at-price:
 save-percentage:
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
-short-description: Brand New! Soft Allrounders. 8 Mobile&Desktop Presets.
+short-description: Brand New! Soft Allrounders. 8 Mobile & Desktop
 preset-tags:
   - travel
   - outdoor
