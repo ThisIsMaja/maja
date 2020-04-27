@@ -117,7 +117,9 @@ banners:
 
   <div id="product-loop" class="blog-masonry">
 
-    {% for product in site.products %}
+    {% assign sorted-products = site.products | sort: 'order' %}
+
+    {% for product in sorted-products %}
 
     {% if product.home-page-feature == true %}
 
