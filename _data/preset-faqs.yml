@@ -1,9 +1,9 @@
-- question: Examples for all Packs
+- question: Compare Presets
   answer_html: >-
     <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p><p>Click
     - <a href="/compare-presets">HERE</a> -&nbsp; to see an example of how the
     presets work</p><p>&nbsp;</p>
-- question: Preset Packs Overview !
+- question: Preset Packs Overview
   answer_html: >-
     <p>Starting with the newest Pack (always include mobile and
     desktop)</p><ul><li><strong><a href="/products/all-star">Bonus
@@ -34,6 +34,37 @@
     will only upload with the new 2018 Lightroom Update.</p><p>Mobile Presets =
     .dng files // Desktop Presets = .xmp files,&nbsp;<strong>not .lrtemplate
     file&nbsp;</strong>(you need to update your subscription</p>
+- question: Installation tutorials
+  answer_html: >-
+    <p>Install on my phone: Make sure you are using chrome to download the
+    presets!</p><ul><li>Install Iphone&nbsp; -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/tv/B0VBKqYocLx/">WATCH&nbsp;</a></strong></li><li>Presets
+    in LR app tool bar -&nbsp;<a target="_blank"
+    href="https://www.instagram.com/tv/BzDVVLEI68G/"><strong>WATCH</strong>&nbsp;</a></li><li>Install
+    Android phone&nbsp; -<strong>&nbsp;<a target="_blank"
+    href="https://www.instagram.com/tv/B9DhYXmqdeD/">WATCH&nbsp;</a></strong></li><li>Free
+    preset installation -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/tv/B9DXsNEKG0s/">&nbsp;Iphone</a></strong>&nbsp;&nbsp;</li><li>Free
+    preset installation&nbsp; -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/tv/B9DYX13Kl6T/">Samsung</a></strong></li></ul><p>Install
+    on my laptop: Make sure you have the LR classic
+    subscription&nbsp;</p><ul><li>Install on my Computer -<strong>&nbsp;<a
+    target="_blank"
+    href="https://www.instagram.com/tv/BpwdafCF0Co/">WATCH&nbsp;</a></strong></li><li>Other
+    editing tutorials -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/majapresets/channel/">WATCH&nbsp;</a></strong></li></ul><p>If
+    you need any more help: Please message us on our 2nd Instagram account<a
+    href="__notset__">&nbsp;</a><a target="_blank"
+    href="https://www.instagram.com/majapresets/">@MAJAPRESETS</a><b>.&nbsp;</b>If
+    you message us on our main account, the dm will probably get lost. Lots of
+    love, Marie &amp; Jake&nbsp;</p>
+- question: Direct help
+  answer_html: >-
+    <p>The easiest way to find help is to watch our tutorials here or to read
+    the most asked questions in FAQ. If you still need help message us
+    Instagram&nbsp;<a target="_blank"
+    href="https://www.instagram.com/majapresets/"><strong>@majapresets</strong></a><strong>&nbsp;</strong>for
+    all your questions.<strong>&nbsp;&nbsp;</strong></p>
 - question: FAQ
   answer_html: >-
     <p>If your questions couldn't get&nbsp;<strong>answered
@@ -79,34 +110,3 @@
     your bank will convert the USD into your currency. So you will be fine
     :)</p><p>&nbsp;</p><p>We hope this is helpful to you! Lots of
     love</p><p>Marie and Jake&nbsp;</p>
-- question: Installation tutorials
-  answer_html: >-
-    <p>Install on my phone: Make sure you are using chrome to download the
-    presets!</p><ul><li>Install Iphone&nbsp; -&nbsp;<strong><a target="_blank"
-    href="https://www.instagram.com/tv/B0VBKqYocLx/">WATCH&nbsp;</a></strong></li><li>Presets
-    in LR app tool bar -&nbsp;<a target="_blank"
-    href="https://www.instagram.com/tv/BzDVVLEI68G/"><strong>WATCH</strong>&nbsp;</a></li><li>Install
-    Android phone&nbsp; -<strong>&nbsp;<a target="_blank"
-    href="https://www.instagram.com/tv/B9DhYXmqdeD/">WATCH&nbsp;</a></strong></li><li>Free
-    preset installation -&nbsp;<strong><a target="_blank"
-    href="https://www.instagram.com/tv/B9DXsNEKG0s/">&nbsp;Iphone</a></strong>&nbsp;&nbsp;</li><li>Free
-    preset installation&nbsp; -&nbsp;<strong><a target="_blank"
-    href="https://www.instagram.com/tv/B9DYX13Kl6T/">Samsung</a></strong></li></ul><p>Install
-    on my laptop: Make sure you have the LR classic
-    subscription&nbsp;</p><ul><li>Install on my Computer -<strong>&nbsp;<a
-    target="_blank"
-    href="https://www.instagram.com/tv/BpwdafCF0Co/">WATCH&nbsp;</a></strong></li><li>Other
-    editing tutorials -&nbsp;<strong><a target="_blank"
-    href="https://www.instagram.com/majapresets/channel/">WATCH&nbsp;</a></strong></li></ul><p>If
-    you need any more help: Please message us on our 2nd Instagram account<a
-    href="__notset__">&nbsp;</a><a target="_blank"
-    href="https://www.instagram.com/majapresets/">@MAJAPRESETS</a><b>.&nbsp;</b>If
-    you message us on our main account, the dm will probably get lost. Lots of
-    love, Marie &amp; Jake&nbsp;</p>
-- question: Direct help
-  answer_html: >-
-    <p>The easiest way to find help is to watch our tutorials here or to read
-    the most asked questions in FAQ. If you still need help message us
-    Instagram&nbsp;<a target="_blank"
-    href="https://www.instagram.com/majapresets/"><strong>@majapresets</strong></a><strong>&nbsp;</strong>for
-    all your questions.<strong>&nbsp;&nbsp;</strong></p>
