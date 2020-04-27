@@ -1,65 +1,39 @@
-- question: What Pack works best for me?
-  answer_html: <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p>
-- question: Show me the Presets in action
+- question: Examples for all Packs
   answer_html: >-
-    <p>Click - <a href="/compare-presets">HERE</a> -&nbsp; to see an example of
-    how the presets work</p>
-- question: Installation tutorials
+    <p>Compare all Preset Packs <a href="/compare-presets">HERE</a></p><p>Click
+    - <a href="/compare-presets">HERE</a> -&nbsp; to see an example of how the
+    presets work</p><p>&nbsp;</p>
+- question: Preset Packs Overview !
   answer_html: >-
-    <p>Do you need help to install the presets (phone or desktop) or anything
-    else?</p><p>We have some easy video guides for you:</p><p>Install on my
-    phone: Make sure you are using chrome to download the
-    presets!</p><ul><li>Install presets on my Iphone&nbsp; -&nbsp;<a
-    target="_blank" href="https://www.instagram.com/tv/B0VBKqYocLx/">WATCH
-    NOW</a>&nbsp;</li><li>&nbsp;How to save the presets in the LR app tool bar
-    -&nbsp;<a target="_blank"
-    href="https://www.instagram.com/tv/BzDVVLEI68G/">WATCH
-    NOW</a></li><li>Install presets on my Android phone&nbsp; -&nbsp;<a
-    target="_blank" href="https://www.instagram.com/tv/B9DhYXmqdeD/">WATCH
-    NOW</a>&nbsp;</li><li>Free preset - Installation guide - &nbsp;<a
-    target="_blank"
-    href="https://www.instagram.com/tv/B9DXsNEKG0s/">&nbsp;Iphone</a>&nbsp;<a
-    href="https://www.instagram.com/tv/B9DXsNEKG0s/">HERE</a>&nbsp;</li><li>Free
-    preset - Installation guide - &nbsp;<a target="_blank"
-    href="https://www.instagram.com/tv/B9DYX13Kl6T/">Samsung&nbsp;</a>&nbsp;<a
-    target="_blank"
-    href="https://www.instagram.com/tv/B9DYX13Kl6T/">HERE</a></li></ul><p>Install
-    on my laptop: Make sure you have the LR classic
-    subscription&nbsp;</p><ul><li>Install my presets on my Computer -&nbsp;<a
-    target="_blank" href="https://www.instagram.com/tv/BpwdafCF0Co/">WATCH
-    NOW</a></li><li>Any other editing tutorials -&nbsp;<a target="_blank"
-    href="https://www.instagram.com/majapresets/channel/">WATCH
-    NOW</a></li></ul><p>If you need any more help: Please message us on our 2nd
-    Instagram account&nbsp;<a target="_blank"
-    href="https://www.instagram.com/majapresets/">@MAJAPRESETS</a><b>.&nbsp;</b>If
-    you message us on our main account, the dm will probably get lost.</p>
-- question: Direct help
-  answer_html: >-
-    <p>The easiest way to find help is to watch our tutorials here or to read
-    the most asked questions in FAQ. If you still need help message us
-    Instagram&nbsp;<a target="_blank"
-    href="https://www.instagram.com/majapresets/"><strong>@majapresets</strong></a><strong>&nbsp;</strong>for
-    all your questions.<strong>&nbsp;&nbsp;</strong></p>
+    <p>Starting with the newest Pack (always include mobile and
+    desktop)</p><ul><li><strong><a href="/products/all-star">Bonus
+    Pack</a></strong> - 8 soft Allstar Presets</li><li><a
+    href="/products/ultimate-mobile-pack"><strong>Ultimate Mobile
+    Pack</strong></a> - 12 soft amazing Allrounder Presets</li><li><a
+    href="/products/ultimate-3"><strong>Ultimate Pack 3 </strong></a>- 18 sharp
+    Travel and Portrait Bestseller</li><li><a
+    href="/products/ultimate-2"><strong>Ultimate Pack 2</strong></a> - 15 sharp
+    Travel Bestseller&nbsp;</li><li><strong><a
+    href="/products/ultimate">Ultimate Pack 1</a></strong> - 12 Colour Bomb
+    Presets</li><li><a href="/products/beyond-ocean-pack"><strong>Beyond
+    Ocean</strong></a> - 15 Water and Beach Presets</li><li><a
+    href="/products/the-bundle---all-in-one"><strong>All in one
+    Bundle</strong></a> - 72 Presets all you ever need&nbsp;</li></ul><p>My
+    favourite Packs right now:</p><p>A mix of Ultimate Pack 3 and Ultimate
+    Mobile Pack :)!!!</p><p>&nbsp;</p>
 - question: Important notes
   answer_html: >-
-    <p>After you purchase a preset pack you will receive an email with a
-    download link. If you did not receive an email you
-    either...</p><ul><li>misspelled your email address - for help contact IG <a
-    href="https://www.instagram.com/majapresets">@majapresets</a></li><li>or our
-    email ended up in your spam folder. If you are downloading straight from
-    your phone watch our tutorials for instructions!</li></ul><p>All photos and
-    cameras are different, these presets will give you a great base to start
-    from which you can make a few adjustments to really nail those pics
-    down.&nbsp;</p><p>Not every preset will work for every photo, however we
-    designed the pack so that at least 1 preset would work for almost any mobile
-    photo.</p><p>Make sure you have updated Lightroom on your desktop to the
-    most recent version, these preset files will only upload with the new 2018
-    Lightroom Update.</p><p>AND</p><ul><li>Mobile Presets = .dng files //
-    Desktop Presets = .xmp files,&nbsp;<strong>not .lrtemplate
-    file&nbsp;</strong>(you need to update your subscription</li><li>Prices are
-    in USD</li><li>Results will be great with any Iphone model 7 or higher,
-    newer samsung/huawei models. Other mobile brands we have not
-    tested!</li></ul>
+    <p>After you purchase a preset pack you will receive an email link. If you
+    did not receive an email you either - misspelled your email address -
+    contact IG <a
+    href="https://www.instagram.com/majapresets">@majapresets</a>&nbsp;or our
+    email ended up in your spam folder.&nbsp;</p><p>Not every preset will work
+    for every photo, however we designed the packs so that at least 1 preset
+    would work for almost any mobile photo.</p><p>Make sure you have updated
+    Lightroom on your desktop to the most recent version, these preset files
+    will only upload with the new 2018 Lightroom Update.</p><p>Mobile Presets =
+    .dng files // Desktop Presets = .xmp files,&nbsp;<strong>not .lrtemplate
+    file&nbsp;</strong>(you need to update your subscription</p>
 - question: FAQ
   answer_html: >-
     <p>If your questions couldn't get&nbsp;<strong>answered
@@ -90,16 +64,49 @@
     take photos with my phone?</h4><p>Our photos work for phone photos or any
     Cameras - JPEG and RAW settings as well as photos taken on a mobile phone,
     go pro or any other camera. Please remember that the quality of the camera
-    and the light conditions does effect the outcome as well :).</p><h4>How will
-    I receive the prestes?</h4><p>You will receive the presets via
-    email<strong>&nbsp;right away</strong>. Make sure you use your current email
-    address :)</p><h4><strong>Do they work on any of my
+    and the light conditions does effect the outcome as well :). Results will be
+    great with any Iphone model 7 or higher, newer samsung/huawei models. Other
+    mobile brands we have not tested</p><h4>How will I receive the
+    prestes?</h4><p>You will receive the presets via email<strong>&nbsp;right
+    away</strong>. Make sure you use your current email address
+    :)</p><h4><strong>Do they work on any of my
     photos?&nbsp;</strong></h4><p>Yes! They work with all image types. Every
     image is different not every preset will work on every single photo, you may
     need to do some tweaking after applying the preset to achieve a particular
     look. This can all be done in the Lightroom mobile app and is very easy to
-    do.&nbsp;</p><h4><strong>what happens if I do not want to pay in
+    do.</p><h4><strong>what happens if I do not want to pay in
     Usd?</strong></h4><p>If you live in a country with a different currency,
     your bank will convert the USD into your currency. So you will be fine
     :)</p><p>&nbsp;</p><p>We hope this is helpful to you! Lots of
     love</p><p>Marie and Jake&nbsp;</p>
+- question: Installation tutorials
+  answer_html: >-
+    <p>Install on my phone: Make sure you are using chrome to download the
+    presets!</p><ul><li>Install Iphone&nbsp; -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/tv/B0VBKqYocLx/">WATCH&nbsp;</a></strong></li><li>Presets
+    in LR app tool bar -&nbsp;<a target="_blank"
+    href="https://www.instagram.com/tv/BzDVVLEI68G/"><strong>WATCH</strong>&nbsp;</a></li><li>Install
+    Android phone&nbsp; -<strong>&nbsp;<a target="_blank"
+    href="https://www.instagram.com/tv/B9DhYXmqdeD/">WATCH&nbsp;</a></strong></li><li>Free
+    preset installation -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/tv/B9DXsNEKG0s/">&nbsp;Iphone</a></strong>&nbsp;&nbsp;</li><li>Free
+    preset installation&nbsp; -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/tv/B9DYX13Kl6T/">Samsung</a></strong></li></ul><p>Install
+    on my laptop: Make sure you have the LR classic
+    subscription&nbsp;</p><ul><li>Install on my Computer -<strong>&nbsp;<a
+    target="_blank"
+    href="https://www.instagram.com/tv/BpwdafCF0Co/">WATCH&nbsp;</a></strong></li><li>Other
+    editing tutorials -&nbsp;<strong><a target="_blank"
+    href="https://www.instagram.com/majapresets/channel/">WATCH&nbsp;</a></strong></li></ul><p>If
+    you need any more help: Please message us on our 2nd Instagram account<a
+    href="__notset__">&nbsp;</a><a target="_blank"
+    href="https://www.instagram.com/majapresets/">@MAJAPRESETS</a><b>.&nbsp;</b>If
+    you message us on our main account, the dm will probably get lost. Lots of
+    love, Marie &amp; Jake&nbsp;</p>
+- question: Direct help
+  answer_html: >-
+    <p>The easiest way to find help is to watch our tutorials here or to read
+    the most asked questions in FAQ. If you still need help message us
+    Instagram&nbsp;<a target="_blank"
+    href="https://www.instagram.com/majapresets/"><strong>@majapresets</strong></a><strong>&nbsp;</strong>for
+    all your questions.<strong>&nbsp;&nbsp;</strong></p>

@@ -7,31 +7,31 @@ compare-at-price: $34.95
 save-percentage: 57%
 image_path: /images/shop/cover-1.jpg
 main-gallery:
-  - image_path: /images/shop/Pack-1/pack1-1.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/pack1-2.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-2/pack1-3.jpg
+  - image_path: /images/shop/Pack-1/pack1-7.jpg
     alt: short description of this image
   - image_path: /images/shop/Pack-1/pack1-4.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/pack1-5.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-2/pack1-6.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-7.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/pack1-8.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-2/pack1-9.jpg
-    alt: short description of this image
   - image_path: /images/shop/Pack-1/pack1-10.jpg
     alt: short description of this image
-  - image_path: /images/free-preset/pack1-11.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-2/pack1-12.jpg
-    alt: short description of this image
-short-description: Colour bomb pack! 12 Mobile & Desktop Presets
+  - image_path: /images/shop/Pack-1/pack1-1.jpg
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-11.png
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-9.jpg
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-8.jpg
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-2.jpg
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-5.jpg
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-6.jpg
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-3.jpg
+    alt:
+  - image_path: /images/shop/Pack-1/pack1-12.jpg
+    alt:
+short-description: Colour bomb pack! 12 Mobile & Desktop
 preset-tags:
   - travel
   - outdoor

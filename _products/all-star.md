@@ -3,11 +3,11 @@ title: The Allstar Bonus Pack
 layout: product
 shopify-id: 4389821513771
 price: $10.00
-compare-at-price: $19.95
-save-percentage: 50%
+compare-at-price:
+save-percentage:
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
-short-description: Brand New! Soft Allrounders. 8 Mobile&Desktop Presets.
+short-description: Brand New! Soft Allrounders. 8 Mobile & Desktop
 preset-tags:
   - travel
   - outdoor
