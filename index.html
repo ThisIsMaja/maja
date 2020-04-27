@@ -6,7 +6,7 @@ meta-keywords:
 featured-image_path:
 banner-1_path: /videos/maja-banner-min.gif
 banner-position: 60% 30%;
-banner-2_path: /images/banners/banner2.png
+banner-2_path: /images/banners/maldives-banner.jpg
 banner-position: 50% 50%;
 ---
 
@@ -147,3 +147,23 @@ banner-position: 50% 50%;
     <div class="col-6 bg-image" style="background-image:url('{{page.ig-images[7]}}')"></div>
   </div>
  -->
+
+ <div id="loader-wrapper" class="dark-bg">
+   <div class="padded centered">
+    <img src="/images/gifs/loading_white.gif" style="max-height: 70vh">
+    <p class="subtitle"> ... loading ... </p>
+  </div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+
+<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>
+<script>
+  // Wait for window load
+  $(window).load(function() {
+    // Animate loader off screen
+    $("#loader-wrapper").animate({
+      top: -2000
+    }, 1500);
+  });
+</script>

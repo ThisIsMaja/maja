@@ -12,7 +12,7 @@ image_path: /images/maldives/amilla-fushi5.jpg
 banner-1_path: /images/office/home-office4.jpg
 banner-fixed: true
 categories:
-  - Lifestyle
+  - lifestyle
   - wellbeing
 tags:
   - mental Health
