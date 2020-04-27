@@ -28,12 +28,24 @@ layout: default
   </div>
 </section>
 
-<section class="padded capped-width grey-bg">
-  <div class="slick-product-loop">
-    {% for product in page.main-gallery %}
-    <img src="{{product.image_path}}">
-    {% endfor %}
+<section class="padded grey-bg">
+  <h2 class="subtle-heading centered"> This Pack's Presets </h2>
+  <div class="capped-width">
+    <div class="slick-product-loop">
+      {% for product in page.main-gallery %}
+      <img src="{{product.image_path}}">
+      {% endfor %}
+    </div>
   </div>
+</section>
+
+<section class="grid-center featured-bg ">
+  <div class="col-6_sm-12 padded ">
+    <h3 class="subtle-heading centered margin-top-1">Sneak Peak </h2>
+          <video width="100%" height="auto" controls muted playsinline poster="{{page.video_poster_path}}">
+            <source src="{{page.video_banner_path}}" type="video/mp4" />
+          </video>
+   </div>
 </section>
 
 
