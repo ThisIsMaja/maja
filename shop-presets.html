@@ -7,7 +7,7 @@ featured-image_path:
 ---
 
 <section class="grey-bg">
-  <div class="col-12 left padding-0">
+  <div class="col-12 left padding-0 mob-hide">
     <button class="back-button" onclick="goBack()">< Go Back</button>
   </div>
   <div class="centered padded capped-width">
@@ -30,7 +30,9 @@ featured-image_path:
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
             <a href="{{product.url}}" class="card">
+              {% unless product.save-percentage == false %}
               <span class="save">SAVE<br>{{ product.save-percentage }}</span>
+              {% endunless %}
               <img src="{{product.image_path}}" nopin="nopin">
               <div class="padded-1">
                 <h3> {{product.title}}</h3>

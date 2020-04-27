@@ -27,7 +27,7 @@ banner-gallery:
 ---
 
 <section class="grid-centered featured-bg">
-  <div class="col-12 left padding-0">
+  <div class="col-12 left padding-0 mob-hide">
     <button class="back-button" onclick="goBack()">< Go Back</button>
   </div>
   <div class="col-5_sm-12-middle right padded">
@@ -38,6 +38,7 @@ banner-gallery:
     <div class="slick-compare-loop">
 
     {% for product in page.banner-gallery %}
+
     <div>
       <div class="card">
         <img src="{{product.image_path}}">
@@ -68,6 +69,7 @@ banner-gallery:
   <div id="product-loop" class="padded blog-masonry">
 
     {% for product in site.products limit: 15 %}
+    {% unless product.show-on-compare-page == false %}
 
         <div class="shop-item masonry-item padded-1
         " data-aos="fade" data-aos-delay="500">
@@ -82,7 +84,7 @@ banner-gallery:
               </a></div>
 
           </div>
-
+        {% endunless %}
     {% endfor %}
 
   </div>
