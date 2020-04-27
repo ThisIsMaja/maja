@@ -13,7 +13,7 @@ categories:
 tags:
   - asia
 author: Marie Fe & Jake Snow
-image-1_path: /images/philippines/philippines-travel12.jpg
+image-1_path:
 image-2_path: /images/philippines/Coron 5-1.jpg
 intro-paragraph-emphasis: The Philippines is definitely one of our favourite places in the world!
 intro-content_html: >-
