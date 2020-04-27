@@ -6,7 +6,7 @@ order: 3
 price: $75.95
 compare-at-price: $215.95
 save-percentage: 65%
-image_path: /images/shop/bundle-cover.jpg
+image_path: /images/shop/bundle-pack.jpg
 short-description: All you need! 72 Mobile & Desktop
 preset-tags:
   - travel
@@ -62,3 +62,4 @@ show-on-compare-page: false
 video_banner_path:
 video_poster_path:
 ---
+
