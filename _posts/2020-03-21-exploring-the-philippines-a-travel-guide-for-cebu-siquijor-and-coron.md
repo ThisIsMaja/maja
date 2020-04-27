@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2019-11-06
+date: 2020-04-26 00:00:00
 slug:
-title: 'exploring the philippines: a travel guide for cebu, siquijor and coron'
+title: 'Exploring the Philippines: a travel guide for cebu, siquijor and coron'
 meta-description:
 meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
-image_path: /images/philippines/philippines-travel10.jpg
-banner-1_path: /images/philippines/philippines-travel3.jpg
+image_path: /images/philippines/Coron 5-1.jpg
+banner-1_path: /images/philippines/philippines-travel10.jpg
 banner-fixed: false
 categories:
   - travel
