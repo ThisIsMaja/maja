@@ -2,6 +2,7 @@
 title: The Allstar Bonus Pack
 layout: product
 shopify-id: 4389821513771
+order: 7
 price: $10.00
 compare-at-price:
 save-percentage: false

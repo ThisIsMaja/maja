@@ -24,7 +24,9 @@ featured-image_path:
 
   <div id="product-loop" class="padded blog-masonry">
 
-    {% for product in site.products limit: 15 %}
+    {% assign sorted-products = site.products | sort: 'order' %}
+
+    {% for product in sorted-products limit: 15 %}
 
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
