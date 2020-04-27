@@ -90,7 +90,7 @@ gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-reviews: 233
+reviews: 300
 show-on-compare-page: true
 video_banner_path: /images/shop/pack1-compare.mp4
 video_poster_path: /images/shop/pack1-cover.jpg
