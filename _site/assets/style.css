@@ -184,6 +184,14 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   text-transform: uppercase; }
 
+.subtitle {
+  font-family: p22-underground, sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  color: #787882; }
+
 h1 {
   font-size: 2.5rem; }
 
@@ -1346,7 +1354,6 @@ h3.clear-images-h3 {
 .slick-blog-loop h2 {
   font-size: 1.8rem;
   margin-bottom: 1rem;
-  text-transform: uppercase;
   line-height: 1.1; }
 
 .slick-slider .overlay {
@@ -1383,7 +1390,7 @@ h3.clear-images-h3 {
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media (max-width: 768px) {
   .slick-blog-loop h2 {
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
     font-size: 1.2rem;
     text-align: right; } }
 .shop.video-banner video {
