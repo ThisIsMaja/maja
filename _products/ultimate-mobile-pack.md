@@ -2,7 +2,7 @@
 title: Ultimate Mobile Pack
 shopify-id: 4360618344491
 layout: product
-order: 6
+order: 1
 price: $19.95
 compare-at-price: $49.95
 home-page-feature: true
