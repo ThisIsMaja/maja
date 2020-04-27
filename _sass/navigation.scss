@@ -162,24 +162,26 @@
     letter-spacing: 1px;
   }
 
-  .mobile-menu .inline a {
+  .mobile-menu .inline a,
+  .explore-menu .inline a {
     display: inline-block;
     // color: rgb(100,100,110);
     font-weight: normal;
     font-family: "orpheuspro";
     text-transform: none;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     padding: 0.2rem;
   }
 
-  .mobile-menu .emphasis {
-    background-color: #f2d3ce;
+  .mobile-menu .emphasis,
+  .explore-menu .emphasis {
+    background-color: #eab9aa;
     color: white;
     margin: 0.5rem;
-    font-size: 0.9rem;
+    font-size: 1rem;
     /* font-weight: bold; */
     display: inline-block;
-    padding: 0.5rem 2rem;
+    padding: 0.7rem 2rem;
   }
 
   header .mobile-menu a {
@@ -202,6 +204,31 @@
   .back-button img {
     max-width: 2.5rem;
     opacity: 0.8;
+  }
+
+
+  // Explore Menu
+
+  .explore-menu {
+    margin-top: -4.3rem;
+    min-height: 100vh;
+  }
+
+  .explore-menu a {
+    font-size: 1.2rem;
+    display: block;
+    padding: 1rem;
+  }
+
+  .explore-menu .logo {
+    max-width: 12rem;
+    margin: auto;
+    display: block;
+  }
+
+  .explore-menu .inline a {
+    display: inline-block;
+
   }
 
   // About Sections

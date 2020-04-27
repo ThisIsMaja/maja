@@ -126,7 +126,9 @@ banners:
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
             <a href="{{product.url}}" class="card">
+              {% unless product.save-percentage == false %}
               <span class="save">SAVE<br>{{ product.save-percentage }}</span>
+              {% endunless %}
               <img src="{{product.image_path}}">
               <div class="padded-1">
                 <h3> {{product.title}}</h3>
@@ -146,7 +148,7 @@ banners:
   </div>
   <p class="padded-1 centered">
     <a href="/shop-presets" class="subtle-button"> See All Presets </a>
-  </p> 
+  </p>
 </div></section>
 
 <section class="padded-1">
