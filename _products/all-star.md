@@ -4,7 +4,7 @@ layout: product
 shopify-id: 4389821513771
 order: 2
 price: $10.00
-compare-at-price:
+compare-at-price: $19.95
 save-percentage: false
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
