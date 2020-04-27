@@ -68,7 +68,9 @@ banner-gallery:
 
   <div id="product-loop" class="padded blog-masonry">
 
-    {% for product in site.products limit: 15 %}
+    {% assign sorted-products = site.products | sort: 'order' %}
+
+    {% for product in sorted-products limit: 15 %}
     {% unless product.show-on-compare-page == false %}
 
         <div class="shop-item masonry-item padded-1
