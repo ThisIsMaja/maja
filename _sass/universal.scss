@@ -24,6 +24,10 @@
     display: inline-block;
   }
 
+  video {
+    display: block;
+  }
+
   .bg-image,
   .bg-animation {
     background-size: cover;
