@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Love Story
-date: 2019-09-22 11:00:00
+date: 2019-09-22
 slug: our-love-story
 meta-description: >-
   In this post we tell you a crazy love story between an ocean boy from

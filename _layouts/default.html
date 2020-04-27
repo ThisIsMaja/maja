@@ -5,11 +5,15 @@
 </head>
 <body id="body">
 
+  {% unless page.hide-header == true %}
   {% include site-header.html %}
+  {% endunless %}
 
   {{content}}
 
+  {% unless page.hide-header == true %}
   {% include site-footer.html %}
+  {% endunless %}
 
   {% include body-scripts.html %}
 

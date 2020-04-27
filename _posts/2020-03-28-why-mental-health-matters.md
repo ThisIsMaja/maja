@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-01-01 00:00:00
+date: 2020-01-01
 slug: mental-health-matters
 title: (Why) Mental Health Matters
 meta-description: >-

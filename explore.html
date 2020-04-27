@@ -1,7 +1,9 @@
 ---
-layout: mobile-menu
+layout: default
 title: Maja Mobile Menu
 hide-from-google: true
+hide-header: true
+hide-footer: true
 links:
   - link_text: Home
     link_url: /
@@ -15,16 +17,33 @@ links:
     link_url: /shop-presets
 ---
 
-<section class="mobile-menu padded light-bg">
+<section class="explore-menu padded light-bg">
+<nav>
 
-  <a href="/" data-aos="fade">
-    <img class="logo" src="/images/logo/maja-logo-6.png" nopin="nopin">
-  </a>
-
+  <div class="mini-header">
+    <a href="/" data-aos="fade">
+      <img class="logo" src="/images/logo/maja-logo-6.png" nopin = "nopin">
+    </a>
+  </div>
   {% for item in page.links %}
 
   <a href="{{item.link_url}}"> {{item.link_url}}</a>
 
   {% endfor %}
 
+  <nav class="inline socials">
+    <a href="http://www.instagram.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-instagram"></i> -->
+      instagram
+    </a>
+    <a href="http://www.youtube.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-youtube"></i> -->
+      youtube
+    </a>
+    <a href="https://vm.tiktok.com/W1teQt/" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-youtube"></i> -->
+      tiktok
+    </a>
+  </nav>
+</nav>
 </section>

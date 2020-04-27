@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-01-01 00:00:00
+date: 2020-01-01
 slug: why-choose-a-plantbased-diet
 title: Why We Choose a Plant Based Diet
 meta-description: >-

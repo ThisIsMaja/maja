@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-01-22 00:00:00
+date: 2020-01-22
 slug: how-to-be-more-creative
 title: How to bring more creativity into your daily routine
 meta-description: >-

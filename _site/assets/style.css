@@ -554,17 +554,17 @@ header.fixed {
   display: inline-block;
   padding: 0.5rem 2rem; }
 
-.mobile-menu a {
+header .mobile-menu a {
   opacity: 0;
   transition-duration: 0.5s;
   transition-timing-function: ease;
   transition-property: opacity; }
 
-.mobile-menu a {
+header .mobile-menu a {
   --index: 0;
   transition-delay: calc(0.25s * var(--index)); }
 
-.mobile-menu.active a {
+header .mobile-menu.active a {
   opacity: 1;
   transform: translate(0); }
 

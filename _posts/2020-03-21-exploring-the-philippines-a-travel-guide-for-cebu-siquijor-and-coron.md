@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-11-06 10:00:00
+date: 2019-11-06
 slug:
 title: 'exploring the philippines: a travel guide for cebu, siquijor and coron'
 meta-description:

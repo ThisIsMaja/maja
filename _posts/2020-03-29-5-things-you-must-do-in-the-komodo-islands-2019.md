@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-10-23 00:00:00
+date: 2019-10-23
 slug: must-do-in-komodo-islands
 title: 5 Things You Must Do In The Komodo Islands
 meta-description: >-
