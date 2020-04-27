@@ -4,8 +4,8 @@ title: Maja | Marie Fe & Jake Snow
 meta-description:
 meta-keywords:
 featured-image_path:
-banner-1_path: /videos/maja-banner-min.gif
-banner-position: 60% 30%;
+banner-1_desktop_video_path: /videos/maja-banner-min.mp4
+banner-1_mobile_video_path: /videos/mobile-banner-2.mp4
 banner-2_path: /images/banners/maldives-banner.jpg
 banner-position: 50% 50%;
 ---
@@ -15,11 +15,13 @@ banner-position: 50% 50%;
 <!-- banner -->
 
 <section class="padded padded-t-0 home-page-banner mob-hide centered">
- <img src="{{page.banner-1_path}}">
+  <video width="100%" height="auto" autoplay muted loop playsinline poster="/videos/home-video-poster-mobile.png">
+    <source src="{{page.banner-1_desktop_video_path}}" type="video/mp4" />
+  </video>
 </section>
 <section class="home-video-banner mob-show">
   <video width="100%" height="auto" autoplay muted loop playsinline poster="/videos/home-video-poster-mobile.png">
-    <source src="/videos/mobile-banner-2.mp4" type="video/mp4" />
+    <source src="{{page.banner-1_mobile_video_path}}" type="video/mp4" />
   </video>
 </section>
 

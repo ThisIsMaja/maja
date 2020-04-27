@@ -1,0 +1,36 @@
+---
+layout: mobile-menu
+title: Maja Mobile Menu
+hide-from-google: true
+links:
+  - link_text: Home
+    link_url: /
+  - link_text: About Us
+    link_url:  /about
+  - link_text: Blog
+    link_url:  /blog
+  - link_text: Shop
+    link_url:  /shop
+  - link_text: Shop all Presets
+    link_url:
+  - link_text:
+    link_url:
+  - link_text:
+    link_url:
+  - link_text:
+    link_url:
+---
+
+<section class="mobile-menu padded light-bg">
+
+  <a href="/" data-aos="fade">
+    <img class="logo" src="/images/logo/maja-logo-6.png" nopin="nopin">
+  </a>
+
+  {% for item in page.links %}
+
+  <a href="{{item.link_url}}"> {{item.link_url}}</a>
+
+  {% endfor %}
+
+</section>
