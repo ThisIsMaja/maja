@@ -13,7 +13,7 @@ banner-fixed: true
 banner-2_path:
 banner-2-caption:
 categories:
-  - Lifestyle
+  - lifestyle
   - travel
 tags:
   - productivity

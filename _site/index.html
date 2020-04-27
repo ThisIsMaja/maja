@@ -34,6 +34,24 @@
         gtag('config', 'UA-152342171-2');
       </script>
 
+      <!-- Facebook Pixel Code -->
+      <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '2606268822734078');
+        fbq('track', 'PageView');
+      </script>
+      <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=2606268822734078&ev=PageView&noscript=1"
+      /></noscript>
+      <!-- End Facebook Pixel Code -->
+
       <!-- Snap Pixel Code -->
         <script type='text/javascript'>
         (function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
@@ -50,6 +68,7 @@
         snaptr('track', 'PAGE_VIEW');
 
         </script>
+
 <!-- End Snap Pixel Code -->
 
 <!-- end of meta tags -->
@@ -198,7 +217,7 @@
           <div class="banner grid-right" style="background-image:url(/images/komodo-islands/Komodo-Islands2.jpg); padding: 0.5rem;">
             <a href="/posts/how-to-make-amazing-couple-photos" class="col-5_sm-7_xs-10-bottom banner-inner grid">
               <div class="col-6 left mob-hide">
-                <span class="author"> Jake Snow </span> | <span class="category"> Lifestyle </span>
+                <span class="author"> Jake Snow </span> | <span class="category"> lifestyle </span>
               </div>
               <div class="col-6 right mob-hide">
                   <img class="margin-top-1 margin-bottom-1 squiggle" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
@@ -218,7 +237,7 @@
           <div class="banner grid-right" style="background-image:url(/images/office/home-office4.jpg); padding: 0.5rem;">
             <a href="/posts/guide-to-stay-productive-and-healthy" class="col-5_sm-7_xs-10-bottom banner-inner grid">
               <div class="col-6 left mob-hide">
-                <span class="author"> Marie Fe </span> | <span class="category"> Lifestyle </span>
+                <span class="author"> Marie Fe </span> | <span class="category"> lifestyle </span>
               </div>
               <div class="col-6 right mob-hide">
                   <img class="margin-top-1 margin-bottom-1 squiggle" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
@@ -238,7 +257,7 @@
           <div class="banner grid-right" style="background-image:url(/uploads/coffee-tabel-with-a-book-and-a-chair.jpg); padding: 0.5rem;">
             <a href="/posts/how-to-be-more-creative" class="col-5_sm-7_xs-10-bottom banner-inner grid">
               <div class="col-6 left mob-hide">
-                <span class="author"> Marie Fe </span> | <span class="category"> Lifestyle </span>
+                <span class="author"> Marie Fe </span> | <span class="category"> lifestyle </span>
               </div>
               <div class="col-6 right mob-hide">
                   <img class="margin-top-1 margin-bottom-1 squiggle" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
@@ -341,7 +360,7 @@
   </div>
 </div>
 <!--  Banner 2  -->
-<section class="banner" style="background-image:url(/images/banners/banner2.png); background-position: ;">
+<section class="banner" style="background-image:url(/images/banners/maldives-banner.jpg); background-position: ;">
 
 </section>
 
@@ -405,6 +424,26 @@
     <div class="col-6 bg-image" style="background-image:url('')"></div>
   </div>
  -->
+
+ <div id="loader-wrapper" class="dark-bg">
+   <div class="padded centered">
+    <img src="/images/gifs/loading_white.gif" style="max-height: 70vh">
+    <p class="subtitle"> ... loading ... </p>
+  </div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+
+<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>
+<script>
+  // Wait for window load
+  $(window).load(function() {
+    // Animate loader off screen
+    $("#loader-wrapper").animate({
+      top: -2000
+    }, 1500);
+  });
+</script>
 
 
   <footer class="bg-light-grey padded-1">
@@ -480,6 +519,18 @@
  function goBack() {
  window.history.back();
  }
+</script>
+
+<!-- Hotjar Tracking Code for https://thisismaja.com/ -->
+<script>
+  (function(h,o,t,j,a,r){
+      h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:1784826,hjsv:6};
+      a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;
+      r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+      a.appendChild(r);
+  })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
 
 <!-- this is your custom javascript/jQuery file -->

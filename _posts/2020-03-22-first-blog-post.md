@@ -11,7 +11,7 @@ image_path: /images/style/maja-stock-29.jpg
 banner-1_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
 banner-fixed: true
 categories:
-  - Lifestyle
+  - lifestyle
   - journal
 tags:
   - productivity

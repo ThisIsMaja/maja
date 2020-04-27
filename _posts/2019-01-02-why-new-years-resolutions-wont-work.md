@@ -12,7 +12,7 @@ banner-1_path: /images/style/maja-stock-47.jpg
 banner-fixed: true
 categories:
   - journal
-  - Lifestyle
+  - lifestyle
 tags:
   - Self Improvement
   - productivity

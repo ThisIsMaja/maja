@@ -10,7 +10,7 @@ layout: default
 
     <a href="/blog" class="category"> ALL </a>
     {% for category in site.categories %}
-      <a href="/{{category[0] | slugify }}" class="category"> {{category[0]}} </a>
+      <a href="/{{category[0] | slugify }}" class="category {% if page.url contains category[0] %}active{% endif %}"> {{category[0]}} </a>
     {% endfor %}
 
     <!-- {% for tag in site.data.categories[page.title] %}

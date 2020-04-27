@@ -37,7 +37,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-15.jpg
     alt: short description of this image
-short-description: Our Travel Best Seller. 15 Mobile & Desktop Presets
+short-description: Our Travel Best Seller. 15 Mobile & Desktop
 faqs:
   - question: What's Included?
     answer_html: >-

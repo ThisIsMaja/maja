@@ -1,4 +1,10 @@
 
+$(document).ready(function() {
+
+		$('#loaded-wrapper').fadeOut;
+
+});
+
 
 $(document).ready(function() {
 	//make sure the page is ready befor running the scripts

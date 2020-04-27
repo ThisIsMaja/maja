@@ -13,7 +13,7 @@ banner-1_path: /images/food/vegan-food1.jpg
 banner-fixed: false
 categories:
   - wellbeing
-  - Lifestyle
+  - lifestyle
   - journal
 tags:
   - diet

@@ -11,7 +11,7 @@ image_path: /images/philippines/philippines-travel8.jpg
 banner-1_path: /images/komodo-islands/Komodo-Islands2.jpg
 banner-fixed: false
 categories:
-  - Lifestyle
+  - lifestyle
 tags:
   - Photography
 author: Jake Snow
