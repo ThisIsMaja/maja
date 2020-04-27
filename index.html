@@ -47,7 +47,7 @@ banner-2_path: /images/banners/gili-banner.jpg
 
         {% for post in site.posts limit:6 %}
 
-        <div>
+        <div class="{% unless post.loop.index == 1 %} hidden {% endunless %}">
           <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
             <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
               <div class="col-6 left mob-hide">
@@ -74,8 +74,8 @@ banner-2_path: /images/banners/gili-banner.jpg
       <div class="col-4_md-6_sm-12 editable padded-1" data-aos="fade-left">
 
         <a class="about-link" href="/about">
-          <h2>about
-          <span class="about-arrow"> <img src="/images/icons/arrow.png" /> </span>
+          <h2> <span> about </span>
+          <img class="about-arrow" src="/images/icons/arrow.png" />
           </h2>
           <p>What is <strong>M A J A</strong> all about? Come and get to know us, we've got a lot to share with you.</p>
         </a>
@@ -83,8 +83,8 @@ banner-2_path: /images/banners/gili-banner.jpg
       </div>
       <div class="col-4_md-6_sm-12 editable padded-1" data-aos="fade-right">
         <a class="about-link" href="/about#must-haves">
-          <h2>our must haves
-          <span class="about-arrow"> <img src="/images/icons/arrow.png" /> </span>
+          <h2><span> our must haves </span>
+            <img class="about-arrow" src="/images/icons/arrow.png" />
           </h2>
           <p>These products help us achieve happiness, efficiency and producitivity every day. &nbsp;</p>
         </a>

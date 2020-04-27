@@ -169,6 +169,9 @@ body {
 .bump-up {
   margin-top: -2rem; }
 
+.small-gif {
+  max-width: 2rem; }
+
 /* General typography */
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
@@ -392,6 +395,10 @@ p.emphasis {
 .small-flower {
   max-width: 3rem; }
 
+.about-gif {
+  max-height: 70vh;
+  margin: auto; }
+
 @media (max-width: 768px) {
   .about-page p {
     font-size: 1.8rem; } }
@@ -565,7 +572,7 @@ header.fixed {
   max-width: 2.5rem;
   opacity: 0.8; }
 
-.about-arrow img {
+img.about-arrow {
   max-width: 4rem;
   transition: all 0.5s;
   position: relative;
@@ -650,7 +657,10 @@ footer .border-right {
     font-size: 0.6rem; }
 
   .about-link {
-    text-align: center; } }
+    /* text-align: center; */
+    background-color: white;
+    display: block;
+    padding: 1rem; } }
 /* Blog Post Elements */
 /* ---- Blog loop elements style 1 ------ */
 .category-slider {
@@ -1537,6 +1547,9 @@ h3.clear-images-h3 {
 
   .mob-show {
     display: block; }
+
+  .mob-padded-0 {
+    padding: 0; }
 
   .hamburger {
     display: block; }

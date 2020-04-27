@@ -206,11 +206,15 @@
 
   // About Sections
 
-  .about-arrow img {
+  img.about-arrow {
     max-width: 4rem;
     transition: all 0.5s;
     position: relative;
     left: 0;
+  }
+
+  .about-link h2 span {
+    // border-bottom: 1px solid;
   }
 
   .about-link:hover img {
@@ -314,6 +318,9 @@
       font-size: 0.6rem;
     }
     .about-link {
-      text-align:center;
+    /* text-align: center; */
+    background-color: white;
+    display: block;
+    padding: 1rem;
     }
   }
