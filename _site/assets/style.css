@@ -1582,6 +1582,9 @@ h3.clear-images-h3 {
   .capped-width {
     width: 100%; }
 
+  .mob-centered {
+    text-align: center; }
+
   .mob-flex-flip {
     flex-direction: column-reverse; }
 
