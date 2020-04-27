@@ -44,7 +44,6 @@ banner-2_path: /images/banners/gili-banner.jpg
     <section class="slick-blog-container">
 
       <div class="relative slick-blog-loop">
-
         {% for post in site.posts limit:6 %}
 
         <div class="{% unless post.loop.index == 1 %} hidden {% endunless %}">
