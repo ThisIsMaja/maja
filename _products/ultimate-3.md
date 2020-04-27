@@ -61,27 +61,18 @@ description: >-
 faqs:
   - question: What's Included?
     answer_html: >-
-      <h6 id="whats-included">36 Presets // 18x &nbsp;Desktop Presets for Adobe
+      <p id="whats-included">36 Presets // 18x &nbsp;Desktop Presets for Adobe
       Lightroom CC // 18x Mobile Presets for your FREE MOBILE Adobe Lightroom CC
-      app</h6><p>Let us introduce you our BRAND NEW
-      PRESETS</p><ol><li><strong>Acceptance - sunset &amp;
-      sunrise</strong></li><li><strong>Authenticity -
-      moody</strong></li><li><strong>Clarity -&nbsp;
-      bright</strong></li><li><strong>Compassion - soft
-      browns</strong></li><li><strong>Confidence -
-      light&amp;bright</strong></li><li><strong>Forgiveness - sift blues, nice
-      skin</strong></li><li><strong>Fulfillment - old
-      school</strong></li><li><strong>Generosity -
-      soft&nbsp;</strong></li><li><strong>Gratitude - nice
-      taint</strong></li><li><strong>Humility - faded nice
-      tones</strong></li><li><strong>Kindness -
-      bright!</strong></li><li><strong>Love -
-      vintage</strong></li><li><strong>Mindfulness -
-      dark</strong></li><li><strong>Passion - orange &amp;
-      bright&nbsp;</strong></li><li><strong>Positivity -
-      soft&nbsp;</strong></li><li><strong>Strength - sharp skin
-      colours</strong></li><li><strong>Warmth - washed
-      out</strong></li><li><strong>Wellness - colourful</strong></li></ol>
+      app</p><p>Let us introduce you our BRAND NEW PRESETS</p><ol><li>Acceptance
+      - sunset &amp; sunrise</li><li>Authenticity - moody</li><li>Clarity
+      -&nbsp; bright</li><li>Compassion - soft browns</li><li>Confidence -
+      light&amp;bright</li><li>Forgiveness - sift blues, nice
+      skin</li><li>Fulfillment - old school</li><li>Generosity -
+      soft&nbsp;</li><li>Gratitude - nice taint</li><li>Humility - faded nice
+      tones</li><li>Kindness - bright!</li><li>Love -
+      vintage</li><li>Mindfulness - dark</li><li>Passion - orange &amp;
+      bright&nbsp;</li><li>Positivity - soft&nbsp;</li><li>Strength - sharp skin
+      colours</li><li>Warmth - washed out</li><li>Wellness - colourful</li></ol>
   - question: Is this pack for me?
     answer_html: >-
       <p>This pack is an amazing allrounder pack with 18 presets (!!) that

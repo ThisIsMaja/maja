@@ -41,7 +41,7 @@ faqs:
       <ul><li>ULTIMATE PACK 1 (colour explosion)</li><li>ULTIMATE PACK 2 (travel
       bestseller)</li><li>ULTIMATE PACK 3 (biggest pack, best for
       portraits)<strong>&nbsp;</strong></li><li>BEYOND OCEAN PACK (20% donation
-      to the ocean)</li><li>NEW ULTIMATE MOBILE PACK (amazing new
+      to the ocean)</li><li>NEW ULTIMATE MOBILE PACK (amazing new soft
       tones)</li></ul>
   - question: Is this Pack for me?
     answer_html: >-
