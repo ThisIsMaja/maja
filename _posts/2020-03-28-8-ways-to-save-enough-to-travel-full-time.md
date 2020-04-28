@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2020-04-24 00:00:00
+date: 2020-04-24
+published: true
 slug: ways-to-save-to-travel-full-time
 title: 8 ways to save enough to travel full time
 meta-description: >-

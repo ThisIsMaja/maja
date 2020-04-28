@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-09-18
+published: true
 slug: two-weeks-exploring-hawaii
 title: '2 Weeks Exploring Hawaii: Island of Hawaii, Oahu & Kauai'
 meta-description: >-

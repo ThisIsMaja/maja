@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-11-26
+published: true
 slug: best-local-islands-maldives
 title: The Best local Islands to Visit in The Maldives (On a Budget)
 meta-description: Explore the most beautiful and secluded islands in The Maldives on a budget.

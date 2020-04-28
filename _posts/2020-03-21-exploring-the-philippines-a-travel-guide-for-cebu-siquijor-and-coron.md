@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-04-26 00:00:00
+published: true
 slug: exploring-the-philippines
 title: 'Exploring the Philippines:'
 meta-description:

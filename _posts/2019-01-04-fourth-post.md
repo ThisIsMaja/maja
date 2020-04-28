@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-01-19
+published: true
 slug: obertauern-ski-holiday
 title: 'Winter Holiday In Obertauern, Austria'
 meta-description: Everything you need to know about your next ski trip in Obertauern.

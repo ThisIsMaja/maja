@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-06-16
+published: true
 slug: ten-day-greece-itinerary
 title: '10 Day Greece Itinerary: Exploring The Islands of Koufonisia, Sifnos and Milos'
 meta-description: >-

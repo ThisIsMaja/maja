@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-02-12
+published: true
 slug: guide-to-stay-productive-and-healthy
 title: An (imperfect) guide to help you stay productive and healthy
 meta-description: >-

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-11-06
+published: true
 slug: one-month-in-bali
 title: One Month In Bali
 meta-description: >-

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-04-15
+published: true
 slug: support-yourself-through-coronavirus
 title: 10 Ways to support yourself and others during the coronavirus crisis
 meta-description: >-
