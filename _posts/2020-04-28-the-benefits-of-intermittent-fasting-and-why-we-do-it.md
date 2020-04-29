@@ -71,10 +71,12 @@ sections:
     banner-caption:
     banner-fixed: true
     columns: true
-    main-paragraph-emphasis: Fasting and starvation are not the same things.
+    main-paragraph-emphasis:
     body-content_html: >-
       <h4>What is intermittent fasting?</h4><p>Fasting and starvation are not
-      the same things. Fasting is voluntary abstaining or partly abstaining from
+      the same things. When practised correctly and safely, fasting has
+      scientifically proven to have many positive benefits which we will get to
+      shortly.</p><p>Fasting is voluntary abstaining or partly abstaining from
       food for a certain period of time. Our nomadic ancestors lived like this
       for thousands of years. Even today, religious groups like Muslims,
       Christians, and Buddhist monks practice fasting.&nbsp;</p><h4>How do you
