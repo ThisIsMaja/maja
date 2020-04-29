@@ -128,7 +128,7 @@ sections:
     banner-caption:
     banner-fixed: true
     columns: true
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: don’t be so strict that you’re constantly watching the clock
     body-content_html: >-
       <h4><strong><em>Tips for intermittent fasting and what you can
       drink/eat?</em></strong></h4><p>Once you fall into the rhythm of an
