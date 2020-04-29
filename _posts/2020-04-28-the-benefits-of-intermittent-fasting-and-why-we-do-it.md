@@ -169,7 +169,8 @@ sections:
       review of metabolic cascades. <em>International Journal of Food
       Properties</em>, [online] 21(1), pp.2700-2713. Available at:<a
       href="https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312">
-      <u>https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312</u></a>
+      <u>https://www.tandfonline.com/doi/full/10.1080/10942</u></a></li><li><a
+      href="https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312"><u>912.2018.1560312</u></a>
       [Accessed 25 March 2020].&nbsp;</li><li>Watson, J. (2018). Hungry for
       Health: Fasting's Medical Benefits. [online] Medscape. Available at:<a
       href="https://www.medscape.com/viewarticle/898953">
