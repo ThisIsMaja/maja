@@ -105,18 +105,18 @@ sections:
     columns: true
     main-paragraph-emphasis: 'Our energy and focus has greatly improved, especially in the morning'
     body-content_html: >-
-      <h4><strong><em>What happens to your body when you
-      fast?</em></strong></h4><p>Something amazing happens to your body when you
-      fast. Instead of using glucose for energy, your body switches to a process
-      called ketogenesis. It starts burning fat, producing ketones that are used
-      for energy. When we start using ketones for energy instead of glucose, it
-      can actually enhance our physical and mental endurance and reboot a
-      sluggish metabolism.&nbsp;</p><h4><strong><em>What&rsquo;re the benefits
-      of intermittent fasting?</em></strong></h4><p>Before we get into the
-      scientifically proven benefits I will speak about the benefits we have
-      personally noticed in ourselves.</p><ul><li>Our energy and focus has
-      greatly improved, especially in the morning</li><li>Our muscles feel less
-      sore after workouts</li><li>We need to workout a lot less to stay in great
+      <h4>What happens to your body when you fast?</h4><p>Something amazing
+      happens to your body when you fast. Instead of using glucose for energy,
+      your body switches to a process called ketogenesis. It starts burning fat,
+      producing ketones that are used for energy. When we start using ketones
+      for energy instead of glucose, it can actually enhance our physical and
+      mental endurance and reboot a sluggish
+      metabolism.&nbsp;</p><h4>What&rsquo;re the benefits of intermittent
+      fasting?</h4><p>Before we get into the scientifically proven benefits I
+      will speak about the benefits we have personally noticed in
+      ourselves.</p><ul><li>Our energy and focus has greatly improved,
+      especially in the morning</li><li>Our muscles feel less sore after
+      workouts</li><li>We need to workout a lot less to stay in great
       shape</li><li>We rarely ever feel bloated</li><li>We feel more in tune
       with our bodies and what they really need</li></ul><p>Here&rsquo;s some of
       the benefits of intermittent fasting research has
