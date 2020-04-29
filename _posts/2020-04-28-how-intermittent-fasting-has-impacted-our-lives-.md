@@ -13,7 +13,7 @@ meta-description: >-
   & cell repair, memory retention, flushing out toxins etc.
 meta-keywords: 'intermittent fasting, fasting, benefits of fasting'
 image_path: /images/marie-jake/mariefeandjakesnow-1.jpg
-banner-1_path: /images/marie-jake/mariefeandjakesnow-bali2.jpg
+banner-1_path: /images/marie-jake/gili-island2.jpg
 banner-fixed: false
 categories:
   - wellbeing
