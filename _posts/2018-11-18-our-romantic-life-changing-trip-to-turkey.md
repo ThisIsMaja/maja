@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-11-18
+date: 2018-11-18 00:00:00
 published: true
 slug: life-changing-trip-to-turkey
 title: Our romantic life-changing trip to Turkey
@@ -29,7 +29,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/turkey/cappadocia-photography6.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption: This is a test link to a preset pacl
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -93,3 +93,4 @@ gallery:
     size: full
     alt:
 ---
+
