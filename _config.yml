@@ -5,7 +5,6 @@ defaults:
       path: ''
       type: 'posts'
     values:
-      _hide_content: true
       permalink: /posts/:slug
 
 collections:
