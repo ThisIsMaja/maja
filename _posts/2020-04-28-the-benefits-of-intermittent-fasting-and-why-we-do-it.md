@@ -46,26 +46,7 @@ intro-content_html: >-
   the diet where you need to starve yourself for hours on end? This is not what
   fasting is. To be clear we do not strictly watch the clock every single day
   and start eating the minute we hit 16 hours fasted. Marie will fast on around
-  50% of days while I&rsquo;ll fast on most.&nbsp;</p><p>When people ask us
-  &lsquo;what&rsquo;s your secret? How do you stay in shape and stay healthy
-  while travelling the world with minimal to no routine?&rsquo; Our answer is,
-  we don&rsquo;t have a secret but we have been eating a whole plant-based diet
-  for 5 years and we&rsquo;ve been intermittent fasting for 2 years. If we had
-  to try to assess the effect these two factors have on our overall health, we
-  would attribute around 80% of the reason we feel so healthy and energized to
-  these two lifestyle choices!</p><p>Of course, this is our opinion on how we
-  feel, but we didn&rsquo;t start intermittent fasting 2 years ago because we
-  thought it would be fun. We gave it a try because there were several studies
-  that highlighted a lot of potential benefits. In our minds it only made sense
-  that if our bodies were constantly using up energy to digest food, then that
-  energy could never be focused on other important bodily functions like muscle
-  &amp; cell repair, memory retention, flushing out toxins etc.</p><p>But can
-  intermittent fasting really become part of a healthy eating plan for you?
-  Isn&rsquo;t intermittent fasting the diet where you need to starve yourself
-  for hours on end? This is not what fasting is. To be clear we do not strictly
-  watch the clock every single day and start eating the minute we hit 16 hours
-  fasted. Marie will fast on around 50% of days while I&rsquo;ll fast on
-  most.&nbsp;</p>
+  50% of days while I&rsquo;ll fast on most.&nbsp;</p><p>&nbsp;</p>
 sections:
   - banner_path: /images/food/plantbased-food1.jpg
     banner-caption:
