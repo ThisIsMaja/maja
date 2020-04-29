@@ -155,7 +155,7 @@ sections:
       thoughts on intermittent fasting. Please share with everyone else your
       experience with intermittent fasting if you have
       tried.&nbsp;</p><p>&nbsp;</p>
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path:
     size: full
