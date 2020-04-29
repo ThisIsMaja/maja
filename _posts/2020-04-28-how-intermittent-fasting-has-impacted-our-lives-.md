@@ -14,7 +14,7 @@ meta-description: >-
 meta-keywords: 'intermittent fasting, fasting, benefits of fasting'
 image_path: /images/marie-jake/mariefeandjakesnow-1.jpg
 banner-1_path: /images/marie-jake/mariefeandjakesnow-bali2.jpg
-banner-fixed: true
+banner-fixed: false
 categories:
   - wellbeing
   - lifestyle
@@ -67,47 +67,37 @@ intro-content_html: >-
   fasted. Marie will fast on around 50% of days while I&rsquo;ll fast on
   most.&nbsp;</p>
 sections:
-  - banner_path:
+  - banner_path: /images/food/plantbased-food1.jpg
     banner-caption:
     banner-fixed: true
     columns: true
-    main-paragraph-emphasis: Take a social media timeout to avoid cluttering your mind
+    main-paragraph-emphasis: Fasting and starvation are not the same things.
     body-content_html: >-
-      <ol><li><strong>Follow the rules of the country you are currently
-      in</strong> for your own safety and those around you.</li><li><strong>Take
-      a step back and turn your situation positive.</strong> Allowing negative
-      emotions to fester because you are feeling upset or pressured can affect
-      your mental health and productivity. Creating positive affirmations like
-      &lsquo;I will get through this&rsquo; can make a big
-      difference.</li><li><strong>Stick with your normal routine the best you
-      can.</strong> Example: don&rsquo;t go into a panic because you cannot go
-      to the gym anymore. Find a home exercise alternative and stick to your
-      routine, this will help you to stay calm and
-      productive.</li><li><strong>Reach out to loved ones.</strong> Now is a
-      good time to say those things you need to say. You never know, the other
-      person might just be needing your support more than you
-      realise.</li><li><strong>Take a social media timeout </strong>to avoid
-      cluttering your mind with inflated panic. Choose one valid resource to get
-      your coronavirus information from and only allow yourself to check it once
-      a day. If you feel the itch to check your socials more, look at a funny
-      cat video instead.</li><li><strong>Make a &lsquo;worry-list&rsquo;
-      </strong>about what is freaking you out because of the virus. Writing it
-      down and meditating over it will most likely have you realise you are
-      overreacting and give you possible solutions to your
-      worries.</li><li><strong>Create new healthy habits.</strong> Do more yoga
-      self-practice, eat more vitamin-loaded fruits and vegetables, sleep more.
-      These are good habits to improve not only your immune system but your
-      overall health.</li><li><strong>Practice meditation and
-      mindfulness</strong> with positive affirmations to keep yourself calm and
-      productive during a crisis.</li><li><strong>Be grateful</strong> for what
-      you have and realise that it is probably
-      enough.</li><li><strong>Don&rsquo;t be selfish </strong>and panic buy.
-      Leave some for everyone.</li></ol><p>It is important to stay true to
-      yourself during this time and not get lost in the sea of over-information
-      and crisis. If you can anchor yourself, stay calm and positive, you can
-      become a support anchor for those in your immediate community. Positivity,
-      just like panic, can be contagious, and once it takes flight it&rsquo;s
-      hard to stop.&nbsp; &nbsp;</p>
+      <h4><strong><em>What is intermittent fasting?</em></strong></h4><p>Fasting
+      and starvation are not the same things. Fasting is voluntary abstaining or
+      partly abstaining from food for a certain period of time. Our nomadic
+      ancestors lived like this for thousands of years. Even today, religious
+      groups like Muslims, Christians, and Buddhist monks practice
+      fasting.&nbsp;</p><h4><strong><em>How do you do intermittent
+      fasting?</em></strong></h4><p>When you do intermittent fasting, you cycle
+      through periods of eating (called the eating window) and periods of not
+      eating. The most popular intermittent fasting plan out there is the 16:8
+      plan.</p><p>On the 16:8 plan, your eating window during the day is 8
+      hours, where after you don&rsquo;t eat for 16 hours. For example if you
+      eat your dinner at 8pm then your next meal will be at 12noon the next day
+      for a 16 hour fast. If you are really looking to optimise your health and
+      lose some weight, it&rsquo;s a good idea to eat a healthy whole
+      plant-based diet. Fill your meals with fresh fruits and vegetables during
+      your eating window. Combining both a whole plant-based diet and
+      intermittent fasting is where we believe the magic results appear.
+      Remember, if you consume any form of calories within your fasting window
+      it will break the fast. Your stomach will start the digestion process and
+      you will not reap the benefits of being in a fasting state.</p><p>In the
+      beginning, it can be hard to adjust and you might find yourself a bit
+      irritable and hungry in the morning. In our experience, it took about one
+      month to become used to being fasted in the morning. Now it is a part of
+      our everyday life and we even do full workouts having not eaten for over
+      12-14 hours.</p>
 show-gallery: true
 gallery:
   - image_path:
