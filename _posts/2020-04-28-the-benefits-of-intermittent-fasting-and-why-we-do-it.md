@@ -3,7 +3,7 @@ layout: post
 date: 2020-04-28 00:00:00
 published: true
 slug: benefits-of-intermittent-fasting
-title: How Intermittent Fasting has impacted our lives.
+title: The benefits of intermittent fasting and why we do it
 meta-description: >-
   We didn’t start intermittent fasting 2 years ago because we thought it would
   be fun. We gave it a try because there were several studies at the time that
