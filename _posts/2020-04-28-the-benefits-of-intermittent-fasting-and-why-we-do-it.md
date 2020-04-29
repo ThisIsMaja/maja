@@ -73,17 +73,18 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4>What is intermittent fasting?</h4><p>Fasting and starvation are not
-      the same things. When practised correctly and safely, fasting has
-      scientifically proven to have many positive benefits which we will get to
-      shortly.</p><p>Fasting is voluntary abstaining or partly abstaining from
-      food for a certain period of time. Our nomadic ancestors lived like this
-      for thousands of years. Even today, religious groups like Muslims,
-      Christians, and Buddhist monks practice fasting.&nbsp;</p><h4>How do you
-      do intermittent fasting?</h4><p>When you do intermittent fasting, you
-      cycle through periods of eating (called the eating window) and periods of
-      not eating. The most popular intermittent fasting plan out there is the
-      16:8 plan.</p><p>On the 16:8 plan, your eating window during the day is 8
+      <h4><strong>What is intermittent fasting?</strong></h4><p>Fasting and
+      starvation are not the same things. When practised correctly and safely,
+      fasting has scientifically proven to have many positive benefits which we
+      will get to shortly.</p><p>Fasting is voluntary abstaining or partly
+      abstaining from food for a certain period of time. Our nomadic ancestors
+      lived like this for thousands of years. Even today, religious groups like
+      Muslims, Christians, and Buddhist monks practice
+      fasting.&nbsp;</p><h4><strong>How do you do intermittent
+      fasting?</strong></h4><p>When you do intermittent fasting, you cycle
+      through periods of eating (called the eating window) and periods of not
+      eating. The most popular intermittent fasting plan out there is the 16:8
+      plan.</p><p>On the 16:8 plan, your eating window during the day is 8
       hours, where after you don&rsquo;t eat for 16 hours. For example if you
       eat your dinner at 8pm then your next meal will be at 12noon the next day
       for a 16 hour fast. If you are really looking to optimise your health and
