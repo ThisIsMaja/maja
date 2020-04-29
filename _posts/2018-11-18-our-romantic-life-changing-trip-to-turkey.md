@@ -29,7 +29,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/turkey/cappadocia-photography6.jpg
     banner-fixed: true
-    banner-caption: This is a test link to a preset pacl
+    banner-caption:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
