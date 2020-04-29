@@ -12,36 +12,61 @@ meta-description: >-
   energy could never be focused on other important bodily functions like muscle
   & cell repair, memory retention, flushing out toxins etc.
 meta-keywords: 'intermittent fasting, fasting, benefits of fasting'
-image_path: /images/marie-jake/jake.jpg
-banner-1_path: /images/Coronavirus/coronavirus2.jpg
+image_path: /images/marie-jake/mariefeandjakesnow-1.jpg
+banner-1_path: /images/marie-jake/mariefeandjakesnow-bali2.jpg
 banner-fixed: true
 categories:
   - wellbeing
+  - lifestyle
 tags:
-  - mental Health
-  - conscious living
-author: Marie Fe
-image-1_path: /images/Coronavirus/coronavirus1.jpg
-image-2_path:
-intro-paragraph-emphasis: >-
-  Now, more than ever, we should take extra care not only with our physical
-  health but also our mental health.
+  - diet
+  - Self Improvement
+author: Jake Snow
+image-1_path: /images/marie-jake/mariefeandjakesnow-1.jpg
+image-2_path: /images/food/vegan-food9.jpg
+intro-paragraph-emphasis:
 intro-content_html: >-
-  <p>The coronavirus will have an effect on you one way or another.
-  Unfortunately, the virus and its aftereffects have washed across the globe,
-  affecting businesses, travel and leisure activities. There have been cases of
-  infections in almost every country, resulting in lockdowns, restricted
-  movement and widespread panic. Even if you are pretty sure you won&rsquo;t get
-  the virus, just knowing about it and seeing updated statistics on almost all
-  social channels can have you feeling exhausted, overwhelmed and
-  unproductive.</p><p>Now, more than ever, we should take extra care not only
-  with our physical health but also our mental health. Our moods and behaviours
-  can indirectly affect those around us and when we decide to approach this
-  coronavirus storm with calm, positivity and a clear mind, we can create a
-  positive space filled with good vibrations for ourselves and others.</p>
+  <p>When people ask us &lsquo;what&rsquo;s your secret? How do you stay in
+  shape and stay healthy while travelling the world with minimal to no
+  routine?&rsquo; Our answer is, we don&rsquo;t have a secret but we have been
+  eating a whole plant-based diet for 5 years and we&rsquo;ve been intermittent
+  fasting for 2 years. If we had to try to assess the effect these two factors
+  have on our overall health, we would attribute around 80% of the reason we
+  feel so healthy and energized to these two lifestyle choices!</p><p>Of course,
+  this is our opinion on how we feel, but we didn&rsquo;t start intermittent
+  fasting 2 years ago because we thought it would be fun. We gave it a try
+  because there were several studies that highlighted a lot of potential
+  benefits. In our minds it only made sense that if our bodies were constantly
+  using up energy to digest food, then that energy could never be focused on
+  other important bodily functions like muscle &amp; cell repair, memory
+  retention, flushing out toxins etc.</p><p>But can intermittent fasting really
+  become part of a healthy eating plan for you? Isn&rsquo;t intermittent fasting
+  the diet where you need to starve yourself for hours on end? This is not what
+  fasting is. To be clear we do not strictly watch the clock every single day
+  and start eating the minute we hit 16 hours fasted. Marie will fast on around
+  50% of days while I&rsquo;ll fast on most.&nbsp;</p><p>When people ask us
+  &lsquo;what&rsquo;s your secret? How do you stay in shape and stay healthy
+  while travelling the world with minimal to no routine?&rsquo; Our answer is,
+  we don&rsquo;t have a secret but we have been eating a whole plant-based diet
+  for 5 years and we&rsquo;ve been intermittent fasting for 2 years. If we had
+  to try to assess the effect these two factors have on our overall health, we
+  would attribute around 80% of the reason we feel so healthy and energized to
+  these two lifestyle choices!</p><p>Of course, this is our opinion on how we
+  feel, but we didn&rsquo;t start intermittent fasting 2 years ago because we
+  thought it would be fun. We gave it a try because there were several studies
+  that highlighted a lot of potential benefits. In our minds it only made sense
+  that if our bodies were constantly using up energy to digest food, then that
+  energy could never be focused on other important bodily functions like muscle
+  &amp; cell repair, memory retention, flushing out toxins etc.</p><p>But can
+  intermittent fasting really become part of a healthy eating plan for you?
+  Isn&rsquo;t intermittent fasting the diet where you need to starve yourself
+  for hours on end? This is not what fasting is. To be clear we do not strictly
+  watch the clock every single day and start eating the minute we hit 16 hours
+  fasted. Marie will fast on around 50% of days while I&rsquo;ll fast on
+  most.&nbsp;</p>
 sections:
   - banner_path:
-    banner-caption_html:
+    banner-caption:
     banner-fixed: true
     columns: true
     main-paragraph-emphasis: Take a social media timeout to avoid cluttering your mind
@@ -86,5 +111,5 @@ gallery:
   - image_path:
     size: full
     alt:
-gallery-text: 
 ---
+
