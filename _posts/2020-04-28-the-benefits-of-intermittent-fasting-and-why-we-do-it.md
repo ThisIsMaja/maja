@@ -130,8 +130,8 @@ sections:
     columns: true
     main-paragraph-emphasis: don’t be so strict that you’re constantly watching the clock
     body-content_html: >-
-      <h4><strong><em>Tips for intermittent fasting and what you can
-      drink/eat?</em></strong></h4><p>Once you fall into the rhythm of an
+      <h4><strong>Tips for intermittent fasting and what you can
+      drink/eat?</strong></h4><p>Once you fall into the rhythm of an
       intermittent fasting lifestyle, you will realise it&rsquo;s not that
       difficult to stick to. It will become a natural way for you to eat. If you
       feel the need you can drink black coffee with no milk and no sugar or
@@ -150,11 +150,11 @@ sections:
       improved our lives in many ways and we believe it can do the same for you
       if you give it a chance.</p><p>Subscribe to our newsletter where we will
       share with you the best resources we have found on the topic including
-      podcasts, articles, and books from experts in the field.</p><p>Let us know
-      in the comments below if you have any questions about our journey or our
-      thoughts on intermittent fasting. Please share with everyone else your
+      podcasts, articles, and books from experts in the field.</p><p><u>Let us
+      know in the comments below if you have any questions about our journey or
+      our thoughts on intermittent fasting. Please share with everyone else your
       experience with intermittent fasting if you have
-      tried.&nbsp;</p><p>&nbsp;</p>
+      tried.&nbsp;</u></p><p>&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
