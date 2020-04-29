@@ -1,0 +1,90 @@
+---
+layout: post
+date: 2020-04-28 00:00:00
+published: false
+slug: benefits-of-intermittent-fasting
+title: How Intermittent Fasting has impacted our lives.
+meta-description: >-
+  we didn’t start intermittent fasting 2 years ago because we thought it would
+  be fun. We gave it a try because there were several studies at the time that
+  highlighted a lot of potential benefits and in our minds it only made sense
+  that if our bodies were constantly using up energy to digest food, then that
+  energy could never be focused on other important bodily functions like muscle
+  & cell repair, memory retention, flushing out toxins etc.
+meta-keywords: 'intermittent fasting, fasting, benefits of fasting'
+image_path: /images/marie-jake/jake.jpg
+banner-1_path: /images/Coronavirus/coronavirus2.jpg
+banner-fixed: true
+categories:
+  - wellbeing
+tags:
+  - mental Health
+  - conscious living
+author: Marie Fe
+image-1_path: /images/Coronavirus/coronavirus1.jpg
+image-2_path:
+intro-paragraph-emphasis: >-
+  Now, more than ever, we should take extra care not only with our physical
+  health but also our mental health.
+intro-content_html: >-
+  <p>The coronavirus will have an effect on you one way or another.
+  Unfortunately, the virus and its aftereffects have washed across the globe,
+  affecting businesses, travel and leisure activities. There have been cases of
+  infections in almost every country, resulting in lockdowns, restricted
+  movement and widespread panic. Even if you are pretty sure you won&rsquo;t get
+  the virus, just knowing about it and seeing updated statistics on almost all
+  social channels can have you feeling exhausted, overwhelmed and
+  unproductive.</p><p>Now, more than ever, we should take extra care not only
+  with our physical health but also our mental health. Our moods and behaviours
+  can indirectly affect those around us and when we decide to approach this
+  coronavirus storm with calm, positivity and a clear mind, we can create a
+  positive space filled with good vibrations for ourselves and others.</p>
+sections:
+  - banner_path:
+    banner-caption:
+    banner-fixed: true
+    columns: true
+    main-paragraph-emphasis: Take a social media timeout to avoid cluttering your mind
+    body-content_html: >-
+      <ol><li><strong>Follow the rules of the country you are currently
+      in</strong> for your own safety and those around you.</li><li><strong>Take
+      a step back and turn your situation positive.</strong> Allowing negative
+      emotions to fester because you are feeling upset or pressured can affect
+      your mental health and productivity. Creating positive affirmations like
+      &lsquo;I will get through this&rsquo; can make a big
+      difference.</li><li><strong>Stick with your normal routine the best you
+      can.</strong> Example: don&rsquo;t go into a panic because you cannot go
+      to the gym anymore. Find a home exercise alternative and stick to your
+      routine, this will help you to stay calm and
+      productive.</li><li><strong>Reach out to loved ones.</strong> Now is a
+      good time to say those things you need to say. You never know, the other
+      person might just be needing your support more than you
+      realise.</li><li><strong>Take a social media timeout </strong>to avoid
+      cluttering your mind with inflated panic. Choose one valid resource to get
+      your coronavirus information from and only allow yourself to check it once
+      a day. If you feel the itch to check your socials more, look at a funny
+      cat video instead.</li><li><strong>Make a &lsquo;worry-list&rsquo;
+      </strong>about what is freaking you out because of the virus. Writing it
+      down and meditating over it will most likely have you realise you are
+      overreacting and give you possible solutions to your
+      worries.</li><li><strong>Create new healthy habits.</strong> Do more yoga
+      self-practice, eat more vitamin-loaded fruits and vegetables, sleep more.
+      These are good habits to improve not only your immune system but your
+      overall health.</li><li><strong>Practice meditation and
+      mindfulness</strong> with positive affirmations to keep yourself calm and
+      productive during a crisis.</li><li><strong>Be grateful</strong> for what
+      you have and realise that it is probably
+      enough.</li><li><strong>Don&rsquo;t be selfish </strong>and panic buy.
+      Leave some for everyone.</li></ol><p>It is important to stay true to
+      yourself during this time and not get lost in the sea of over-information
+      and crisis. If you can anchor yourself, stay calm and positive, you can
+      become a support anchor for those in your immediate community. Positivity,
+      just like panic, can be contagious, and once it takes flight it&rsquo;s
+      hard to stop.&nbsp; &nbsp;</p>
+show-gallery: true
+gallery:
+  - image_path:
+    size: full
+    alt:
+---
+
