@@ -5,7 +5,7 @@ published: true
 slug: benefits-of-intermittent-fasting
 title: How Intermittent Fasting has impacted our lives.
 meta-description: >-
-  we didn’t start intermittent fasting 2 years ago because we thought it would
+  We didn’t start intermittent fasting 2 years ago because we thought it would
   be fun. We gave it a try because there were several studies at the time that
   highlighted a lot of potential benefits and in our minds it only made sense
   that if our bodies were constantly using up energy to digest food, then that
