@@ -131,13 +131,13 @@ sections:
       weight loss. It is a lesson in will power and a way for us to break the
       control food has over our mood and the way we spend our time. It has
       improved our lives in many ways and we believe it can do the same for you
-      if you give it a chance.</p><p>Subscribe to our newsletter where we will
-      share with you the best resources we have found on the topic including
-      podcasts, articles, and books from experts in the field.</p><p><u>Let us
-      know in the comments below if you have any questions about our journey or
-      our thoughts on intermittent fasting. Please share with everyone else your
-      experience with intermittent fasting if you have
-      tried.&nbsp;</u></p><p>&nbsp;</p>
+      if you give it a chance.</p><p>Subscribe to our <strong><a
+      href="/subscribe">newsletter</a></strong> where we will share with you the
+      best resources we have found on the topic including podcasts, articles,
+      and books from experts in the field.</p><p><u>Let us know in the comments
+      below if you have any questions about our journey or our thoughts on
+      intermittent fasting. Please share with everyone else your experience with
+      intermittent fasting if you have tried.&nbsp;</u></p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: true
