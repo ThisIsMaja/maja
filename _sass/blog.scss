@@ -285,6 +285,19 @@ a.category:hover {
   display: block;
 }
 
+// Blog poost banner caption
+
+.banner-caption_html {
+  font-size: 0.8rem;
+  color: rgb(120,120,130);
+  text-align: right;
+  padding: 0.25rem;
+}
+
+.banner-caption_html a {
+  border-bottom: 1px solid;
+}
+
 // Previous and next
 
 .previous-and-next {

@@ -34,7 +34,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/egypt-jordan/marsa-shagra.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: 'Egypt is full dreams, mysteries and memories'
     body-content_html: >-
@@ -67,7 +67,7 @@ sections:
       to have.</p>
   - banner_path: /images/egypt-jordan/cairo-travel.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -93,7 +93,7 @@ sections:
       Cairo!</p><ul><li>Sea Salt Bakery and Cafe in Cairo</li></ul>
   - banner_path: /images/egypt-jordan/marsa-shagra1.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -114,7 +114,7 @@ sections:
       Shagra Village</u></a></p>
   - banner_path: /images/egypt-jordan/marsa-shagra2.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: 'Travel Talk Tour, Egypt Leg (11 days)'
     body-content_html: >-
@@ -153,7 +153,7 @@ sections:
       water is perfectly refreshing.</p>
   - banner_path: /images/egypt-jordan/redsea-diving2.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -165,7 +165,7 @@ sections:
       Luxor</li><li>Snorkelling in Dahab</li><li>Diving in Marsa Alam</li></ul>
   - banner_path: /images/egypt-jordan/petra-jordan2.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -211,7 +211,7 @@ sections:
       quite nice and a good spot for photos at sunset!</p>
   - banner_path: /images/egypt-jordan/rue-de-seine.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -234,7 +234,7 @@ sections:
       your experience in the comments below.</p>
   - banner_path:
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html:
@@ -252,4 +252,5 @@ gallery:
   - image_path: /images/egypt-jordan/rue-de-seine.jpg
     size:
     alt:
+gallery-text: 
 ---

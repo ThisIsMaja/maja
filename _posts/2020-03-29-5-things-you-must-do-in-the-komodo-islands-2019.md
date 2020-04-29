@@ -33,7 +33,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/komodo-islands/Komodo-Islands3.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: '1'
     body-content_html: >-
@@ -56,7 +56,7 @@ sections:
       don&rsquo;t get to close to those sleepy giants!</p>
   - banner_path: /images/komodo-islands/Komodo-Islands5.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: '2'
     body-content_html: >-
@@ -75,7 +75,7 @@ sections:
       move.&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/komodo-islands/Komodo-Islands7.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: '3'
     body-content_html: >-
@@ -96,7 +96,7 @@ sections:
       even pick a few pieces up while your there.</p>
   - banner_path: /images/komodo-islands/Komodo-Islands6.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: '4'
     body-content_html: >-
@@ -112,7 +112,7 @@ sections:
       of this amazing event.</p>
   - banner_path: /uploads/komodo-islands.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: '5'
     body-content_html: >-
@@ -145,4 +145,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

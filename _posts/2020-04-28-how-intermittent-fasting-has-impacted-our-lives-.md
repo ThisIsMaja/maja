@@ -41,7 +41,7 @@ intro-content_html: >-
   positive space filled with good vibrations for ourselves and others.</p>
 sections:
   - banner_path:
-    banner-caption:
+    banner-caption_html:
     banner-fixed: true
     columns: true
     main-paragraph-emphasis: Take a social media timeout to avoid cluttering your mind
@@ -86,5 +86,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---
-

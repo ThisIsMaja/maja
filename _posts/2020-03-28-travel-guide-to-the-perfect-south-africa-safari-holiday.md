@@ -32,7 +32,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/south-africa/south-africa-couple4.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: >-
       we were constantly on edge, wondering when the next beautiful creature
       would appear
@@ -75,7 +75,7 @@ sections:
       parks!</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari1.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: the only good cage is an empty cage
     columns: false
     body-content_html: >-
@@ -93,7 +93,7 @@ sections:
       South Africa with great beaches.</p>
   - banner_path: /images/south-africa/south-africa-couple3.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: Accommodation
     columns: false
     body-content_html: >-
@@ -124,7 +124,7 @@ sections:
       animals.&nbsp;</p>
   - banner_path: /images/south-africa/south-africa-safari2.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: wild life surprises you when you least expect it
     columns: false
     body-content_html: >-
@@ -148,7 +148,7 @@ sections:
       so we recommend renting a car and driving instead.</li></ul>
   - banner_path: /images/south-africa/south-africa-couple1.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: Time & Money
     columns: true
     body-content_html: >-
@@ -173,7 +173,7 @@ sections:
       wildlife this way.</p>
   - banner_path: /images/south-africa/south-africa-safari4.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: Visas & Safety
     columns: false
     body-content_html: >-
@@ -195,7 +195,7 @@ sections:
       surroundings, so make sure you are too.</p>
   - banner_path: /images/south-africa/south-africa-safari5.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis:
     columns: false
     body-content_html: >-
@@ -213,7 +213,7 @@ sections:
       animals are near.</li></ul>
   - banner_path: /uploads/kruger-national-park.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: Our South African Rhino Project
     columns: false
     body-content_html: >-
@@ -250,7 +250,7 @@ sections:
       Mhondoro Lodge and Mantobeni Safari Camp.</p>
   - banner_path:
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis:
     columns: false
     body-content_html: >-
@@ -289,4 +289,5 @@ gallery:
   - image_path: /images/south-africa/south-africa-safari2.jpg
     size: full
     alt:
+gallery-text: 
 ---

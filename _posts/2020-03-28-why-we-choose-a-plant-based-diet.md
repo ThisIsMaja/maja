@@ -37,7 +37,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/food/vegan-food6.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: >-
       What you put in your body over your lifetime will have a far greater
@@ -117,7 +117,7 @@ sections:
       believe?</p><h2>&nbsp;</h2>
   - banner_path: /images/banners/maja-banner-3.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: >-
       There are many inspiring people out there that have dedicated their lives
@@ -178,4 +178,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

@@ -28,7 +28,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/greece/mariefeandjakesnow-greece8.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -45,7 +45,7 @@ sections:
       you feeling refreshed and rejuvenated.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece15.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -66,7 +66,7 @@ sections:
       'Peas' (the best food we had in Greece)</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece13.jpg
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -85,7 +85,7 @@ sections:
       trip, you can also fly to nearby Naxos. You then need to catch a ferry
       from Naxos to Koufonisia which takes 2.5 hours.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece3.jpg
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -124,7 +124,7 @@ sections:
       such a small island and the best way to explore is on a bike. You can rent
       these from Bicycles Moscha (mosxaprasinou@hotmail.com).</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece9.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -140,7 +140,7 @@ sections:
       buy fresh produce on the island and prepare your own healthy meals at My
       Island Home.</li></ul>
   - banner_path: /images/greece/mariefeandjakesnow-greece10.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -166,7 +166,7 @@ sections:
       href="https://www.tripadvisor.co.za/Restaurant_Review-g1163211-d1795520-Reviews-Meropi-Kamares_Sifnos_Cyclades_South_Aegean.html"><u>Meropi
       Restaurant</u></a></li></ul>
   - banner_path: /images/greece/mariefeandjakesnow-greece5.jpg
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -204,7 +204,7 @@ sections:
       is another way to meet the locals and experience the Greek culture with
       some good food and dancing.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece1.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -233,7 +233,7 @@ sections:
       href="https://www.barriello.com/"><u>Bariello Mediterranean
       restaurant</u></a></li></ul>
   - banner_path: /images/greece/mariefeandjakesnow-greece4.jpg
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -269,7 +269,7 @@ sections:
       alternative if you have more time in Milos or if the weather isn&rsquo;t
       playing its part.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece11.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -283,7 +283,7 @@ sections:
       prices&nbsp;<a target="_blank"
       href="https://en.aegeanair.com/"><u>here</u></a>.</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece7.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -306,4 +306,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

@@ -33,13 +33,13 @@ intro-content_html: >-
 sections:
   - banner_path: /images/sri-lanka/sri-lanka5.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: "<h2>Helpful advice to start your trip</h2><ul><li>Get a sim card at the airport (Mobitel sim 40 Gb for 18$, works almost everywhere).</li><li>If you decide to head down south first, like we did, take the train &ndash; it&rsquo;s very easy cheap and an incredible experience. Don&rsquo;t worry, you can get your ticket last minute at the train station.</li><li>Don&rsquo;t be afraid to visit Sri Lanka during low season. We only had one rainy day.&nbsp; Low season is much cheaper, you can save up to 40-50% on rooms and its not very busy at all.&nbsp;</li></ul><p>If you need more information or want to plan a guided tour through Sri Lanka we cannot speak highly enough of Mindful Travels. This is a tour company owned by our good friend Amar. He is one of the most genuine and caring people we have met in all our travels. You can find his website <a target=\"_blank\" href=\"https://www.mindfultravels.net/\"><u>here</u></a>. If you mention that you know Marie and Jake, he will give you a good deal \U0001F642</p>"
   - banner_path: /images/sri-lanka/Sri-Lanka1560977.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -70,7 +70,7 @@ sections:
       Galle</li></ul>
   - banner_path: /images/sri-lanka/Sri-Lanka1560986.jpg
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -100,7 +100,7 @@ sections:
       Its only a 20-30 min drive</li></ul>
   - banner_path: /images/sri-lanka/sri-lanka3.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -132,7 +132,7 @@ sections:
       hotel or the locals for the bus number, very cheap)</p>
   - banner_path: /uploads/sri-lanka.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -157,7 +157,7 @@ sections:
       stop</h3><p>Talalla to Yala (3 hours by car, 7000-8000 rp for 3 ppl)</p>
   - banner_path: /images/sri-lanka/Sri-Lanka1560790.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -179,7 +179,7 @@ sections:
       next stop</h3><p>Yala to Udawalawe (van and local bus, 2 -3 hours)</p>
   - banner_path: /images/sri-lanka/Sri-Lanka1560881.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -205,7 +205,7 @@ sections:
       (by&nbsp; local bus &ndash; ask the locals, 3 hours, very cheap)</p>
   - banner_path: /uploads/sri-lanka-drone-shot.jpg
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -248,7 +248,7 @@ sections:
       at 4:30 am)</li></ul>
   - banner_path: /uploads/sri-lanka-sigiriya.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -284,7 +284,7 @@ sections:
       see a lot of elephants)</li></ul>
   - banner_path: /uploads/sri-lanka-beach.jpg
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -308,4 +308,5 @@ gallery:
   - image_path: /images/sri-lanka/Sri-Lanka1560790.jpg
     size: full
     alt:
+gallery-text: 
 ---

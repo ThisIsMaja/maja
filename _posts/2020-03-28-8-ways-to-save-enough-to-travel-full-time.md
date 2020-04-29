@@ -47,7 +47,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/travel/maja-travel4.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: >-
       How many people do you hear say they would love to become a musician, a
@@ -55,7 +55,7 @@ sections:
     body-content_html: "<h2>find seasonal work</h2><p>There are thousands of jobs you could take in order to earn the capital you need to kickstart your dreams. The problem is most jobs to start don&rsquo;t pay particularly well. Also how many of these jobs can you leave after 3-6 months and expect to return the following year? This is where seasonal jobs can really make a difference.</p><p>This is without a doubt the main reason we are able to do what we do! We work super hard for 4 months a year in the wine industry in Australia saving up every penny, then we hit the road for 8 months. Just to be clear, this lifestyle isn&rsquo;t what we plan to do forever.</p><p>The beauty of working seasonal jobs is not only do you save up the money to travel, you free up the time to pursue what it is you really desire, your passion projects! How many people do you hear say they would love to become a musician, a wedding planner, a DJ, a freelance photographer, or even a travel blogger \U0001F609 but they just don&rsquo;t have the time to get started? Fill out our contact form if you want more information on how you can get a seasonal job like ours!</p><h3>spend time doing enjoyable things that don&rsquo;t cost money</h3><p>In the past it was always things like drinks with friends that held us both back from hitting our savings goals. One drink would lead to another and the next thing we know we&rsquo;ve spent $100-200 in one night. Thats like a weeks travel budget in Asia \U0001F648</p><p>We have learnt to enjoy the things that money cant buy like a beautiful sunset, or a walk at the beach, park, forest etc. When you find enjoyment in activities that don&rsquo;t cost any money you will notice a real difference in the amount you can save. It is important that when you&rsquo;re working hard to save you don&rsquo;t stay in your house cooped up all day. It is not sustainable and you won&rsquo;t get that daily motivation to help you stick to your goals.&nbsp;</p><h2>spend time doing enjoyable things that can potentially make you money</h2><p>Spend time doing enjoyable things that can potentially make you money! In this day and age there are an infinite amount of ways to make money. If you develop a skill or learn knowledge that other people are willing to pay for,&nbsp; you are well on your way to creating a side income.</p><p>In terms of travel, this means you can make money any where in the world by using your skill or teaching your knowledge. This is the holy grail of long term travel. Now if you can find a hobby with earning potential that you actually enjoy, you will find that mastering your hobby of choice comes easy. All of a sudden you have an avenue to make income while you travel.</p><p>For us, our&nbsp;<a target=\"_blank\" href=\"/posts/how-to-make-amazing-couple-photos\">photography</a>&nbsp;and influence has become this avenue, we know people who teach surf lessons, others who teach yoga, some people write blogs, others do graphic design or make videos. Whatever it is, if you can find something you enjoy that has earning potential, spend time mastering it!</p>"
   - banner_path: /images/travel/maja-travel6.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: Travelling in itself is a lesson in minimalism
     body-content_html: >-
@@ -96,7 +96,7 @@ sections:
       Do you really need it?</p>
   - banner_path:
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: >-
       when you feel that hesitation, realise its a good thing, and then make
@@ -107,4 +107,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

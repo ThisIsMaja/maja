@@ -40,7 +40,7 @@ intro-content_html: >-
 sections:
   - banner_path:
     banner-fixed:
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: Is this really your true goal? Ask yourself if you want to do this
     body-content_html: >-
       <p>So, what can you do differently this year to implement change in your
@@ -76,4 +76,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

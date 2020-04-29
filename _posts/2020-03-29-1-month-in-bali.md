@@ -34,7 +34,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/bali/bali-indonesia4.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: First Stop
     body-content_html: >-
@@ -76,7 +76,7 @@ sections:
       Bali</li><li>Party at Old Man&rsquo;s</li></ul>
   - banner_path: /uploads/uluwatu-beach.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: Head to the Beaches
     body-content_html: >-
@@ -109,7 +109,7 @@ sections:
       Bingin, Thomas, Karma, Green Bowl and Blue point.</li></ul>
   - banner_path: /images/bali/bali-indonesia7.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: Experience the Jungle
     body-content_html: >-
@@ -149,7 +149,7 @@ sections:
       Healing Food Cafe)</p>
   - banner_path: /images/bali/bali-indonesia8.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: Island time
     body-content_html: >-
@@ -213,7 +213,7 @@ sections:
       beach</li></ul>
   - banner_path: /images/marie-jake/Website 2-24.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -279,7 +279,7 @@ sections:
       tour at IG: @balinusapenidatour</p>
   - banner_path: /images/bali/bali-indonesia2.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: Explore the North
     body-content_html: >-
@@ -321,7 +321,7 @@ sections:
       the Tirta Gangga Water palace&nbsp;</li></ul>
   - banner_path: /images/bali/bali-indonesia9.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: Finish it off with a Bang
     body-content_html: >-
@@ -356,4 +356,5 @@ gallery:
   - image_path: /images/style/maja-stock-43.jpg
     size:
     alt:
+gallery-text: 
 ---

@@ -927,6 +927,15 @@ a.category:hover {
 .cms-editor-active .editor-link {
   display: block; }
 
+.banner-caption_html {
+  font-size: 0.8rem;
+  color: #787882;
+  text-align: right;
+  padding: 0.25rem; }
+
+.banner-caption_html a {
+  border-bottom: 1px solid; }
+
 .previous-and-next {
   display: flex;
   justify-content: space-between; }

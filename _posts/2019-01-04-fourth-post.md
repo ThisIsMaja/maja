@@ -35,7 +35,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/Obertauern/Obertauern4.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: Obertauern is also located close to Salzburg
     body-content_html: >-
@@ -52,7 +52,7 @@ sections:
       snow regardless of which date we chose for our trip between the months of
       November and May!</p><p>I could go on and on - we love this place!</p>
   - banner_path: /uploads/snowy-mountains-2-1.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -65,7 +65,7 @@ sections:
       first day. The conditions on the mountain were also perfect to ski or
       snowboard.</p>
   - banner_path: /uploads/panoramic-view-on-mountains-1.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: many hotels have a little spa area in-house
     body-content_html: >-
@@ -83,7 +83,7 @@ sections:
       something, head to the Obertauern website&nbsp;<u><a target="_blank"
       href="https://www.obertauern.com/en.html">HERE</a>.</u></p>
   - banner_path: /uploads/snowy-mountain-1.jpg
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -106,7 +106,7 @@ sections:
       href="https://www.foxy.at/"><u>Foxy Obertauern</u></a> (modern, stylish,
       good price)</li></ul>
   - banner_path: /uploads/obertauern-by-night-1.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -125,4 +125,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---
