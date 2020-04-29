@@ -2,9 +2,10 @@
 title: The Allstar Bonus Pack
 layout: product
 shopify-id: 4389821513771
+order: 2
 price: $10.00
-compare-at-price:
-save-percentage:
+compare-at-price: $19.95
+save-percentage: false
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
 short-description: Brand New! Soft Allrounders. 8 Mobile & Desktop
@@ -38,12 +39,13 @@ main-gallery:
 faqs:
   - question: What's Included?
     answer_html: >-
-      <p>Our limited edition is now available for only 10$. Let us introduce you
-      our brand new Allstar Pack</p><ol><li>The All Rounder - soft
-      bright&nbsp;</li><li>The Beach - soft intense colours</li><li>The Bright -
-      dreamy</li><li>The Pro - moody</li><li>The Soft - dreamy</li><li>The
-      Vibrant - intense dark</li><li>The Warm - soft faded</li><li>The Whites -
-      soft whites&nbsp;</li></ol>
+      <p>OUR LIMITED EDITION ALL STAR PACK IS NOW AVAILABLE TO YOU ALL FOR ONLY
+      $10&nbsp;</p><p>Let us introduce you our BRAND NEW ALLSTAR&nbsp;
+      PRESETS</p><ol><li>The All Rounder - soft bright&nbsp;</li><li>The Beach -
+      soft intense colours</li><li>The Bright - dreamy</li><li>The Pro -
+      moody</li><li>The Soft - dreamy</li><li>The Vibrant - intense
+      dark</li><li>The Warm - soft faded</li><li>The Whites - soft
+      whites&nbsp;</li></ol>
   - question: How is this different to the other Ultimate Packs?
     answer_html: >-
       <p>All packs are mostly working as allrounders. This pack is for you

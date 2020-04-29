@@ -55,14 +55,7 @@ banners:
 
  -->
  <section>
-  <nav class="shop category-slider featured-bg">
-    <a class="category" href="/shop-presets"> MAJA Presets </a>
-    <!-- <a class="category" href="/shop-freebies"> Freebies </a> -->
-    <a class="category" href="/compare-presets"> Compare Presets </a>
-    <a class="category" href="/faqs"> FAQs </a>
-    <a class="category" href="/preset-reviews"> Reviews </a>
-    <a class="category" href="/preset-ambassador"> Make an income with us </a>
-  </nav>
+{% include shop-slider-nav.html %}
 </section>
 
 <!-- <section class="padded centered featured-bg">
@@ -105,7 +98,6 @@ banners:
   <div class="centered padded-1 capped-width">
   <h1 data-aos="fade"> Bestsellers </h1>
   <p> One-click mobile and desktop presets by @mariefeandjakesnow </p>
-  <a href="/shop-presets" class="subtle-button"> See All Presets </a>
   </div>
   <!-- <nav id="product-filter" class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
       <a href="#" class="category">all</a>
@@ -117,7 +109,9 @@ banners:
 
   <div id="product-loop" class="blog-masonry">
 
-    {% for product in site.products %}
+    {% assign sorted-products = site.products | sort: 'order' %}
+
+    {% for product in sorted-products %}
 
     {% if product.home-page-feature == true %}
 
@@ -125,7 +119,9 @@ banners:
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
             <a href="{{product.url}}" class="card">
+              {% unless product.save-percentage == false %}
               <span class="save">SAVE<br>{{ product.save-percentage }}</span>
+              {% endunless %}
               <img src="{{product.image_path}}">
               <div class="padded-1">
                 <h3> {{product.title}}</h3>
@@ -143,7 +139,9 @@ banners:
     {% endfor %}
 
   </div>
-
+  <p class="padded-1 centered">
+    <a href="/shop-presets" class="subtle-button"> See All Presets </a>
+  </p>
 </div></section>
 
 <section class="padded-1">

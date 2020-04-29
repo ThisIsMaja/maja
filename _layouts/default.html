@@ -5,17 +5,25 @@
 </head>
 <body id="body">
 
+  {% unless page.hide-header == true %}
   {% include site-header.html %}
+  {% endunless %}
 
   {{content}}
 
+  {% unless page.hide-header == true %}
   {% include site-footer.html %}
+  {% endunless %}
 
   {% include body-scripts.html %}
 
   {% if page.hide-from-google == true %}
   <META NAME="ROBOTS" CONTENT="NOINDEX, FOLLOW">
   {% endif %}
+
+  <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7591299.js"></script>
+<!-- End of HubSpot Embed Code -->
 
 </body>
 </html>

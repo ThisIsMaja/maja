@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Maja | Marie Fe & Jake Snow
+page-id: home
 meta-description:
 meta-keywords:
 featured-image_path:
-banner-1_path: /videos/maja-banner-min.gif
-banner-position: 60% 30%;
+banner-1_desktop_video_path: /videos/maja-banner-min.mp4
+banner-1_mobile_video_path: /videos/mobile-banner-2.mp4
 banner-2_path: /images/banners/maldives-banner.jpg
 banner-position: 50% 50%;
+banner-2_path: /images/banners/gili-banner.jpg
 ---
 
 <!-- this is just an example. You can safely delete these and add your own blocks -->
@@ -15,11 +17,13 @@ banner-position: 50% 50%;
 <!-- banner -->
 
 <section class="padded padded-t-0 home-page-banner mob-hide centered">
- <img src="{{page.banner-1_path}}">
+  <video width="100%" height="auto" autoplay muted loop playsinline poster="/videos/home-video-poster-mobile.png">
+    <source src="{{page.banner-1_desktop_video_path}}" type="video/mp4" />
+  </video>
 </section>
 <section class="home-video-banner mob-show">
   <video width="100%" height="auto" autoplay muted loop playsinline poster="/videos/home-video-poster-mobile.png">
-    <source src="/videos/mobile-banner-2.mp4" type="video/mp4" />
+    <source src="{{page.banner-1_mobile_video_path}}" type="video/mp4" />
   </video>
 </section>
 
@@ -41,10 +45,9 @@ banner-position: 50% 50%;
     <section class="slick-blog-container">
 
       <div class="relative slick-blog-loop">
-
         {% for post in site.posts limit:6 %}
 
-        <div>
+        <div class="{% unless post.loop.index == 1 %} hidden {% endunless %}">
           <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
             <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
               <div class="col-6 left mob-hide">
@@ -55,7 +58,9 @@ banner-position: 50% 50%;
               </div>
               <div class="col-12 centered">
                 <h2> {{post.title}} </h2>
+                <p class="subtitle right"> Read Now > </p>
                </div>
+
             </a>
         </div>
 
@@ -71,8 +76,8 @@ banner-position: 50% 50%;
       <div class="col-4_md-6_sm-12 editable padded-1" data-aos="fade-left">
 
         <a class="about-link" href="/about">
-          <h2>about
-          <span class="about-arrow"> <img src="/images/icons/arrow.png" /> </span>
+          <h2> <span> about </span>
+          <img class="about-arrow" src="/images/icons/arrow.png" />
           </h2>
           <p>What is <strong>M A J A</strong> all about? Come and get to know us, we've got a lot to share with you.</p>
         </a>
@@ -80,8 +85,8 @@ banner-position: 50% 50%;
       </div>
       <div class="col-4_md-6_sm-12 editable padded-1" data-aos="fade-right">
         <a class="about-link" href="/about#must-haves">
-          <h2>our must haves
-          <span class="about-arrow"> <img src="/images/icons/arrow.png" /> </span>
+          <h2><span> our must haves </span>
+            <img class="about-arrow" src="/images/icons/arrow.png" />
           </h2>
           <p>These products help us achieve happiness, efficiency and producitivity every day. &nbsp;</p>
         </a>
@@ -117,8 +122,8 @@ banner-position: 50% 50%;
       <p><img src="/images/gifs/gif-download.gif" /></p>
     </div>
     <div class="col-6_sm-12-middle padded bump-left white-bg" data-aos="fade-left">
-      <h2 class="editable subtle-heading">FREE MAJA GIFS <img class="small-flower" src="/images/gifs/flower_01.gif"></h2>
-      <p class="editable"> We teamed up with <a href="http://instagram.com/Caroline.kjellberg" target="_blank"> @Caroline.kjellberg </a> to bring you a sweet little pack of Travel, Love and Positivity GIFS that you can use directly on your instagram stories. </p>
+      <h2 class="editable subtle-heading">FREE MAJA GIFS <img class="small-flower" src="/images/gifs/flower_01.gif" /></h2>
+      <p class="editable"> We teamed up with <a href="http://instagram.com/Caroline.kjellberg" target="_blank"> @caroline.kjellberg </a> to bring you a sweet little pack of Travel, Love and Positivity GIFS that you can use directly on your instagram stories. </p>
       {% include free-preset-signup.html %}
 
     </div>

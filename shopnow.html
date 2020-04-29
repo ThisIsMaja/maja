@@ -1,0 +1,55 @@
+---
+layout: default
+title: Maja Shop Mobile Menu
+hide-from-google: true
+hide-header: true
+hide-footer: true
+links:
+  - link_text: New Shop
+    link_url: /shop
+  - link_text: Big Preset Sale up to 70%
+    link_url: /shop-presets
+  - link_text: Compare Preset Packs
+    link_url: /compare-presets
+  - link_text: New $10 Bonus Preset
+    link_url: /products/all-star
+  - link_text: Earn money online with us
+    link_url: /preset-ambassador
+  - link_text: FAQs
+    link_url: /faqs
+---
+
+<section class="explore-menu light-bg">
+<div class="bg-animation">
+<nav class="padded">
+
+  <div class="mini-header">
+    <a href="/" data-aos="fade">
+      <img class="logo" src="/images/logo/maja-logo-6.png">
+    </a>
+  </div>
+  {% for item in page.links %}
+
+  <a href="{{item.link_url}}"> {{item.link_text}}</a>
+
+  {% endfor %}
+
+  <a class="emphasis" href="/subscribe">  MAJA TALK NEWSLETTER </a>
+
+  <nav class="inline socials margin-top-2 padded-1">
+    <a href="http://www.instagram.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-instagram"></i> -->
+      instagram
+    </a> /
+    <a href="http://www.youtube.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-youtube"></i> -->
+      youtube
+    </a> /
+    <a href="https://vm.tiktok.com/W1teQt/" target="_blank" style="--index: 5;">
+      <!-- <i class="fab fa-youtube"></i> -->
+      tiktok
+    </a>
+  </nav>
+</nav>
+</div>
+</section>

@@ -7,7 +7,7 @@ featured-image_path:
 ---
 
 <section class="grey-bg">
-  <div class="col-12 left padding-0">
+  <div class="col-12 left padding-0 mob-hide">
     <button class="back-button" onclick="goBack()">< Go Back</button>
   </div>
   <div class="centered padded capped-width">
@@ -24,13 +24,17 @@ featured-image_path:
 
   <div id="product-loop" class="padded blog-masonry">
 
-    {% for product in site.products limit: 15 %}
+    {% assign sorted-products = site.products | sort: 'order' %}
+
+    {% for product in sorted-products limit: 15 %}
 
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
             <a href="{{product.url}}" class="card">
+              {% unless product.save-percentage == false %}
               <span class="save">SAVE<br>{{ product.save-percentage }}</span>
+              {% endunless %}
               <img src="{{product.image_path}}" nopin="nopin">
               <div class="padded-1">
                 <h3> {{product.title}}</h3>

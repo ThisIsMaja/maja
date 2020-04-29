@@ -1,19 +1,20 @@
 ---
 layout: post
-date: 2019-11-06 10:00:00
-slug:
-title: 'exploring the philippines: a travel guide for cebu, siquijor and coron'
+date: 2020-04-26 00:00:00
+published: true
+slug: exploring-the-philippines
+title: 'Exploring the Philippines:'
 meta-description:
 meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
-image_path: /images/philippines/philippines-travel10.jpg
-banner-1_path: /images/philippines/philippines-travel3.jpg
+image_path: /images/philippines/Coron 5-1.jpg
+banner-1_path: /images/philippines/philippines-travel10.jpg
 banner-fixed: false
 categories:
   - travel
 tags:
   - asia
 author: Marie Fe & Jake Snow
-image-1_path: /images/philippines/philippines-travel12.jpg
+image-1_path:
 image-2_path: /images/philippines/Coron 5-1.jpg
 intro-paragraph-emphasis: The Philippines is definitely one of our favourite places in the world!
 intro-content_html: >-

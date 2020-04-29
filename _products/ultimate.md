@@ -1,7 +1,8 @@
 ---
 title: Ultimate Pack 1
 layout: product
-shopify-id: 4360618344491
+shopify-id: 1829753225280
+order: 6
 price: $14.95
 compare-at-price: $34.95
 save-percentage: 57%
@@ -89,7 +90,7 @@ gallery:
     alt: short description of this image
   - image_path: /images/free-preset/free-preset.jpg
     alt: short description of this image
-reviews: 233
+reviews: 300
 show-on-compare-page: true
 video_banner_path: /images/shop/pack1-compare.mp4
 video_poster_path: /images/shop/pack1-cover.jpg

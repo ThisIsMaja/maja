@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2019-01-03 00:00:00
+date: 2019-01-03
+published: true
 slug: egypt-and-jordan-in-3-weeks
 title: Egypt and Jordan in 3 Weeks
 meta-description: >-

@@ -2,6 +2,7 @@
 title: Ultimate Pack 3
 shopify-id: 3666480234557
 layout: product
+order: 4
 price: $24.95
 compare-at-price: $59.95
 save-percentage: 58%
