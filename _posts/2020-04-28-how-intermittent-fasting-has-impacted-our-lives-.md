@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-04-28 00:00:00
-published: false
+published: true
 slug: benefits-of-intermittent-fasting
 title: How Intermittent Fasting has impacted our lives.
 meta-description: >-
