@@ -124,6 +124,37 @@ sections:
       energy</li><li>Has anti-inflammatory effects</li><li>Has anti-aging
       effects and helps to heal the body on a cellular level</li><li>Protects
       against chronic disease like diabetes and cardiovascular disease</li></ul>
+  - banner_path: /images/food/plantbased-food2.jpg
+    banner-caption:
+    banner-fixed: true
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h4><strong><em>Tips for intermittent fasting and what you can
+      drink/eat?</em></strong></h4><p>Once you fall into the rhythm of an
+      intermittent fasting lifestyle, you will realise it&rsquo;s not that
+      difficult to stick to. It will become a natural way for you to eat. If you
+      feel the need you can drink black coffee with no milk and no sugar or
+      herbal tea. You can also try apple cider vinegar in the morning which
+      helps with digestion and doesn&rsquo;t break your fast.&nbsp;</p><p>We
+      also make sure to never consume any calories after 8.30pm. It means that
+      the latest we ever eat the next day is 12.30pm. And while we are on the
+      topic of the fasting window, don&rsquo;t be so strict that you&rsquo;re
+      constantly watching the clock. If you have fasted for 15 hours and you
+      need to eat before you go out, then eat. If you know you will be out all
+      day and you only have one opportunity to eat some food in the morning,
+      have a bite to eat.&nbsp;</p><p>Not only are there multiple
+      scientifically-proven benefits including anti-aging effects and increased
+      weight loss. It is a lesson in will power and a way for us to break the
+      control food has over our mood and the way we spend our time. It has
+      improved our lives in many ways and we believe it can do the same for you
+      if you give it a chance.</p><p>Subscribe to our newsletter where we will
+      share with you the best resources we have found on the topic including
+      podcasts, articles, and books from experts in the field.</p><p>Let us know
+      in the comments below if you have any questions about our journey or our
+      thoughts on intermittent fasting. Please share with everyone else your
+      experience with intermittent fasting if you have
+      tried.&nbsp;</p><p>&nbsp;</p>
 show-gallery: true
 gallery:
   - image_path:
