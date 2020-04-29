@@ -155,6 +155,42 @@ sections:
       our thoughts on intermittent fasting. Please share with everyone else your
       experience with intermittent fasting if you have
       tried.&nbsp;</u></p><p>&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: true
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p><strong><em>References</em></strong></p><ol><li>Ahmed, A., Saeed, F.,
+      Arshad, M., Afzaal, M., Imran, A., Ali, S., Niaz, B., Ahmad, A. and Imran,
+      M. (2018). Impact of intermittent fasting on human health: an extended
+      review of metabolic cascades. <em>International Journal of Food
+      Properties</em>, [online] 21(1), pp.2700-2713. Available at:<a
+      href="https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312">
+      <u>https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312</u></a>
+      [Accessed 25 March 2020].&nbsp;</li><li>Watson, J. (2018). Hungry for
+      Health: Fasting's Medical Benefits. [online] Medscape. Available at:<a
+      href="https://www.medscape.com/viewarticle/898953">
+      <u>https://www.medscape.com/viewarticle/898953</u></a> [Accessed 25 March
+      2020].</li><li>Longo, V. and Mattson, M. (2014). Fasting: Molecular
+      Mechanisms and Clinical Applications. <em>Cell Metabolism</em>, [online]
+      19(2), pp.181-192. Available at:<a
+      href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946160/">
+      <u>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946160/</u></a> [Accessed
+      25 March 2020].</li><li>Trepanowski, J., Kroeger, C., Barnosky, A.,
+      Klempel, M., Bhutani, S., Hoddy, K., Gabel, K., Freels, S., Rigdon, J.,
+      Rood, J., Ravussin, E. and Varady, K., 2017. Effect of Alternate-Day
+      Fasting on Weight Loss, Weight Maintenance, and Cardioprotection Among
+      Metabolically Healthy Obese Adults. <em>JAMA Internal Medicine</em>,
+      [online] 177(7), p.930. Available at:<a
+      href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2623528">
+      <u>https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2623528</u></a>
+      [Accessed 26 March 2020].</li><li>Tello, M., 2020. <em>Intermittent
+      Fasting: Surprising Update - Harvard Health Blog</em>. [online] Harvard
+      Health Blog. Available at:<a
+      href="https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156">
+      <u>https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156</u></a>
+      [Accessed 26 March 2020].</li></ol><p>&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
