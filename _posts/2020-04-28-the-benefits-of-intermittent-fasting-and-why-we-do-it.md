@@ -22,8 +22,8 @@ tags:
   - diet
   - Self Improvement
 author: Jake Snow
-image-1_path: /images/marie-jake/mariefeandjakesnow-1.jpg
-image-2_path: /images/food/vegan-food3.jpg
+image-1_path: /images/food/vegan-food3.jpg
+image-2_path: /images/marie-jake/mariefeandjakesnow-1.jpg
 intro-paragraph-emphasis: >-
   we didn’t start intermittent fasting 2 years ago because we thought it would
   be fun.
