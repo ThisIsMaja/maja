@@ -1,11 +1,17 @@
 ---
-title: Free Preset
+title: Free MAJA Preset
 layout: freebie
 form_id: free-preset
-image_path: /images/shop/Accountability Calendar - May.jpg
-short-description: Stunning vibrant presets for your next tropical holiday
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-long-section: true
+image_path: /images/shop/free-preset.jpg
+short-description: Edit with our preset and see for yourself
+description: >-
+  Many of our customers wonder if presets are worth investing in and are unsure
+  of how to use them. We want you to feel comfortable and see the results you
+  can get from presets for yourself :)
+
+
+  DOWNLOAD NOW
+long-section: false
 ---
 
 ## This is a short heading about something
