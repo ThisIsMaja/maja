@@ -1,6 +1,7 @@
 ---
 title: Free Animated Gifs
 layout: freebie
+order: 1
 form_id: free-gif
 image_path: /images/gifs/gif-download.gif
 short-description: by MAJA x  @caroline.kjellberg

@@ -1,13 +1,14 @@
 ---
 title: May 2020 - Accountability Calendar
 layout: freebie
+order: 1
 form_id: accountability-calendar-may
 image_path: /images/shop/Accountability Calendar - May.jpg
 short-description: Track your goals
 description: |-
   Welcome to 2020 introducing your Accountability Calendar
 
-  WE HAVE A CHALLENGE FOR YOU! 
+  WE HAVE A CHALLENGE FOR YOU!
 
   DOWNLOAD FOR FREE NOW
 long-section: true

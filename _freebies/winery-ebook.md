@@ -1,6 +1,7 @@
 ---
 title: Winery Ebook
 layout: freebie
+order: 1
 form_id: winery-ebook
 image_path: /images/shop/ultimate-2.PNG
 short-description: Free Sticker for your Stories
