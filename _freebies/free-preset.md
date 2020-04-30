@@ -13,7 +13,7 @@ description: >-
   LOVE
 
   POSITIVITY
-long-section: true
+long-section: false
 ---
 
 ## This is a short heading about something
