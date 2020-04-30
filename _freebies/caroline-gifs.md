@@ -4,14 +4,7 @@ layout: freebie
 form_id: free-gif
 image_path: /images/gifs/gif-download.gif
 short-description: by MAJA x  @caroline.kjellberg
-description: We teamed up with the talented Caroline to create some unique GIFS for you to
-use on your stories. There are 6 GIFS in total.
-
-TRAVEL,
-
-LOVE,
-
-POSITIVITY
+description: We teamed up with the talented Caroline to create some unique GIFS for you to use on your stories. There are 6 GIFS in total. TRAVEL, LOVE, POSITIVITY
 long-section: true
 ---
 
