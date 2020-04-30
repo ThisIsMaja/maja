@@ -8,9 +8,9 @@ description: >-
   We teamed up with the talented Caroline to create some unique GIFS for you to
   use on your stories. There are 6 GIFS in total.
 
-  TRAVEL
+  TRAVEL,
 
-  LOVE
+  LOVE,
 
   POSITIVITY
 long-section: false
