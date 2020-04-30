@@ -2,7 +2,7 @@
 title: Seasonal winery work in Australia
 layout: freebie
 order: 1
-published: false
+published: true
 form_id: winery-ebook
 image_path: /images/shop/cover-small-transparent.png
 short-description: Learn how we saved money to pursue our dream
