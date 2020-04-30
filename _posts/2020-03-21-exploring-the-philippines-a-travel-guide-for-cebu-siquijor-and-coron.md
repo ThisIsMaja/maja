@@ -28,7 +28,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/philippines/philippines-travel8.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html: Edited with <a href="/products/ultimate">Waterfall</a>
     columns: true
     main-paragraph-emphasis: the most beautiful and mystical waterfalls we've ever seen
     body-content_html: >-
@@ -42,7 +42,7 @@ sections:
       throughout.&nbsp;</p>
   - banner_path:
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -74,7 +74,7 @@ sections:
       night.&nbsp;</li></ul>
   - banner_path: /images/philippines/philippines-travel9.jpg
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: 'Chasing waterfalls is easy in the mystical, laid-back island of Siquijor'
     body-content_html: >-
@@ -111,7 +111,7 @@ sections:
       will arrange for motorbike rental and diving excursions.&nbsp;</li></ul>
   - banner_path: /images/philippines/philippines-travel6.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -155,4 +155,5 @@ gallery:
   - image_path: /images/style/maja-stock-43.jpg
     size:
     alt:
+gallery-text: 
 ---

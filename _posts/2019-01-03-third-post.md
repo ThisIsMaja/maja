@@ -31,7 +31,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/style/maja-stock-19.jpg
     banner-fixed:
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: >-
       I never thought that I would ever be the kind of person to admit that I am
@@ -42,6 +42,7 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---
 
 Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.

@@ -914,6 +914,28 @@ a.category:hover {
   margin-top: 0.5rem;
   font-weight: 600; }
 
+.editor-link {
+  display: none;
+  position: absolute;
+  right: 1rem;
+  margin-top: 1rem;
+  color: teal;
+  padding: 0.2rem 1rem;
+  border: 1px solid;
+  border-radius: 50px; }
+
+.cms-editor-active .editor-link {
+  display: block; }
+
+.banner-caption_html {
+  font-size: 0.8rem;
+  color: #787882;
+  text-align: right;
+  padding: 0.25rem; }
+
+.banner-caption_html a {
+  border-bottom: 1px solid; }
+
 .previous-and-next {
   display: flex;
   justify-content: space-between; }

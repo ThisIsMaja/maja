@@ -47,7 +47,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/Italy/Dolomites-Italy5.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: >-
       Think about it: When someone asks you how you are doing, how likely are
@@ -83,7 +83,7 @@ sections:
       my view on life forever.</p>
   - banner_path:
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -107,13 +107,13 @@ sections:
       to our healthy routines of yoga, reading, journaling.&nbsp;</p>
   - banner_path: /images/nature/mariefeandjakesnow-banner4.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: Your dreams are worth pursuing
     body-content_html: "<h3>2020: new life decisions and visions we want to manifest</h3><p>Now our goal is to get back on track in 2020. Stick to our routines, reach our new goals. I will definitely talk about our goals and how we define them in our stories in a next blog post.</p><p>In order to deal with our new life decisions, I started talking to my new life coach, Laura, a couple of months ago. Whenever I feel like I need advice from someone who has a neutral opinion about my life, I call her.</p><p>A life coach is offering guidance by clarifying and supporting the achievement of personal and professional goals. He or she is helping you to improve communication skills and establishing a work-life-balance in order to strengthen your mental health. But also finding your worth, working on your mental health as well as a sense of confidence and self-love.</p><p>Life is beautiful, but it can also be extremely overwhelming sometimes especially when you&rsquo;re trying to find a balance between your work, social life, self-care and everything in between. This is what Laura is helping me with. \uFEFF</p><h3>Your dreams are worth pursuing</h3><p>Working with a life coach feels more aligned with me than seeing a therapist. I want someone to ask me questions that would help me find the answers within myself. Not someone who has read all the books, but still has no idea how I was actually feeling.</p><p>If you&rsquo;re struggling with your mental health, if you&rsquo;re going through a hard time, giving into self-sabotage and feel like you aren&rsquo;t worthy of living a life you love, don&rsquo;t be afraid to ask for help. Because your mental health matters.</p><p>That&rsquo;s why I thought I would share some great books Laura recommended to me as well as her details in case you&rsquo;re consider hiring someone to support you on your journey towards a more aligned and balanced life.</p>"
   - banner_path:
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -142,4 +142,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: 5 Reasons why your New Year’s resolutions won’t work
 date: 2020-04-25 00:00:00
+published: true
 slug: why-new-years-resolutions-wont-work
 meta-description: >-
   Have you ever set New Year's resolutions and haven't been able to keep them?
@@ -39,7 +40,7 @@ intro-content_html: >-
 sections:
   - banner_path:
     banner-fixed:
-    banner-caption:
+    banner-caption_html:
     main-paragraph-emphasis: Is this really your true goal? Ask yourself if you want to do this
     body-content_html: >-
       <p>So, what can you do differently this year to implement change in your
@@ -75,4 +76,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

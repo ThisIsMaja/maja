@@ -3,6 +3,7 @@ layout: default
 ---
 
 <section class="banner {% if page.banner-fixed == true %} fixed {% endif %} grid-right" style="background-image:url({{page.banner-1_path}});">
+  <a href="cloudcannon:collections/{{ page.path }}" class="editor-link">Edit this post </a>
 
   <!-- <div class="overlay"></div> -->
 
@@ -62,15 +63,24 @@ layout: default
 
   <section class="banner {% if section.banner-fixed == true %} fixed {% endif %} grid-right right" style="background-image:url({{section.banner_path}});">
 
-    <div class="col-4_sm-6_xs-12-bottom padded-2">
-        <p class="margin-0"> <span class="highlighted-text">{{section.banner-caption}}</span></p>
-    <div>
+    <a href="cloudcannon:#sections[{{ forloop.index0 }}].banner_path" class="editor-link" data-cms-editor-link-style="modal">
+      Edit banner image
+    </a>
+
+    <!-- <div class="col-4_sm-6_xs-12-bottom padded-2">
+        <p class="margin-0"> <span class="highlighted-text">{{section.banner-caption_html}}</span></p>
+    <div> -->
 
   </section>
 
 {% endunless %}
 
-<section class="{% cycle 'light-bg','white-bg', 'grey-bg' %} blog-content">
+<section class="{% cycle 'light-bg','white-bg' %} blog-content">
+  <p class="banner-caption_html">{{section.banner-caption_html}}</p>
+  <!-- Cloud Cannon Editor Link -->
+  <a href="cloudcannon:#sections[{{ forloop.index0 }}]" class="editor-link" data-cms-editor-link-style="modal">
+    Edit section
+  </a>
   <div class="grid-center padded capped-width">
 
     {% unless section.main-paragraph-emphasis == nil %}
@@ -128,6 +138,14 @@ layout: default
 </section>
 
 {% endif %}
+
+<section class="padded grey-bg">
+  <script src="https://cdn.commento.io/js/count.js"></script>
+  <a class="subtitle" href="{{site.url}}{{page.url}}#commento"> comments</a>
+  <script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
+
+</section>
 
 <section class="featured-bg padded related-posts">
 

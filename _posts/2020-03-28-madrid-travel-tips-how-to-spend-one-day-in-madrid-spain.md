@@ -39,7 +39,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/city/madrid-spain2.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -60,7 +60,7 @@ sections:
       few calories as well!</p>
   - banner_path: /uploads/cozy-brown-bar-in-madrid.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: food is an experience
     body-content_html: >-
@@ -83,7 +83,7 @@ sections:
       but cozy bar with unique interior)</li></ul>
   - banner_path: /uploads/agustina-salas-lsrfau3v8de-unsplash-1.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: Accommodation
     body-content_html: >-
@@ -104,7 +104,7 @@ sections:
       occasions)</li></ul>
   - banner_path: /uploads/beautiful-street-of-madrid.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: We Will Be Back Madrid!
     body-content_html: >-
@@ -119,4 +119,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---

@@ -28,7 +28,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/maldives/amilla-fushi6.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -50,7 +50,7 @@ sections:
       best time to plan your getaway as the islands aren&rsquo;t as busy.</p>
   - banner_path: /images/maldives/amilla-fushi9.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -74,7 +74,7 @@ sections:
       affordable than staying at the resort itself.</p>
   - banner_path: /images/maldives/amilla-fushi2.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: 3 of the best local islands in the Maldives
     body-content_html: >-
@@ -107,7 +107,7 @@ sections:
       $90 per room per night, including breakfast</li></ul>
   - banner_path: /images/maldives/amilla-fushi4.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -140,7 +140,7 @@ sections:
       $100 per night for a double room which includes breakfast.</li></ul>
   - banner_path: /images/maldives/amilla-fushi8.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -164,7 +164,7 @@ sections:
       around.</p>
   - banner_path: /images/maldives/amilla-fushi1.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -199,7 +199,7 @@ sections:
       vision to life.</p>
   - banner_path: /images/maldives/amilla-fushi5.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -238,4 +238,5 @@ gallery:
   - image_path:
     size:
     alt:
+gallery-text: 
 ---

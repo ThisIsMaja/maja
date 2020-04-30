@@ -1,11 +1,12 @@
 permalink: /:year/:title
 
+url: https://thisismaja.com
+
 defaults:
   - scope:
       path: ''
       type: 'posts'
     values:
-      _hide_content: true
       permalink: /posts/:slug
 
 collections:

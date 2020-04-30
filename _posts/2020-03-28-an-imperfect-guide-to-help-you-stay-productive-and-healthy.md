@@ -44,7 +44,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/style/maja-stock-14.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: It all starts in the morning!
     body-content_html: >-
@@ -89,7 +89,7 @@ sections:
       the results).</p><p>So, after a successful evening routine and a good
       night sleep, this is how my morning routine start after waking up.</p>
   - banner_path: /images/style/maja-stock-4.jpg
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis: I found a way to make the journal process easier for me
     body-content_html: >-
@@ -188,4 +188,5 @@ gallery:
   - image_path: /images/marie and jake/Website 2-24.jpg
     size: full
     alt:
+gallery-text: 
 ---

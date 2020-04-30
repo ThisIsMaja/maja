@@ -25,7 +25,7 @@ intro-content_html: "<p>If there is one thing we are good at, its couple photos.
 sections:
   - banner_path: /images/marie-jake/Website 2-5.jpg
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -43,7 +43,7 @@ sections:
       happiness&nbsp;</p>
   - banner_path: /images/Philippines/Philippines 1-1.jpg
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -72,7 +72,7 @@ sections:
       thats ok. Rome wasn&rsquo;t built in a day.</p>
   - banner_path:
     banner-fixed: false
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -100,4 +100,5 @@ gallery:
   - image_path: /images/greece/mariefeandjakesnow-greece9.jpg
     size: full
     alt:
+gallery-text: 
 ---

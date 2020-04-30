@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-11-18
+date: 2018-11-18 00:00:00
 published: true
 slug: life-changing-trip-to-turkey
 title: Our romantic life-changing trip to Turkey
@@ -29,7 +29,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/turkey/cappadocia-photography6.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -46,7 +46,7 @@ sections:
       from and to the airports (cheap/good connections)</li></ul>
   - banner_path: /images/turkey/cappadocia-photography3.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -63,7 +63,7 @@ sections:
       propose.&nbsp;</li></ul>
   - banner_path: /images/turkey/cappadocia-photography5.jpg
     banner-fixed: true
-    banner-caption:
+    banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -92,4 +92,5 @@ gallery:
   - image_path:
     size: full
     alt:
+gallery-text: 
 ---
