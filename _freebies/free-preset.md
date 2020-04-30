@@ -2,6 +2,7 @@
 title: Free MAJA Preset
 layout: freebie
 order: 1
+published: false
 form_id: free-preset
 image_path: /images/shop/free-preset.jpg
 short-description: Edit with our preset and see for yourself
