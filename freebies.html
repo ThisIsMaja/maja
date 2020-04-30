@@ -1,0 +1,55 @@
+---
+layout: default
+title: Maja free downloads and resources
+meta-description:
+meta-keywords:
+featured-image_path:
+---
+
+<section class="grey-bg">
+  <div class="col-12 left padding-0 mob-hide">
+    <button class="back-button" onclick="goBack()">< Go Back</button>
+  </div>
+  <div class="centered padded capped-width">
+  <h1 data-aos="fade"> Maja Freebies  </h1>
+  <p> A collection of resources free for our Maja community. </p>
+  </div>
+  <!-- <nav id="product-filter" class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+      <a href="#" class="category">all</a>
+    {% for category in site.data.preset-tags %}
+      <a href="#" class="category">{{category}}</a>
+    {% endfor %}
+
+  </nav> -->
+
+  <div id="product-loop" class="padded blog-masonry">
+
+    {% assign sorted-freebies = site.freebies | sort: 'order' %}
+
+    {% for product in sorted-freebies limit: 15 %}
+
+        <div class="shop-item masonry-item padded-1
+        {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
+        " data-aos="fade" data-aos-delay="500">
+            <a href="{{product.url}}" class="card">
+              <img src="{{product.image_path}}" nopin="nopin">
+              <div class="padded-1">
+                <h3> {{product.title}}</h3>
+                <p>{{product.short-description}} </p>
+              </div>
+            </a>
+          </div>
+
+    {% endfor %}
+
+  </div>
+</section>
+<!--
+<section class="featured-bg centered editable padded">
+  <h2> How presets work </h2>
+  <p> These are one-click presets for desktop and mobile to be used in the Adobe Lightroom app.  </p>
+  <div class="padded-2">
+      <div class='embed-container'><iframe src='https://www.youtube.com/embed/1KV_B4mVgOg' frameborder='0' allowfullscreen></iframe></div>
+  </div>
+  <a href="/faqs" class="button-subtle"> More Instructions & FAQs  > </a>
+</section> -->

@@ -1,10 +1,17 @@
 ---
-title: Free Preset
+title: Free Animated Gifs
 layout: freebie
-form_id: free-preset
-image_path: /images/shop/Accountability Calendar - May.jpg
-short-description: Stunning vibrant presets for your next tropical holiday
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+form_id: free-gif
+image_path: /images/gifs/gif-download.gif
+short-description: by MAJA x  @caroline.kjellberg
+description: We teamed up with the talented Caroline to create some unique GIFS for you to
+use on your stories. There are 6 GIFS in total.
+
+TRAVEL,
+
+LOVE,
+
+POSITIVITY
 long-section: true
 ---
 
