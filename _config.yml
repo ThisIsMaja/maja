@@ -1,5 +1,7 @@
 permalink: /:year/:title
 
+url: https://thisismaja.com
+
 defaults:
   - scope:
       path: ''
