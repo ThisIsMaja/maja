@@ -1,8 +1,8 @@
 ---
-title: Free Preset
+title: Free Animated Gifs
 layout: freebie
-form_id: free-preset
-image_path: /images/shop/Accountability Calendar - May.jpg
+form_id: free-gif
+image_path: /images/shop/ultimate-2.PNG
 short-description: Stunning vibrant presets for your next tropical holiday
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 long-section: true
