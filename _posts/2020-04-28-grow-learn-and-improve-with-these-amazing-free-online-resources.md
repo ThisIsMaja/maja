@@ -84,98 +84,47 @@ sections:
       'Memrise'</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
-    banner-fixed: true
+    banner-fixed: false
     columns: true
     main-paragraph-emphasis: 'Our energy and focus has greatly improved, especially in the morning'
     body-content_html: >-
-      <h4><strong>What happens to your body when you
-      fast?</strong></h4><p>Something amazing happens to your body when you
-      fast. Instead of using glucose for energy, your body switches to a process
-      called ketogenesis. It starts burning fat, producing ketones that are used
-      for energy. When we start using ketones for energy instead of glucose, it
-      can actually enhance our physical and mental endurance and reboot a
-      sluggish metabolism.&nbsp;</p><h4><strong>What are the benefits of
-      intermittent fasting?</strong></h4><p>Before we get into the
-      scientifically proven benefits I will speak about the benefits we have
-      personally noticed in ourselves.</p><ul><li>Our energy and focus has
-      greatly improved, especially in the morning</li><li>Our muscles feel less
-      sore after workouts</li><li>We need to workout a lot less to stay in great
-      shape</li><li>We rarely ever feel bloated</li><li>We feel more in tune
-      with our bodies and what they really need</li></ul><p>Here&rsquo;s some of
-      the benefits of intermittent fasting research has
-      observed:</p><ul><li>Increased weight loss</li><li>Improves memory,
-      cognitive function, and clarity of mind</li><li>Gives you more
-      energy</li><li>Has anti-inflammatory effects</li><li>Has anti-aging
-      effects and helps to heal the body on a cellular level</li><li>Protects
-      against chronic disease like diabetes and cardiovascular disease</li></ul>
-  - banner_path: /images/food/plantbased-food2.jpg
-    banner-caption:
-    banner-fixed: true
-    columns: true
-    main-paragraph-emphasis: don’t be so strict that you’re constantly watching the clock
-    body-content_html: >-
-      <h4><strong>Tips for intermittent fasting and what you can do to help
-      yourself get through</strong></h4><p>Once you fall into the rhythm of an
-      intermittent fasting lifestyle, you will realise it&rsquo;s not that
-      difficult to stick to. It will become a natural way for you to eat. If you
-      feel the need you can drink black coffee with no milk and no sugar or
-      herbal tea. You can also try apple cider vinegar in the morning which
-      helps with digestion and doesn&rsquo;t break your fast.&nbsp;</p><p>We
-      also make sure to never consume any calories after 8.30pm. It means that
-      the latest we ever eat the next day is 12.30pm. And while we are on the
-      topic of the fasting window, don&rsquo;t be so strict that you&rsquo;re
-      constantly watching the clock. If you have fasted for 15 hours and you
-      need to eat before you go out, then eat. If you know you will be out all
-      day and you only have one opportunity to eat some food in the morning,
-      have a bite to eat.&nbsp;</p><p>Not only are there multiple
-      scientifically-proven benefits including anti-aging effects and increased
-      weight loss. It is a lesson in will power and a way for us to break the
-      control food has over our mood and the way we spend our time. It has
-      improved our lives in many ways and we believe it can do the same for you
-      if you give it a chance.</p><p>Subscribe to our <strong><a
-      href="/subscribe">newsletter</a></strong> where we will share with you the
-      best resources we have found on the topic including podcasts, articles,
-      and books from experts in the field.</p><p><u>Let us know in the comments
-      below if you have any questions about our journey or our thoughts on
-      intermittent fasting. Please share with everyone else your experience with
-      intermittent fasting if you have tried.&nbsp;</u></p><p>&nbsp;</p>
-  - banner_path:
-    banner-caption:
-    banner-fixed: true
-    columns: true
-    main-paragraph-emphasis:
-    body-content_html: >-
-      <p><strong><em>References</em></strong></p><ol><li>Ahmed, A., Saeed, F.,
-      Arshad, M., Afzaal, M., Imran, A., Ali, S., Niaz, B., Ahmad, A. and Imran,
-      M. (2018). Impact of intermittent fasting on human health: an extended
-      review of metabolic cascades. <em>International Journal of Food
-      Properties</em>, [online] 21(1), pp.2700-2713. Available at:<a
-      href="https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312">
-      <u>https://www.tandfonline.com/doi/full/10.1080/10942</u></a></li><li><a
-      href="https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312"><u>912.2018.1560312</u></a>
-      [Accessed 25 March 2020].&nbsp;</li><li>Watson, J. (2018). Hungry for
-      Health: Fasting's Medical Benefits. [online] Medscape. Available at:<a
-      href="https://www.medscape.com/viewarticle/898953">
-      <u>https://www.medscape.com/viewarticle/898953</u></a> [Accessed 25 March
-      2020].</li><li>Longo, V. and Mattson, M. (2014). Fasting: Molecular
-      Mechanisms and Clinical Applications. <em>Cell Metabolism</em>, [online]
-      19(2), pp.181-192. Available at:<a
-      href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946160/">
-      <u>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3946160/</u></a> [Accessed
-      25 March 2020].</li><li>Trepanowski, J., Kroeger, C., Barnosky, A.,
-      Klempel, M., Bhutani, S., Hoddy, K., Gabel, K., Freels, S., Rigdon, J.,
-      Rood, J., Ravussin, E. and Varady, K., 2017. Effect of Alternate-Day
-      Fasting on Weight Loss, Weight Maintenance, and Cardioprotection Among
-      Metabolically Healthy Obese Adults. <em>JAMA Internal Medicine</em>,
-      [online] 177(7), p.930. Available at:<a
-      href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2623528">
-      <u>https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2623528</u></a>
-      [Accessed 26 March 2020].</li><li>Tello, M., 2020. <em>Intermittent
-      Fasting: Surprising Update - Harvard Health Blog</em>. [online] Harvard
-      Health Blog. Available at:<a
-      href="https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156">
-      <u>https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156</u></a>
-      [Accessed 26 March 2020].</li></ol><p>&nbsp;</p>
+      <p>Take care of your health and well-being with these Podcasts and Youtube
+      channels</p><p>Here is the list of our top 4 favourite podcasts to stay
+      positive and mindful plus learn a whole lot during this isolation
+      period:</p><ol><li><a target="_blank"
+      href="https://plantproof.com/category/podcast/"><u>Plant Proof
+      Podcast&nbsp;</u></a></li><li>The Tim Ferris Show - <a target="_blank"
+      href="https://tim.blog/2020/03/12/jack-kornfield-covid19/"><u>How to Find
+      Peace Amidst COVID-19, How to Cultivate Calm in Chaos</u></a></li><li>TED
+      Radio Hour - <a target="_blank"
+      href="https://www.npr.org/programs/ted-radio-hour/"><u>IRL Online</u></a>
+      - experts talk about how our real-life turned into online life and explore
+      rules on how to navigate in it.&nbsp;</li><li>10% Happier - <a
+      target="_blank" href="https://www.tenpercent.com/podcast"><u>How to
+      Actually Get Work Done at Home</u></a></li><li>&nbsp;School of greatness -
+      <a target="_blank"
+      href="https://lewishowes.com/podcast/8-ways-to-be-calm-and-prepared-during-crisis/"><u>8
+      Way to be Calm and Prepared During Crisis</u></a></li><li><a
+      target="_blank" href="https://www.richroll.com/"><u>The Rich Roll
+      Podcast</u></a>&nbsp;</li></ol><p>You probably won&rsquo;t be moving as
+      much during the self-isolation. We have gathered below the best YouTube
+      channels we use to stay fit and motivated:</p><ol><li><a target="_blank"
+      href="https://www.youtube.com/channel/UCWN2FPlvg9r-LnUyepH9IaQ"><u>Boho
+      Beautiful</u></a> - yoga, pilates and fitness tutorials, meditation and
+      vegan recipes.&nbsp;</li><li><a target="_blank"
+      href="https://www.youtube.com/user/PamelaRf1/videos"><u>Pamela Reif
+      </u></a>- her AB and HIIT workouts are our
+      favorite.&nbsp;&nbsp;</li><li><a target="_blank"
+      href="https://www.youtube.com/watch?v=JmaEPFExCoU&amp;list=PLwV-BZ9iwqUAsBQnQw_Jm-IPQQ32XTNlB"><u>Keep
+      It Cleaner </u></a>- they have a bunch of at-home workouts where no
+      equipment is needed.</li></ol><p>Tip</p><p>One of our daily goals is to
+      meditate at least 5-10 minutes a day. We haven&rsquo;t been very
+      consistent with it but every time we do mediate, we use the app <a
+      target="_blank"
+      href="https://www.headspace.com/covid-19"><u>Headspace</u></a>. To help
+      you out during quarantine, they have opened up a part of their paid
+      collection. It includes meditations, sleep, and movement exercises. Make
+      sure to check it out.</p>
 show-gallery: false
 gallery:
   - image_path:
