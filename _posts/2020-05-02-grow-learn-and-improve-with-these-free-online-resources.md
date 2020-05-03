@@ -3,7 +3,7 @@ layout: post
 date: 2020-05-02 00:00:00
 published: true
 slug: free-online-resources
-title: 'Grow, learn and improve with these amazing free online resources'
+title: 'Grow, learn and improve with these free online resources'
 meta-description: >-
   Free online resources that will help you stay inspired and productive while
   you're at home.
