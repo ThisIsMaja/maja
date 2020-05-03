@@ -158,6 +158,22 @@ sections:
       guide from Dr. Gregor</u></a></li><li><a target="_blank"
       href="https://www.route1print.co.uk/freelancers-bible"><u>The Freelancers
       Bible from Router Point</u></a></li></ol>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>Although this is a great time to be productive and knuckle down on your
+      goals. We also understand and have experienced ourselves how hard it can
+      be at times with all the uncertainty.</p><p>Don't put pressure on yourself
+      and be gentle to yourself. We are not 100% perfect everyday and neither
+      are you or anyone else. Remember that!</p><p>Do you best and listen to
+      your body and surround yourself with an uplifting environment. Thats what
+      these resources are all about.</p><p>Let us know what you think about
+      these resources if you know of them and add any others you know in the
+      comments. As always sharing is caring and together we are better
+      :)</p><p>Lots of Love</p>
 show-gallery: false
 gallery:
   - image_path:
