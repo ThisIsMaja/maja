@@ -170,9 +170,9 @@ sections:
       and be gentle to yourself. We are not 100% perfect everyday and neither
       are you or anyone else. Remember that!</p><p>Do you best and listen to
       your body and surround yourself with an uplifting environment. Thats what
-      these resources are all about.</p><p>Let us know what you think about
+      these resources are all about.</p><p><u>Let us know what you think about
       these resources if you know of them and add any others you know in the
-      comments. As always sharing is caring and together we are better
+      comments. As always sharing is caring and together we are better</u>
       :)</p><p>Lots of Love</p>
 show-gallery: false
 gallery:
