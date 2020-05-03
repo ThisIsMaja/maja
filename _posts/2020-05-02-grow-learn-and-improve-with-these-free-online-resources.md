@@ -22,7 +22,7 @@ author: Marie Fe & Jake Snow
 image-1_path: /images/office/personal-growth5.jpg
 image-2_path: /images/style/books-maja1.jpg
 intro-paragraph-emphasis: >-
-  when you re-enter the world after all this is over, you could be in a better
+  When you re-enter the world after all this is over, you could be in a better
   position than when it all started.
 intro-content_html: >-
   <p>We all have so much free time right now. If you&rsquo;re anything like us
