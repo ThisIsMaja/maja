@@ -69,7 +69,7 @@ sections:
       href="https://online-learning.harvard.edu/subject/health-medicine"><u>Harvard
       University</u></a></p><p>Did you always dream about having a degree from
       one of the best schools in the world? Well, now is your chance. Courses
-      that used to cost thousands are not available for free. Our favorite
+      that used to cost thousands are now available for free. Our favorite
       subject area is Health&amp;Medicine.&nbsp;</p><p><a target="_blank"
       href="https://www.coursera.org/"><u>Coursera</u></a></p><p>If you are not
       sure what to learn yet, check out Coursera&rsquo;s website. This is an
