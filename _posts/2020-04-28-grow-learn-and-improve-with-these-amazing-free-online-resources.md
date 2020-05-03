@@ -45,39 +45,43 @@ intro-content_html: >-
   better version of yourself. Some of the information in these resources will
   change your life! No kidding!</p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/food/plantbased-food1.jpg
+  - banner_path: /images/office/maja-content0.jpg
     banner-caption:
     banner-fixed: true
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4><strong>What is intermittent fasting?</strong></h4><p>Fasting and
-      starvation are not the same things. When practised correctly and safely,
-      fasting has been scientifically proven to have many positive benefits
-      which we will get to shortly.</p><p>Fasting is voluntary abstaining or
-      partly abstaining from food for a certain period of time. Our nomadic
-      ancestors lived like this for thousands of years. Even today, religious
-      groups like Muslims, Christians, and Buddhist monks practice
-      fasting.&nbsp;</p><h4><strong>How do you do intermittent
-      fasting?</strong></h4><p>When you do intermittent fasting, you cycle
-      through periods of eating (called the eating window) and periods of not
-      eating. The most popular intermittent fasting plan out there is the 16:8
-      plan.</p><p>On the 16:8 plan, your eating window during the day is 8
-      hours, where after you don&rsquo;t eat for 16 hours. For example if you
-      eat your dinner at 8pm then your next meal will be at 12noon the next day
-      for a 16 hour fast. If you are really looking to optimise your health and
-      lose some weight, it&rsquo;s a good idea to eat a healthy whole
-      plant-based diet. Fill your meals with fresh fruits and vegetables during
-      your eating window. Combining both a whole plant-based diet and
-      intermittent fasting is where we believe the magic results appear.
-      Remember, if you consume any form of calories within your fasting window
-      it will break the fast. Your stomach will start the digestion process and
-      you will not reap the benefits of being in a fasting state.</p><p>In the
-      beginning, it can be hard to adjust and you might find yourself a bit
-      irritable and hungry in the morning. In our experience, it took about one
-      month to become used to being fasted in the morning. Now it is a part of
-      our everyday life and we even do full workouts having not eaten for over
-      12-14 hours.</p>
+      <h4><strong>Free short online courses&nbsp;</strong></h4><p>If there was
+      ever the time to learn new skills, it is now. Whether it is marketing,
+      content creation business or languages it is all available online. And
+      guess what? Right now you can find the best educational courses for
+      absolutely free.</p><p><a target="_blank"
+      href="https://www.instituteofcode.com/"><u>The Institute of
+      Code&nbsp;</u></a></p><p>They offer free masterclasses and workshops to
+      learn all about coding, digital marketing, and SEO. They taught us how to
+      make the web-site you are currently on and we couldn&rsquo;t be happier
+      about it.</p><p><a target="_blank"
+      href="https://learndigital.withgoogle.com/digitalgarage/courses"><u>Google
+      Digital Garage</u></a></p><p>Google has 126 free online courses about
+      digital marketing, data and tech, and career development. You can even
+      obtain an official certificate from Google for completing a certain
+      course.</p><p><a target="_blank"
+      href="https://online-learning.harvard.edu/subject/health-medicine"><u>Harvard
+      University</u></a></p><p>Did you always dream about having a degree from
+      one of the best schools in the world? Well, now is your chance. Courses
+      that used to cost thousands are not available for free. Our favorite
+      subject area is Health&amp;Medicine.&nbsp;</p><p><a target="_blank"
+      href="https://www.coursera.org/"><u>Coursera</u></a></p><p>If you are not
+      sure what to learn yet, check out Coursera&rsquo;s website. This is an
+      online platform that partners up with world-class universities, colleges,
+      and schools to provide an online degree. We are sure that you will be able
+      to find something to your liking there.&nbsp;</p><p><a target="_blank"
+      href="https://www.duolingo.com/"><u>Duolingo</u></a></p><p>We are sure
+      that you probably already know about this great app where you can learn
+      languages for free. But let this be a reminder to start making progress
+      with that language you always wanted to learn. If you are happy to pay a
+      but extra we also recommend an app callee
+      'Memrise'</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: true
