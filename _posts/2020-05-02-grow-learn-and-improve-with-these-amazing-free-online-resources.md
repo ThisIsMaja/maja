@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-02 00:00:00
-published: false
+published: true
 slug: free-online-resources
 title: 'Grow, learn and improve with these amazing free online resources'
 meta-description: >-
