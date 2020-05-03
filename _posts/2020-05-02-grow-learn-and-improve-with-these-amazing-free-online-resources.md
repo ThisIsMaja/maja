@@ -88,10 +88,10 @@ sections:
     columns: true
     main-paragraph-emphasis: 'Our energy and focus has greatly improved, especially in the morning'
     body-content_html: >-
-      <p>Take care of your health and well-being with these Podcasts and Youtube
-      channels</p><p>Here is the list of our top 4 favourite podcasts to stay
-      positive and mindful plus learn a whole lot during this isolation
-      period:</p><ol><li><a target="_blank"
+      <h4><strong>Take care of your health and well-being with these Podcasts
+      and Youtube channels</strong></h4><p>Here is the list of our top 4
+      favourite podcasts to stay positive and mindful plus learn a whole lot
+      during this isolation period:</p><ol><li><a target="_blank"
       href="https://plantproof.com/category/podcast/"><u>Plant Proof
       Podcast&nbsp;</u></a></li><li>The Tim Ferris Show - <a target="_blank"
       href="https://tim.blog/2020/03/12/jack-kornfield-covid19/"><u>How to Find
