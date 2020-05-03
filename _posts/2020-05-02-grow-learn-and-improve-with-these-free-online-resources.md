@@ -18,7 +18,7 @@ tags:
   - Self Improvement
   - Business
   - productivity
-author: Marie Fe & Jake Snow
+author: Marie & Jake
 image-1_path: /images/office/maja-content1.jpg
 image-2_path: /images/style/books-maja1.jpg
 intro-paragraph-emphasis: >-
