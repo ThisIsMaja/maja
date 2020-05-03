@@ -9,7 +9,7 @@ meta-description: >-
   you're at home.
 meta-keywords: 'self improvement, growth, motivation, podcasts, courses.'
 image_path: /images/nature/sunflower.jpg
-banner-1_path: /images/office/personal-growth5.jpg
+banner-1_path: /images/nature/sunflower.jpg
 banner-fixed: false
 categories:
   - lifestyle
