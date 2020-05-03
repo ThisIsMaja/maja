@@ -8,7 +8,7 @@ meta-description: >-
   Free online resources that will help you stay inspired and productive while
   you're at home.
 meta-keywords: 'self improvement, growth, motivation, podcasts, courses.'
-image_path: /images/office/personal-growth5.jpg
+image_path: /images/nature/sunflower.jpg
 banner-1_path: /images/office/personal-growth5.jpg
 banner-fixed: false
 categories:
