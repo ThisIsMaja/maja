@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-04-28 00:00:00
-published: false
+date: 2020-05-02 00:00:00
+published: true
 slug: free-online-resources
 title: 'Grow, learn and improve with these amazing free online resources'
 meta-description: >-
@@ -9,7 +9,7 @@ meta-description: >-
   you're at home.
 meta-keywords: 'self improvement, growth, motivation, podcasts, courses.'
 image_path: /images/office/personal-growth5.jpg
-banner-1_path: /images/style/maja-stock-49.jpg
+banner-1_path: /images/office/personal-growth5.jpg
 banner-fixed: false
 categories:
   - lifestyle
@@ -88,10 +88,10 @@ sections:
     columns: true
     main-paragraph-emphasis: 'Our energy and focus has greatly improved, especially in the morning'
     body-content_html: >-
-      <p>Take care of your health and well-being with these Podcasts and Youtube
-      channels</p><p>Here is the list of our top 4 favourite podcasts to stay
-      positive and mindful plus learn a whole lot during this isolation
-      period:</p><ol><li><a target="_blank"
+      <h4><strong>Take care of your health and well-being with these Podcasts
+      and Youtube channels</strong></h4><p>Here is the list of our top 4
+      favourite podcasts to stay positive and mindful plus learn a whole lot
+      during this isolation period:</p><ol><li><a target="_blank"
       href="https://plantproof.com/category/podcast/"><u>Plant Proof
       Podcast&nbsp;</u></a></li><li>The Tim Ferris Show - <a target="_blank"
       href="https://tim.blog/2020/03/12/jack-kornfield-covid19/"><u>How to Find
@@ -125,6 +125,39 @@ sections:
       you out during quarantine, they have opened up a part of their paid
       collection. It includes meditations, sleep, and movement exercises. Make
       sure to check it out.</p>
+  - banner_path: /images/office/iphone.jpg
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis: >-
+      Some days we love to put on a nice movie at the end of the day and just
+      relax, other days we watch interesting documentaries.
+    body-content_html: >-
+      <h4><strong>Best Netflix Documentaries</strong></h4><p>Netflix has some
+      great documentaries, although we said earlier that Netflix was
+      time-wasting. It isn't always! Some days we love to put on a nice movie at
+      the end of the day and just relax, other days we watch interesting
+      documentaries.</p><p><strong>This is a list of MUST WATCH
+      documentaries.&nbsp;</strong></p><ol><li>Cowspiracy - this is one of our
+      favorite documentaries about the environment and
+      sustainability.&nbsp;</li><li>Minimalism - this movie proves that you
+      don&rsquo;t need a lot of staff to be happy. It is a guide into a
+      minimalistic way of life. &nbsp;&nbsp;</li><li>Our Planet - this is a
+      great documentary series of 8 episodes. They show the beauty of our planet
+      and how climate change affects it.</li><li>The Secret - if you
+      haven&rsquo;t seen this movie yet, stop what you are doing and put it on
+      now. It will change your life, trust us!</li><li>The Game Changers - a
+      documentary that will change the way you think about the food industry and
+      could save your life.</li><li>Forks over knives - The science behind why
+      the modern western diet is killing us</li></ol><p>All those movies are
+      available on Netflix. If you don&rsquo;t have an account yet, you can ask
+      a friend to share his or hers log-in with you. Or use a free month trial
+      that you can cancel at any time.&nbsp;</p><h4><strong>Download these FREE
+      guides&nbsp;</strong></h4><ol><li><a target="_blank"
+      href="https://nutritionfacts.org/healthkit/"><u>The Evidence based eating
+      guide from Dr. Gregor</u></a></li><li><a target="_blank"
+      href="https://www.route1print.co.uk/freelancers-bible"><u>The Freelancers
+      Bible from Router Point</u></a></li></ol>
 show-gallery: false
 gallery:
   - image_path:
