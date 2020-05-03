@@ -19,7 +19,7 @@ tags:
   - Business
   - productivity
 author: Marie Fe & Jake Snow
-image-1_path: /images/office/personal-growth5.jpg
+image-1_path: /images/office/maja-content1.jpg
 image-2_path: /images/style/books-maja1.jpg
 intro-paragraph-emphasis: >-
   When you re-enter the world after all this is over, you could be in a better
@@ -161,7 +161,7 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: true
+    columns: false
     main-paragraph-emphasis:
     body-content_html: >-
       <p>Although this is a great time to be productive and knuckle down on your
