@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-11-06
+date: 2019-11-06 00:00:00
 published: true
 slug: one-month-in-bali
 title: One Month In Bali
@@ -51,12 +51,13 @@ sections:
       (cheap, healthy, local, plant based)</li><li>Oka&rsquo;s Bakery (good
       workspace, great coffee, quiet)</li><li>Crate cafe (breakfast to die
       for)</li><li>Nude Cafe (great healthy food, stylish
-      decor)</li></ul><h3>Where to stay in Canggu</h3><h4>Low
+      decor)</li></ul><h3>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900048236&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Canggu</a></h3><h4>Low
       budget</h4><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/pluto-house.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Pluto
+      href="https://www.booking.com/hotel/id/pluto-house.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Pluto
       house</u></a> (our Bali home, very cheap, friendly, central, private
       rooms, good wifi)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/pande-home-stay.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Pande
+      href="https://www.booking.com/hotel/id/pande-home-stay.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Pande
       Homestay</u></a> (nice private rooms,
       clean)</li></ul><h4>Hostel</h4><ul><li><a target="_blank"
       href="https://www.booking.com/hotel/id/the-hideout-hostel.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
@@ -93,13 +94,16 @@ sections:
       (healthy, organic)</li><li>La Baracca (amazing Italian food, vegan
       options)</li><li>Cashew Tree (relax, grassy area to chill, vegan
       options)</li><li>Kelly&rsquo;s Warung (watch the surfers, cheaper, close
-      to beach)</li></ul><h3>Where to stay in Uluwatu</h3><ul><li>Uluwatu Surf
-      Villas (incredible location, best sunset we&rsquo;ve ever seen)</li><li><a
+      to beach)</li></ul><h3>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=325689&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Uluwatu</a></h3><ul><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/id/dreamsea-bali.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Dreamsea
+      href="https://www.booking.com/hotel/id/padang-padang-surf-villa.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Uluwatu
+      Surf Villas</a> (incredible location, best sunset we&rsquo;ve ever
+      seen)</li><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/dreamsea-bali.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Dreamsea
       Bali</u></a> (boho style, beautiful interior, beach vibes)</li><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/id/the-bingin-greenview.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
+      href="https://www.booking.com/hotel/id/the-bingin-greenview.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>The
       Bingin Green View</u></a> (Value for money, 5 min to the beach, Bungalow
       style)</li></ul><h3>Things to do in Uluwatu</h3><ul><li>Learn to surf at
       Padang Padang Bay&nbsp;</li><li>Visit the monkey temple (those monkeys are
@@ -124,20 +128,22 @@ sections:
       Cafe (healthy plant based food)</li><li>Kafe (Love this Cafe, we dined
       here 4 times when we first met)</li><li>Down to Earth (vegan, half price
       on Monday, Cinema)</li><li>The Seeds of life (amazing raw plant
-      food)</li></ul><h3>Where to stay in Ubud</h3><ul><li><a target="_blank"
+      food)</li></ul><h3>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2701757&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Ubud</a></h3><ul><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/id/pondok-bungkuan.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Pondok
       Bungkuan</u></a> (quiet area, in the rice fields, epic view, sustainable
       food, good wifi, nice staff)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/pangkung-sari.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Pangkung
+      href="https://www.booking.com/hotel/id/pangkung-sari.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Pangkung
       Sari</u></a> (friendly owners, cheap, great breakfast)</li><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/id/kausala-at-bisma-ubud.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Kausala
+      href="https://www.booking.com/hotel/id/kausala-at-bisma-ubud.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Kausala
       at Bisma</u></a> (central, private rooms, good price)</li><li><a
       target="_blank"
       href="https://www.booking.com/hotel/id/wanderlust-hostel.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Wanderlust
       hostel</u></a> (stylish, cool community, cheaper)</li><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/id/jannata-resort-and-spa.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Jannata
+      href="https://www.booking.com/hotel/id/jannata-resort-and-spa.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Jannata
       Resort and Spa</u></a> (honeymoon, incredible view)</li></ul><h3>Things to
       do in Ubud</h3><ul><li>Visit the Monkey Forest&nbsp;</li><li>Take photos
       at one of the many rice terraces&nbsp;</li><li>Try some Yoga and
@@ -169,41 +175,46 @@ sections:
       beach, Bonfire, very picturesque)</li><li>Banyan Tree (central, plant
       based food, very popular, great food)</li><li>Local&nbsp; Night maket (a
       square of local family run stalls, very cheap, starts at
-      6pm)</li></ul><h4>Where to eat in Gili T</h4><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/gili-breeze-tropical-bungalows.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Gili
-      Breeze Tropical Bungalows </u></a>(great breakfast, cute boho style
+      6pm)</li></ul><h4>Where to stay in <a
+      href="https://www.booking.com/searchresults.en.html?city=900048659&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Gili
+      T</a></h4><ul><li><u><a target="_blank"
+      href="https://www.booking.com/hotel/id/gili-breeze-tropical-bungalows.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Gili
+      Breeze Tropical Bungalows</a></u>&nbsp;(great breakfast, cute boho style
       cabins)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/kelapa-luxury-villas.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Kelapa
+      href="https://www.booking.com/hotel/id/kelapa-luxury-villas.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Kelapa
       Villas</u></a> (beautiful private villas, quiet, more expensive, free
       cruiser bicycles)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/jali-resort-gili-trawangan.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Jali
+      href="https://www.booking.com/hotel/id/jali-resort-gili-trawangan.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Jali
       Resort</u></a> (nice pool, reasonable price, classy)</li><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/id/wombat-39-s-bungalows.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Wombats
+      href="https://www.booking.com/hotel/id/wombat-39-s-bungalows.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Wombats
       B&amp;B</u></a> (cheap, cute garden, nice breakfast)</li></ul><h3>Gili
       Air</h3><h4>Where to eat in Gili A</h4><ul><li>Gili Bliss (amazing
       breakfast, healthy meals, delicious</li><li>Musa cookery (veggie, vegan,
       raw food</li><li>Captain Coconut (Smoothie bowls, healthy food, cute
-      place)</li></ul><h4>Where to stay in Gili A</h4><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/beranda-hostel.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Beranda
+      place)</li></ul><h4>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900048668&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Gili
+      A</a></h4><ul><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/beranda-hostel.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Beranda
       Ecolodge</u></a> (cheap, massive pool, tropical vibes)</li><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/id/decoco-villa-and-suites.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>De&rsquo;Coco
+      href="https://www.booking.com/hotel/id/decoco-villa-and-suites.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>De&rsquo;Coco
       Villa</u></a> (beachy, nice interior design, photo worthy)</li><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/id/lagi-homestay.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Lagi
-      Homestay </u></a>(very cheap, private rooms, cute)</li></ul><h3>Gili
+      href="https://www.booking.com/hotel/id/lagi-homestay.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Lagi
+      Homestay</u></a>&nbsp;(very cheap, private rooms, cute)</li></ul><h3>Gili
       Meno</h3><h4>Where to eat in Gili M</h4><ul><li>Mahamaya (beach front,
       asian or western food, open kitchen)</li><li>Ya Ya Warung ( local dishes,
       cheap)</li><li>Adeng Adeng Restaurant (Asian food, change the meat in a
-      dish for tempeh of tofu)</li></ul><h4>Where to stay in Gili
-      M</h4><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/sea-la-vie.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Villa
+      dish for tempeh of tofu)</li></ul><h4>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900048669&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Gili
+      M</a></h4><ul><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/sea-la-vie.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Villa
       Sea la Vie</u></a> (private villa for good price, outdoor bathroom, bamboo
       style)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/meno-heaven.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Meno
+      href="https://www.booking.com/hotel/id/meno-heaven.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Meno
       Heaven</u></a> (cheap for two, nice cabins)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/maomeno-resort.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>MaoMeno
+      href="https://www.booking.com/hotel/id/maomeno-resort.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>MaoMeno
       Resort</u></a> (yoga, activities, vegan food)</li></ul><h2>Things to do in
       Gili</h2><ul><li>DIVE, DIVE, DIVE (We both love being underwater and the
       Gili&rsquo;s is the place to do it)</li><li>Find the underwater
@@ -229,8 +240,10 @@ sections:
       eat</h4><ul><li>The Sand (beach vibes, best place for sunset, hammocks,
       swings, canoes)</li><li>Le private (chill pool spot)</li><li>Seabreeze
       Warung (hammocks, on the beach, coloured umbrellas)</li><li>Next level (go
-      upstairs, cute open air cafe, beautiful view)</li></ul><h4>Where to
-      stay</h4><ul><li>Le Pirate (beach side, cute beach huts, reasonable
+      upstairs, cute open air cafe, beautiful view)</li></ul><h4><a
+      target="_blank"
+      href="https://www.booking.com/searchresults.en.html?district=12265&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Where
+      to stay</a></h4><ul><li>Le Pirate (beach side, cute beach huts, reasonable
       price)</li><li>D&rsquo;reborn Guest House (very nice local family, clean
       cute rooms with aircon, pool, cheap, scooter rental)</li></ul><h4>Things
       to do</h4><ul><li>Blue Lagoon (cliff jumping)</li><li>The secret
@@ -242,14 +255,20 @@ sections:
       eat</h4><ul><li>Papa Tarros (amazing Thai food)</li><li>Ginger an Jamu
       (amazing Breakfast, smoothie bowls right at the beach)</li><li>Green
       Garden Warung (veggie options, cheap, good
-      atmosphere)&nbsp;</li></ul><h4>Where to stay</h4><ul><li>Hostel Devadav
-      (stylish, good Wifi, awesome owner, outdoor shower,
-      cheap)</li><li>Tigerlillys ( for couples &ndash; beautiful boutique style,
-      amazing little oasis next to the beach)</li><li>Taju Guest House (private
-      room, clean cute &amp; quiet cheap, amazing staff and
-      breakfast)</li><li>La Nusa Beach Club&nbsp; (couple hotel, beautiful room,
-      big pool with view ocean view, good breakfast) &nbsp;</li><li>Tarci
-      Bungalow (local family, cheap, at the beach, clean cute
+      atmosphere)&nbsp;</li></ul><h4><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2684938&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Where
+      to stay</a></h4><ul><li>Hostel Devadav (stylish, good Wifi, awesome owner,
+      outdoor shower, cheap)</li><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/tiger-lillys.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Tigerlillys</a>
+      ( for couples &ndash; beautiful boutique style, amazing little oasis next
+      to the beach)</li><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/taju-guest-house.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Taju
+      Guest House</a> (private room, clean cute &amp; quiet cheap, amazing staff
+      and breakfast)</li><li>La Nusa Beach Club&nbsp; (couple hotel, beautiful
+      room, big pool with view ocean view, good breakfast) &nbsp;</li><li><a
+      target="_blank"
+      href="https://www.booking.com/hotel/id/tarci-bungalows-lembongan.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Tarci
+      Bungalow</a> (local family, cheap, at the beach, clean cute
       rooms)</li></ul><h4>Things to do</h4><ul><li>Catch a sunset at
       Devil&rsquo;s Tears</li><li>Ride along the Yellow Bridge</li><li>Take a
       kayak and explore the the Mangrove Forest&nbsp;</li><li>Chill at Dream
@@ -257,17 +276,19 @@ sections:
       surf&nbsp;</li></ul><h3>Nusa Penida</h3><h4>Where to
       eat</h4><ul><li>Penido Espresso (smoothie bowl, vegan
       options)</li><li>Vegan Sol Kitchen (Good food, good price, in the
-      jungle)</li></ul><h4>Where to stay</h4><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/ramwan-guest-house.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Ramwan
+      jungle)</li></ul><h4><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900052009&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Where
+      to stay</a></h4><ul><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/ramwan-guest-house.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Ramwan
       Guesthouse</u></a> (really cheap, cute rooms with balcony, 10 min from the
       port)&nbsp;</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/rumah-pohon-tree-house.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Rumah
+      href="https://www.booking.com/hotel/id/rumah-pohon-tree-house.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Rumah
       Pohon Treehouse</u></a> (amazing IG Spot, small tree house with the most
       stunning view)</li><li><a target="_blank"
       href="https://www.booking.com/hotel/id/la-roja-bungalows.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>La
       Roja Bungalows</u></a> (cute bungalows, swimming pool, free drop off and
       pick ups for dinner, amazing staff)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/semabu-hills-nusa-penida-bali.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Semabu
+      href="https://www.booking.com/hotel/id/semabu-hills-nusa-penida-bali.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Semabu
       Hills Hotel</u></a> (Hotel style, Infinity pool with amazing view,
       beautiful rooms)</li></ul><h4>Things to do</h4><ul><li>Kelingkeling Beach
       (T Rex beach, take the most famous Penida photo)</li><li>Crystal Beach
@@ -292,24 +313,27 @@ sections:
       to Bukit Cinta to watch Mt Agung erupt while the sun
       rose.&nbsp;</p><h3>Munduk</h3><h4>Where to eat</h4><ul><li>Warung classic
       (good for Vegetarians, amazing spring rolls)</li><li>Eco Cafe 2 (great
-      coffee and tea, good for plant based)</li></ul><h4>Where to
-      stay</h4><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/lesong-hotel-and-restaurant.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Lesong
+      coffee and tea, good for plant based)</li></ul><h4><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2688600&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Where
+      to stay</a></h4><ul><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/lesong-hotel-and-restaurant.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Lesong
       Hotel &amp; Restaurent</u></a> (beautiful location with a view, surrounded
       by rice fields, relaxing, lovely people)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/umah-de-madya.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Umah
-      de Maya</u></a> (located in a little village, clean rooms, friendly fam,
+      href="https://www.booking.com/hotel/id/umah-de-madya.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Umah
+      de Madya</u></a> (located in a little village, clean rooms, friendly fam,
       great view, cheap)&nbsp;</li></ul><h4>Things to do</h4><ul><li>Chase some
       Waterfalls (Sekumpul, Munduk Bali Waterfall, Nungnung
       Waterfall)</li><li>Trekking trough the rice fields</li><li>Get the famous
       IG photo at the Pandara golf course gates</li><li>Explore the famous
       temple at Tamblingan Lake&nbsp;</li></ul><h3>Amed</h3><h4>Where to
       eat</h4><ul><li>Warung Pantai (cheap into food)</li><li>Warung Enak (good
-      variety, cheap)</li></ul><h4>Where to stay</h4><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/the-bbq-guest-house.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
+      variety, cheap)</li></ul><h4><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2670300&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Where
+      to stay</a></h4><ul><li><a target="_blank"
+      href="https://www.booking.com/hotel/id/the-bbq-guest-house.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>The
       BBQ Guest House</u></a> (clean cute bungalows, beach view, friendly staff,
       mountain view, quiet cheap)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/aquaterrace-amed.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Aquaterrace
+      href="https://www.booking.com/hotel/id/aquaterrace-amed.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Aquaterrace
       Amed</u></a> (beautiful Hotel in boutique Style, feels like Greece, great
       food, infinity pool, sun beds)</li><li>Babu Rack Homestay (Cute little
       rooms, good breakfast, very cheap, kind owners)</li></ul><h4>Things to
@@ -335,11 +359,13 @@ sections:
       goodness)</li><li>Sea Circus (instagram worthy, great food)</li><li>Divine
       (pure Vegan heaven, Raw food)</li><li>Motel Mexicola (mexican tapas,
       vibrant colours)</li><li>Warung Dua (local food, cheap, healthy, Nasi
-      Campur)</li></ul><h3>Where to stay</h3><ul><li><a target="_blank"
+      Campur)</li></ul><h3><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900040134&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Where
+      to stay</a></h3><ul><li><a target="_blank"
       href="https://www.booking.com/hotel/id/seminyak-7-rooms.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>7
       Rooms Seminyak</u></a> (stylish, Boutique, good location, reasonable
       price)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/id/gria-manik-batubelig.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Gria
+      href="https://www.booking.com/hotel/id/gria-manik-batubelig.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Gria
       Manik Batubelig</u></a> (nice pool, good location)</li><li><a
       target="_blank"
       href="https://www.booking.com/hotel/id/kosta-hostel.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Kosta
@@ -356,5 +382,6 @@ gallery:
   - image_path: /images/style/maja-stock-43.jpg
     size:
     alt:
-gallery-text: 
+gallery-text:
 ---
+
