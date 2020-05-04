@@ -80,7 +80,7 @@ sections:
       that you probably already know about this great app where you can learn
       languages for free. But let this be a reminder to start making progress
       with that language you always wanted to learn. If you are happy to pay a
-      but extra we also recommend an app callee
+      bit extra we also recommend an app callee
       'Memrise'</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
