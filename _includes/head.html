@@ -17,9 +17,22 @@
     <meta property="og:title" content="{{page.title}}">
     <meta property="og:description" content="{{page.meta-description}}">
     <meta property="og:image" content="{{page.image_path}}">
-    <meta property="og:url" content="{{page.url}}">
+    <meta property="og:url" content="{{site.url}}{{page.url}}">
     <meta name="twitter:card" content="{{page.meta-description}}">
     <meta name="og:site_name" content="Maja | Marie Fe and Jake Snow">
+
+    <meta property="article:author" content="{{page.author}}" />
+
+    {% if page.layout == 'post' %}
+    <meta property="og:type" content="article" />
+    {% endif %}
+
+    {% if page.layout == 'product' %}
+    <meta property="og:type" content="product" />
+    <meta property="product:price:amount" content="{{page.price}}" />
+    <meta property="product:price:currency" content="USD" />
+    <meta property="og:availability" content="instock" />
+    {% endif %}
 
 <!-- End Snap Pixel Code -->
 
