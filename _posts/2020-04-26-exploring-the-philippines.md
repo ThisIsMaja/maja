@@ -7,7 +7,7 @@ title: 'Exploring the Philippines:'
 meta-description:
 meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
 image_path: /images/philippines/Coron 5-1.jpg
-banner-1_path: /images/philippines/philippines-travel10.jpg
+banner-1_path: /images/Philippines/philippines-travel13.jpg
 banner-fixed: false
 categories:
   - travel
