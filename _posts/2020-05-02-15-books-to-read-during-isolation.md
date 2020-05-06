@@ -45,28 +45,28 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4><strong>15 MUST READ books</strong></h4><p><a
-      href="https://amzn.to/2yZXKUC"><u>The Alchemist</u></a> by Paulo
+      <h4><strong>15 MUST READ books</strong></h4><p><strong><a
+      href="https://amzn.to/2yZXKUC"><u>The Alchemist</u></a> </strong>by Paulo
       Coelho&nbsp;</p><p>Let&rsquo;s get the obvious out of the way, as no
       self-development book list is complete without this one. This book is an
       epitome of inspiration. It shows the importance of following your journey,
       listening to your heart, and never giving up on your
       dreams.&nbsp;</p><p>If you ever feel like being stuck and have no
-      motivation, we suggest you give this book a read.</p><p><a
-      href="https://amzn.to/2KSoid4"><u>The Mastery of Love</u></a> by Don
-      Miguel Ruiz</p><p>This is one of the best books about relationships. The
-      author is talking not only about relationships with other people but most
-      importantly with yourself. He raised topics about self-love and the
+      motivation, we suggest you give this book a read.</p><p><strong><a
+      href="https://amzn.to/2KSoid4"><u>The Mastery of Love</u></a></strong> by
+      Don Miguel Ruiz</p><p>This is one of the best books about relationships.
+      The author is talking not only about relationships with other people but
+      most importantly with yourself. He raised topics about self-love and the
       importance of finding happiness within you, rather than searching for it
       in somebody else.&nbsp;</p><p>This book is quite short but yet very
       insightful. It makes you look at relationships from a totally different
-      prospective and we highly recommend it.&nbsp;</p><p><a
-      href="https://amzn.to/3aR8H8d"><u>Linchpin: Are You Indispensable?</u></a>
-      by Seth Godin</p><p>This is a great personal development book that talks
-      about how in this time and age you have to look at your career as an art.
-      By doing that, you become indispensable in the workplace, you drive your
-      career and you create a remarkable future for
-      yourself.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+      prospective and we highly recommend it.&nbsp;</p><p><strong><a
+      href="https://amzn.to/3aR8H8d"><u>Linchpin: Are You
+      Indispensable?</u></a></strong> by Seth Godin</p><p>This is a great
+      personal development book that talks about how in this time and age you
+      have to look at your career as an art. By doing that, you become
+      indispensable in the workplace, you drive your career and you create a
+      remarkable future for yourself.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/office/personal-growth6.jpg
     banner-caption:
     banner-fixed: false
