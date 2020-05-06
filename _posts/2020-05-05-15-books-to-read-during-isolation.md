@@ -137,8 +137,8 @@ sections:
       have written a <a
       href="https://thisismaja.com/posts/why-choose-a-plantbased-diet"><u>blog
       post all about it</u></a>.</p><p><strong><a
-      href="https://amzn.to/35ltMqg"><u>Shoe Dog</u></a></strong> by
-      Phill</p><p>This book is a little different from the other books on this
+      href="https://amzn.to/35ltMqg"><u>Shoe Dog</u></a></strong> by Phil
+      Knight</p><p>This book is a little different from the other books on this
       list. It is based on a true story of creating the Nike brand. It is super
       inspirational if you are planning to build your own brand and become an
       entrepreneur. The book talks about the reality of what it takes to create
