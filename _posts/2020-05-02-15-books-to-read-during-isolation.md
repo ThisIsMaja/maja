@@ -109,9 +109,9 @@ sections:
       Sometimes the best way forward is to stop focusing on things that
       aren&rsquo;t essential in our lives. This book is about learning to let go
       in order to start enjoying life.</p>
-  - banner_path:
+  - banner_path: /images/banners/books-banner.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
