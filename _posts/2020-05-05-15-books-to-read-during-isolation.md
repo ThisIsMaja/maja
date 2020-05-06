@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-02 00:00:00
+date: 2020-05-05 00:00:00
 published: true
 slug: 15-books-to-read-during-isolation
 title: 15 books to read during isolation
