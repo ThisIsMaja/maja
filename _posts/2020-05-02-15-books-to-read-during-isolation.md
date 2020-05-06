@@ -10,8 +10,8 @@ image_path: /images/style/books-stock2.jpg
 banner-1_path: /images/style/books-stock2.jpg
 banner-fixed: false
 categories:
-  - lifestyle
   - journal
+  - wellbeing
 tags:
   - Self Improvement
   - Business
