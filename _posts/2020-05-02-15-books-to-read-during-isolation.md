@@ -109,6 +109,53 @@ sections:
       Sometimes the best way forward is to stop focusing on things that
       aren&rsquo;t essential in our lives. This book is about learning to let go
       in order to start enjoying life.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p><strong><a href="https://amzn.to/3bVkNyA"><u>Fear: Essential Wisdom of
+      Getting Through The Storm</u></a></strong> by Thich Nhat Hanh</p><p>The
+      author talks about the importance of acknowledging our fears. He starts by
+      going all the way back to the origin of our fears. As the book continues,
+      the author explains the importance of not letting fears take control over
+      our lives while giving us examples of ways to transform our fears into our
+      power.</p><p><strong><a href="https://amzn.to/35jVjbI"><u>Do The
+      Work</u></a> </strong>by Steven Pressfield</p><p>This book talks about
+      resistance. That voice in your head that tells you that you can&rsquo;t do
+      it, you are not good enough, and that you will never succeed. The author
+      explains how to come to terms with this voice, how to overcome it and be
+      able to create anything you want.&nbsp;&nbsp;</p><p><strong><a
+      href="https://amzn.to/3bVrZL8"><u>Medical Medium</u></a></strong> by
+      Anthony William</p><p>We talk a lot about the importance of following a
+      plant-based diet and how it has transformed our lives.&nbsp;</p><p>In this
+      particular book, Anthony William gives so much insightful information on
+      how you can heal yourself just by eating a wholesome diet. If you want to
+      learn more about nutrition and what effect it has on our bodies than this
+      book is for you.</p><p>In case you want to know more about our diet we
+      have written a <a
+      href="https://thisismaja.com/posts/why-choose-a-plantbased-diet"><u>blog
+      post all about it</u></a>.</p><p><strong><a
+      href="https://amzn.to/35ltMqg"><u>Shoe Dog</u></a></strong> by
+      Phill</p><p>This book is a little different from the other books on this
+      list. It is based on a true story of creating the Nike brand. It is super
+      inspirational if you are planning to build your own brand and become an
+      entrepreneur. The book talks about the reality of what it takes to create
+      something so powerful and successful.</p><p><strong><a
+      href="https://amzn.to/2YzYVVN"><u>Letting Go: The Path To
+      Surrender</u></a></strong> by Dr. Hawkins</p><p>The book talks about the
+      importance of letting go of old wounds and blockages, such as anger and
+      guilt. All those things prevent us from being fully present. The author
+      presents a simple technique that can be used anytime and anywhere to
+      process our emotions, which will then lead to a happier
+      life.&nbsp;&nbsp;</p><p><strong><a
+      href="https://amzn.to/2WhVMag"><u>Becoming Supernatural</u></a></strong>
+      by Joe Dispenza</p><p>The author explains how your mind and your body work
+      together to create the reality you are living in. How to take control over
+      your life. It also talks about meditation and how it can heal you. This
+      book is great for somebody who is very logical and analytical, as it goes
+      into the science of how meditation works.&nbsp;&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
