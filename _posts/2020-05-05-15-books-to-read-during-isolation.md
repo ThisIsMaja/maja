@@ -182,15 +182,7 @@ sections:
       is so easy to blame your situation on the things that have happened to you
       in the past. However, taking responsibility gives you the power to do
       anything you want to. If you follow and apply all the principles from this
-      book, your life will transform.&nbsp;</p><p>Me and Marie love to consume
-      books in audio format, especially when we are on the go or cooking dinner.
-      We use <a
-      href="https://www.awin1.com/cread.php?awinmid=8095&amp;awinaffid=714015&amp;clickref=&amp;ued=http%3A%2F%2Fwww.audible.co.uk"><u>this
-      website</u></a> to buy all our audio books from.&nbsp;</p><p><u>Let us
-      know in the comment section below if you read any of those books or if you
-      have any other suggestions to add to the list. And also, what do you
-      prefer more: reading a paper book, e-book or listening to an audio
-      book?</u></p>
+      book, your life will transform.&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
