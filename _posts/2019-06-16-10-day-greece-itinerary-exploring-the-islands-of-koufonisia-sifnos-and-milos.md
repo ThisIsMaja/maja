@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-16
+date: 2019-06-16 00:00:00
 published: true
 slug: ten-day-greece-itinerary
 title: '10 Day Greece Itinerary: Exploring The Islands of Koufonisia, Sifnos and Milos'
@@ -57,13 +57,15 @@ sections:
       Mondays and at 20:00 from Tuesday to Sunday. If you need to get to the
       Acropolis, the easiest and safest way is with <a
       href="https://thebeat.co/en/"><u>Beat</u></a>, a local taxi app which
-      connects you to nearby drivers.</p><h3>Athens Accommodation</h3><p>We
-      spent our night in Athens at <a target="_blank"
-      href="https://www.urbanstripesathens.com/en"><u>Urban Stripes</u></a>, a
-      minimalist hotel situated just a stone's throw away from the Acropolis.
-      The hotel is located in a friendly neighborhood with plenty of plant-based
-      food options nearby. Definitely check out a small vegan, raw cafe called
-      'Peas' (the best food we had in Greece)</p>
+      connects you to nearby drivers.</p><h3><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-814876&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Athens
+      Accommodation</a></h3><p>We spent our night in Athens at <a
+      target="_blank"
+      href="https://www.booking.com/hotel/gr/urban-stripes-athens.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Urban
+      Stripes</u></a>, a minimalist hotel situated just a stone's throw away
+      from the Acropolis. The hotel is located in a friendly neighborhood with
+      plenty of plant-based food options nearby. Definitely check out a small
+      vegan, raw cafe called 'Peas' (the best food we had in Greece)</p>
   - banner_path: /images/greece/mariefeandjakesnow-greece13.jpg
     banner-fixed: false
     banner-caption_html:
@@ -128,7 +130,9 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3>Koufonisia Accommodation</h3><p>We stayed at&nbsp;<a target="_blank"
+      <h3><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900048000&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Koufonisia
+      Accommodation</a></h3><p>We stayed at&nbsp;<a target="_blank"
       href="https://myislandhome.gr/"><u>My Island Home</u></a> in Koufonisia
       and absolutely loved our time here. The cottages are beautifully decorated
       with an incredible open plan kitchen. My Island Home is ideally located
@@ -154,8 +158,9 @@ sections:
       href="https://www.seajets.gr/"><u>Seajets</u></a><u> </u>offer frequent
       trips from Koufonisia to Sifnos and the travel time is just over 4
       hours.</p><p>There is no airport on the island so taking a ferry is the
-      only way to reach Sifnos.</p><h3>Sifnos Accommodation</h3><p>We stayed
-      at&nbsp;<a target="_blank"
+      only way to reach Sifnos.</p><h3><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?region=2229&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Sifnos
+      Accommodation</a></h3><p>We stayed at&nbsp;<a target="_blank"
       href="https://www.selanasuites.com/en/"><u>Selena Suites</u></a> on Sifnos
       Island and absolutely loved it.</p><p>Sifnos Restaurants that offer
       plant-based meals:</p><ul><li><a target="_blank"
@@ -223,10 +228,11 @@ sections:
       approximately 40 minutes.</p><p>There is an airport on Milos Island with
       daily flights to and from Athens. If you&rsquo;d prefer to follow our 10
       day Greece itinerary in reverse, you can fly into Milos before moving to
-      the islands of Sifnos and Koufonisia.</p><h3>Milos Accommodation</h3><p>We
-      stayed at&nbsp;<a target="_blank" href="http://skinopi.com/"><u>Skinopi
-      Lodge</u></a>&nbsp;whilst in Milos.</p><h3>Milos
-      Restaurants</h3><ul><li><a target="_blank"
+      the islands of Sifnos and Koufonisia.</p><h3><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?region=2261&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Milos
+      Accommodation</a></h3><p>We stayed at&nbsp;<a target="_blank"
+      href="http://skinopi.com/"><u>Skinopi Lodge</u></a>&nbsp;whilst in
+      Milos.</p><h3>Milos Restaurants</h3><ul><li><a target="_blank"
       href="https://www.facebook.com/pages/O-Hamos/377153249022792"><u>O! Hamos
       restaurant</u></a> (possible the best plant-based we had in
       Greece</li><li><a target="_blank"
@@ -306,5 +312,6 @@ gallery:
   - image_path:
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
+

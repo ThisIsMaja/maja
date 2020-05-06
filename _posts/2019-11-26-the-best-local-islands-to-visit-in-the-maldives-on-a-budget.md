@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-11-26
+date: 2019-11-26 00:00:00
 published: true
 slug: best-local-islands-maldives
 title: The Best local Islands to Visit in The Maldives (On a Budget)
@@ -103,8 +103,11 @@ sections:
       area.</p><p>After long days out on the ocean, we ended off with beach
       yoga. We highly recommend this, not only for your well-being but also to
       enjoy the pristine beaches, quiet surroundings, and gorgeous
-      sunset.</p><h4>Where To Stay In Thulusdhoo</h4><ul><li>Season Paradise:
-      $90 per room per night, including breakfast</li></ul>
+      sunset.</p><h4>Where To Stay In <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900051590&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Thulusdhoo</a></h4><ul><li><a
+      target="_blank"
+      href="https://www.booking.com/hotel/mv/season-paradise.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Season
+      Paradise</a>: $90 per room per night, including breakfast</li></ul>
   - banner_path: /images/maldives/amilla-fushi4.jpg
     banner-fixed: true
     banner-caption_html:
@@ -136,8 +139,12 @@ sections:
       from them and don&rsquo;t stress out. They are huge, but they are also
       harmless!</p><p>There are amazing scuba diving sites here where it&rsquo;s
       highly likely that you&rsquo;ll swim with sharks and other beautiful
-      marine life.</p><h4>Where to stay in Dhigurah</h4><ul><li>Bliss Dhigurah:
-      $100 per night for a double room which includes breakfast.</li></ul>
+      marine life.</p><h4>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900053759&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Dhigurah</a></h4><ul><li><a
+      target="_blank"
+      href="https://www.booking.com/hotel/mv/bliss-dhigurah.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Bliss
+      Dhigurah</a>: $100 per night for a double room which includes
+      breakfast.</li></ul>
   - banner_path: /images/maldives/amilla-fushi8.jpg
     banner-fixed: true
     banner-caption_html:
@@ -172,20 +179,23 @@ sections:
       you&rsquo;re planning a luxurious honeymoon, Maldives is the place to go!
       You can also spend most of your time on the local islands and treat
       yourselves to one or two nights at the below resorts before you head back
-      home.</p><h4>Amilla Fushi</h4><p>After spending 9 days exploring local
-      islands in the Maldives, we headed to Amilla Fushi, a gorgeous resort
-      surrounded by crystal clear water.</p><p>The name &ldquo;Amilla
-      Fushi&rdquo; translates to &ldquo;My Island Home&rdquo; and it sure lives
-      up to this!</p><p>Amilla Fushi has everything you want, and more: A
-      private villa with an infinity pool and a beautiful hammock perched in the
-      ocean. Not to mention the spacious room and outdoor shower!</p><p>The
-      waters surrounding Amilla Fushi are home to hundreds of Manta Rays and
-      Sting Rays. This is the biggest attraction here and an experience
-      we&rsquo;ll never forget.</p><p>As we hopped into the water, a huge
-      squadron of manta rays swam past us - this moment was surreal!</p><p>We
-      loved our time here. From jet skiing to exploring the underwater world on
-      a sea bob, to afternoon swims in the rain, Amilla Fushi is an incredible
-      place to visit if your budget allows for it.</p><h4>Soneva</h4><p>Soneva
+      home.</p><h4><a target="_blank"
+      href="https://www.booking.com/hotel/mv/amilla-fushi.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Amilla
+      Fushi</a></h4><p>After spending 9 days exploring local islands in the
+      Maldives, we headed to Amilla Fushi, a gorgeous resort surrounded by
+      crystal clear water.</p><p>The name &ldquo;Amilla Fushi&rdquo; translates
+      to &ldquo;My Island Home&rdquo; and it sure lives up to this!</p><p>Amilla
+      Fushi has everything you want, and more: A private villa with an infinity
+      pool and a beautiful hammock perched in the ocean. Not to mention the
+      spacious room and outdoor shower!</p><p>The waters surrounding Amilla
+      Fushi are home to hundreds of Manta Rays and Sting Rays. This is the
+      biggest attraction here and an experience we&rsquo;ll never
+      forget.</p><p>As we hopped into the water, a huge squadron of manta rays
+      swam past us - this moment was surreal!</p><p>We loved our time here. From
+      jet skiing to exploring the underwater world on a sea bob, to afternoon
+      swims in the rain, Amilla Fushi is an incredible place to visit if your
+      budget allows for it.</p><h4><a target="_blank"
+      href="https://www.booking.com/hotel/mv/soneva-fushi.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Soneva</a></h4><p>Soneva
       is unlike any luxury resort we&rsquo;ve visited - ever! It&rsquo;s more
       famously known for its water slide but there&rsquo;s so much more to love
       about Soneva.</p><p>The beautiful, minimalist wooden villas have thatched
@@ -238,5 +248,6 @@ gallery:
   - image_path:
     size:
     alt:
-gallery-text: 
+gallery-text:
 ---
+

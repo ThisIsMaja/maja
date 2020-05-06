@@ -3,13 +3,13 @@ layout: post
 date: 2020-05-02 00:00:00
 published: true
 slug: free-online-resources
-title: 'Grow, learn and improve with these amazing free online resources'
+title: 'Grow, learn and improve with these free online resources'
 meta-description: >-
   Free online resources that will help you stay inspired and productive while
   you're at home.
 meta-keywords: 'self improvement, growth, motivation, podcasts, courses.'
-image_path: /images/office/personal-growth5.jpg
-banner-1_path: /images/office/personal-growth5.jpg
+image_path: /images/nature/sunflower.jpg
+banner-1_path: /images/nature/sunflower.jpg
 banner-fixed: false
 categories:
   - lifestyle
@@ -18,11 +18,11 @@ tags:
   - Self Improvement
   - Business
   - productivity
-author: Marie Fe & Jake Snow
-image-1_path: /images/office/personal-growth5.jpg
+author: Marie & Jake
+image-1_path: /images/office/maja-content1.jpg
 image-2_path: /images/style/books-maja1.jpg
 intro-paragraph-emphasis: >-
-  when you re-enter the world after all this is over, you could be in a better
+  When you re-enter the world after all this is over, you could be in a better
   position than when it all started.
 intro-content_html: >-
   <p>We all have so much free time right now. If you&rsquo;re anything like us
@@ -69,7 +69,7 @@ sections:
       href="https://online-learning.harvard.edu/subject/health-medicine"><u>Harvard
       University</u></a></p><p>Did you always dream about having a degree from
       one of the best schools in the world? Well, now is your chance. Courses
-      that used to cost thousands are not available for free. Our favorite
+      that used to cost thousands are now available for free. Our favorite
       subject area is Health&amp;Medicine.&nbsp;</p><p><a target="_blank"
       href="https://www.coursera.org/"><u>Coursera</u></a></p><p>If you are not
       sure what to learn yet, check out Coursera&rsquo;s website. This is an
@@ -80,7 +80,7 @@ sections:
       that you probably already know about this great app where you can learn
       languages for free. But let this be a reminder to start making progress
       with that language you always wanted to learn. If you are happy to pay a
-      but extra we also recommend an app callee
+      bit extra we also recommend an app callee
       'Memrise'</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
@@ -158,6 +158,22 @@ sections:
       guide from Dr. Gregor</u></a></li><li><a target="_blank"
       href="https://www.route1print.co.uk/freelancers-bible"><u>The Freelancers
       Bible from Router Point</u></a></li></ol>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>Although this is a great time to be productive and knuckle down on your
+      goals. We also understand and have experienced ourselves how hard it can
+      be at times with all the uncertainty.</p><p>Don't put pressure on yourself
+      and be gentle to yourself. We are not 100% perfect everyday and neither
+      are you or anyone else. Remember that!</p><p>Do you best and listen to
+      your body and surround yourself with an uplifting environment. Thats what
+      these resources are all about.</p><p><u>Let us know what you think about
+      these resources if you know of them and add any others you know in the
+      comments. As always sharing is caring and together we are better</u>
+      :)</p><p>Lots of Love</p>
 show-gallery: false
 gallery:
   - image_path:

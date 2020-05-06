@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-01-19
+date: 2020-01-19 00:00:00
 published: true
 slug: obertauern-ski-holiday
 title: 'Winter Holiday In Obertauern, Austria'
@@ -94,17 +94,17 @@ sections:
       sushi)</li><li>Rigele Royal (amazing food and the best vegan meals on
       request)</li><li>Steinbock (vegan options)</li></ul><p>&nbsp;</p><p>So
       many nice hotels in the area but we have picked four, that we think are
-      the best ones:&nbsp;</p><ul><li>4* Superior<a target="_blank"
-      href="https://www.rigele-royal.com/en/"> <u>Hotel Rigele Royal</u></a>
-      (Food was great, Sauna is the best after a long day being active + in /
-      outdoor pool)</li><li><a target="_blank"
-      href="https://www.dasalpenland.at/en/">Alpenland</a> (great spa
-      area)</li><li><a target="_blank"
-      href="https://www.alpenverein.de/Huetten-Wege-Touren/Huetten-des-Bundesverbands/DAV-Haus-Obertauern/"><u>DAV
+      the best ones:&nbsp;</p><ul><li>4* Superior&nbsp;<a target="_blank"
+      href="https://www.booking.com/hotel/at/rigele-royal.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Hotel
+      Rigele Royal</u></a> (Food was great, Sauna is the best after a long day
+      being active + in / outdoor pool)</li><li><a target="_blank"
+      href="https://www.booking.com/hotel/at/alpenland-obertauern.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Alpenland</a>
+      (great spa area)</li><li><a target="_blank"
+      href="https://www.booking.com/hotel/at/dav-haus.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>DAV
       Haus</u></a> (mid range, shared rooms available, good
       vibes)&nbsp;</li><li><a target="_blank"
-      href="https://www.foxy.at/"><u>Foxy Obertauern</u></a> (modern, stylish,
-      good price)</li></ul>
+      href="https://www.booking.com/hotel/at/foxy-obertauern.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Foxy
+      Obertauern</u></a> (modern, stylish, good price)</li></ul>
   - banner_path: /uploads/obertauern-by-night-1.jpg
     banner-caption_html:
     columns: false
@@ -125,5 +125,6 @@ gallery:
   - image_path:
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
+

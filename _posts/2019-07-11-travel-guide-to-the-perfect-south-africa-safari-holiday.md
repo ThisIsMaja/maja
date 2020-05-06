@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-11
+date: 2019-07-11 00:00:00
 published: true
 slug: travel-guide-south-africa-safari
 title: Travel Guide To The Perfect South Africa Safari Holiday
@@ -100,18 +100,20 @@ sections:
       <h3>Where To Stay On Your South Africa Safari
       Holiday</h3><p>&nbsp;</p><ul><li><h4>Mhondoro Lodge</h4></li></ul><p><a
       target="_blank" href="https://www.mhondoro.com/"><u>Mhondoro Lodge</u></a>
-      is a safari lover&rsquo;s dream. The lodge is situated in Welgevonden Game
-      Reserve, which is actually closer to Johannesburg than it is to Kruger
-      National Park.</p><p>The beautiful pool opens up to gorgeous views of the
-      park where animals are free to roam. We had elephants right in front of us
-      during our morning swim! It was quite intimidating having these majestic
-      creatures peacefully go about their day, oblivious to us being
-      there.</p><p>We went on several safaris from Mhondoro Lodge and saw all of
-      the big 5 including rhino, giraffe, buffalo, zebras, wildebeest, leopards
-      and elephants. Our highlight at Mhondoro was the amazing staff including
-      the chefs who prepared delicious food for us and our guide, Dan, who was
-      incredible.</p><p>After our visit to Mhondoro Lodge, we headed to the
-      Kruger National Park where we went
+      is a safari lover&rsquo;s dream. The lodge is situated in <a
+      target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=900053732&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Welgevonden
+      Game Reserve</a>, which is actually closer to Johannesburg than it is to
+      Kruger National Park.</p><p>The beautiful pool opens up to gorgeous views
+      of the park where animals are free to roam. We had elephants right in
+      front of us during our morning swim! It was quite intimidating having
+      these majestic creatures peacefully go about their day, oblivious to us
+      being there.</p><p>We went on several safaris from Mhondoro Lodge and saw
+      all of the big 5 including rhino, giraffe, buffalo, zebras, wildebeest,
+      leopards and elephants. Our highlight at Mhondoro was the amazing staff
+      including the chefs who prepared delicious food for us and our guide, Dan,
+      who was incredible.</p><p>After our visit to Mhondoro Lodge, we headed to
+      the Kruger National Park where we went
       glamping!</p><p>&nbsp;</p><ul><li><h4>Honeyguide Mantobeni luxury tented
       camp</h4></li></ul><p><a target="_blank"
       href="https://honeyguidecamp.com/mantobeni-camp/"><u>Mantobeni</u></a>&nbsp;is
@@ -271,9 +273,7 @@ sections:
       contributing to a great cause, but you will also have a once in a lifetime
       experience exploring South Africa with us!</p>
 show-gallery: true
-gallery-text: >-
-  Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
-  Africa Preset </a>
+gallery-text:
 gallery:
   - image_path: /images/south-africa/south-africa-safari4.jpg
     size: one-half
@@ -289,5 +289,5 @@ gallery:
   - image_path: /images/south-africa/south-africa-safari2.jpg
     size: full
     alt:
-gallery-text: 
 ---
+

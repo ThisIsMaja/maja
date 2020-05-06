@@ -7,7 +7,7 @@ title: 'Exploring the Philippines:'
 meta-description:
 meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
 image_path: /images/philippines/Coron 5-1.jpg
-banner-1_path: /images/philippines/philippines-travel10.jpg
+banner-1_path: /images/Philippines/philippines-travel13.jpg
 banner-fixed: false
 categories:
   - travel
@@ -28,7 +28,7 @@ intro-content_html: >-
 sections:
   - banner_path: /images/philippines/philippines-travel8.jpg
     banner-fixed: true
-    banner-caption_html: Edited with <a href="/products/ultimate">Waterfall</a>
+    banner-caption_html: <p>Edited with <a href="/products/ultimate">Waterfall</a></p>
     columns: true
     main-paragraph-emphasis: the most beautiful and mystical waterfalls we've ever seen
     body-content_html: >-
@@ -63,15 +63,17 @@ sections:
       Turtles:&nbsp; </em>The snorkeling in Moalboal is amazing. Beautiful
       coral, lots of marine life and turtle spotting makes this a favourite
       dive-spot for travelers.&nbsp;</li></ul><h4><strong>WHERE TO STAY IN
-      CEBU:</strong></h4><ul><li><em>Ralph&rsquo;s Pension House</em>: Located
-      centrally within Moalboal, right next to the ocean. The Kawasan Waterfalls
-      are only 16kms out from this hotel, making it an easy ride over in the
-      morning.&nbsp; Room rate will vary depending on the time of year but
-      expect to pay around $50 for a double room per
-      night.&nbsp;</li></ul><ul><li><em>The Blue Orchid Resort</em>:&nbsp;
-      Beautiful resort located at the quiet end of White Beach. Sea view or pool
-      view options available. Standard double room will cost around $80USD a
-      night.&nbsp;</li></ul>
+      CEBU:</strong></h4><ul><li><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2421883&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2"><em>Ralph&rsquo;s
+      Pension House</em></a>: Located centrally within Moalboal, right next to
+      the ocean. The Kawasan Waterfalls are only 16kms out from this hotel,
+      making it an easy ride over in the morning.&nbsp; Room rate will vary
+      depending on the time of year but expect to pay around $50 for a double
+      room per night.&nbsp;</li></ul><ul><li><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2421883&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2"><em>The
+      Blue Orchid Resort</em></a>:&nbsp; Beautiful resort located at the quiet
+      end of White Beach. Sea view or pool view options available. Standard
+      double room will cost around $80USD a night.&nbsp;</li></ul>
   - banner_path: /images/philippines/philippines-travel9.jpg
     banner-fixed: false
     banner-caption_html:
@@ -103,12 +105,16 @@ sections:
       photos here. If cliff jumping is not your thing, Salagdoong Beach is still
       a great place to relax on the beautiful white sand and enjoy the
       view.</li></ul><p><strong>WHERE TO STAY IN
-      SIQUIJOR:</strong></p><ul><li><em>Glamping Siquijor: </em>Basic
-      accommodations (tents on the beach) but such a cool experience. Just a few
-      steps away from the beautiful Solangon Beach. You will enjoy some amazing
-      sunsets here.&nbsp;</li></ul><ul><li><em>Daydream Guesthouse:
-      </em>Beachfront guesthouses with all basic amenities included. The hotel
-      will arrange for motorbike rental and diving excursions.&nbsp;</li></ul>
+      SIQUIJOR:</strong></p><ul><li><em><a target="_blank"
+      href="https://www.booking.com/hotel/ph/glamping-siquijor-by-the-beach-san-juan-siquijor.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Glamping
+      Siquijor</a>: </em>Basic accommodations (tents on the beach) but such a
+      cool experience. Just a few steps away from the beautiful Solangon Beach.
+      You will enjoy some amazing sunsets here.&nbsp;</li></ul><ul><li><em><a
+      target="_blank"
+      href="https://www.booking.com/hotel/ph/day-dream-guest-house.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Daydream
+      Guesthouse</a>: </em>Beachfront guesthouses with all basic amenities
+      included. The hotel will arrange for motorbike rental and diving
+      excursions.&nbsp;</li></ul>
   - banner_path: /images/philippines/philippines-travel6.jpg
     banner-fixed: true
     banner-caption_html:
@@ -138,15 +144,18 @@ sections:
       crystal-clear water is surrounding by massive limestone cliffs.&nbsp; The
       views are incredible, and it&rsquo;s a great spot for
       snorkeling.&nbsp;</li></ul><p><strong>WHERE TO STAY IN
-      CORON:</strong></p><ul><li><em>Treetop Suites: </em>This boutique hotel is
-      centrally located right on Calle Real street with great restaurants and
-      shops nearby.&nbsp; Affordable room options with all proper amenities for
-      around $50 a night.&nbsp;</li></ul><ul><li><em>Dayson Hostel</em>: Super
-      trendy (cute d&eacute;cor!) yet inexpensive and only 4kms from the Twin
-      Lagoon</li></ul><p><strong>THE TRIP OF A LIFETIME</strong></p><p>This trip
-      was definitely one of our favourites (ever!) and we can&rsquo;t wait to go
-      back! Have questions or travel tips for the Philippines? Drops us a
-      message in the comments below!&nbsp;</p>
+      CORON:</strong></p><ul><li><em><a target="_blank"
+      href="https://www.booking.com/hotel/ph/treetop-suites.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Treetop
+      Suites</a>: </em>This boutique hotel is centrally located right on Calle
+      Real street with great restaurants and shops nearby.&nbsp; Affordable room
+      options with all proper amenities for around $50 a
+      night.&nbsp;</li></ul><ul><li><a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2422567&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2"><em>Dayson
+      Hostel</em></a>: Super trendy (cute d&eacute;cor!) yet inexpensive and
+      only 4kms from the Twin Lagoon</li></ul><p><strong>THE TRIP OF A
+      LIFETIME</strong></p><p>This trip was definitely one of our favourites
+      (ever!) and we can&rsquo;t wait to go back! Have questions or travel tips
+      for the Philippines? Drops us a message in the comments below!&nbsp;</p>
 show-gallery: true
 gallery:
   - image_path: /images/style/maja-stock-11.jpg
@@ -155,5 +164,6 @@ gallery:
   - image_path: /images/style/maja-stock-43.jpg
     size:
     alt:
-gallery-text: 
+gallery-text:
 ---
+
