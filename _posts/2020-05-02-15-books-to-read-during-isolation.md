@@ -156,6 +156,41 @@ sections:
       your life. It also talks about meditation and how it can heal you. This
       book is great for somebody who is very logical and analytical, as it goes
       into the science of how meditation works.&nbsp;&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: true
+    columns: true
+    main-paragraph-emphasis: >-
+      The first and most important principle is to take responsibility for your
+      own life
+    body-content_html: >-
+      <p><strong><a href="https://amzn.to/2VSP0Zj"><u>Your Brain on
+      Love</u></a></strong> by Stan Tatkin</p><p>One more great book about
+      relationships. It explains attachment theory in a way that&rsquo;s easy to
+      digest. It breaks it into three different attachment styles - the wave,
+      the anchor and the island. The lessons we learnt from this book have been
+      very helpful. It helps you understand other people on a whole different
+      level. It helps to have compassion for people that you couldn&rsquo;t
+      understand before.&nbsp;</p><p>If you are struggling to build a healthy
+      relationship with somebody, this book might give you the answers as to
+      why.</p><p><strong><a href="https://amzn.to/3aNF7R6"><u>The Success
+      Principles</u></a></strong> by Jack Canfield</p><p>This book connects and
+      shares knowledge from several other popular self improvement books. The
+      author did all the research for you. This book simplifies the tools and
+      what you need to do to take your life to the next level. The first and
+      most important principle is to take responsibility for your own life. It
+      is so easy to blame your situation on the things that have happened to you
+      in the past. However, taking responsibility gives you the power to do
+      anything you want to. If you follow and apply all the principles from this
+      book, your life will transform.&nbsp;</p><p>Me and Marie love to consume
+      books in audio format, especially when we are on the go or cooking dinner.
+      We use <a
+      href="https://www.awin1.com/cread.php?awinmid=8095&amp;awinaffid=714015&amp;clickref=&amp;ued=http%3A%2F%2Fwww.audible.co.uk"><u>this
+      website</u></a> to buy all our audio books from.&nbsp;</p><p><u>Let us
+      know in the comment section below if you read any of those books or if you
+      have any other suggestions to add to the list. And also, what do you
+      prefer more: reading a paper book, e-book or listening to an audio
+      book?</u></p>
 show-gallery: false
 gallery:
   - image_path:
