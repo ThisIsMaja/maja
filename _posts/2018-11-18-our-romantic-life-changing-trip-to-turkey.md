@@ -79,12 +79,13 @@ sections:
       cafe cafe (vegetarian kebap/beans/chickpeas/pumpkin desert)</li><li>Fat
       boys&nbsp; (great veggie options, cheap)</li><li>Silk Road (Cozy fireplace
       for cold days, amazing lentil soup, try vegetarian plate,
-      cheap)</li></ul><h3>Where to stay in Cappadocia</h3><ul><li><a
+      cheap)</li></ul><h3>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?region=2758&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Cappadocia</a></h3><ul><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/tr/artemis-cave-suites.en.html?aid=1557198&amp;no_rooms=1&amp;group_adults=1"><u>Artemis
+      href="https://www.booking.com/hotel/tr/artemis-cave-suites.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Artemis
       cave (cozy room/great location/amazing breakfast)</u></a></li><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/tr/koza-cave.en.html?aid=1557198&amp;no_rooms=1&amp;group_adults=1"><u>Koza
+      href="https://www.booking.com/hotel/tr/koza-cave.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Koza
       Caves (best view, beautiful family owned hotel, perfect photo
       spot)</u></a></li></ul>
 show-gallery: true
@@ -92,5 +93,6 @@ gallery:
   - image_path:
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
+

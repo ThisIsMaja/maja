@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-09-03
+date: 2018-09-03 00:00:00
 published: true
 slug: travel-guide-sri-lanka
 title: Sri Lanka 3 Week Travel Guide
@@ -56,8 +56,10 @@ sections:
       &ndash; we recommend&nbsp; aloo gobi, vegetable kohlapuri, greek
       Salad)</li><li>Thai Cuisine la Rambla (very delicious Thai food, a bit
       more expensive than the local places, great Pad thai)</li></ul><h3>Where
-      to stay in Colombo</h3><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/lk/island-hostel-mount-lavinia.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Island
+      to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2214877&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Colombo</a></h3><ul><li><a
+      target="_blank"
+      href="https://www.booking.com/hotel/lk/island-hostels-colombo.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Island
       Hostel</u></a> (Stylish Dorm Room 7$ or private room 30$ inc. breakfast,
       pool, close to the beach)</li></ul><h3>&nbsp;Things to do in
       Colombo</h3><ul><li>A good place to start your journey, meet&nbsp; locals,
@@ -88,9 +90,10 @@ sections:
       restaurant, 10 curries for 2 people 15$)</li><li>Poonies Kitchen (a cute
       little oasis in Galle, enter through a Clothing Store, amazing smoothie
       bowls and healthy meals</li><li>Sea Waves Restaurant (cooking
-      classes)</li></ul><h3>Where to stay at Galle</h3><ul><li><a
+      classes)</li></ul><h3>Where to stay at <a
+      href="https://www.booking.com/searchresults.en.html?city=-2217578&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Galle</a></h3><ul><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/lk/the-bartizan.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>The
+      href="https://www.booking.com/hotel/lk/the-bartizan.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>The
       Bartizan</u></a> (very beautiful boutique hotel, amazing food, great
       location)</li></ul><h3>Things to do in Galle</h3><ul><li>explore the
       streets by foot or take a tuk-tuk</li><li>watch the sunrise or sunset at
@@ -117,12 +120,14 @@ sections:
       Unawatuna</h3><ul><li>Bedspace</li><li>Skinny Toms
       Delhi&nbsp;</li><li>Pink Elephant&nbsp;</li><li>Spice Lane
       Ahangama&nbsp;</li><li>Mati Gedara (vegetarian rice curry Buffet all you
-      can eat for 3$ USD/ 5 different dishes)</li></ul><h3>Where to stay in
-      Unawatuna</h3><ul><li><a target="_blank"
-      href="https://www.booking.com/hotel/lk/bedspace-beach.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Bedspace
+      can eat for 3$ USD/ 5 different dishes)</li></ul><h3>Where to stay in <a
+      target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2238370&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Unawatuna</a></h3><ul><li><a
+      target="_blank"
+      href="https://www.booking.com/hotel/lk/bedspace-beach.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Bedspace
       Beach</u></a> (located at the beach, amazing food, cute room with a
       hammock, nice bathrooms, big balcony)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/lk/manuel-garden-guesthouse.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Bedspace</u></a>
+      href="https://www.booking.com/hotel/lk/manuel-garden-guesthouse.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Bedspace</u></a>
       (delicious food, stylish)</li></ul><h3>Things to do in
       Unawatuna</h3><ul><li>Famous swing&nbsp;</li><li>Chill at the beach:
       wijaya beach&nbsp;</li><li>Sri yoga shala&nbsp;</li><li>Spa at The
@@ -146,9 +151,10 @@ sections:
       Surf around the Tangalle/ Dikwella area and we absolutely loved
       it.</p><h3>Where to eat at Talalla</h3><ul><li>Talalla retreat (amazing
       food, good veggie options</li><li>or at any local
-      place&nbsp;</li></ul><h3>Where to stay at Talalla</h3><ul><li><a
+      place&nbsp;</li></ul><h3>Where to stay at <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2236522&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Talalla</a></h3><ul><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/lk/talalla-retreat.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Talalla
+      href="https://www.booking.com/hotel/lk/talalla-retreat.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Talalla
       retreat</u></a> (yoga, surfing, wellness, great people and
       food).</li></ul><h3>Things to do at Talalla</h3><ul><li>Take a tuk-tuk and
       explore the area</li><li>Rock pool or Blow hole</li><li>Beach hunting
@@ -171,7 +177,9 @@ sections:
       Coast Lodge</u></a> was the picture-perfect setting, monkeys, wild pigs,
       buffalo and birds surrounded our tent one afternoon. It was one of our
       favorite experiences of the whole trip.</p><h3>Where stay at / eat at in
-      Yala</h3><ul><li><a target="_blank"
+      <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2240952&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Yala</a></h3><ul><li><a
+      target="_blank"
       href="https://www.booking.com/hotel/lk/wild-coast-tented-lodge.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1">Wildcoast
       lodge</a> ( very unique experience, honeymoon
       destination)</li></ul><h3>Things to do in Yala</h3><ul><li>Safari at Yala
@@ -194,9 +202,10 @@ sections:
       and so was the scenery, we paddled along a little river next to our camp
       in a canoe for sunset.&nbsp;</p><h3>Where to eat at
       Udawalawe</h3><ul><li>Makulu Camp has amazing local
-      food</li></ul><h3>Where to stay at Udawalawe</h3><ul><li><a
+      food</li></ul><h3>Where to stay at <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2237982&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Udawalawe</a></h3><ul><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/lk/makulu-safari-camping.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Makulu
+      href="https://www.booking.com/hotel/lk/makulu-safari-camping.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Makulu
       Safari Camping</u></a> - Tent for 4 for 65$/night, amazing camp with
       little river and boat to take out, outstanding local
       food.</li></ul><h3>Things to do at Udawalawe</h3><ul><li>Udawalawe Safari
@@ -235,17 +244,19 @@ sections:
       plantations as the sun rises.&nbsp;</p><h3>Where to eat in
       Ella</h3><ul><li>Ella Village Restaurant (great local food for a good
       price)</li><li>Cafe chill (Western food an local food)</li><li>The Barn
-      (good Wifi, nice setup, good food)</li></ul><h3>Where to stay in
-      Ella</h3><ul><li>Ella natural village (cheap, nice local family, great
-      food, 5 min by scooter from Ella Centre)</li><li><a target="_blank"
-      href="https://www.booking.com/hotel/lk/higher-ground-treehouse-ella.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Higherground
-      Treehouse</u></a> (very unique Treehouse, a lot of monkeys around, fits 6
-      people, great Breakfast)</li></ul><h3>Things to do in Ella</h3><ul><li>9
-      Arches Bridge ( go early &amp; if you want to the train it&rsquo;s passing
-      at 9:15 am)</li><li>Waterfall hunting&nbsp;</li><li>Little Adams peak (20
-      min hike, great view, good photos/ drive to 98 acres Hotel and ask from
-      there)</li><li>Ella Rock&nbsp; (3-4hour hike, most people go for sunrise
-      at 4:30 am)</li></ul>
+      (good Wifi, nice setup, good food)</li></ul><h3>Where to stay in <a
+      target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2216722&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Ella</a></h3><ul><li>Ella
+      natural village (cheap, nice local family, great food, 5 min by scooter
+      from Ella Centre)</li><li><a target="_blank"
+      href="https://www.booking.com/hotel/lk/higher-ground-treehouse-ella.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Higher
+      Ground Treehouse</u></a> (very unique Treehouse, a lot of monkeys around,
+      fits 6 people, great Breakfast)</li></ul><h3>Things to do in
+      Ella</h3><ul><li>9 Arches Bridge ( go early &amp; if you want to the train
+      it&rsquo;s passing at 9:15 am)</li><li>Waterfall
+      hunting&nbsp;</li><li>Little Adams peak (20 min hike, great view, good
+      photos/ drive to 98 acres Hotel and ask from there)</li><li>Ella
+      Rock&nbsp; (3-4hour hike, most people go for sunrise at 4:30 am)</li></ul>
   - banner_path: /uploads/sri-lanka-sigiriya.jpg
     banner-fixed: true
     banner-caption_html:
@@ -271,9 +282,10 @@ sections:
       incredible, I&rsquo;m getting hungry just thinking about it
       now!&nbsp;</p><h3>Where to eat in Sigiriya</h3><ul><li>Croissant hut (good
       food but we waited a long time for it)</li><li>Amba Sewana, our Homestay
-      made great dinner</li></ul><h3>Where to stay in Sigiriya</h3><ul><li><a
+      made great dinner</li></ul><h3>Where to stay in <a target="_blank"
+      href="https://www.booking.com/searchresults.en.html?city=-2235832&amp;aid=2017226&amp;no_rooms=1&amp;group_adults=2">Sigiriya</a></h3><ul><li><a
       target="_blank"
-      href="https://www.booking.com/hotel/lk/amba-sewana-homestay.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Amba
+      href="https://www.booking.com/hotel/lk/amba-sewana-homestay.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Amba
       Sewana Homestay</u></a> (amazing local family, central, 36$ for 2
       nights/3ppl incl breakfast, the owner will drive you to the rock for 3 $
       return)</li></ul><h3>Things to do in Sigiriya</h3><ul><li>Pidurangala Rock
@@ -308,5 +320,6 @@ gallery:
   - image_path: /images/sri-lanka/Sri-Lanka1560790.jpg
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
+

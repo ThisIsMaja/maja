@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-01-03
+date: 2019-01-03 00:00:00
 published: true
 slug: egypt-and-jordan-in-3-weeks
 title: Egypt and Jordan in 3 Weeks
@@ -252,5 +252,6 @@ gallery:
   - image_path: /images/egypt-jordan/rue-de-seine.jpg
     size:
     alt:
-gallery-text: 
+gallery-text:
 ---
+
