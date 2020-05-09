@@ -3,9 +3,9 @@ title: Beyond Ocean Pack
 shopify-id: 1831677984832
 layout: product
 order: 7
-price: $10.00
+price: $19.95
 compare-at-price: $39.95
-save-percentage: 75%
+save-percentage: 50%
 image_path: /images/shop/cover-2.jpg
 main-gallery:
   - image_path: /images/shop/Ocean/ocean-1.JPG
