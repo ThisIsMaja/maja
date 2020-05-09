@@ -3,9 +3,9 @@ title: The Bundle - All in one
 shopify-id: 1856420216896
 layout: product
 order: 3
-price: $75.95
+price: $95.95
 compare-at-price: $215.95
-save-percentage: 65%
+save-percentage: 55%
 image_path: /images/shop/bundle-pack.jpg
 short-description: All you need! 72 Mobile & Desktop
 preset-tags:
