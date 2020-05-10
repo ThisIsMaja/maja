@@ -133,7 +133,7 @@ layout: default
   {% for item in page.gallery %}
   <img src="{{item.image_path}}" class="{{item.size}}">
   {% endfor %}
-  <p class="subtitle margin-top-1"> {{page.gallery-text}}</p>
+  <p class="subtitle margin-top-1" data-cms-options='{"link": true}'> {{page.gallery-text}}</p>
 
 </section>
 
