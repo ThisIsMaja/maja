@@ -75,7 +75,7 @@ layout: default
 
 {% endunless %}
 
-<section class="{% cycle 'light-bg','white-bg' %} blog-content">
+<section class="{% cycle 'light-bg','white-bg' %} blog-content" id="section-{{ forloop.index }}">
   <p class="banner-caption_html">{{section.banner-caption_html}}</p>
   <!-- Cloud Cannon Editor Link -->
   <a href="cloudcannon:#sections[{{ forloop.index0 }}]" class="editor-link" data-cms-editor-link-style="modal">
