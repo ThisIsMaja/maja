@@ -106,8 +106,8 @@ sections:
       Plus on top of that you&rsquo;re building confidence and learning valuable
       skills.</li><li>Use different colours and different fonts</li><li>Draw
       borders around your frame or around yourself</li></ul><p>See how we have
-      use some of these tricks on our stories in the gallery at the
-      <u><strong>bottom of the page</strong></u></p>
+      use some of these tricks on our stories in the gallery at the <a
+      href="#gallery"><u><strong>bottom of the page</strong></u></a></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
