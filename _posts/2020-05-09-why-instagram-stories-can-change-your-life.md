@@ -50,7 +50,7 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis: WE ALL HAVE TO START SOMEWHERE
+    main-paragraph-emphasis: We all have to start somewhere
     body-content_html: >-
       <p>For the past 3 years, we have been posting 20 to 30 instagram stories
       every single day. If you're thinking &lsquo;well you guys must be
