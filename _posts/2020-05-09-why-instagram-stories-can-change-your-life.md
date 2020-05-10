@@ -20,9 +20,9 @@ author: Marie & Jake
 image-1_path: /images/content-creation/iphone-content7.jpg
 image-2_path: /images/content-creation/iphone-content6.jpg
 intro-paragraph-emphasis: >-
-  In this ever evolving digital world, being able to create beautiful content
-  and emotionally connect with people through a screen can open up opportunities
-  in your life you never knew existed.
+  In this ever evolving digital world, learning how to create beautiful content
+  that emotionally connects with people online can open up opportunities in your
+  life you never knew existed.
 intro-content_html: >-
   <p>Instagram stories are not only an effective and easy way to show little
   snippets of your day to your family and friends, they also provide the perfect
