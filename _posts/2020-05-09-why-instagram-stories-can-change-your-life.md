@@ -137,11 +137,12 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <p>The world is changing, we are moving into a digital world full of
-      opportunities. By learning these skills you can change your life, you can
-      build your own brand, you can inspire people, you can sell products, you
-      can become financially independent.</p><p>If you want to learn more we
-      also made a full video on our YouTube channel where we show you how to do
-      some of these tricks. You can check it out <a
+      opportunities. By learning how to create content and confidently share
+      with others, you can change your life! You can build your own brand, you
+      can inspire people, you can sell products, you can become financially
+      independent.</p><p>If you want to learn more about specific instagram
+      hacks, we also made a full video on our YouTube channel where we show you
+      how to do some of these tricks. You can check it out <a
       href="https://www.youtube.com/watch?v=xSQjF3OsFew"><strong><u>here</u></strong></a><strong><u>.</u></strong></p><p>Share
       your passions and your message with the world, don't be shy - it could
       change your life!</p><p>Time to get creative.&nbsp;</p><p>Lots of
