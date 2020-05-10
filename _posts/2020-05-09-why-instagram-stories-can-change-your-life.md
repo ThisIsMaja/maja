@@ -147,7 +147,7 @@ sections:
       your passions and your message with the world, don't be shy - it could
       change your life!</p><p>Time to get creative.&nbsp;</p><p>Lots of
       love,</p><p>Marie&nbsp;</p>
-show-gallery: false
+show-gallery: true
 gallery:
   - image_path: /images/content-creation/instagram-stories1.jpg
     size: one-third
