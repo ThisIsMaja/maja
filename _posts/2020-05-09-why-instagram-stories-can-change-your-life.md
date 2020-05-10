@@ -149,8 +149,8 @@ sections:
       love,</p><p>Marie&nbsp;</p>
 show-gallery: false
 gallery:
-  - image_path:
-    size: full
+  - image_path: /images/content-creation/instagram-stories1.jpg
+    size: one-third
     alt:
 ---
 
