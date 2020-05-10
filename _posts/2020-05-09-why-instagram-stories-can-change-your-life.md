@@ -156,7 +156,7 @@ gallery:
     size: one-third
     alt:
   - image_path: /images/content-creation/instagram-stories3.jpg
-    size:
+    size: one-third
     alt:
 ---
 
