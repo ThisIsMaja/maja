@@ -3,9 +3,9 @@ title: Ultimate Pack 2
 shopify-id: 1830368641088
 layout: product
 order: 5
-price: $19.95
+price: $22.95
 compare-at-price: $49.95
-save-percentage: 60%
+save-percentage: 50%
 image_path: /images/shop/cover-6.jpg
 main-gallery:
   - image_path: /images/shop/Pack-2/pack2-1.jpg
