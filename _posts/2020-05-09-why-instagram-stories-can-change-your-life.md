@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-05 00:00:00
+date: 2020-05-09 00:00:00
 published: false
 slug: why-instagram-stories-can-change-your-life
 title: Why Instagram stories can change your life
@@ -73,6 +73,38 @@ sections:
       let&rsquo;s talk about how you can start creating Instagram stories that
       will catch peoples attention and give them
       value.</p><p>&nbsp;</p><p>&nbsp;</p>
+  - banner_path: /images/content-creation/iphone-content4.jpg
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis: >-
+      Always speak your truth, it is very easy to tell if you don't truly
+      believe in what you’re saying
+    body-content_html: >-
+      <h4><strong>Tips and tricks to create captivating &amp; beautiful
+      Instagram stories</strong></h4><p>&nbsp;</p><p>&nbsp;</p><ul><li>When
+      recording yourself always face towards a light source for example a window
+      or lamp so that you look bright and radiant</li><li>Make sure you are
+      looking at the camera lens and not at yourself on the
+      screen</li><li>Always speak your truth, it is very easy to tell if you
+      don't truly believe in what you&rsquo;re saying</li><li>Imagine
+      you&rsquo;re speaking as if your audience was actually there with
+      you</li><li>Be confident and positive, the more confident you are the less
+      people will judge and the more you won't care</li><li>Type the basis of
+      what you&rsquo;re saying in text so that people who can't listen to audio
+      or who are deaf will be able to understand</li><li>Share anything you
+      yourself find interesting, others will too</li><li>Be consistent, be there
+      for your audience. Make sure you're sharing stories most
+      days&nbsp;</li><li>Use apps to edit your stories and take them to the next
+      level (see apps below)</li><li>Mix up your videos making use of slow-mo
+      and time lapse features on your iPhone</li><li>Use the pen tool to
+      customise your story by writing something with your
+      handwriting</li><li>Copy and paste multiple photos in one story by first
+      copying the photo in your Camera roll and then pasting it in your
+      story</li><li>Remember your WHY, if you&rsquo;re posting stories for
+      nothing else but to help one person, then it can be enough. Plus on top of
+      that you&rsquo;re building confidence and learning valuable
+      skills.</li></ul>
 show-gallery: false
 gallery:
   - image_path:
