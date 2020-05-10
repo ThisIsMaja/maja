@@ -46,7 +46,7 @@ intro-content_html: >-
   want to skip right to the tips and tricks click <strong><a
   href="#tips">here</a>.</strong></p>
 sections:
-  - banner_path: /images/banners/instagram-stories.jpg
+  - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
