@@ -17,7 +17,7 @@ tags:
   - Business
   - productivity
 author: Marie & Jake
-image-1_path: /images/banners/instagram-stories.jpg
+image-1_path: /images/content-creation/iphone-content7.jpg
 image-2_path: /images/content-creation/iphone-content6.jpg
 intro-paragraph-emphasis: >-
   In this ever evolving digital world, being able to create beautiful content
@@ -46,7 +46,7 @@ intro-content_html: >-
   If you want to skip right to the tips and tricks click
   <strong>here.</strong></p>
 sections:
-  - banner_path:
+  - banner_path: /images/banners/instagram-stories.jpg
     banner-caption:
     banner-fixed: false
     columns: false
