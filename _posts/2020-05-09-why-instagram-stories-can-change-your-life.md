@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-09 00:00:00
-published: false
+published: true
 slug: why-instagram-stories-can-change-your-life
 title: Why Instagram stories can change your life
 meta-description: 'instagram, instagram stories, creativity, content creation'
