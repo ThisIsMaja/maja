@@ -81,7 +81,7 @@ sections:
       Always speak your truth, it is very easy to tell if you don't truly
       believe in what you’re saying
     body-content_html: >-
-      <h4><strong>Tips and tricks to create captivating &amp; beautiful
+      <h4 id="tips"><strong>Tips and tricks to create captivating &amp; beautiful
       Instagram stories</strong></h4><p>&nbsp;</p><p>&nbsp;</p><ul><li>When
       recording yourself always face towards a light source for example a window
       or lamp so that you look bright and radiant</li><li>Make sure you are
