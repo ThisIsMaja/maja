@@ -105,6 +105,31 @@ sections:
       nothing else but to help one person, then it can be enough. Plus on top of
       that you&rsquo;re building confidence and learning valuable
       skills.</li></ul>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h4><strong>Apps for editing Instagram stories</strong></h4><p>If you want
+      to go beyond standard Instagram features, here is the list of apps where
+      you can level up your story game:</p><ul><li>Creator HUB - if you want to
+      colour grade your videos like one of your favorite content creators, then
+      this app is for you. It has filters by a bunch of talented content
+      creators and influencers (such as Carmushka, Haylsa, Saltinourhair,
+      Emmett, us and so much more). You get one free filter from each creator
+      and a possibility to buy a full bundle</li><li>Unfold - this app has lots
+      of great templates to customize your Instagram story. There are free ones
+      and there are also packages of 6-8 templated to buy (1-3
+      euros)</li></ul><ul><li>InShot - the app we use to edit/trim/add music to
+      our videos. It&rsquo;s super easy to use and it has free
+      features</li><li>Canva - quick and easy app to create your own
+      infographics, banners, and posters.&nbsp;</li><li>Hyperlapse - this app is
+      from Instagram and, as the name suggests, it films videos in hyperlapse.
+      It&rsquo;s a great way to film sunsets and sunrises, cleaning and packing
+      videos, etc.</li><li>Splice - Another video editor that makes editing on
+      your phone a breeze. This app has a paid subscription but it is worth it
+      if you're creating videos everyday.</li></ul>
 show-gallery: false
 gallery:
   - image_path:
