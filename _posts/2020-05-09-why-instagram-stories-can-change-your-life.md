@@ -148,8 +148,9 @@ sections:
       how to do some of these tricks. You can check it out <a
       href="https://www.youtube.com/watch?v=xSQjF3OsFew"><strong><u>here</u></strong></a><strong><u>.</u></strong></p><p>Share
       your passions and your message with the world, don't be shy - it could
-      change your life!</p><p>Time to get creative.&nbsp;</p><p>Lots of
-      love,</p><p>Marie&nbsp;</p>
+      change your life!</p><p><u>What is stopping you? What do you have trouble
+      when it comes to creating and sharing content? Lets us know in the
+      comments below and we will try our best to help you out! :)</u></p>
 show-gallery: true
 gallery:
   - image_path: /images/content-creation/instagram-stories1.jpg
