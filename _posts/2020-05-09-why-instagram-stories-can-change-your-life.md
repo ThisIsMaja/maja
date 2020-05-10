@@ -43,8 +43,8 @@ intro-content_html: >-
   create and share in this new digital world. We also want to share our story
   with you,&nbsp; because it&rsquo;s important to know that we<em> </em>all have
   to start somewhere. We definitely weren't confident in the beginning either.
-  If you want to skip right to the tips and tricks click
-  <strong>here.</strong></p>
+  If you want to skip right to the tips and tricks click <strong><a
+  href="#tips">here</a>.</strong></p>
 sections:
   - banner_path: /images/banners/instagram-stories.jpg
     banner-caption:
@@ -81,29 +81,29 @@ sections:
       Always speak your truth, it is very easy to tell if you don't truly
       believe in what you’re saying
     body-content_html: >-
-      <h4 id="tips"><strong>Tips and tricks to create captivating &amp; beautiful
-      Instagram stories</strong></h4><p>&nbsp;</p><p>&nbsp;</p><ul><li>When
-      recording yourself always face towards a light source for example a window
-      or lamp so that you look bright and radiant</li><li>Make sure you are
-      looking at the camera lens and not at yourself on the
-      screen</li><li>Always speak your truth, it is very easy to tell if you
-      don't truly believe in what you&rsquo;re saying</li><li>Imagine
-      you&rsquo;re speaking as if your audience was actually there with
-      you</li><li>Be confident and positive, the more confident you are the less
-      people will judge and the more you won't care</li><li>Type the basis of
-      what you&rsquo;re saying in text so that people who can't listen to audio
-      or who are deaf will be able to understand</li><li>Share anything you
-      yourself find interesting, others will too</li><li>Be consistent, be there
-      for your audience. Make sure you're sharing stories most
-      days&nbsp;</li><li>Use apps to edit your stories and take them to the next
-      level (see apps below)</li><li>Mix up your videos making use of slow-mo
-      and time lapse features on your iPhone</li><li>Use the pen tool to
-      customise your story by writing something with your
-      handwriting</li><li>Copy and paste multiple photos in one story by first
-      copying the photo in your Camera roll and then pasting it in your
-      story</li><li>Remember your WHY, if you&rsquo;re posting stories for
-      nothing else but to help one person, then it can be enough. Plus on top of
-      that you&rsquo;re building confidence and learning valuable
+      <h4 id="tips"><strong>Tips and tricks to create captivating &amp;
+      beautiful Instagram
+      stories</strong></h4><p>&nbsp;</p><p>&nbsp;</p><ul><li>When recording
+      yourself always face towards a light source for example a window or lamp
+      so that you look bright and radiant</li><li>Make sure you are looking at
+      the camera lens and not at yourself on the screen</li><li>Always speak
+      your truth, it is very easy to tell if you don't truly believe in what
+      you&rsquo;re saying</li><li>Imagine you&rsquo;re speaking as if your
+      audience was actually there with you</li><li>Be confident and positive,
+      the more confident you are the less people will judge and the more you
+      won't care</li><li>Type the basis of what you&rsquo;re saying in text so
+      that people who can't listen to audio or who are deaf will be able to
+      understand</li><li>Share anything you yourself find interesting, others
+      will too</li><li>Be consistent, be there for your audience. Make sure
+      you're sharing stories most days&nbsp;</li><li>Use apps to edit your
+      stories and take them to the next level (see apps below)</li><li>Mix up
+      your videos making use of slow-mo and time lapse features on your
+      iPhone</li><li>Use the pen tool to customise your story by writing
+      something with your handwriting</li><li>Copy and paste multiple photos in
+      one story by first copying the photo in your Camera roll and then pasting
+      it in your story</li><li>Remember your WHY, if you&rsquo;re posting
+      stories for nothing else but to help one person, then it can be enough.
+      Plus on top of that you&rsquo;re building confidence and learning valuable
       skills.</li></ul>
   - banner_path:
     banner-caption:
