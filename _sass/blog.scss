@@ -251,8 +251,11 @@ a.category:hover {
 
 .mob-show .author {
     text-transform: uppercase;
-    font-family: 'p22-underground';
+    font-family: p22-underground;
     letter-spacing: 1px;
+    font-size: 0.9rem;
+    display: block;
+    line-height: 1.6;
 }
 
 // Related Posts
