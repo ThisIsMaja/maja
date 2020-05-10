@@ -41,9 +41,9 @@ intro-content_html: >-
   who watch our instagram stories daily.&nbsp;</p><p>Before we share all this
   with you, we want to explain why we think it's important to learn how to
   create and share in this new digital world. We also want to share our story
-  with you,&nbsp; because it&rsquo;s important to know that we<em> </em>all have
-  to start somewhere. We definitely weren't confident in the beginning either.
-  If you want to skip right to the tips and tricks click <strong><a
+  with you. It&rsquo;s important to know that we<em> </em>all have to start
+  somewhere. We definitely weren't confident in the beginning either. If you
+  want to skip right to the tips and tricks click <strong><a
   href="#tips">here</a>.</strong></p>
 sections:
   - banner_path: /images/banners/instagram-stories.jpg
