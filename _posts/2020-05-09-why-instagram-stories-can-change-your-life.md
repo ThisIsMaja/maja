@@ -4,7 +4,10 @@ date: 2020-05-09 00:00:00
 published: true
 slug: why-instagram-stories-can-change-your-life
 title: Why Instagram stories can change your life
-meta-description: 'instagram, instagram stories, creativity, content creation'
+meta-description: >-
+  Learning how to connect and share with others online has changed our lives and
+  enabled us to build our dream lifestyle. It can do the same for you if you’re
+  willing to put in the time and effort.
 meta-keywords: 'self improvement, growth, motivation, books'
 image_path: /images/content-creation/iphone-content1.jpg
 banner-1_path: /images/content-creation/iphone-content1.jpg
@@ -25,26 +28,25 @@ intro-paragraph-emphasis: >-
   life you never knew existed.
 intro-content_html: >-
   <p>Instagram stories are not only an effective and easy way to show little
-  snippets of your day to your family and friends, they also provide the perfect
+  snippets of your day to your family and friends. They also provide the perfect
   training ground to learn how to create engaging content and build confidence
   in front of the camera. If you&rsquo;ve ever dreamed of building your own
-  business from nothing or sharing a message you&rsquo;re passionate about with
-  a global audience, knowing how to create great content and effectively
-  communicate through content online is an absolute must. Learning how to
-  connect and share with others online has changed our lives and enabled us to
-  build our dream lifestyle. It can do the same for you if you&rsquo;re willing
-  to put in the time and effort. Over time, creating and sharing everyday has
-  also given us the confidence to speak out and be proud of ourselves and what
-  we represent.&nbsp;</p><p>In this post we will share with you the tips and
-  tricks we&rsquo;ve learnt in the past four years that have helped us grow our
-  instagram to over 700,000 people and allow us to connect with 80,000+ people
-  who watch our instagram stories daily.&nbsp;</p><p>Before we share all this
-  with you, we want to explain why we think it's important to learn how to
-  create and share in this new digital world. We also want to share our story
-  with you. It&rsquo;s important to know that we<em> </em>all have to start
-  somewhere. We definitely weren't confident in the beginning either. If you
-  want to skip right to the tips and tricks click <strong><a
-  href="#tips">here</a>.</strong></p>
+  business or sharing a message you&rsquo;re passionate about, knowing how to
+  create great content and effectively communicate through it online is an
+  absolute must. Learning how to connect and share with others online has
+  changed our lives and enabled us to build our dream lifestyle. It can do the
+  same for you if you&rsquo;re willing to put in the time and effort. Over time,
+  creating and sharing everyday has also given us the confidence to speak out
+  and be proud of ourselves and what we represent.&nbsp;</p><p>In this post we
+  will share with you the tips and tricks we&rsquo;ve learnt in the past four
+  years. They have helped us grow our instagram to over 700,000 people and allow
+  us to connect with 80,000+ people who watch our instagram stories
+  daily.&nbsp;</p><p>Before we share all this with you, we want to explain why
+  we think it's important to learn how to create and share in this new digital
+  world. We also want to share our story with you. It&rsquo;s important to know
+  that we<em> </em>all have to start somewhere. We definitely weren't confident
+  in the beginning either. If you want to skip right to the tips and tricks
+  click <strong><a href="#tips">here</a>.</strong></p>
 sections:
   - banner_path:
     banner-caption:
@@ -81,13 +83,12 @@ sections:
       Always speak your truth, it is very easy to tell if you don't truly
       believe in what you’re saying
     body-content_html: >-
-      <h4 id="tips"><strong>Tips and tricks to create captivating &amp;
-      beautiful Instagram
-      stories</strong></h4><p>&nbsp;</p><p>&nbsp;</p><ul><li>When recording
-      yourself always face towards a light source for example a window or lamp
-      so that you look bright and radiant</li><li>Make sure you are looking at
-      the camera lens and not at yourself on the screen</li><li>Always speak
-      your truth, it is very easy to tell if you don't truly believe in what
+      <h3 id="tips"><strong>Tips and tricks to create captivating &amp;
+      beautiful Instagram stories</strong></h3><ul><li>When recording yourself
+      always face towards a light source for example a window or lamp so that
+      you look bright and radiant</li><li>Make sure you are looking at the
+      camera lens and not at yourself on the screen</li><li>Always speak your
+      truth, it is very easy to tell if you don't truly believe in what
       you&rsquo;re saying</li><li>Imagine you&rsquo;re speaking as if your
       audience was actually there with you</li><li>Be confident and positive,
       the more confident you are the less people will judge and the more you
@@ -114,7 +115,7 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h4><strong>Apps for editing Instagram stories</strong></h4><p>If you want
+      <h3><strong>Apps for editing Instagram stories</strong></h3><p>If you want
       to go beyond standard Instagram features, here is the list of apps where
       you can level up your story game:</p><ul><li>Creator HUB - if you want to
       colour grade your videos like one of your favorite content creators, then
@@ -145,7 +146,7 @@ sections:
       can inspire people, you can sell products, you can become financially
       independent.</p><p>If you want to learn more about specific instagram
       hacks, we also made a full video on our YouTube channel where we show you
-      how to do some of these tricks. You can check it out <a
+      how to do some of these tricks. You can check it out <a target="_blank"
       href="https://www.youtube.com/watch?v=xSQjF3OsFew"><strong><u>here</u></strong></a><strong><u>.</u></strong></p><p>Share
       your passions and your message with the world, don't be shy - it could
       change your life!</p><p><u>What is stopping you? What do you have trouble
