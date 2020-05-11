@@ -7,7 +7,7 @@ title: Why Instagram stories can change your life
 meta-description: >-
   Learning how to connect and share with others online has changed our lives and
   enabled us to build our dream lifestyle. It can do the same for you if you’re
-  willing to put in the time and effort.
+  willing to put in the time and effort...
 meta-keywords: 'self improvement, growth, motivation, books'
 image_path: /images/content-creation/iphone-content1.jpg
 banner-1_path: /images/content-creation/iphone-content1.jpg
