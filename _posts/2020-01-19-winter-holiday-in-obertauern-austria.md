@@ -4,7 +4,10 @@ date: 2020-01-19 00:00:00
 published: true
 slug: obertauern-ski-holiday
 title: 'Winter Holiday In Obertauern, Austria'
-meta-description: Everything you need to know about your next ski trip in Obertauern.
+meta-description: >-
+  We´ve had the best time spending one week in winter wonder land! In this
+  blogpost we share everything you need to know about your next ski trip in
+  Obertauern.
 meta-keywords: 'ski trip, holidays in Obertauern, Obertauern, Obertauern Austria'
 image_path: /images/Obertauern/Obertauern3.jpg
 banner-1_path: /images/Obertauern/Obertauern5.jpg
