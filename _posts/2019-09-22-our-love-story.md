@@ -6,7 +6,8 @@ published: true
 slug: our-love-story
 meta-description: >-
   In this post we tell you a crazy love story between an ocean boy from
-  Australia and a city girl from Germany.
+  Australia and a city girl from Germany. Read about how our love changed our
+  lives and made it possible for us to live our dream...
 meta-keywords:
 image_path: /images/marie-jake/Website 2-23.jpg
 banner-1_path: /images/nature/mariefeandjakesnow-banner10.jpg
@@ -42,7 +43,7 @@ gallery:
   - image_path:
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
 
 Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.
