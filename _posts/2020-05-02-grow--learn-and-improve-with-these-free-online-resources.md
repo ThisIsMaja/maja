@@ -3,9 +3,7 @@ layout: post
 date: 2020-05-02 00:00:00
 published: true
 slug: free-online-resources
-title: >-
-  Now is the best time to focus on improving and exploring your skills. We´ve
-  collected our favorite online resources to grow, learn and improve for free...
+title: Grow. learn and improve with these free online resources
 meta-description: >-
   Free online resources that will help you stay inspired and productive while
   you're at home.
