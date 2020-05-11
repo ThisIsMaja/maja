@@ -1,10 +1,11 @@
 ---
 layout: post
-date: 2020-03-01
+date: 2020-03-01 00:00:00
 published: true
 slug: how-to-make-amazing-couple-photos
 title: 5 Steps to Taking Amazing Couple Photos
 meta-description: >-
+  You don´t have to be a professional photographer to capture beautiful photos!
   In this post we tell you all the secrets we've learned over the years on how
   to create the most amazing couple photos.
 meta-keywords:
@@ -100,5 +101,6 @@ gallery:
   - image_path: /images/greece/mariefeandjakesnow-greece9.jpg
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
+
