@@ -3,7 +3,7 @@ layout: post
 date: 2020-04-26 00:00:00
 published: true
 slug: exploring-the-philippines
-title: 'Exploring the Philippines:'
+title: 'Exploring the Philippines: Our Top 3 Favorite Islands'
 meta-description:
 meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
 image_path: /images/philippines/Coron 5-1.jpg
