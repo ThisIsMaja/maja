@@ -10,7 +10,7 @@ meta-description: >-
   most beautiful waterfalls, the bluest water you might have ever seen and lots
   of island adventures...
 meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
-image_path: /images/philippines/Coron 5-1.jpg
+image_path: /images/Philippines/Coron 5-1.jpg
 banner-1_path: /images/Philippines/philippines-travel13.jpg
 banner-fixed: false
 categories:
@@ -18,8 +18,8 @@ categories:
 tags:
   - asia
 author: Marie Fe & Jake Snow
-image-1_path:
-image-2_path: /images/philippines/Coron 5-1.jpg
+image-1_path: /images/Philippines/Coron 5-1.jpg
+image-2_path:
 intro-paragraph-emphasis: The Philippines is definitely one of our favourite places in the world!
 intro-content_html: >-
   <p>The Philippines is definitely one of our favourite places in the world! We
@@ -30,7 +30,7 @@ intro-content_html: >-
   to offer. We spent 12 days in this paradise and it completely exceeded our
   expectations!&nbsp;</p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/philippines/philippines-travel8.jpg
+  - banner_path:
     banner-fixed: true
     banner-caption_html: <p>Edited with <a href="/products/ultimate">Waterfall</a></p>
     columns: true
@@ -44,7 +44,7 @@ sections:
       rainy season is super affordable accommodations, and often you may only
       see a short downpour once or twice a day and sunshine
       throughout.&nbsp;</p>
-  - banner_path:
+  - banner_path: /images/Philippines/philippines-travel10.jpg
     banner-fixed: false
     banner-caption_html:
     columns: false
@@ -78,7 +78,7 @@ sections:
       Blue Orchid Resort</em></a>:&nbsp; Beautiful resort located at the quiet
       end of White Beach. Sea view or pool view options available. Standard
       double room will cost around $80USD a night.&nbsp;</li></ul>
-  - banner_path: /images/philippines/philippines-travel9.jpg
+  - banner_path: /images/Philippines/philippines-travel9.jpg
     banner-fixed: false
     banner-caption_html:
     columns: true
@@ -119,7 +119,7 @@ sections:
       Guesthouse</a>: </em>Beachfront guesthouses with all basic amenities
       included. The hotel will arrange for motorbike rental and diving
       excursions.&nbsp;</li></ul>
-  - banner_path: /images/philippines/philippines-travel6.jpg
+  - banner_path: /images/Philippines/philippines-travel6.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -160,13 +160,10 @@ sections:
       LIFETIME</strong></p><p>This trip was definitely one of our favourites
       (ever!) and we can&rsquo;t wait to go back! Have questions or travel tips
       for the Philippines? Drops us a message in the comments below!&nbsp;</p>
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path: /images/style/maja-stock-11.jpg
     size: full
-    alt:
-  - image_path: /images/style/maja-stock-43.jpg
-    size:
     alt:
 gallery-text:
 ---
