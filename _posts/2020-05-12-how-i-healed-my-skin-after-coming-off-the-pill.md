@@ -6,7 +6,8 @@ slug: healing-skin-after-coming-off-the-pill
 title: How I healed my skin after coming off the pill
 meta-description: >-
   My story of how I came of the pill and regained control over my body and my
-  skin
+  skin. Find out how to heal your skin and how to support your body to find back
+  to its natural balance...
 meta-keywords: 'skin, the pill, coming off the pill, skin secrets, healthy skin, skin issues'
 image_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-1_path: /images/style/mariefeandjakesnow-pill3.jpg
