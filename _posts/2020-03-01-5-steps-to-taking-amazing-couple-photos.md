@@ -10,7 +10,7 @@ meta-description: >-
   to create the most amazing couple photos.
 meta-keywords:
 image_path: /images/Philippines/philippines-travel8.jpg
-banner-1_path: /images/komodo-islands/Komodo-Islands2.jpg
+banner-1_path: /images/Philippines/philippines-travel8.jpg
 banner-fixed: false
 categories:
   - lifestyle
