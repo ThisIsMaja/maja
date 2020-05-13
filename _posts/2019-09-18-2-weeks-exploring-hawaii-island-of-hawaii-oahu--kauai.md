@@ -31,7 +31,7 @@ intro-content_html: >-
   of it!</p><p><strong>Here&rsquo;s our full itinerary, which includes all the
   practical information you need to start planning your trip.</strong></p>
 sections:
-  - banner_path: /images/hawaii/Hawaii 1-1-2.jpg
+  - banner_path: /images/hawaii/Hawaii 1-1-4.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
