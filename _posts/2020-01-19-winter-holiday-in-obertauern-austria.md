@@ -9,7 +9,7 @@ meta-description: >-
   blogpost we share everything you need to know about your next ski trip in
   Obertauern.
 meta-keywords: 'ski trip, holidays in Obertauern, Obertauern, Obertauern Austria'
-image_path: /images/Obertauern/Obertauern3.jpg
+image_path: /images/Obertauern/Obertauern5.jpg
 banner-1_path: /images/Obertauern/Obertauern5.jpg
 banner-fixed: true
 categories:
