@@ -200,7 +200,14 @@ sections:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis:
-    body-content_html:
+    body-content_html: >-
+      <p>The hardest for me was being consistent. Every time my skin broke out I
+      felt really bad which made me want to eat bad food, which would then make
+      my skin even worse.&nbsp;</p><p>If you really want to get rid of the pill
+      for good you need to be consistent and you need to be kind to yourself. It
+      is CRAZY how many girls have had to go through this or are currently going
+      through it. We are all in this together!!&nbsp;</p><p>After everything
+      I've been through,&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -219,14 +226,8 @@ sections:
       change your life!</p><p><u>What is stopping you? What do you have trouble
       with when it comes to creating and sharing content? Lets us know in the
       comments below and we will try our best to help you out! :)</u></p>
-show-gallery: true
+show-gallery: false
 gallery:
-  - image_path: /images/content-creation/instagram-stories1.jpg
-    size: full
-    alt:
-  - image_path: /images/content-creation/instagram-stories2.jpg
-    size: full
-    alt:
   - image_path: /images/content-creation/instagram-stories3.jpg
     size: full
     alt:
