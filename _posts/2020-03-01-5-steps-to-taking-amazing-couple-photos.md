@@ -17,8 +17,8 @@ categories:
 tags:
   - Photography
 author: Jake Snow
-image-1_path: /images/philippines/philippines-travel4.jpg
-image-2_path: /images/philippines/philippines-travel8.jpg
+image-1_path: /images/Philippines/Coron 5-1.jpg
+image-2_path: /images/komodo-islands/Komodo-Islands7.jpg
 intro-paragraph-emphasis: >-
   It wasn’t too long ago that we were going through all of the settings in our
   camera with absolutely no idea of what everything did.
