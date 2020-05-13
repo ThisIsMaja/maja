@@ -1,14 +1,13 @@
 ---
 layout: post
-date: 2020-05-09 00:00:00
+date: 2020-05-12 00:00:00
 published: true
-slug: why-instagram-stories-can-change-your-life
-title: Why Instagram stories can change your life
+slug: healing-skin-after-coming-off-the-pill
+title: How I healed my skin after coming off the pill
 meta-description: >-
-  Learning how to connect and share with others online has changed our lives and
-  enabled us to build our dream lifestyle. It can do the same for you if you’re
-  willing to put in the time and effort...
-meta-keywords: 'self improvement, growth, motivation, books'
+  My story of how I came of the pill and regained control over my body and my
+  skin
+meta-keywords: 'skin, the pill, coming off the pill, skin secrets, healthy skin, skin issues'
 image_path: /images/content-creation/iphone-content1.jpg
 banner-1_path: /images/content-creation/iphone-content1.jpg
 banner-fixed: true

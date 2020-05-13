@@ -207,6 +207,10 @@ a.category:hover {
   display: inline-block;
 }
 
+.mob-social-share a {
+    padding: 0.5rem;
+}
+
 .social-share h4 {
   transform: rotate(270deg);
   position: relative;
@@ -246,6 +250,17 @@ a.category:hover {
   width: calc(50% - 1rem);
 }
 
+
+// Mobile Metadata 
+
+.mob-show .author {
+    text-transform: uppercase;
+    font-family: p22-underground;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    display: block;
+    line-height: 1.6;
+}
 
 // Related Posts
 

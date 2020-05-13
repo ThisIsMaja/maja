@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-02-12
+date: 2020-02-12 00:00:00
 published: true
 slug: guide-to-stay-productive-and-healthy
 title: An (imperfect) guide to help you stay productive and healthy
@@ -188,5 +188,6 @@ gallery:
   - image_path: /images/marie and jake/Website 2-24.jpg
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
+

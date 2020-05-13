@@ -4,7 +4,9 @@ date: 2020-05-05 00:00:00
 published: true
 slug: 15-books-to-read-during-isolation
 title: 15 books to read during isolation
-meta-description: These 15 books will inspire you and motivate you during this difficult time
+meta-description: >-
+  These 15 books will inspire you and motivate you during this difficult time.
+  Explore our reading list and find a great book to read next...
 meta-keywords: 'self improvement, growth, motivation, books'
 image_path: /images/style/books-stock2.jpg
 banner-1_path: /images/style/books-stock2.jpg

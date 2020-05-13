@@ -1,12 +1,13 @@
 ---
 layout: post
-date: 2019-10-23
+date: 2019-10-23 00:00:00
 published: true
 slug: must-do-in-komodo-islands
 title: 5 Things You Must Do In The Komodo Islands
 meta-description: >-
-  In this post we are talking about an absolute 5 things you need to do in the
-  Komodo Islands.
+  In this post we are talking about the absolute 5 things you need to do in the
+  Komodo Islands. From pink beaches, to impressive views, to witnessing Komodo
+  Dragons- the Komodo Islands have to offer so much to explore...
 meta-keywords:
 image_path: /images/komodo-islands/Komodo-Islands1.jpg
 banner-1_path: /images/komodo-islands/Komodo-Islands2.jpg
@@ -145,5 +146,6 @@ gallery:
   - image_path:
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
+

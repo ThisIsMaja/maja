@@ -6,7 +6,8 @@ slug: life-changing-trip-to-turkey
 title: Our romantic life-changing trip to Turkey
 meta-description: >-
   This country has taken a very special place in our hearts. That's where Jake
-  proposed and we decided to spend our lives together.
+  proposed and we decided to spend the rest of our lives together. Find out how
+  to plan your perfect trip to turkey, visiting Instanbul and Cappadocia.
 meta-keywords:
 image_path: /images/turkey/Pamukkale.jpg
 banner-1_path: /uploads/cappadocia.jpg

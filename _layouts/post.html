@@ -75,7 +75,7 @@ layout: default
 
 {% endunless %}
 
-<section class="{% cycle 'light-bg','white-bg' %} blog-content">
+<section class="{% cycle 'light-bg','white-bg' %} blog-content" id="section-{{ forloop.index }}">
   <p class="banner-caption_html">{{section.banner-caption_html}}</p>
   <!-- Cloud Cannon Editor Link -->
   <a href="cloudcannon:#sections[{{ forloop.index0 }}]" class="editor-link" data-cms-editor-link-style="modal">
@@ -124,16 +124,16 @@ layout: default
 
 {% endfor %}
 
-{% if page.gallery == true %}
+{% if page.show-gallery == true %}
 
-<section class="gallery padded capped-width centered blog-content">
+<section class="gallery padded capped-width centered blog-content" id="gallery">
   <p>
     <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
   </p>
   {% for item in page.gallery %}
   <img src="{{item.image_path}}" class="{{item.size}}">
   {% endfor %}
-  <p class="subtitle margin-top-1"> {{page.gallery-text}}</p>
+  <p class="subtitle margin-top-1" data-cms-options='{"link": true}'> {{page.gallery-text}}</p>
 
 </section>
 
