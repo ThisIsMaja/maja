@@ -32,7 +32,7 @@ intro-content_html: >-
 sections:
   - banner_path:
     banner-fixed: true
-    banner-caption_html: <p>Edited with <a href="/products/ultimate">Waterfall</a></p>
+    banner-caption_html:
     columns: true
     main-paragraph-emphasis: the most beautiful and mystical waterfalls we've ever seen
     body-content_html: >-
