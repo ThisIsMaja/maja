@@ -10,15 +10,15 @@ meta-description: >-
 meta-keywords: >-
   two weeks in Hawaii, thing to do in Hawaii, what to see in Hawaii, where to
   stay in Hawaii
-image_path: /images/hawaii/Hawaii 1-1-3.jpg
-banner-1_path: /images/hawaii/Hawaii 1-1-4.jpg
+image_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
+banner-1_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
 banner-fixed: false
 categories:
   - travel
 tags:
   - americas
 author: Marie Fe
-image-1_path: /images/hawaii/Hawaii 1-1.jpg
+image-1_path: /images/hawaii/mariefeandjakesnow-hawaii4.jpg
 image-2_path:
 intro-paragraph-emphasis: 'Picture Hawaii, and what comes to mind?'
 intro-content_html: >-
