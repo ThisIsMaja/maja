@@ -160,13 +160,10 @@ sections:
       LIFETIME</strong></p><p>This trip was definitely one of our favourites
       (ever!) and we can&rsquo;t wait to go back! Have questions or travel tips
       for the Philippines? Drops us a message in the comments below!&nbsp;</p>
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path: /images/style/maja-stock-11.jpg
     size: full
-    alt:
-  - image_path: /images/style/maja-stock-43.jpg
-    size:
     alt:
 gallery-text:
 ---
