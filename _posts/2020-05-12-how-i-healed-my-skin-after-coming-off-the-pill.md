@@ -8,8 +8,8 @@ meta-description: >-
   My story of how I came of the pill and regained control over my body and my
   skin
 meta-keywords: 'skin, the pill, coming off the pill, skin secrets, healthy skin, skin issues'
-image_path: /images/content-creation/iphone-content1.jpg
-banner-1_path: /images/content-creation/iphone-content1.jpg
+image_path: /images/style/mariefeandjakesnow-pill3.jpg
+banner-1_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-fixed: true
 categories:
   - journal
@@ -19,8 +19,8 @@ tags:
   - Business
   - productivity
 author: Marie & Jake
-image-1_path: /images/content-creation/iphone-content7.jpg
-image-2_path: /images/content-creation/iphone-content6.jpg
+image-1_path:
+image-2_path:
 intro-paragraph-emphasis: >-
   In this ever evolving digital world, learning how to create beautiful content
   that emotionally connects with people online can open up opportunities in your
