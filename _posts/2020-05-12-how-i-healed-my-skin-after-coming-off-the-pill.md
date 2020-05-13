@@ -21,31 +21,30 @@ tags:
 author: Marie & Jake
 image-1_path:
 image-2_path:
-intro-paragraph-emphasis: >-
-  In this ever evolving digital world, learning how to create beautiful content
-  that emotionally connects with people online can open up opportunities in your
-  life you never knew existed.
+intro-paragraph-emphasis: Midway through 2018 I finally decided to get off the pill once and for all
 intro-content_html: >-
-  <p>Instagram stories are not only an effective and easy way to show little
-  snippets of your day to your family and friends. They also provide the perfect
-  training ground to learn how to create engaging content and build confidence
-  in front of the camera. If you&rsquo;ve ever dreamed of building your own
-  business or sharing a message you&rsquo;re passionate about, knowing how to
-  create great content and effectively communicate through it online is an
-  absolute must. Learning how to connect and share with others online has
-  changed our lives and enabled us to build our dream lifestyle. It can do the
-  same for you if you&rsquo;re willing to put in the time and effort. Over time,
-  creating and sharing everyday has also given us the confidence to speak out
-  and be proud of ourselves and what we represent.&nbsp;</p><p>In this post we
-  will share with you the tips and tricks we&rsquo;ve learnt in the past four
-  years. They have helped us grow our instagram to over 700,000 people and allow
-  us to connect with 80,000+ people who watch our instagram stories
-  daily.&nbsp;</p><p>Before we share all this with you, we want to explain why
-  we think it's important to learn how to create and share in this new digital
-  world. We also want to share our story with you. It&rsquo;s important to know
-  that we<em> </em>all have to start somewhere. We definitely weren't confident
-  in the beginning either. If you want to skip right to the tips and tricks
-  click <strong><a href="#tips">here</a>.</strong></p>
+  <p>&nbsp;From the moment I made that decision I have been fighting a constant
+  battle to rebalance my hormones and regain the healthy skin I once had. It has
+  been a tiring process and I almost gave in several times to the allure of
+  clean skin by manipulating my hormones with the &lsquo;pill&rsquo;. In this
+  blog post i'm not going to talk about why the pill is bad for you or why I
+  decided to quit. At this point I just want to share with you how I succeeded
+  at rebalancing my hormones and how I brought my skin back under
+  control.</p><p>This is for all you girls out there who want to get off the
+  pill but you have struggled with skin issues every time you try. I want you to
+  believe there is a way for you to regain your healthy skin and say goodbye to
+  the horrible pill for good. I am living proof that with patience and
+  commitment you can do it. I am proud to say that I didn't give in. After
+  almost 2 years I can confidently announce that I've won the battle and
+  regained control over my skin and you can too! I am confident that with the
+  right information and learning from my mistakes you can do it much
+  quicker.&nbsp;</p><p>It for sure hasn&rsquo;t been easy and I've tried almost
+  every treatment you can think of. From different diets, medications and home
+  remedies to staying out of the sun or covering my face in apple cider vinegar.
+  I tried it all and I finally found out the perfect remedy for me. Now I know
+  what I need to do to control my skin, but that doesn't mean my skin is always
+  perfect. It just means that I know why my skin goes bad when it does, and I
+  know how to fix it.</p>
 sections:
   - banner_path:
     banner-caption:
