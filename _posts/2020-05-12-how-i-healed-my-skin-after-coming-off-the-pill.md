@@ -18,7 +18,7 @@ tags:
   - diet
   - mental Health
 author: Marie
-image-1_path:
+image-1_path: /images/personal/skin-pimples.jpg
 image-2_path:
 intro-paragraph-emphasis: Midway through 2018 I finally decided to get off the pill once and for all
 intro-content_html: >-
@@ -80,26 +80,30 @@ sections:
       environment and I believe the best and most effective way to do this is to
       go on a strict vegan/vegetarian candida diet. I am going to link a great
       article about what this diet includes and some recipes for you <a
-      href="https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/"><strong><u>here</u></strong></a>!</p><p>Essentially
-      a vegan/vegetarian candida diet is a diet that restricts all processed
-      food and all refined sugars/carbs. I was shocked that I wasn't allowed to
-      eat fruit, even the sugar in fruit was feeding the bad bacteria in my gut.
-      I was also shocked that after 2 years of being vegan and eating
-      predominantly whole foods, my gut isn't healthy already. The problem is
-      sugar and once you have bad bacteria in your gut it can survive for years
-      even on a really healthy diet. All the bad bacteria needs is some white
-      bread or a bit of pasta or pizza or some coconut ice cream and it will
-      stay with you.</p><p>I wish I could say that you can have a cheat meal
-      here and there, or eating a sugary dessert once a week is ok. But what I
-      found was that as soon as I made one mistake and ate something I shouldn't
-      have, my skin would flair up right away and I would need to start again
-      from the beginning.&nbsp;</p><p>I am so confident that if you can stick to
-      a full vegan/vegetarian candida diet for 1 month you will experience
-      amazing results and your skin will be so much healthier than before. It
-      was hard for me especially when Jake was having food I couldn't eat but it
-      was so worth it in the long run. The good news is that after a few months
-      now I have been able to re-introduce some foods that are not in the diet
-      like bread/pizza and my skin won't flare up like it used to.</p>
+      href="https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/"><strong><u>here</u></strong></a>!</p><p><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/food/vegan-food8.jpg&amp;timestamp=1589355827760"
+      data-cms-popout-id="image-0"
+      data-cms-original-src="/images/food/vegan-food8.jpg" width="4464"
+      height="2976" /></p><p>Essentially a vegan/vegetarian candida diet is a
+      diet that restricts all processed food and all refined sugars/carbs. I was
+      shocked that I wasn't allowed to eat fruit, even the sugar in fruit was
+      feeding the bad bacteria in my gut. I was also shocked that after 2 years
+      of being vegan and eating predominantly whole foods, my gut isn't healthy
+      already. The problem is sugar and once you have bad bacteria in your gut
+      it can survive for years even on a really healthy diet. All the bad
+      bacteria needs is some white bread or a bit of pasta or pizza or some
+      coconut ice cream and it will stay with you.</p><p>I wish I could say that
+      you can have a cheat meal here and there, or eating a sugary dessert once
+      a week is ok. But what I found was that as soon as I made one mistake and
+      ate something I shouldn't have, my skin would flair up right away and I
+      would need to start again from the beginning.&nbsp;</p><p>I am so
+      confident that if you can stick to a full vegan/vegetarian candida diet
+      for 1 month you will experience amazing results and your skin will be so
+      much healthier than before. It was hard for me especially when Jake was
+      having food I couldn't eat but it was so worth it in the long run. The
+      good news is that after a few months now I have been able to re-introduce
+      some foods that are not in the diet like bread/pizza and my skin won't
+      flare up like it used to.</p>
   - banner_path: /images/style/mariefeandjakesnow-pill1.jpg
     banner-caption:
     banner-fixed: false
@@ -196,26 +200,7 @@ sections:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis:
-    body-content_html: >-
-      <h3><strong>Apps for editing Instagram stories</strong></h3><p>If you want
-      to go beyond standard Instagram features, here is the list of apps where
-      you can level up your story game:</p><ul><li>Creator HUB - if you want to
-      colour grade your videos like one of your favorite content creators, then
-      this app is for you. It has filters by a bunch of talented content
-      creators and influencers (such as Carmushka, Haylsa, Saltinourhair,
-      Emmett, us and so much more). You get one free filter from each creator
-      and a possibility to buy a full bundle</li><li>Unfold - this app has lots
-      of great templates to customize your Instagram story. There are free ones
-      and there are also packages of 6-8 templated to buy (1-3
-      euros)</li></ul><ul><li>InShot - the app we use to edit/trim/add music to
-      our videos. It&rsquo;s super easy to use and it has free
-      features</li><li>Canva - quick and easy app to create your own
-      infographics, banners, and posters.&nbsp;</li><li>Hyperlapse - this app is
-      from Instagram and, as the name suggests, it films videos in hyperlapse.
-      It&rsquo;s a great way to film sunsets and sunrises, cleaning and packing
-      videos, etc.</li><li>Splice - Another video editor that makes editing on
-      your phone a breeze. This app has a paid subscription but it is worth it
-      if you're creating videos everyday.</li></ul>
+    body-content_html:
   - banner_path:
     banner-caption:
     banner-fixed: false
