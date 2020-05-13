@@ -6,8 +6,7 @@ slug: healing-skin-after-coming-off-the-pill
 title: How I healed my skin after coming off the pill
 meta-description: >-
   My story of how I came of the pill and regained control over my body and my
-  skin. Find out how to heal your skin and how to support your body to find back
-  to its natural balance...
+  skin
 meta-keywords: 'skin, the pill, coming off the pill, skin secrets, healthy skin, skin issues'
 image_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-1_path: /images/style/mariefeandjakesnow-pill3.jpg
@@ -205,10 +204,11 @@ sections:
       <p>The hardest for me was being consistent. Every time my skin broke out I
       felt really bad which made me want to eat bad food, which would then make
       my skin even worse.&nbsp;</p><p>If you really want to get rid of the pill
-      for good you need to be consistent and you need to be kind to yourself. It
-      is CRAZY how many girls have had to go through this or are currently going
-      through it. We are all in this together!!&nbsp;</p><p>After everything
-      I've been through,&nbsp;</p>
+      for good you need to be consistent, you need to be kind to yourself and
+      accept that you will have some bad days. It is CRAZY how many girls have
+      had to go through this or are currently going through it. We are all in
+      this together!!&nbsp;</p><p>Being free of the pill and feeling like myself
+      again is&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
