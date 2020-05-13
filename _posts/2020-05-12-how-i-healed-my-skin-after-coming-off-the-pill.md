@@ -13,12 +13,11 @@ banner-1_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-fixed: true
 categories:
   - journal
-  - lifestyle
+  - wellbeing
 tags:
-  - Self Improvement
-  - Business
-  - productivity
-author: Marie & Jake
+  - diet
+  - mental Health
+author: Marie
 image-1_path:
 image-2_path:
 intro-paragraph-emphasis: Midway through 2018 I finally decided to get off the pill once and for all
@@ -50,63 +49,148 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis: We all have to start somewhere
+    main-paragraph-emphasis: >-
+      An unhealthy gut is the perfect breeding ground for bacteria and fungus
+      that can have a really damaging effect on your skin.
     body-content_html: >-
-      <p>For the past 3 years, we have been posting 20 to 30 instagram stories
-      every single day. If you're thinking &lsquo;well you guys must be
-      naturals&rsquo; then think again. In the beginning it felt so wrong!! We
-      felt awkward and we weren't confident that people would actually get value
-      or care about what we were saying. However, we stuck with it because we
-      thought if at least one person would smile or be inspired by what we were
-      doing, then that would be enough. It didn't take long before we had proof
-      that at least one person liked what we were doing. We started receiving
-      messages from people telling us that our courage and stories were
-      inspirational. That was all the motivation we needed to continue creating
-      and sharing everyday.&nbsp;</p><p>You are special and you have something
-      to offer the world! If you feel like you want to share your voice, your
-      talents, your vision with the world then you MUST. There will always be
-      people that will try to bring you down or laugh at you but those people
-      have their own issues. Don't let them control how you feel about yourself
-      and certainly don't let them stop you from creating a life you are proud
-      of.</p><p>Now that you know you can do it and that we were once in exactly
-      the same position as you with the same fears and same worries -
-      let&rsquo;s talk about how you can start creating Instagram stories that
-      will catch peoples attention and give them
-      value.</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/content-creation/iphone-content4.jpg
+      <h4><strong>How I healed my skin after coming off the
+      pill</strong></h4><p>The first thing I would suggest you do if
+      you&rsquo;re wanting to come off the pill or if you&rsquo;re already
+      trying, is to go and get a complete blood test. The results will let you
+      know if you are deficient in any nutrients or if you have other conditions
+      that need to be taken care of that might affect or be affecting your
+      progress. After a couple months of being off the pill I also recommend you
+      get a hormone test to gauge how your hormones are balancing
+      out.&nbsp;</p><p>Now if you&rsquo;re anything like me I know you&rsquo;re
+      serious about taking back control of your hormones and just overall
+      becoming more in tune with your true self. So I'm going to jump right into
+      the most effective solution that I found to heal my skin and rebalance my
+      internal system. It is not an easy solution and it takes willpower to
+      stick to it but it will change everything if you can.&nbsp;</p><h4>The
+      vegan candida diet&nbsp;</h4><p>I got on this diet to try and heal my
+      candida fungus (white spots on my back) that I have had for 15 years. It
+      not only healed my candida, it healed all my skin conditions. No more acne
+      or pimples anywhere. From this I learnt that the health of my skin has a
+      direct correlation to the health of my gut environment. Overtime from
+      taking too many anti-inflammatories, drinking alcohol and eating
+      processed/sugary and fried foods, I developed an unhealthy gut
+      environment. An unhealthy gut is the perfect breeding ground for bacteria
+      and fungus that can have a really damaging effect on your skin. Before you
+      can take back control of your skin you need to create a healthy gut
+      environment and I believe the best and most effective way to do this is to
+      go on a strict vegan/vegetarian candida diet. I am going to link a great
+      article about what this diet includes and some recipes for you <a
+      href="https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/"><strong><u>here</u></strong></a>!</p><p>Essentially
+      a vegan/vegetarian candida diet is a diet that restricts all processed
+      food and all refined sugars/carbs. I was shocked that I wasn't allowed to
+      eat fruit, even the sugar in fruit was feeding the bad bacteria in my gut.
+      I was also shocked that after 2 years of being vegan and eating
+      predominantly whole foods, my gut isn't healthy already. The problem is
+      sugar and once you have bad bacteria in your gut it can survive for years
+      even on a really healthy diet. All the bad bacteria needs is some white
+      bread or a bit of pasta or pizza or some coconut ice cream and it will
+      stay with you.</p><p>I wish I could say that you can have a cheat meal
+      here and there, or eating a sugary dessert once a week is ok. But what I
+      found was that as soon as I made one mistake and ate something I shouldn't
+      have, my skin would flair up right away and I would need to start again
+      from the beginning.&nbsp;</p><p>I am so confident that if you can stick to
+      a full vegan/vegetarian candida diet for 1 month you will experience
+      amazing results and your skin will be so much healthier than before. It
+      was hard for me especially when Jake was having food I couldn't eat but it
+      was so worth it in the long run. The good news is that after a few months
+      now I have been able to re-introduce some foods that are not in the diet
+      like bread/pizza and my skin won't flare up like it used to.</p>
+  - banner_path: /images/style/mariefeandjakesnow-pill1.jpg
     banner-caption:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis: >-
-      Always speak your truth, it is very easy to tell if you don't truly
-      believe in what you’re saying
+      I can’t stress enough how important it is to nourish your body with food
+      that comes from the earth that isn't full of chemicals and processed sugar
     body-content_html: >-
-      <h3 id="tips"><strong>Tips and tricks to create captivating &amp;
-      beautiful Instagram stories</strong></h3><ul><li>When recording yourself
-      always face towards a light source for example a window or lamp so that
-      you look bright and radiant</li><li>Make sure you are looking at the
-      camera lens and not at yourself on the screen</li><li>Always speak your
-      truth, it is very easy to tell if you don't truly believe in what
-      you&rsquo;re saying</li><li>Imagine you&rsquo;re speaking as if your
-      audience was actually there with you</li><li>Be confident and positive,
-      the more confident you are the less people will judge and the more you
-      won't care</li><li>Type the basis of what you&rsquo;re saying in text so
-      that people who can't listen to audio or who are deaf will be able to
-      understand</li><li>Share anything you yourself find interesting, others
-      will too</li><li>Be consistent, be there for your audience. Make sure
-      you're sharing stories most days&nbsp;</li><li>Use apps to edit your
-      stories and take them to the next level (see apps below)</li><li>Mix up
-      your videos making use of slow-mo and time lapse features on your
-      iPhone</li><li>Use the pen tool to customise your story by writing
-      something with your handwriting</li><li>Copy and paste multiple photos in
-      one story by first copying the photo in your Camera roll and then pasting
-      it in your story</li><li>Remember your WHY, if you&rsquo;re posting
-      stories for nothing else but to help one person, then it can be enough.
-      Plus on top of that you&rsquo;re building confidence and learning valuable
-      skills.</li><li>Use different colours and different fonts</li><li>Draw
-      borders around your frame or around yourself</li></ul><p>See how we have
-      use some of these tricks on our stories in the gallery at the <a
-      href="#gallery"><u><strong>bottom of the page</strong></u></a></p>
+      <h3>What other solutions helped me on my journey to getting off the
+      pill?</h3><p>&nbsp;</p><h4>A good wholesome plant-based diet</h4><p>This
+      won&rsquo;t come as a surprise. I can&rsquo;t stress enough how important
+      it is to nourish your body with food that comes from the earth that isn't
+      full of chemicals and processed sugar.</p><p>Even if you are not vegan or
+      vegetarian, try to avoid processed food and refined sugars. This will make
+      a huge difference.&nbsp;</p><p>Try to include in your diet more seeds,
+      nuts, legumes and fresh veggies.</p><h4>No sugar</h4><p>Refined sugar is
+      our number one enemy when it comes to health. Besides leading to heart
+      diseases, increasing the risk of Type 2 diabetes, accelerating aging, etc.
+      it also causes skin breakouts and acne.&nbsp;</p><p>Avoiding sugar has
+      been one of the most challenging parts of this journey. Every time I was
+      craving it I had to remind myself about the reason I was doing all this.
+      In the end, it is just not worth it.&nbsp;</p><h4>Drink a lot of
+      water</h4><p>Staying hydrated is extremely important for our bodies. This
+      is what gives us life.</p><p>If you don&rsquo;t drink enough water during
+      the day, the skin is the first organ to suffer from it.&nbsp;</p><p>Make
+      sure to drink at least 2 liters per day. And remember that when you feel
+      thirsty you are already dehydrated and you are late. I carry a reusable
+      bottle of water everywhere I go and I always keep it on the desk when I am
+      working.</p><h4>Apple cider vinegar</h4><p>Apple cider vinegar was used as
+      a natural remedy for health problems for a very long period of time. I
+      incorporated it into my daily routine about a year ago. I mix it with
+      water and drink it on an empty stomach every morning.&nbsp;</p><p>This has
+      helped to not only clear out my skin but also improved my digestion and
+      reduced bloating.</p><p>This is <a href="https://amzn.to/2yMhdZ4"><u>the
+      one</u></a> I&rsquo;ve been using.&nbsp;</p><h4>Probiotics</h4><p>I
+      can&rsquo;t stress enough how important your gut health is. If you have an
+      imbalance in your gut, it prevents your body from absorbing and using the
+      nutrients from your food, it also makes it difficult for your body to
+      fight off viruses and infection. Probiotics will keep your&nbsp; gut
+      healthy so you never need to worry about this. Probiotics will also reduce
+      inflammation and help to get rid of the toxins which will have a
+      beneficial effect on your skin.&nbsp;</p><p>You can either choose to buy
+      them in capsules or you can include the following products in your diet:
+      tempeh, kefir, yogurt, pickled veggies, miso, kimchi.</p><h4>Less
+      stress</h4><p>It is no secret that stress is not good for us. Stress
+      hormones affect all your hormones in general and this can cause
+      breakouts.</p><p>Find the things that&nbsp; bring stress and anxiety into
+      your life and see what changes you can make to minimize and eventually
+      fully remove them.</p><p>&nbsp;</p><h4>Sun and saltwater</h4><p>I feel
+      like it can be very personal, as I&rsquo;ve heard people say that
+      saltwater dries out their skin. However, I feel that it has had a positive
+      impact on my skin. Have you ever taken a dip in the ocean and noticed how
+      quickly any cuts and scratches heal after? The ocean is full of bacteria
+      that can help us heal. It will have the same effect on your face skin,
+      especially if you picked any of the pimples.&nbsp;</p><p>The sun helps our
+      body to produce vitamin D and serotonin, which is associated with lifting
+      up our mood, relaxation and stress decrease.</p><p>But remember that
+      everything is good in moderation.&nbsp;</p><h4>Good sleep</h4><p>I feel
+      like this goes together with having less stress in your life. Sleep is the
+      time when your body and mind rest and recover. A healthy amount of sleep
+      is considered 8 hours per night. I know it is not always possible but it
+      is all about balance. If one night you sleep less than you catch up the
+      next night.&nbsp;</p><p>Having a good night of sleep by itself won&rsquo;t
+      cure your acne but in combination with other things from this list, it can
+      do wonders.&nbsp;</p><h4>No touching of the face</h4><p>Most of the time
+      we are doing this without even noticing. But imagine all the bacteria you
+      are transferring from your hands onto your already inflamed skin. This is
+      not good for your skin, try to avoid it as much as possible.</p><h4>Use a
+      clean towel</h4><p>The same goes for using a clean face towel. Try to
+      change it at least every 3 days but preferably every day. I suggest buying
+      a set of small towels that will be used for face only, not even for your
+      hands.&nbsp;</p><h4><a href="https://amzn.to/2WOBkxL"><u>Tea tree
+      oil</u></a></h4><p>This oil has a great anti-inflammatory effect. When I
+      feel that I am about to get a pimple, I apply tea tree oil on that spot
+      and it reduces the redness and sometimes the pimple won&rsquo;t even come
+      out. I also find that it helps to prevent and reduce scarring and leave my
+      skin smooth and soft.&nbsp;</p><h4><a
+      href="https://amzn.to/3fHFEI0"><u>Pure aloe vera</u></a></h4><p>This is
+      another great natural solution for scaring. I like applying it overnight.
+      I only do it on the area where I have breakouts and I find that in the
+      morning my skin looks much less inflamed.</p><h4>Celery
+      juice</h4><p>Celery juice has a huge detoxifying and strengthening effect
+      on our bodies. And naturally having less toxins in your body will have a
+      positive effect on your skin. Celery juice is also high in sodium which
+      raises stomach acids and it helps us to digest and to break down food
+      fast. As a result, this leads to a healthy gut which we all know now has
+      direct connection to the quality of our skin.&nbsp;</p><h4><a
+      href="https://amzn.to/3cq7RRp"><u>Hemp seed oil</u></a></h4><p>Why hemp
+      seed oil? Because it helps to moisturize our skin without clogging it and
+      it is suitable for most skin types. Dryness can cause your skin to
+      overproduce oil and this leads to more breakouts.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
