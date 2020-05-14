@@ -272,7 +272,7 @@ sections:
       although the journey was difficult and I had many struggles. Being on the
       other side now is absolutely worth it all.
     body-content_html: >-
-      <h4 id="you-can-do-it">You can do it</h4><p>The hardest for me was being
+      <h3 id="you-can-do-it">You can do it</h3><p>The hardest for me was being
       consistent. Every time my skin broke out I felt really bad which made me
       want to eat bad food, which would then make my skin even
       worse.&nbsp;</p><p>If you really want to get rid of the pill for good you
@@ -282,9 +282,9 @@ sections:
       all in this together!!&nbsp;</p><p>Being free of the pill and feeling like
       myself again is wonderful, although the journey was difficult and I had
       many struggles. Being on the other side now is absolutely worth it
-      all.</p><p>If you have any questions, please ask them in the comment
-      section below. <u>If you have tips I would love to hear them? What
-      products do you swear by?? I </u>hope you all learnt a lot from this blog
+      all.</p><p><u>If you have any questions, please ask them in the comment
+      section below. If you have tips I would love to hear them? What products
+      do you swear by??</u></p><p>I hope you all learnt a lot from this blog
       post and it has given you some hope. I will write another blog post soon
       talking about why I got off the pill, what contraceptives I recommend and
       why you should think about what the pill is doing to you.&nbsp;</p><p>Lots
