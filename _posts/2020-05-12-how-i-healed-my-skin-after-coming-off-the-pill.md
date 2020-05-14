@@ -63,14 +63,14 @@ sections:
       An unhealthy gut is the perfect breeding ground for bacteria and fungus
       that can have a really damaging effect on your skin.
     body-content_html: >-
-      <h4>How I healed my skin after coming off the pill</h4><p>The first thing
-      I would suggest if you&rsquo;re wanting to come off the pill or if
-      you&rsquo;re already trying, is to go and get a complete blood test. The
-      results will let you know if you are deficient in any nutrients or if you
-      have other conditions that need to be taken care of that might affect or
-      be affecting your skin.</p><p>After a couple months of being off the pill
-      I also recommend you get a hormone test to gauge how your hormones are
-      balancing out.</p><p>Now if you&rsquo;re anything like me I know
+      <h4>How I healed my skin after coming off the pill</h4><p>&nbsp;</p><p>The
+      first thing I would suggest if you&rsquo;re wanting to come off the pill
+      or if you&rsquo;re already trying, is to go and get a complete blood test.
+      The results will let you know if you are deficient in any nutrients or if
+      you have other conditions that need to be taken care of that might affect
+      or be affecting your skin.</p><p>After a couple months of being off the
+      pill I also recommend you get a hormone test to gauge how your hormones
+      are balancing out.</p><p>Now if you&rsquo;re anything like me I know
       you&rsquo;re serious about taking back control of your hormones and just
       overall becoming more in tune with your true self. So I'm going to jump
       right into the most effective solution that I found to heal my skin and
