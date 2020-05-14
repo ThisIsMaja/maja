@@ -3,7 +3,7 @@ layout: default
 title: Shop Marie Fe And Jake Snow
 meta-description:
 meta-keywords:
-featured-image_path:
+featured-image_path: /images/banners/banner-shop.jpg
 best-sellers:
   - mobile
   - ultimate-3
@@ -120,9 +120,9 @@ banners:
         " data-aos="fade" data-aos-delay="500">
             <a href="{{product.url}}" class="card">
               {% unless product.save-percentage == false %}
-              <span class="save">SAVE<br>{{ product.save-percentage }}</span>
+              <span class="save">SAVE<br />{{ product.save-percentage }}</span>
               {% endunless %}
-              <img src="{{product.image_path}}">
+              <img src="{{product.image_path}}" />
               <div class="padded-1">
                 <h3> {{product.title}}</h3>
                 <p class="product-price"> {{product.price}}  <span class="compare-at-price">{{product.compare-at-price}} </span> </p>
