@@ -28,31 +28,32 @@ intro-content_html: >-
   by manipulating my hormones with the &lsquo;pill&rsquo;. In this blog post I'm
   not going to talk about why the pill is bad for you or why I decided to quit.
   At this point I just want to share with you how I succeeded at rebalancing my
-  hormones and how I brought my skin back under control.</p><p>This is for all
-  you girls out there who want to get off the pill but you have struggled with
-  skin issues every time you try. I want you to believe there is a way for you
-  to regain your healthy skin and say goodbye to the horrible pill for good. I
-  can tell you now with patience and commitment you can do it. And I am
-  confident that with the right information and learning from my mistakes you
-  can do it much quicker.&nbsp;</p><p>It for sure hasn&rsquo;t been easy and
-  I've tried almost every treatment you can think of. From different diets,
-  medications and home remedies to staying out of the sun or covering my face in
-  apple cider vinegar. I tried it all and I finally found a remedy for me. Now I
-  know what I need to do to control my skin, but that doesn't mean my skin is
-  always perfect. It just means that I know why my skin goes bad when it does,
-  and I know how to fix it.</p><p>If you struggle with any sort of skin issue
-  you really need to ask yourself WHY!! What does my skin want to tell me here?
-  The skin is our biggest organ and holds 20% of our natural bacteria in it and
-  on it, this bacteria gets fed by the other 80% of our bacteria in our gut. The
-  skin is the window to our inner health and is also an organ that releases a
-  lot of our toxins. So if there is something wrong with your skin, ask yourself
-  - what could be the tigger??</p><p>Do I have too much physical or mental
-  stress right now, how good is my sleep, am I drinking enough, do I drink
-  alcohol or smoke, what do I eat?? These are the questions we need to ask
-  ourselves. I know life sometimes isn't fair and there are girls out there who
-  have great skin while eating whatever they want. But that does not mean they
-  are healthy. They might even be still taking the birth control pill which
-  helps with your skin but causes a lot of harm to your body.</p>
+  hormones and how I brought my skin back under control. Keep reading to find
+  out how : )</p><p>This is for all you girls out there who want to get off the
+  pill but you have struggled with skin issues every time you try. I want you to
+  believe there is a way for you to regain your healthy skin and say goodbye to
+  the horrible pill for good. I can tell you now with patience and commitment
+  you can do it. And I am confident that with the right information and learning
+  from my mistakes you can do it much quicker.&nbsp;</p><p>It for sure
+  hasn&rsquo;t been easy and I've tried almost every treatment you can think of.
+  From different diets, medications and home remedies to staying out of the sun
+  or covering my face in apple cider vinegar. I tried it all and I finally found
+  a remedy for me. Now I know what I need to do to control my skin, but that
+  doesn't mean my skin is always perfect. It just means that I know why my skin
+  goes bad when it does, and I know how to fix it.</p><p>If you struggle with
+  any sort of skin issue you really need to ask yourself WHY!! What does my skin
+  want to tell me here? The skin is our biggest organ and holds 20% of our
+  natural bacteria in it and on it, this bacteria gets fed by the other 80% of
+  our bacteria in our gut. The skin is the window to our inner health and is
+  also an organ that releases a lot of our toxins. So if there is something
+  wrong with your skin, ask yourself - what could be the tigger??</p><p>Do I
+  have too much physical or mental stress right now, how good is my sleep, am I
+  drinking enough, do I drink alcohol or smoke, what do I eat?? These are the
+  questions we need to ask ourselves. I know life sometimes isn't fair and there
+  are girls out there who have great skin while eating whatever they want. But
+  that does not mean they are healthy. They might even be still taking the birth
+  control pill which helps with your skin but causes a lot of harm to your
+  body.</p>
 sections:
   - banner_path:
     banner-caption:
