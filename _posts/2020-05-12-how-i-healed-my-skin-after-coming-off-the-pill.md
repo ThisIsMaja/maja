@@ -226,8 +226,8 @@ sections:
       skin without clogging it and it is suitable for most skin types. Dryness
       can cause your skin to overproduce oil and this leads to more
       breakouts.</p>
-  - banner_path:
-    banner-caption:
+  - banner_path: /images/food/leafy-greens-maja.jpg
+    banner-caption: Leafy greens are a superpower for healthy skin
     banner-fixed: false
     columns: true
     main-paragraph-emphasis: >-
