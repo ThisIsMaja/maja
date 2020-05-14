@@ -191,12 +191,12 @@ sections:
       one night you sleep less than you catch up the next
       night.&nbsp;</p><p>Having a good night of sleep by itself won&rsquo;t cure
       your acne but in combination with other things from this list, it can do
-      wonders.&nbsp;</p><p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/sleep-maja.jpg&amp;timestamp=1589424614775"
-      data-cms-popout-id="image-1"
+      wonders.&nbsp;</p><p><img data-cms-popout-id="image-1"
       data-cms-original-src="/images/style/sleep-maja.jpg" width="1600"
-      height="2133" /></p><h4>No touching of the face</h4><p>Most of the time we
-      are doing this without even noticing. But imagine all the bacteria you are
+      height="2133"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/sleep-maja.jpg&amp;timestamp=1589424614775"
+      /></p><h4>No touching of the face</h4><p>Most of the time we are doing
+      this without even noticing. But imagine all the bacteria you are
       transferring from your hands onto your already inflamed skin. This is not
       good for your skin, try to avoid it as much as possible.</p><h4>Use a
       clean towel</h4><p>The same goes for using a clean face towel. Try to
@@ -212,15 +212,16 @@ sections:
       another great natural solution for scaring. I like applying it overnight.
       I only do it on the area where I have breakouts and I find that in the
       morning my skin looks much less inflamed.</p><p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/aloe-vera-maja.jpg&amp;timestamp=1589424489939"
       data-cms-popout-id="image-0"
       data-cms-original-src="/images/style/aloe-vera-maja.jpg" width="1600"
-      height="2000" /></p><h4>Celery juice</h4><p>Celery juice has a huge
-      detoxifying and strengthening effect on our bodies. And naturally having
-      less toxins in your body will have a positive effect on your skin. Celery
-      juice is also high in sodium which raises stomach acids and it helps us to
-      digest and to break down food fast. As a result, this leads to a healthy
-      gut which we all know now has direct connection to the quality of our
+      height="2000"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/aloe-vera-maja.jpg&amp;timestamp=1589424489939"
+      /></p><h4>Celery juice</h4><p>Celery juice has a huge detoxifying and
+      strengthening effect on our bodies. And naturally having less toxins in
+      your body will have a positive effect on your skin. Celery juice is also
+      high in sodium which raises stomach acids and it helps us to digest and to
+      break down food fast. As a result, this leads to a healthy gut which we
+      all know now has direct connection to the quality of our
       skin.&nbsp;</p><h4><a href="https://amzn.to/3cq7RRp"><u>Hemp seed
       oil</u></a></h4><p>Why hemp seed oil? Because it helps to moisturize our
       skin without clogging it and it is suitable for most skin types. Dryness
@@ -228,6 +229,37 @@ sections:
       breakouts.</p>
   - banner_path: /images/food/leafy-greens-maja.jpg
     banner-caption: Leafy greens are a superpower for healthy skin
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis: >-
+      I've found that there is no quick fix and the professionals in the field
+      tend to say the same
+    body-content_html: >-
+      <h3 id="what-is-advised-by-professionals">What is advised by
+      professionals:</h3><p>If you've tried coming off the pill and had
+      struggles with your skin/rebalancing your hormones, you will know how
+      difficult it is to find the answers you're looking for. Its especially
+      hard because you want results to come NOW! I've found that there is no
+      quick fix and the professionals in the field tend to say the same. Apart
+      from the above things I've mentioned what else do the professionals
+      say?</p><p><strong>Get your mineral levels tested:</strong> zinc, selenim,
+      Vitamin D3, Vitamin A, Vitamin C, Omega 3, Q10. In case you have
+      deficiency consider supplementing certain essential minerals and
+      vitamins.</p><p><strong>Take care of your liver -&nbsp;</strong>It is
+      responsible for getting toxins out of our bodies. I&rsquo;ve already
+      mentioned this a few times in the post, but only because it is this
+      important. Fewer toxins = better skin.</p><p>Try to include in your diet
+      more foods that have bitter substances in them (such as artichokes, sage
+      and Brussel sprouts)</p><p>Also try to keep alcohol to a
+      minimum.</p><p><strong>Good skincare</strong> - start paying more
+      attention to the ingredients list of your skincare. General rule - if you
+      can&rsquo;t pronounce it, it&rsquo;s not good for you. Try to avoid
+      silicon, parabens, and alcohol as much as possible. Search for more
+      natural ingredients, such as mentioned before - aloe vera, good oils
+      (coconut, hemp, tea tree, argan, essential oils, etc), avocado, apple
+      cider vinegar, etc.&nbsp;</p>
+  - banner_path: /images/marie-jake/marie-fe.jpg
+    banner-caption:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis: >-
@@ -252,12 +284,6 @@ sections:
       talking about why I got off the pill, what contraceptives I recommend and
       why you should think about what the pill is doing to you.&nbsp;</p><p>Lots
       of Love</p>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: true
-    main-paragraph-emphasis:
-    body-content_html:
 show-gallery: false
 gallery:
   - image_path: /images/content-creation/instagram-stories3.jpg
