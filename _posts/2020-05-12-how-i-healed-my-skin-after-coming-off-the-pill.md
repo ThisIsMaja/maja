@@ -293,7 +293,7 @@ gallery:
 
 ### Midway through 2018 I finally decided to get off the pill once and for all
 
-From the moment I made that decision I have been fighting a constant battle to rebalance my hormones and regain the healthy skin I once had. It has been a tiring process and I almost gave in several times to the allure of clean skin by manipulating my hormones with the ‘pill’. In this blog post I'm not going to talk about why the pill is bad for you or why I decided to quit. At this point I just want to share with you how I succeeded at rebalancing my hormones and how I brought my skin back under control.
+From the moment I made that decision I have been fighting a constant battle to rebalance my hormones and regain the healthy skin I once had. It has been a tiring process and I almost gave in several times to the allure of clean skin by manipulating my hormones with the ‘pill’. In this blog post I'm not going to talk about why the pill is bad for you or why I decided to quit. At this point I just want to share with you how I succeeded at rebalancing my hormones and how I brought my skin back under control. Keep reading to find out how : )
 
 This is for all you girls out there who want to get off the pill but have struggled with skin issues every time you try. I want you to believe there is a way for you to regain your healthy skin and say goodbye to the horrible pill for good. I can tell you now with patience and commitment you can do it. And I am confident that with the right information and learning from my mistakes you can do it much quicker.&nbsp;
 
