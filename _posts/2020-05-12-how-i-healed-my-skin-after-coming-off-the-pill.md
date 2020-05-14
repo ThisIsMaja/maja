@@ -444,6 +444,6 @@ If you really want to get rid of the pill for good you need to be consistent and
 
 Being free of the pill and feeling like myself again is wonderful, although the journey was difficult and I had many struggles. Being on the other side now is absolutely worth it all.
 
-If you have any questions, please ask them in the comment section below. <u>If you have tips I would love to hear them? What products do you swear by?? I </u>hope you all learnt a lot from this blog post and it has given you some hope. I will write another blog post soon talking about why I got off the pill, what contraceptives I recommend and why you should think about what the pill is doing to you.&nbsp;
+If you have any questions, please ask them in the comment section below. If you have tips I would love to hear them? What products do you swear by?? I hope you all learnt a lot from this blog post and it has given you some hope. I will write another blog post soon talking about why I got off the pill, what contraceptives I recommend and why you should think about what the pill is doing to you.&nbsp;
 
 Lots of Love
