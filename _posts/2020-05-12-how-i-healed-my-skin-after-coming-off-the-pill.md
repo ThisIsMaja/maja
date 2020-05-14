@@ -136,98 +136,103 @@ sections:
       that comes from the earth that isn't full of chemicals and processed sugar
     body-content_html: >-
       <h3>What other solutions helped me on my journey to getting off the pill
-      and fixing my skin?</h3><p>&nbsp;</p><h4>A good wholesome plant-based
-      diet</h4><p>This won&rsquo;t come as a surprise. I can&rsquo;t stress
-      enough how important it is to nourish your body with food that comes from
-      the earth that isn't full of chemicals and processed sugar.</p><p>Even if
-      you are not vegan or vegetarian, try to avoid processed food and refined
-      sugars. This will make a huge difference.&nbsp;</p><p>Try to include in
-      your diet more seeds, nuts, legumes and fresh veggies.</p><h4>No
-      sugar</h4><p>Refined sugar is our number one enemy when it comes to
-      health. Besides leading to heart diseases, increasing the risk of Type 2
-      diabetes, accelerating aging, etc. it also causes skin breakouts and
-      acne.&nbsp;</p><p>Avoiding sugar has been one of the most challenging
-      parts of this journey. Every time I was craving it I had to remind myself
-      about the reason I was doing all this. In the end, it is just not worth
-      it.&nbsp;</p><h4>Drink a lot of water</h4><p>Staying hydrated is extremely
-      important for our bodies. This is what gives us life.</p><p>If you
-      don&rsquo;t drink enough water during the day, the skin is the first organ
-      to suffer from it.&nbsp;</p><p>Make sure to drink at least 2 liters per
-      day. And remember that when you feel thirsty you are already dehydrated
-      and you are late. I carry a reusable bottle of water everywhere I go and I
-      always keep it on the desk when I am working.</p><h4>Apple cider
-      vinegar</h4><p>Apple cider vinegar was used as a natural remedy for health
-      problems for a very long period of time. I incorporated it into my daily
-      routine about a year ago. I mix it with water and drink it on an empty
-      stomach every morning.&nbsp;</p><p>This has helped to not only clear out
-      my skin but also improved my digestion and reduced bloating.</p><p>This is
-      <a href="https://amzn.to/2yMhdZ4"><u>the one</u></a> I&rsquo;ve been
-      using.&nbsp;</p><h4>Probiotics</h4><p>I can&rsquo;t stress enough how
-      important your gut health is. If you have an imbalance in your gut, it
-      prevents your body from absorbing and using the nutrients from your food,
-      it also makes it difficult for your body to fight off viruses and
-      infection. Probiotics will keep your&nbsp; gut healthy so you never need
-      to worry about this. Probiotics will also reduce inflammation and help to
-      get rid of the toxins which will have a beneficial effect on your
-      skin.&nbsp;</p><p>You can either choose to buy them in capsules or you can
-      include the following products in your diet: tempeh, kefir, yogurt,
-      pickled veggies, miso, kimchi.</p><h4>Less stress</h4><p>It is no secret
-      that stress is not good for us. Stress hormones affect all your hormones
-      in general and this can cause breakouts.</p><p>Find the things that&nbsp;
-      bring stress and anxiety into your life and see what changes you can make
-      to minimize and eventually fully remove them.</p><p>&nbsp;</p><h4>Sun and
-      saltwater</h4><p>I feel like it can be very personal, as I&rsquo;ve heard
-      people say that saltwater dries out their skin. However, I feel that it
-      has had a positive impact on my skin. Have you ever taken a dip in the
-      ocean and noticed how quickly any cuts and scratches heal after? The ocean
-      is full of bacteria that can help us heal. It will have the same effect on
-      your face skin, especially if you picked any of the
+      and fixing my skin?</h3><p>&nbsp;</p><h4><strong>A good wholesome
+      plant-based diet</strong></h4><p>This won&rsquo;t come as a surprise. I
+      can&rsquo;t stress enough how important it is to nourish your body with
+      food that comes from the earth that isn't full of chemicals and processed
+      sugar.</p><p>Even if you are not vegan or vegetarian, try to avoid
+      processed food and refined sugars. This will make a huge
+      difference.&nbsp;</p><p>Try to include in your diet more seeds, nuts,
+      legumes and fresh veggies.</p><h4><strong>No sugar</strong></h4><p>Refined
+      sugar is our number one enemy when it comes to health. Besides leading to
+      heart diseases, increasing the risk of Type 2 diabetes, accelerating
+      aging, etc. it also causes skin breakouts and acne.&nbsp;</p><p>Avoiding
+      sugar has been one of the most challenging parts of this journey. Every
+      time I was craving it I had to remind myself about the reason I was doing
+      all this. In the end, it is just not worth it.&nbsp;</p><h4><strong>Drink
+      a lot of water</strong></h4><p>Staying hydrated is extremely important for
+      our bodies. This is what gives us life.</p><p>If you don&rsquo;t drink
+      enough water during the day, the skin is the first organ to suffer from
+      it.&nbsp;</p><p>Make sure to drink at least 2 liters per day. And remember
+      that when you feel thirsty you are already dehydrated and you are late. I
+      carry a reusable bottle of water everywhere I go and I always keep it on
+      the desk when I am working.</p><h4><strong>Apple cider
+      vinegar</strong></h4><p>Apple cider vinegar was used as a natural remedy
+      for health problems for a very long period of time. I incorporated it into
+      my daily routine about a year ago. I mix it with water and drink it on an
+      empty stomach every morning.&nbsp;</p><p>This has helped to not only clear
+      out my skin but also improved my digestion and reduced
+      bloating.</p><p>This is <a href="https://amzn.to/2yMhdZ4"><u>the
+      one</u></a> I&rsquo;ve been
+      using.&nbsp;</p><h4><strong>Probiotics</strong></h4><p>I can&rsquo;t
+      stress enough how important your gut health is. If you have an imbalance
+      in your gut, it prevents your body from absorbing and using the nutrients
+      from your food, it also makes it difficult for your body to fight off
+      viruses and infection. Probiotics will keep your&nbsp; gut healthy so you
+      never need to worry about this. Probiotics will also reduce inflammation
+      and help to get rid of the toxins which will have a beneficial effect on
+      your skin.&nbsp;</p><p>You can either choose to buy them in capsules or
+      you can include the following products in your diet: tempeh, kefir,
+      yogurt, pickled veggies, miso, kimchi.</p><h4><strong>Less
+      stress</strong></h4><p>It is no secret that stress is not good for us.
+      Stress hormones affect all your hormones in general and this can cause
+      breakouts.</p><p>Find the things that&nbsp; bring stress and anxiety into
+      your life and see what changes you can make to minimise and eventually
+      fully remove them.</p><p>&nbsp;</p><h4><strong>Sun and
+      saltwater</strong></h4><p>I feel like it can be very personal, as
+      I&rsquo;ve heard people say that saltwater dries out their skin. However,
+      I feel that it has had a positive impact on my skin. Have you ever taken a
+      dip in the ocean and noticed how quickly any cuts and scratches heal
+      after? The ocean is full of bacteria that can help us heal. It will have
+      the same effect on your face skin, especially if you picked any of the
       pimples.&nbsp;</p><p>The sun helps our body to produce vitamin D and
       serotonin, which is associated with lifting up our mood, relaxation and
       stress decrease.</p><p>But remember that everything is good in
-      moderation.&nbsp;</p><h4>Good sleep</h4><p>I feel like this goes together
-      with having less stress in your life. Sleep is the time when your body and
-      mind rest and recover. A healthy amount of sleep is considered 8 hours per
-      night. I know it is not always possible but it is all about balance. If
-      one night you sleep less than you catch up the next
+      moderation.&nbsp;</p><h4><strong>Good sleep</strong></h4><p>I feel like
+      this goes together with having less stress in your life. Sleep is the time
+      when your body and mind rest and recover. A healthy amount of sleep is
+      considered 8 hours per night. I know it is not always possible but it is
+      all about balance. If one night you sleep less than you catch up the next
       night.&nbsp;</p><p>Having a good night of sleep by itself won&rsquo;t cure
       your acne but in combination with other things from this list, it can do
       wonders.&nbsp;</p><p><img data-cms-popout-id="image-1"
       data-cms-original-src="/images/style/sleep-maja.jpg" width="1600"
       height="2133"
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/sleep-maja.jpg&amp;timestamp=1589424614775"
-      /></p><h4>No touching of the face</h4><p>Most of the time we are doing
-      this without even noticing. But imagine all the bacteria you are
-      transferring from your hands onto your already inflamed skin. This is not
-      good for your skin, try to avoid it as much as possible.</p><h4>Use a
-      clean towel</h4><p>The same goes for using a clean face towel. Try to
-      change it at least every 3 days but preferably every day. I suggest buying
-      a set of small towels that will be used for face only, not even for your
-      hands.&nbsp;</p><h4><a href="https://amzn.to/2WOBkxL"><u>Tea tree
-      oil</u></a></h4><p>This oil has a great anti-inflammatory effect. When I
-      feel that I am about to get a pimple, I apply tea tree oil on that spot
-      and it reduces the redness and sometimes the pimple won&rsquo;t even come
-      out. I also find that it helps to prevent and reduce scarring and leave my
-      skin smooth and soft.&nbsp;</p><h4><a
-      href="https://amzn.to/3fHFEI0"><u>Pure aloe vera</u></a></h4><p>This is
-      another great natural solution for scaring. I like applying it overnight.
-      I only do it on the area where I have breakouts and I find that in the
-      morning my skin looks much less inflamed.</p><p><img
-      data-cms-popout-id="image-0"
+      /></p><h4><strong>No touching of the face</strong></h4><p>Most of the time
+      we are doing this without even noticing. But imagine all the bacteria you
+      are transferring from your hands onto your already inflamed skin. This is
+      not good for your skin, try to avoid it as much as
+      possible.</p><h4><strong>Use a clean towel</strong></h4><p>The same goes
+      for using a clean face towel. Try to change it at least every 3 days but
+      preferably every day. I suggest buying a set of small towels that will be
+      used for face only, not even for your hands.&nbsp;</p><h4><strong><a
+      href="https://amzn.to/2WOBkxL"><u>Tea tree
+      oil</u></a></strong></h4><p>This oil has a great anti-inflammatory effect.
+      When I feel that I am about to get a pimple, I apply tea tree oil on that
+      spot and it reduces the redness and sometimes the pimple won&rsquo;t even
+      come out. I also find that it helps to prevent and reduce scarring and
+      leave my skin smooth and soft.&nbsp;</p><h4><strong><a
+      href="https://amzn.to/3fHFEI0"><u>Pure aloe
+      vera</u></a></strong></h4><p>This is another great natural solution for
+      scaring. I like applying it overnight. I only do it on the area where I
+      have breakouts and I find that in the morning my skin looks much less
+      inflamed.</p><p><img data-cms-popout-id="image-0"
       data-cms-original-src="/images/style/aloe-vera-maja.jpg" width="1600"
       height="2000"
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/aloe-vera-maja.jpg&amp;timestamp=1589424489939"
-      /></p><h4>Celery juice</h4><p>Celery juice has a huge detoxifying and
-      strengthening effect on our bodies. And naturally having less toxins in
-      your body will have a positive effect on your skin. Celery juice is also
-      high in sodium which raises stomach acids and it helps us to digest and to
-      break down food fast. As a result, this leads to a healthy gut which we
-      all know now has direct connection to the quality of our
-      skin.&nbsp;</p><h4><a href="https://amzn.to/3cq7RRp"><u>Hemp seed
-      oil</u></a></h4><p>Why hemp seed oil? Because it helps to moisturize our
-      skin without clogging it and it is suitable for most skin types. Dryness
-      can cause your skin to overproduce oil and this leads to more
-      breakouts.</p>
+      /></p><h4><strong>Celery juice</strong></h4><p><strong>Celery juice has a
+      h</strong>uge detoxifying and strengthening effect on our bodies. And
+      naturally having less toxins in your body will have a positive effect on
+      your skin. Celery juice is also high in sodium which raises stomach acids
+      and it helps us to digest and to break down food fast. As a result, this
+      leads to a healthy gut which we all know now has direct connection to the
+      quality of our skin.&nbsp;</p><h4><strong><a
+      href="https://amzn.to/3cq7RRp"><u>Hemp seed
+      oil</u></a></strong></h4><p>Why hemp seed oil? Because it helps to
+      moisturize our skin without clogging it and it is suitable for most skin
+      types. Dryness can cause your skin to overproduce oil and this leads to
+      more breakouts.</p>
   - banner_path: /images/food/leafy-greens-maja.jpg
     banner-caption: Leafy greens are a superpower for healthy skin
     banner-fixed: false
