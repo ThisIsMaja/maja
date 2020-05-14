@@ -58,120 +58,128 @@ sections:
       you&rsquo;re wanting to come off the pill or if you&rsquo;re already
       trying, is to go and get a complete blood test. The results will let you
       know if you are deficient in any nutrients or if you have other conditions
-      that need to be taken care of that might affect or be affecting your
-      progress. After a couple months of being off the pill I also recommend you
-      get a hormone test to gauge how your hormones are balancing
-      out.&nbsp;</p><p>Now if you&rsquo;re anything like me I know you&rsquo;re
-      serious about taking back control of your hormones and just overall
-      becoming more in tune with your true self. So I'm going to jump right into
-      the most effective solution that I found to heal my skin and rebalance my
-      internal system. It is not an easy solution and it takes willpower to
-      stick to it but it will change everything if you can.&nbsp;</p><h4>The
-      vegan candida diet&nbsp;</h4><p>I got on this diet to try and heal my
-      candida fungus (white spots on my back) that I have had for 15 years. It
-      not only healed my candida, it healed all my skin conditions. No more acne
-      or pimples anywhere. From this I learnt that the health of my skin has a
-      direct correlation to the health of my gut environment. Overtime from
-      taking too many anti-inflammatories, drinking alcohol and eating
-      processed/sugary and fried foods, I developed an unhealthy gut
-      environment. An unhealthy gut is the perfect breeding ground for bacteria
-      and fungus that can have a really damaging effect on your skin. Before you
-      can take back control of your skin you need to create a healthy gut
-      environment and I believe the best and most effective way to do this is to
-      go on a strict vegan/vegetarian candida diet. I am going to link a great
-      article about what this diet includes and some recipes for you <a
+      that need to be taken care of that might affect or be affecting your skin.
+      After a couple months of being off the pill I also recommend you get a
+      hormone test to gauge how your hormones are balancing out.&nbsp;</p><p>Now
+      if you&rsquo;re anything like me I know you&rsquo;re serious about taking
+      back control of your hormones and just overall becoming more in tune with
+      your true self. So I'm going to jump right into the most effective
+      solution that I found to heal my skin and rebalance my internal system. It
+      is not an easy solution and it takes willpower to stick to it but it will
+      change everything if you can.&nbsp;</p><h4>The
+      vegan/vegetarian/pescatarian candida diet&nbsp;</h4><p>I got on this diet
+      to try and heal my candida fungus (white spots on my back) that I have had
+      for 15 years. It not only healed my candida, it healed all my skin
+      conditions. No more acne or pimples anywhere. From this I learnt that the
+      health of my skin has a direct correlation to the health of my gut
+      environment. Overtime from taking too many anti-inflammatories, drinking
+      alcohol and eating processed/sugary and fried foods, I developed an
+      unhealthy gut environment. An unhealthy gut is the perfect breeding ground
+      for bacteria and fungus that can have a really damaging effect on your
+      skin. Before you can take back control of your skin you need to create a
+      healthy gut environment and I believe the best and most effective way to
+      do this is to go on a strict vegan/vegetarian/pescatarian candida diet. I
+      am going to link a great article about what this diet includes and some
+      recipes for you <a
       href="https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/"><strong><u>here</u></strong></a>!</p><p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/food/vegan-food8.jpg&amp;timestamp=1589355827760"
       data-cms-popout-id="image-0"
       data-cms-original-src="/images/food/vegan-food8.jpg" width="4464"
-      height="2976" /></p><p>Essentially a vegan/vegetarian candida diet is a
-      diet that restricts all processed food and all refined sugars/carbs. I was
-      shocked that I wasn't allowed to eat fruit, even the sugar in fruit was
-      feeding the bad bacteria in my gut. I was also shocked that after 2 years
-      of being vegan and eating predominantly whole foods, my gut isn't healthy
-      already. The problem is sugar and once you have bad bacteria in your gut
-      it can survive for years even on a really healthy diet. All the bad
-      bacteria needs is some white bread or a bit of pasta or pizza or some
-      coconut ice cream and it will stay with you.</p><p>I wish I could say that
-      you can have a cheat meal here and there, or eating a sugary dessert once
-      a week is ok. But what I found was that as soon as I made one mistake and
-      ate something I shouldn't have, my skin would flair up right away and I
-      would need to start again from the beginning.&nbsp;</p><p>I am so
-      confident that if you can stick to a full vegan/vegetarian candida diet
-      for 1 month you will experience amazing results and your skin will be so
-      much healthier than before. It was hard for me especially when Jake was
-      having food I couldn't eat but it was so worth it in the long run. The
-      good news is that after a few months now I have been able to re-introduce
-      some foods that are not in the diet like bread/pizza and my skin won't
-      flare up like it used to.</p>
+      height="2976"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/food/vegan-food8.jpg&amp;timestamp=1589355827760"
+      /></p><p>Essentially a vegan/vegetarian candida diet is a diet that
+      restricts all processed food and all refined sugars/carbs. I was shocked
+      that I wasn't allowed to eat fruit, even the sugar in fruit was feeding
+      the bad bacteria in my gut. I was also shocked that after 2 years of being
+      vegan and eating predominantly whole foods, my gut wasn't healthy already.
+      The problem is sugar! Once you have bad bacteria in your gut it can
+      survive for years even on a really healthy diet. All the bad bacteria
+      needs is some white bread or a bit of pasta or pizza or some coconut ice
+      cream and it will stay with you.</p><p>I wish I could say that you can
+      have a cheat meal here and there, or eating a sugary dessert once a week
+      is ok. But what I found was that as soon as I made one mistake and ate
+      something I shouldn't have, my skin would flair up right away and I would
+      need to start again from the beginning.&nbsp;</p><p>I am so confident that
+      if you can stick to a full vegan/vegetarian/pescatarian candida diet for 1
+      month you will experience amazing results and your skin will be so much
+      healthier than before. It was hard for me especially when Jake was having
+      food I couldn't eat but it was so worth it in the long run. The good news
+      is that after a few months now I have been able to re-introduce some foods
+      that are not in the diet like bread/pizza and my skin won't flare up like
+      it used to.</p><p>This is something that worked really well for me, it may
+      not be the same for all of you but its worth a try. There is no downside
+      to eating a really clean diet, only benefits. The hard part is having the
+      willpower to stay strong.</p><p>This solution might not be for you, in
+      that case there are several other things that really helped me. I will
+      list them below.&nbsp;</p>
   - banner_path: /images/style/mariefeandjakesnow-pill1.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis: >-
       I can’t stress enough how important it is to nourish your body with food
       that comes from the earth that isn't full of chemicals and processed sugar
     body-content_html: >-
-      <h3>What other solutions helped me on my journey to getting off the
-      pill?</h3><p>&nbsp;</p><h4>A good wholesome plant-based diet</h4><p>This
-      won&rsquo;t come as a surprise. I can&rsquo;t stress enough how important
-      it is to nourish your body with food that comes from the earth that isn't
-      full of chemicals and processed sugar.</p><p>Even if you are not vegan or
-      vegetarian, try to avoid processed food and refined sugars. This will make
-      a huge difference.&nbsp;</p><p>Try to include in your diet more seeds,
-      nuts, legumes and fresh veggies.</p><h4>No sugar</h4><p>Refined sugar is
-      our number one enemy when it comes to health. Besides leading to heart
-      diseases, increasing the risk of Type 2 diabetes, accelerating aging, etc.
-      it also causes skin breakouts and acne.&nbsp;</p><p>Avoiding sugar has
-      been one of the most challenging parts of this journey. Every time I was
-      craving it I had to remind myself about the reason I was doing all this.
-      In the end, it is just not worth it.&nbsp;</p><h4>Drink a lot of
-      water</h4><p>Staying hydrated is extremely important for our bodies. This
-      is what gives us life.</p><p>If you don&rsquo;t drink enough water during
-      the day, the skin is the first organ to suffer from it.&nbsp;</p><p>Make
-      sure to drink at least 2 liters per day. And remember that when you feel
-      thirsty you are already dehydrated and you are late. I carry a reusable
-      bottle of water everywhere I go and I always keep it on the desk when I am
-      working.</p><h4>Apple cider vinegar</h4><p>Apple cider vinegar was used as
-      a natural remedy for health problems for a very long period of time. I
-      incorporated it into my daily routine about a year ago. I mix it with
-      water and drink it on an empty stomach every morning.&nbsp;</p><p>This has
-      helped to not only clear out my skin but also improved my digestion and
-      reduced bloating.</p><p>This is <a href="https://amzn.to/2yMhdZ4"><u>the
-      one</u></a> I&rsquo;ve been using.&nbsp;</p><h4>Probiotics</h4><p>I
-      can&rsquo;t stress enough how important your gut health is. If you have an
-      imbalance in your gut, it prevents your body from absorbing and using the
-      nutrients from your food, it also makes it difficult for your body to
-      fight off viruses and infection. Probiotics will keep your&nbsp; gut
-      healthy so you never need to worry about this. Probiotics will also reduce
-      inflammation and help to get rid of the toxins which will have a
-      beneficial effect on your skin.&nbsp;</p><p>You can either choose to buy
-      them in capsules or you can include the following products in your diet:
-      tempeh, kefir, yogurt, pickled veggies, miso, kimchi.</p><h4>Less
-      stress</h4><p>It is no secret that stress is not good for us. Stress
-      hormones affect all your hormones in general and this can cause
-      breakouts.</p><p>Find the things that&nbsp; bring stress and anxiety into
-      your life and see what changes you can make to minimize and eventually
-      fully remove them.</p><p>&nbsp;</p><h4>Sun and saltwater</h4><p>I feel
-      like it can be very personal, as I&rsquo;ve heard people say that
-      saltwater dries out their skin. However, I feel that it has had a positive
-      impact on my skin. Have you ever taken a dip in the ocean and noticed how
-      quickly any cuts and scratches heal after? The ocean is full of bacteria
-      that can help us heal. It will have the same effect on your face skin,
-      especially if you picked any of the pimples.&nbsp;</p><p>The sun helps our
-      body to produce vitamin D and serotonin, which is associated with lifting
-      up our mood, relaxation and stress decrease.</p><p>But remember that
-      everything is good in moderation.&nbsp;</p><h4>Good sleep</h4><p>I feel
-      like this goes together with having less stress in your life. Sleep is the
-      time when your body and mind rest and recover. A healthy amount of sleep
-      is considered 8 hours per night. I know it is not always possible but it
-      is all about balance. If one night you sleep less than you catch up the
-      next night.&nbsp;</p><p>Having a good night of sleep by itself won&rsquo;t
-      cure your acne but in combination with other things from this list, it can
-      do wonders.&nbsp;</p><h4>No touching of the face</h4><p>Most of the time
-      we are doing this without even noticing. But imagine all the bacteria you
-      are transferring from your hands onto your already inflamed skin. This is
-      not good for your skin, try to avoid it as much as possible.</p><h4>Use a
+      <h3>What other solutions helped me on my journey to getting off the pill
+      and fixing my skin?</h3><p>&nbsp;</p><h4>A good wholesome plant-based
+      diet</h4><p>This won&rsquo;t come as a surprise. I can&rsquo;t stress
+      enough how important it is to nourish your body with food that comes from
+      the earth that isn't full of chemicals and processed sugar.</p><p>Even if
+      you are not vegan or vegetarian, try to avoid processed food and refined
+      sugars. This will make a huge difference.&nbsp;</p><p>Try to include in
+      your diet more seeds, nuts, legumes and fresh veggies.</p><h4>No
+      sugar</h4><p>Refined sugar is our number one enemy when it comes to
+      health. Besides leading to heart diseases, increasing the risk of Type 2
+      diabetes, accelerating aging, etc. it also causes skin breakouts and
+      acne.&nbsp;</p><p>Avoiding sugar has been one of the most challenging
+      parts of this journey. Every time I was craving it I had to remind myself
+      about the reason I was doing all this. In the end, it is just not worth
+      it.&nbsp;</p><h4>Drink a lot of water</h4><p>Staying hydrated is extremely
+      important for our bodies. This is what gives us life.</p><p>If you
+      don&rsquo;t drink enough water during the day, the skin is the first organ
+      to suffer from it.&nbsp;</p><p>Make sure to drink at least 2 liters per
+      day. And remember that when you feel thirsty you are already dehydrated
+      and you are late. I carry a reusable bottle of water everywhere I go and I
+      always keep it on the desk when I am working.</p><h4>Apple cider
+      vinegar</h4><p>Apple cider vinegar was used as a natural remedy for health
+      problems for a very long period of time. I incorporated it into my daily
+      routine about a year ago. I mix it with water and drink it on an empty
+      stomach every morning.&nbsp;</p><p>This has helped to not only clear out
+      my skin but also improved my digestion and reduced bloating.</p><p>This is
+      <a href="https://amzn.to/2yMhdZ4"><u>the one</u></a> I&rsquo;ve been
+      using.&nbsp;</p><h4>Probiotics</h4><p>I can&rsquo;t stress enough how
+      important your gut health is. If you have an imbalance in your gut, it
+      prevents your body from absorbing and using the nutrients from your food,
+      it also makes it difficult for your body to fight off viruses and
+      infection. Probiotics will keep your&nbsp; gut healthy so you never need
+      to worry about this. Probiotics will also reduce inflammation and help to
+      get rid of the toxins which will have a beneficial effect on your
+      skin.&nbsp;</p><p>You can either choose to buy them in capsules or you can
+      include the following products in your diet: tempeh, kefir, yogurt,
+      pickled veggies, miso, kimchi.</p><h4>Less stress</h4><p>It is no secret
+      that stress is not good for us. Stress hormones affect all your hormones
+      in general and this can cause breakouts.</p><p>Find the things that&nbsp;
+      bring stress and anxiety into your life and see what changes you can make
+      to minimize and eventually fully remove them.</p><p>&nbsp;</p><h4>Sun and
+      saltwater</h4><p>I feel like it can be very personal, as I&rsquo;ve heard
+      people say that saltwater dries out their skin. However, I feel that it
+      has had a positive impact on my skin. Have you ever taken a dip in the
+      ocean and noticed how quickly any cuts and scratches heal after? The ocean
+      is full of bacteria that can help us heal. It will have the same effect on
+      your face skin, especially if you picked any of the
+      pimples.&nbsp;</p><p>The sun helps our body to produce vitamin D and
+      serotonin, which is associated with lifting up our mood, relaxation and
+      stress decrease.</p><p>But remember that everything is good in
+      moderation.&nbsp;</p><h4>Good sleep</h4><p>I feel like this goes together
+      with having less stress in your life. Sleep is the time when your body and
+      mind rest and recover. A healthy amount of sleep is considered 8 hours per
+      night. I know it is not always possible but it is all about balance. If
+      one night you sleep less than you catch up the next
+      night.&nbsp;</p><p>Having a good night of sleep by itself won&rsquo;t cure
+      your acne but in combination with other things from this list, it can do
+      wonders.&nbsp;</p><h4>No touching of the face</h4><p>Most of the time we
+      are doing this without even noticing. But imagine all the bacteria you are
+      transferring from your hands onto your already inflamed skin. This is not
+      good for your skin, try to avoid it as much as possible.</p><h4>Use a
       clean towel</h4><p>The same goes for using a clean face towel. Try to
       change it at least every 3 days but preferably every day. I suggest buying
       a set of small towels that will be used for face only, not even for your
@@ -214,19 +222,7 @@ sections:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis:
-    body-content_html: >-
-      <p>The world is changing, we are moving into a digital world full of
-      opportunities. By learning how to create content and confidently share
-      with others, you can change your life! You can build your own brand, you
-      can inspire people, you can sell products, you can become financially
-      independent.</p><p>If you want to learn more about specific instagram
-      hacks, we also made a full video on our YouTube channel where we show you
-      how to do some of these tricks. You can check it out <a target="_blank"
-      href="https://www.youtube.com/watch?v=xSQjF3OsFew"><strong><u>here</u></strong></a><strong><u>.</u></strong></p><p>Share
-      your passions and your message with the world, don't be shy - it could
-      change your life!</p><p><u>What is stopping you? What do you have trouble
-      with when it comes to creating and sharing content? Lets us know in the
-      comments below and we will try our best to help you out! :)</u></p>
+    body-content_html:
 show-gallery: false
 gallery:
   - image_path: /images/content-creation/instagram-stories3.jpg
@@ -234,3 +230,112 @@ gallery:
     alt:
 ---
 
+#### **How I healed my skin after coming off the pill**
+
+The first thing I would suggest you do if you’re wanting to come off the pill or if you’re already trying, is to go and get a complete blood test. The results will let you know if you are deficient in any nutrients or if you have other conditions that need to be taken care of that might affect or be affecting your skin. After a couple months of being off the pill I also recommend you get a hormone test to gauge how your hormones are balancing out.&nbsp;
+
+Now if you’re anything like me I know you’re serious about taking back control of your hormones and just overall becoming more in tune with your true self. So I'm going to jump right into the most effective solution that I found to heal my skin and rebalance my internal system. It is not an easy solution and it takes willpower to stick to it but it will change everything if you can.&nbsp;
+
+#### The vegan/vegetarian/pescatarian candida diet&nbsp;
+
+I got on this diet to try and heal my candida fungus (white spots on my back) that I have had for 15 years. It not only healed my candida, it healed all my skin conditions. No more acne or pimples anywhere. From this I learnt that the health of my skin has a direct correlation to the health of my gut environment. Overtime from taking too many anti-inflammatories, drinking alcohol and eating processed/sugary and fried foods, I developed an unhealthy gut environment. An unhealthy gut is the perfect breeding ground for bacteria and fungus that can have a really damaging effect on your skin. Before you can take back control of your skin you need to create a healthy gut environment and I believe the best and most effective way to do this is to go on a strict vegan/vegetarian/pescatarian candida diet. I am going to link a great article about what this diet includes and some recipes for you [**<u>here</u>**](https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/)\!
+
+![](/images/food/vegan-food8.jpg){: width="4464" height="2976"}
+
+Essentially a vegan/vegetarian candida diet is a diet that restricts all processed food and all refined sugars/carbs. I was shocked that I wasn't allowed to eat fruit, even the sugar in fruit was feeding the bad bacteria in my gut. I was also shocked that after 2 years of being vegan and eating predominantly whole foods, my gut wasn't healthy already. The problem is sugar\! Once you have bad bacteria in your gut it can survive for years even on a really healthy diet. All the bad bacteria needs is some white bread or a bit of pasta or pizza or some coconut ice cream and it will stay with you.
+
+I wish I could say that you can have a cheat meal here and there, or eating a sugary dessert once a week is ok. But what I found was that as soon as I made one mistake and ate something I shouldn't have, my skin would flair up right away and I would need to start again from the beginning.&nbsp;
+
+I am so confident that if you can stick to a full vegan/vegetarian/pescatarian candida diet for 1 month you will experience amazing results and your skin will be so much healthier than before. It was hard for me especially when Jake was having food I couldn't eat but it was so worth it in the long run. The good news is that after a few months now I have been able to re-introduce some foods that are not in the diet like bread/pizza and my skin won't flare up like it used to.
+
+This is something that worked really well for me, it may not be the same for all of you but its worth a try. There is no downside to eating a really clean diet, only benefits. The hard part is having the willpower to stay strong.
+
+This solution might not be for you, in that case there are several other things that really helped me. I will list them below.&nbsp;
+
+### What other solutions helped me on my journey to getting off the pill and fixing my skin?
+
+&nbsp;
+
+#### A good wholesome plant-based diet
+
+This won’t come as a surprise. I can’t stress enough how important it is to nourish your body with food that comes from the earth that isn't full of chemicals and processed sugar.
+
+Even if you are not vegan or vegetarian, try to avoid processed food and refined sugars. This will make a huge difference.&nbsp;
+
+Try to include in your diet more seeds, nuts, legumes and fresh veggies.
+
+#### No sugar
+
+Refined sugar is our number one enemy when it comes to health. Besides leading to heart diseases, increasing the risk of Type 2 diabetes, accelerating aging, etc. it also causes skin breakouts and acne.&nbsp;
+
+Avoiding sugar has been one of the most challenging parts of this journey. Every time I was craving it I had to remind myself about the reason I was doing all this. In the end, it is just not worth it.&nbsp;
+
+#### Drink a lot of water
+
+Staying hydrated is extremely important for our bodies. This is what gives us life.
+
+If you don’t drink enough water during the day, the skin is the first organ to suffer from it.&nbsp;
+
+Make sure to drink at least 2 liters per day. And remember that when you feel thirsty you are already dehydrated and you are late. I carry a reusable bottle of water everywhere I go and I always keep it on the desk when I am working.
+
+#### Apple cider vinegar
+
+Apple cider vinegar was used as a natural remedy for health problems for a very long period of time. I incorporated it into my daily routine about a year ago. I mix it with water and drink it on an empty stomach every morning.&nbsp;
+
+This has helped to not only clear out my skin but also improved my digestion and reduced bloating.
+
+This is [<u>the one</u>](https://amzn.to/2yMhdZ4) I’ve been using.&nbsp;
+
+#### Probiotics
+
+I can’t stress enough how important your gut health is. If you have an imbalance in your gut, it prevents your body from absorbing and using the nutrients from your food, it also makes it difficult for your body to fight off viruses and infection. Probiotics will keep your&nbsp; gut healthy so you never need to worry about this. Probiotics will also reduce inflammation and help to get rid of the toxins which will have a beneficial effect on your skin.&nbsp;
+
+You can either choose to buy them in capsules or you can include the following products in your diet: tempeh, kefir, yogurt, pickled veggies, miso, kimchi.
+
+#### Less stress
+
+It is no secret that stress is not good for us. Stress hormones affect all your hormones in general and this can cause breakouts.
+
+Find the things that&nbsp; bring stress and anxiety into your life and see what changes you can make to minimize and eventually fully remove them.
+
+&nbsp;
+
+#### Sun and saltwater
+
+I feel like it can be very personal, as I’ve heard people say that saltwater dries out their skin. However, I feel that it has had a positive impact on my skin. Have you ever taken a dip in the ocean and noticed how quickly any cuts and scratches heal after? The ocean is full of bacteria that can help us heal. It will have the same effect on your face skin, especially if you picked any of the pimples.&nbsp;
+
+The sun helps our body to produce vitamin D and serotonin, which is associated with lifting up our mood, relaxation and stress decrease.
+
+But remember that everything is good in moderation.&nbsp;
+
+#### Good sleep
+
+I feel like this goes together with having less stress in your life. Sleep is the time when your body and mind rest and recover. A healthy amount of sleep is considered 8 hours per night. I know it is not always possible but it is all about balance. If one night you sleep less than you catch up the next night.&nbsp;
+
+Having a good night of sleep by itself won’t cure your acne but in combination with other things from this list, it can do wonders.&nbsp;
+
+#### No touching of the face
+
+Most of the time we are doing this without even noticing. But imagine all the bacteria you are transferring from your hands onto your already inflamed skin. This is not good for your skin, try to avoid it as much as possible.
+
+#### Use a clean towel
+
+The same goes for using a clean face towel. Try to change it at least every 3 days but preferably every day. I suggest buying a set of small towels that will be used for face only, not even for your hands.&nbsp;
+
+#### [<u>Tea tree oil</u>](https://amzn.to/2WOBkxL)
+
+This oil has a great anti-inflammatory effect. When I feel that I am about to get a pimple, I apply tea tree oil on that spot and it reduces the redness and sometimes the pimple won’t even come out. I also find that it helps to prevent and reduce scarring and leave my skin smooth and soft.&nbsp;
+
+#### [<u>Pure aloe vera</u>](https://amzn.to/3fHFEI0)
+
+This is another great natural solution for scaring. I like applying it overnight. I only do it on the area where I have breakouts and I find that in the morning my skin looks much less inflamed.
+
+![](/images/style/aloe-vera-maja.jpg){: width="1600" height="2000"}
+
+#### Celery juice
+
+Celery juice has a huge detoxifying and strengthening effect on our bodies. And naturally having less toxins in your body will have a positive effect on your skin. Celery juice is also high in sodium which raises stomach acids and it helps us to digest and to break down food fast. As a result, this leads to a healthy gut which we all know now has direct connection to the quality of our skin.&nbsp;
+
+#### [<u>Hemp seed oil</u>](https://amzn.to/3cq7RRp)
+
+Why hemp seed oil? Because it helps to moisturize our skin without clogging it and it is suitable for most skin types. Dryness can cause your skin to overproduce oil and this leads to more breakouts.
