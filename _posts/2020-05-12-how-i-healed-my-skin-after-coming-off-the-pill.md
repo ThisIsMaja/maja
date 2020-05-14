@@ -377,7 +377,7 @@ Also try to keep alcohol to a minimum.
 
 The hardest for me was being consistent. Every time my skin broke out I felt really bad which made me want to eat bad food, which would then make my skin even worse.&nbsp;
 
-If you really want to get rid of the pill for good you need to be consistent, you need to be kind to yourself and accept that you will have some bad days. It is CRAZY how many girls have had to go through this or are currently going through it. We really are all in this together\!\!&nbsp;
+If you really want to get rid of the pill for good you need to be consistent and patient. You need to be kind to yourself and accept that you will have some bad days. It is CRAZY how many girls have had to go through this or are currently going through it. We really are all in this together\!\!&nbsp;
 
 Being free of the pill and feeling like myself again is wonderful, although the journey was difficult and I had many struggles. Being on the other side now is absolutely worth it all.
 
