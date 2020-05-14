@@ -63,24 +63,31 @@ sections:
       An unhealthy gut is the perfect breeding ground for bacteria and fungus
       that can have a really damaging effect on your skin.
     body-content_html: >-
-      <h3>How I healed my skin after coming off the pill</h3><p>&nbsp;</p><p>The
-      first thing I would suggest if you&rsquo;re wanting to come off the pill
-      or if you&rsquo;re already trying, is to go and get a complete blood test.
-      The results will let you know if you are deficient in any nutrients or if
-      you have other conditions that need to be taken care of that might affect
-      or be affecting your skin.</p><p>After a couple months of being off the
-      pill I also recommend you get a hormone test to gauge how your hormones
-      are balancing out.</p><p>Now if you&rsquo;re anything like me I know
+      <h3>How I healed my skin after coming off the pill</h3><p>The first thing
+      I would suggest if you&rsquo;re wanting to come off the pill or if
+      you&rsquo;re already trying, is to go and get a complete blood test. The
+      results will let you know if you are deficient in any nutrients or if you
+      have other conditions that need to be taken care of that might affect or
+      be affecting your skin.</p><p>After a couple months of being off the pill
+      I also recommend you get a hormone test to gauge how your hormones are
+      balancing out.</p><p>Now if you&rsquo;re anything like me I know
       you&rsquo;re serious about taking back control of your hormones and just
       overall becoming more in tune with your true self. So I'm going to jump
       right into the most effective solution that I found to heal my skin and
       rebalance my internal system. It is not an easy solution and it takes
       willpower to stick to it but it will change everything if you
-      can.&nbsp;</p><h4 id="the-veganpescatarian-candida-diet"><strong>The
-      vegan/pescatarian candida diet&nbsp;</strong></h4><p>I got on this diet to
-      try and heal my all my fungus diseases (my <strong><a
+      can.&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h3 id="the-veganpescatarian-candida-diet"><strong>The vegan/pescatarian
+      candida diet&nbsp;</strong></h3><p>I got on this diet to try and heal my
+      all my fungus diseases (my <strong><a target="_blank"
       href="https://www.nutriplanet.org/2018/08/candida-overgrowth-guide/">candida</a>,&nbsp;</strong>the<strong>&nbsp;</strong>acne
-      on my face &amp; white spots on my back called <strong><a
+      on my face &amp; white spots on my back called <strong><a target="_blank"
       href="https://www.healthline.com/health/tinea-versicolor">tinea
       versicolour</a></strong>). The white spots Ive lived with for almost 15
       years. This diet healed all my skin conditions when I was 100% strict with
@@ -98,9 +105,10 @@ sections:
       create a healthy gut environment and I believe the best and most effective
       way to do this is to go on a strict vegan/pescatarian candida diet. I am
       going to link a great article about what this diet includes and some
-      recipes for you <a
+      recipes for you <a target="_blank"
       href="https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/"><strong><u>here</u></strong></a>!</p><p>Essentially
-      a <strong><a href="https://www.nutriplanet.org">vegan/pescatarian candida
+      a <strong><a target="_blank"
+      href="https://www.nutriplanet.org">vegan/pescatarian candida
       diet</a></strong> is a diet that restricts all processed food and all
       refined sugars/carbs. I was shocked that I wasn't allowed to eat fruit,
       even the sugar in fruit was feeding the bad bacteria in my gut. I was also
@@ -135,8 +143,8 @@ sections:
       that comes from the earth that isn't full of chemicals and processed sugar
     body-content_html: >-
       <h3>What other solutions helped me on my journey to getting off the pill
-      and fixing my skin?</h3><p>&nbsp;</p><h4><strong>A good wholesome
-      plant-based diet</strong></h4><p>This won&rsquo;t come as a surprise. I
+      and fixing my skin?</h3><p>&nbsp;</p><p><strong>A good wholesome
+      plant-based diet</strong></p><p>This won&rsquo;t come as a surprise. I
       can&rsquo;t stress enough how important it is to nourish your body with
       food that comes from the earth that isn't full of chemicals and processed
       sugar.</p><p>Even if you are not vegan or vegetarian, try to avoid
@@ -161,8 +169,8 @@ sections:
       my daily routine about a year ago. I mix it with water and drink it on an
       empty stomach every morning.&nbsp;</p><p>This has helped to not only clear
       out my skin but also improved my digestion and reduced
-      bloating.</p><p>This is <a href="https://amzn.to/2yMhdZ4"><u>the
-      one</u></a> I&rsquo;ve been
+      bloating.</p><p>This is <a target="_blank"
+      href="https://amzn.to/2yMhdZ4"><u>the one</u></a> I&rsquo;ve been
       using.&nbsp;</p><h4><strong>Probiotics</strong></h4><p>I can&rsquo;t
       stress enough how important your gut health is. If you have an imbalance
       in your gut, it prevents your body from absorbing and using the nutrients
@@ -206,12 +214,12 @@ sections:
       for using a clean face towel. Try to change it at least every 3 days but
       preferably every day. I suggest buying a set of small towels that will be
       used for face only, not even for your hands.&nbsp;</p><h4><strong><a
-      href="https://amzn.to/2WOBkxL"><u>Tea tree
+      target="_blank" href="https://amzn.to/2WOBkxL"><u>Tea tree
       oil</u></a></strong></h4><p>This oil has a great anti-inflammatory effect.
       When I feel that I am about to get a pimple, I apply tea tree oil on that
       spot and it reduces the redness and sometimes the pimple won&rsquo;t even
       come out. I also find that it helps to prevent and reduce scarring and
-      leave my skin smooth and soft.&nbsp;</p><h4><strong><a
+      leave my skin smooth and soft.&nbsp;</p><h4><strong><a target="_blank"
       href="https://amzn.to/3fHFEI0"><u>Pure aloe
       vera</u></a></strong></h4><p>This is another great natural solution for
       scaring. I like applying it overnight. I only do it on the area where I
@@ -220,13 +228,13 @@ sections:
       data-cms-original-src="/images/style/aloe-vera-maja.jpg" width="1600"
       height="2000"
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/aloe-vera-maja.jpg&amp;timestamp=1589424489939"
-      /></p><h4><strong>Celery juice</strong></h4><p><strong>Celery juice has a
-      h</strong>uge detoxifying and strengthening effect on our bodies. And
-      naturally having less toxins in your body will have a positive effect on
-      your skin. Celery juice is also high in sodium which raises stomach acids
-      and it helps us to digest and to break down food fast. As a result, this
-      leads to a healthy gut which we all know now has direct connection to the
-      quality of our skin.&nbsp;</p><h4><strong><a
+      /></p><h4><strong>Celery juice</strong></h4><p>Celery juice has a huge
+      detoxifying and strengthening effect on our bodies. And naturally having
+      less toxins in your body will have a positive effect on your skin. Celery
+      juice is also high in sodium which raises stomach acids and it helps us to
+      digest and to break down food fast. As a result, this leads to a healthy
+      gut which we all know now has direct connection to the quality of our
+      skin.&nbsp;</p><h4><strong><a target="_blank"
       href="https://amzn.to/3cq7RRp"><u>Hemp seed
       oil</u></a></strong></h4><p>Why hemp seed oil? Because it helps to
       moisturize our skin without clogging it and it is suitable for most skin
@@ -282,9 +290,9 @@ sections:
       all in this together!!&nbsp;</p><p>Being free of the pill and feeling like
       myself again is wonderful, although the journey was difficult and I had
       many struggles. Being on the other side now is absolutely worth it
-      all.</p><p><u>If you have any questions, please ask them in the comment
-      section below. If you have tips I would love to hear them? What products
-      do you swear by??</u></p><p>I hope you all learnt a lot from this blog
+      all.</p><p>If you have any questions, please ask them in the comment
+      section below. <u>If you have tips I would love to hear them? What
+      products do you swear by?? I </u>hope you all learnt a lot from this blog
       post and it has given you some hope. I will write another blog post soon
       talking about why I got off the pill, what contraceptives I recommend and
       why you should think about what the pill is doing to you.&nbsp;</p><p>Lots
