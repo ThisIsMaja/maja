@@ -241,21 +241,27 @@ gallery:
 
 From the moment I made that decision I have been fighting a constant battle to rebalance my hormones and regain the healthy skin I once had. It has been a tiring process and I almost gave in several times to the allure of clean skin by manipulating my hormones with the ‘pill’. In this blog post i'm not going to talk about why the pill is bad for you or why I decided to quit. At this point I just want to share with you how I succeeded at rebalancing my hormones and how I brought my skin back under control.
 
-This is for all you girls out there who want to get off the pill but you have struggled with skin issues every time you try. I want you to believe there is a way for you to regain your healthy skin and say goodbye to the horrible pill for good. I am living proof that with patience and commitment you can do it. I am proud to say that I didn't give in. After almost 2 years I can confidently announce that I've won the battle and regained control over my skin and you can too\! I am confident that with the right information and learning from my mistakes you can do it much quicker.&nbsp;
+This is for all you girls out there who want to get off the pill but you have struggled with skin issues every time you try. I want you to believe there is a way for you to regain your healthy skin and say goodbye to the horrible pill for good. I am living proof that with patience and commitment you can do it. I am proud to say that I didn't give in. <u>After almost 2 years I can confidently announce that I have my skin under control and you can too!</u> I am confident that with the right information and learning from my mistakes you can do it much quicker.&nbsp;
 
-It for sure hasn’t been easy and I've tried almost every treatment you can think of. From different diets, medications and home remedies to staying out of the sun or covering my face in apple cider vinegar. I tried it all and I finally found out the perfect remedy for me. Now I know what I need to do to control my skin, but that doesn't mean my skin is always perfect. It just means that I know why my skin goes bad when it does, and I know how to fix it.
+It for sure hasn’t been easy and I've tried almost every treatment you can think of. From different diets, medications and home remedies to staying out of the sun or covering my face in apple cider vinegar. I tried it all and I finally <u>found out the remedy for me.</u> Now I know what I need to do to control my skin, but that doesn't mean my skin is always perfect. It just means that I know why my skin goes bad when it does, and I know how to fix it.
 
 &nbsp;
 
 ### **How I healed my skin after coming off the pill**
 
-The first thing I would suggest you do if you’re wanting to come off the pill or if you’re already trying, is to go and get a complete blood test. The results will let you know if you are deficient in any nutrients or if you have other conditions that need to be taken care of that might affect or be affecting your skin. After a couple months of being off the pill I also recommend you get a hormone test to gauge how your hormones are balancing out.&nbsp;
+I would suggest you do if you’re wanting to come off the pill or if you’re already trying, is to go and get a complete blood test. The results will let you know if you are deficient in any nutrients or if you have other conditions that need to be taken care of that might affect or be affecting your skin.
+
+After a couple months of being off the pill I also recommend you get a hormone test to gauge how your hormones are balancing out.
+
+I<u>f you have nay sort of skin issues you really need to ask yourself WHY:&nbsp;</u><u>Do I have too much physical or mental stress right now, how good is my sleep, am I drinking enough, how much do I touch my skin, what do I eat (fuel my pimples with)! All those things I am going to list later in detail.</u>
 
 Now if you’re anything like me I know you’re serious about taking back control of your hormones and just overall becoming more in tune with your true self. So I'm going to jump right into the most effective solution that I found to heal my skin and rebalance my internal system. It is not an easy solution and it takes willpower to stick to it but it will change everything if you can.&nbsp;
 
 #### The vegan/vegetarian/pescatarian candida diet&nbsp;
 
-I got on this diet to try and heal my candida fungus (white spots on my back) that I have had for 15 years. It not only healed my candida, it healed all my skin conditions. No more acne or pimples anywhere. From this I learnt that the health of my skin has a direct correlation to the health of my gut environment. Overtime from taking too many anti-inflammatories, drinking alcohol and eating processed/sugary and fried foods, I developed an unhealthy gut environment. An unhealthy gut is the perfect breeding ground for bacteria and fungus that can have a really damaging effect on your skin. Before you can take back control of your skin you need to create a healthy gut environment and I believe the best and most effective way to do this is to go on a strict vegan/vegetarian/pescatarian candida diet. I am going to link a great article about what this diet includes and some recipes for you [**<u>here</u>**](https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/)\!
+I got on this diet to try and heal my all my fungus diseases (acne in my face & <u>white spots on my back called tinea versicolour). The first ones I started having 15 years ago. It has healed all my skin conditions whenever I am 100% strict with it. No more acne or pimples anywhere. However when I do not take 100% care of myself (bad diet, stress, sweaty clothes, bad sleep) the skin tell me right away: I do not like this. I have it much better under control but it is fair to say: In order to have amazing skin you have to work on yourself. It is an ongoing process.</u>
+
+<u>From this I learnt that the health of my skin has a direct correlation to the he</u>alth of my gut environment. Overtime from taking too many anti-inflammatories, drinking alcohol and eating processed/sugary and fried foods, I developed an unhealthy gut environment. An unhealthy gut is the perfect breeding ground for bacteria and fungus that can have a really damaging effect on your skin. Before you can take back control of your skin you need to create a healthy gut environment and I believe the best and most effective way to do this is to go on a strict vegan/vegetarian/pescatarian candida diet. I am going to link a great article about what this diet includes and some recipes for you [**<u>here</u>**](https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/)\!
 
 ![](/images/food/vegan-food8.jpg){: width="4464" height="2976"}
 
@@ -321,9 +327,7 @@ Find the things that&nbsp; bring stress and anxiety into your life and see what 
 
 I feel like it can be very personal, as I’ve heard people say that saltwater dries out their skin. However, I feel that it has had a positive impact on my skin. Have you ever taken a dip in the ocean and noticed how quickly any cuts and scratches heal after? The ocean is full of bacteria that can help us heal. It will have the same effect on your face skin, especially if you picked any of the pimples.&nbsp;
 
-The sun helps our body to produce vitamin D and serotonin, which is associated with lifting up our mood, relaxation and stress decrease.
-
-But remember that everything is good in moderation.&nbsp;
+The sun helps our body to produce vitamin D and serotonin, which is associated with lifting up our mood, relaxation and stress decrease. But remember that everything is good in moderation.&nbsp;
 
 #### Good sleep
 
@@ -341,21 +345,15 @@ The same goes for using a clean face towel. Try to change it at least every 3 da
 
 #### [<u>Tea tree oil</u>](https://amzn.to/2WOBkxL)
 
-This oil has a great anti-inflammatory effect. When I feel that I am about to get a pimple, I apply tea tree oil on that spot and it reduces the redness and sometimes the pimple won’t even come out. I also find that it helps to prevent and reduce scarring and leave my skin smooth and soft.&nbsp;
+This oil has a great anti-inflammatory effect. When I feel that I am about to get a pimple, <u>I apply pure tea tree oil (mix: one drop with a carrier oil 10 drops)</u>&nbsp;on that spot and it reduces the redness and sometimes the pimple won’t even come out. I also find that it helps to prevent and reduce scarring and leave my skin smooth and soft.&nbsp;
 
 #### [<u>Pure aloe vera</u>](https://amzn.to/3fHFEI0)
 
 This is another great natural solution for scaring. I like applying it overnight. I only do it on the area where I have breakouts and I find that in the morning my skin looks much less inflamed.
 
-![](/images/style/aloe-vera-maja.jpg){: width="1600" height="2000"}
-
 #### Celery juice
 
 Celery juice has a huge detoxifying and strengthening effect on our bodies. And naturally having less toxins in your body will have a positive effect on your skin. Celery juice is also high in sodium which raises stomach acids and it helps us to digest and to break down food fast. As a result, this leads to a healthy gut which we all know now has direct connection to the quality of our skin.&nbsp;
-
-#### [<u>Hemp seed oil</u>](https://amzn.to/3cq7RRp)
-
-Why hemp seed oil? Because it helps to moisturize our skin without clogging it and it is suitable for most skin types. Dryness can cause your skin to overproduce oil and this leads to more breakouts.
 
 &nbsp;
 
