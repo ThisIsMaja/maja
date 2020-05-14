@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-12 00:00:00
-published: false
+published: true
 slug: healing-skin-after-coming-off-the-pill
 title: How I healed my skin after coming off the pill
 meta-description: >-
