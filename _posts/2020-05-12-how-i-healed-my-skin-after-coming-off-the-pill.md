@@ -77,9 +77,9 @@ sections:
       solution that I found to heal my skin and rebalance my internal system. It
       is not an easy solution and it takes willpower to stick to it but it will
       change everything if you can.&nbsp;</p><h4
-      id="the-veganpescatarian-candida-diet">The vegan/pescatarian candida
-      diet&nbsp;</h4><p>I got on this diet to try and heal my all my fungus
-      diseases (my <strong><a
+      id="the-veganpescatarian-candida-diet"><strong>The vegan/pescatarian
+      candida diet&nbsp;</strong></h4><p>I got on this diet to try and heal my
+      all my fungus diseases (my <strong><a
       href="https://www.nutriplanet.org/2018/08/candida-overgrowth-guide/">candida</a>,&nbsp;</strong>the<strong>&nbsp;</strong>acne
       on my face &amp; white spots on my back called <strong><a
       href="https://www.healthline.com/health/tinea-versicolor">tinea
