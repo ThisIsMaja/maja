@@ -25,24 +25,34 @@ intro-content_html: >-
   <p>From the moment I made that decision I have been fighting a constant battle
   to rebalance my hormones and regain the healthy skin I once had. It has been a
   tiring process and I almost gave in several times to the allure of clean skin
-  by manipulating my hormones with the &lsquo;pill&rsquo;. In this blog post i'm
+  by manipulating my hormones with the &lsquo;pill&rsquo;. In this blog post I'm
   not going to talk about why the pill is bad for you or why I decided to quit.
   At this point I just want to share with you how I succeeded at rebalancing my
   hormones and how I brought my skin back under control.</p><p>This is for all
   you girls out there who want to get off the pill but you have struggled with
   skin issues every time you try. I want you to believe there is a way for you
   to regain your healthy skin and say goodbye to the horrible pill for good. I
-  am living proof that with patience and commitment you can do it. I am proud to
-  say that I didn't give in. After almost 2 years I can confidently announce
-  that I've won the battle and regained control over my skin and you can too! I
-  am confident that with the right information and learning from my mistakes you
+  can tell you now with patience and commitment you can do it. And I am
+  confident that with the right information and learning from my mistakes you
   can do it much quicker.&nbsp;</p><p>It for sure hasn&rsquo;t been easy and
   I've tried almost every treatment you can think of. From different diets,
   medications and home remedies to staying out of the sun or covering my face in
-  apple cider vinegar. I tried it all and I finally found out the perfect remedy
-  for me. Now I know what I need to do to control my skin, but that doesn't mean
-  my skin is always perfect. It just means that I know why my skin goes bad when
-  it does, and I know how to fix it.</p>
+  apple cider vinegar. I tried it all and I finally found a remedy for me. Now I
+  know what I need to do to control my skin, but that doesn't mean my skin is
+  always perfect. It just means that I know why my skin goes bad when it does,
+  and I know how to fix it.</p><p>If you struggle with any sort of skin issue
+  you really need to ask yourself WHY!! What does my skin want to tell me here?
+  The skin is our biggest organ and holds 20% of our natural bacteria in it and
+  on it, this bacteria gets fed by the other 80% of our bacteria in our gut. The
+  skin is the window to our inner health and is also an organ that releases a
+  lot of our toxins. So if there is something wrong with your skin, ask yourself
+  - what could be the tigger??</p><p>Do I have too much physical or mental
+  stress right now, how good is my sleep, am I drinking enough, do I drink
+  alcohol or smoke, what do I eat?? These are the questions we need to ask
+  ourselves. I know life sometimes isn't fair and there are girls out there who
+  have great skin while eating whatever they want. But that does not mean they
+  are healthy. They might even be still taking the birth control pill which
+  helps with your skin but causes a lot of harm to your body.</p>
 sections:
   - banner_path:
     banner-caption:
@@ -53,63 +63,69 @@ sections:
       that can have a really damaging effect on your skin.
     body-content_html: >-
       <h4><strong>How I healed my skin after coming off the
-      pill</strong></h4><p>The first thing I would suggest you do if
-      you&rsquo;re wanting to come off the pill or if you&rsquo;re already
-      trying, is to go and get a complete blood test. The results will let you
-      know if you are deficient in any nutrients or if you have other conditions
-      that need to be taken care of that might affect or be affecting your skin.
-      After a couple months of being off the pill I also recommend you get a
-      hormone test to gauge how your hormones are balancing out.&nbsp;</p><p>Now
-      if you&rsquo;re anything like me I know you&rsquo;re serious about taking
+      pill</strong></h4><p>The first thing I would suggest if you&rsquo;re
+      wanting to come off the pill or if you&rsquo;re already trying, is to go
+      and get a complete blood test. The results will let you know if you are
+      deficient in any nutrients or if you have other conditions that need to be
+      taken care of that might affect or be affecting your skin.</p><p>After a
+      couple months of being off the pill I also recommend you get a hormone
+      test to gauge how your hormones are balancing out.</p><p>Now if
+      you&rsquo;re anything like me I know you&rsquo;re serious about taking
       back control of your hormones and just overall becoming more in tune with
       your true self. So I'm going to jump right into the most effective
       solution that I found to heal my skin and rebalance my internal system. It
       is not an easy solution and it takes willpower to stick to it but it will
-      change everything if you can.&nbsp;</p><h4>The
-      vegan/vegetarian/pescatarian candida diet&nbsp;</h4><p>I got on this diet
-      to try and heal my candida fungus (white spots on my back) that I have had
-      for 15 years. It not only healed my candida, it healed all my skin
-      conditions. No more acne or pimples anywhere. From this I learnt that the
-      health of my skin has a direct correlation to the health of my gut
-      environment. Overtime from taking too many anti-inflammatories, drinking
-      alcohol and eating processed/sugary and fried foods, I developed an
-      unhealthy gut environment. An unhealthy gut is the perfect breeding ground
-      for bacteria and fungus that can have a really damaging effect on your
-      skin. Before you can take back control of your skin you need to create a
-      healthy gut environment and I believe the best and most effective way to
-      do this is to go on a strict vegan/vegetarian/pescatarian candida diet. I
-      am going to link a great article about what this diet includes and some
+      change everything if you can.&nbsp;</p><h4
+      id="the-veganpescatarian-candida-diet">The vegan/pescatarian candida
+      diet&nbsp;</h4><p>I got on this diet to try and heal my all my fungus
+      diseases (my <strong><a
+      href="https://www.nutriplanet.org/2018/08/candida-overgrowth-guide/">candida</a>,&nbsp;</strong>the<strong>&nbsp;</strong>acne
+      on my face &amp; white spots on my back called <strong><a
+      href="https://www.healthline.com/health/tinea-versicolor">tinea
+      versicolour</a></strong>). The white spots Ive lived with for almost 15
+      years. This diet healed all my skin conditions when I was 100% strict with
+      it. No more acne or pimples anywhere. However when I do not take 100% care
+      of myself (bad diet, stress, sweaty clothes, bad sleep) my skin tells me
+      right away. I have it much better under control but it is fair to say: In
+      order to have amazing skin you have to work on yourself. It is an ongoing
+      process.</p><p>From the results I got from being on this diet, I learnt
+      that the health of my skin has a direct correlation to the health of my
+      gut environment. Overtime from taking too many anti-inflammatories,
+      drinking alcohol and eating processed/sugary and fried foods, I developed
+      an unhealthy gut environment. An unhealthy gut is the perfect breeding
+      ground for bacteria and fungus that can have a really damaging effect on
+      your skin. Before you can take back control of your skin you need to
+      create a healthy gut environment and I believe the best and most effective
+      way to do this is to go on a strict vegan/pescatarian candida diet. I am
+      going to link a great article about what this diet includes and some
       recipes for you <a
-      href="https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/"><strong><u>here</u></strong></a>!</p><p><img
-      data-cms-popout-id="image-0"
-      data-cms-original-src="/images/food/vegan-food8.jpg" width="4464"
-      height="2976"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/food/vegan-food8.jpg&amp;timestamp=1589355827760"
-      /></p><p>Essentially a vegan/vegetarian candida diet is a diet that
-      restricts all processed food and all refined sugars/carbs. I was shocked
-      that I wasn't allowed to eat fruit, even the sugar in fruit was feeding
-      the bad bacteria in my gut. I was also shocked that after 2 years of being
-      vegan and eating predominantly whole foods, my gut wasn't healthy already.
-      The problem is sugar! Once you have bad bacteria in your gut it can
-      survive for years even on a really healthy diet. All the bad bacteria
-      needs is some white bread or a bit of pasta or pizza or some coconut ice
-      cream and it will stay with you.</p><p>I wish I could say that you can
-      have a cheat meal here and there, or eating a sugary dessert once a week
-      is ok. But what I found was that as soon as I made one mistake and ate
-      something I shouldn't have, my skin would flair up right away and I would
-      need to start again from the beginning.&nbsp;</p><p>I am so confident that
-      if you can stick to a full vegan/vegetarian/pescatarian candida diet for 1
-      month you will experience amazing results and your skin will be so much
-      healthier than before. It was hard for me especially when Jake was having
-      food I couldn't eat but it was so worth it in the long run. The good news
-      is that after a few months now I have been able to re-introduce some foods
-      that are not in the diet like bread/pizza and my skin won't flare up like
-      it used to.</p><p>This is something that worked really well for me, it may
-      not be the same for all of you but its worth a try. There is no downside
-      to eating a really clean diet, only benefits. The hard part is having the
-      willpower to stay strong.</p><p>This solution might not be for you, in
-      that case there are several other things that really helped me. I will
-      list them below.&nbsp;</p>
+      href="https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/"><strong><u>here</u></strong></a>!</p><p>Essentially
+      a <strong><a href="https://www.nutriplanet.org">vegan/pescatarian candida
+      diet</a></strong> is a diet that restricts all processed food and all
+      refined sugars/carbs. I was shocked that I wasn't allowed to eat fruit,
+      even the sugar in fruit was feeding the bad bacteria in my gut. I was also
+      shocked that after 2 years of being vegan and eating predominantly whole
+      foods, my gut wasn't healthy already. The problem is sugar! Once you have
+      bad bacteria in your gut it can survive for years even on a really healthy
+      diet. All the bad bacteria needs is some white bread or a bit of pasta or
+      pizza or some coconut ice cream and it will stay with you.</p><p>I wish I
+      could say that you can have a cheat meal here and there, or eating a
+      sugary dessert once a week is ok. But what I found was that as soon as I
+      made one mistake and ate something I shouldn't have, my skin would flair
+      up right away and I would need to start again from the
+      beginning.&nbsp;</p><p>I am so confident that if you can stick to a full
+      vegan/pescatarian candida diet for 1 month you will experience amazing
+      results and your skin will be so much healthier than before. It was hard
+      for me especially when Jake was having food I couldn't eat but it was so
+      worth it in the long run. The good news is that after a few months now I
+      have been able to re-introduce some foods that are not in the diet like
+      bread/pizza and my skin won't flare up like it used to.</p><p>This is
+      something that worked really well for me, it may not be the same for all
+      of you but its worth a try. There is no downside to eating a really clean
+      diet, only benefits. The hard part is having the willpower to stay strong
+      when you're tempted to eat naughty food.</p><p>This solution might not be
+      for you, in that case there are several other things that really helped
+      me. I will list them below.&nbsp;</p>
   - banner_path: /images/style/mariefeandjakesnow-pill1.jpg
     banner-caption:
     banner-fixed: true
@@ -214,16 +230,28 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: true
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: >-
+      Being free of the pill and feeling like myself again is wonderful,
+      although the journey was difficult and I had many struggles. Being on the
+      other side now is absolutely worth it all.
     body-content_html: >-
-      <p>The hardest for me was being consistent. Every time my skin broke out I
-      felt really bad which made me want to eat bad food, which would then make
-      my skin even worse.&nbsp;</p><p>If you really want to get rid of the pill
-      for good you need to be consistent, you need to be kind to yourself and
+      <h4 id="you-can-do-it">You can do it</h4><p>The hardest for me was being
+      consistent. Every time my skin broke out I felt really bad which made me
+      want to eat bad food, which would then make my skin even
+      worse.&nbsp;</p><p>If you really want to get rid of the pill for good you
+      need to be consistent and patient. You need to be kind to yourself and
       accept that you will have some bad days. It is CRAZY how many girls have
-      had to go through this or are currently going through it. We are all in
-      this together!!&nbsp;</p><p>Being free of the pill and feeling like myself
-      again is&nbsp;</p>
+      had to go through this or are currently going through it. We really are
+      all in this together!!&nbsp;</p><p>Being free of the pill and feeling like
+      myself again is wonderful, although the journey was difficult and I had
+      many struggles. Being on the other side now is absolutely worth it
+      all.</p><p>If you have any questions, please ask them in the comment
+      section below. <u>If you have tips I would love to hear them? What
+      products do you swear by?? I </u>hope you all learnt a lot from this blog
+      post and it has given you some hope. I will write another blog post soon
+      talking about why I got off the pill, what contraceptives I recommend and
+      why you should think about what the pill is doing to you.&nbsp;</p><p>Lots
+      of Love</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -239,19 +267,19 @@ gallery:
 
 ### Midway through 2018 I finally decided to get off the pill once and for all
 
-From the moment I made that decision I have been fighting a constant battle to rebalance my hormones and regain the healthy skin I once had. It has been a tiring process and I almost gave in several times to the allure of clean skin by manipulating my hormones with the ‘pill’. In this blog post i'm not going to talk about why the pill is bad for you or why I decided to quit. At this point I just want to share with you how I succeeded at rebalancing my hormones and how I brought my skin back under control.
+From the moment I made that decision I have been fighting a constant battle to rebalance my hormones and regain the healthy skin I once had. It has been a tiring process and I almost gave in several times to the allure of clean skin by manipulating my hormones with the ‘pill’. In this blog post I'm not going to talk about why the pill is bad for you or why I decided to quit. At this point I just want to share with you how I succeeded at rebalancing my hormones and how I brought my skin back under control.
 
-This is for all you girls out there who want to get off the pill but you have struggled with skin issues every time you try. I want you to believe there is a way for you to regain your healthy skin and say goodbye to the horrible pill for good. I can tell you now with patience and commitment you can do it. I am confident that with the right information and learning from my mistakes you can do it much quicker.&nbsp;
+This is for all you girls out there who want to get off the pill but you have struggled with skin issues every time you try. I want you to believe there is a way for you to regain your healthy skin and say goodbye to the horrible pill for good. I can tell you now with patience and commitment you can do it. And I am confident that with the right information and learning from my mistakes you can do it much quicker.&nbsp;
 
-It for sure hasn’t been easy and I've tried almost every treatment you can think of. From different diets, medications and home remedies to staying out of the sun or covering my face in apple cider vinegar. I tried it all and I finally <u>found a remedy for me.</u> Now I know what I need to do to control my skin, but that doesn't mean my skin is always perfect. It just means that I know why my skin goes bad when it does, and I know how to fix it.
+It for sure hasn’t been easy and I've tried almost every treatment you can think of. From different diets, medications and home remedies to staying out of the sun or covering my face in apple cider vinegar. I tried it all and I finally found a remedy for me. Now I know what I need to do to control my skin, but that doesn't mean my skin is always perfect. It just means that I know why my skin goes bad when it does, and I know how to fix it.
 
-<u>If you struggle with any sort of skin issue you really need to ask yourself WHY!! What does my skin want to tell me here? The skin is our biggest organ and holds 20% of our natural bacterica on it which gets fed by the other 80% of our bacterica in our gut. The skin is the window to our inner health and is also the organ that releases a lot of our toxins. So if there is somthing wrong with your skin ask yourself - what could be the tigger??</u>
+If you struggle with any sort of skin issue you really need to ask yourself WHY\!\! What does my skin want to tell me here? The skin is our biggest organ and holds 20% of our natural bacteria in it and on it, this bacteria gets fed by the other 80% of our bacteria in our gut. The skin is the window to our inner health and is also an organ that releases a lot of our toxins. So if there is something wrong with your skin, ask yourself - what could be the tigger??
 
-<u>Do I have too much physical or mental stress right now, how good is my sleep, am I drinking enough, do I drink alcohol or smoke, what do I eat?? I know life sometimes isn't fair and there are girls out there who have great skin but still eat whatever they want but that does not mean that they are healthy. They might even still take the birth control pill which helps with your skin but causes a lot of harm to your body.</u>
+Do I have too much physical or mental stress right now, how good is my sleep, am I drinking enough, do I drink alcohol or smoke, what do I eat?? These are the questions we need to ask ourselves. I know life sometimes isn't fair and there are girls out there who have great skin while eating whatever they want. But that does not mean they are healthy. They might even be still taking the birth control pill which helps with your skin but causes a lot of harm to your body.
 
 **How I healed my skin after coming off the pill**
 
-I would suggest you do if you’re wanting to come off the pill or if you’re already trying, is to go and get a complete blood test. The results will let you know if you are deficient in any nutrients or if you have other conditions that need to be taken care of that might affect or be affecting your skin.
+The first thing I would suggest if you’re wanting to come off the pill or if you’re already trying, is to go and get a complete blood test. The results will let you know if you are deficient in any nutrients or if you have other conditions that need to be taken care of that might affect or be affecting your skin.
 
 After a couple months of being off the pill I also recommend you get a hormone test to gauge how your hormones are balancing out.
 
@@ -259,17 +287,17 @@ Now if you’re anything like me I know you’re serious about taking back contr
 
 #### The vegan/pescatarian candida diet&nbsp;
 
-I got on this diet to try and heal my all my fungus diseases (my **[candida](https://www.nutriplanet.org/2018/08/candida-overgrowth-guide/)**, acne in my face & <u>white spots on my back called <strong><a href="https://www.healthline.com/health/tinea-versicolor">tinea versicolour</a></strong>). The first ones I started having 15 years ago. It has healed all my skin conditions whenever I am 100% strict with it. No more acne or pimples anywhere. However when I do not take 100% care of myself (bad diet, stress, sweaty clothes, bad sleep) the skin tell me right away: I do not like this. I have it much better under control but it is fair to say: In order to have amazing skin you have to work on yourself. It is an ongoing process.</u>
+I got on this diet to try and heal my all my fungus diseases (my **[candida](https://www.nutriplanet.org/2018/08/candida-overgrowth-guide/),&nbsp;**the**&nbsp;**acne on my face & white spots on my back called **[tinea versicolour](https://www.healthline.com/health/tinea-versicolor)**). The white spots Ive lived with for almost 15 years. This diet healed all my skin conditions when I was 100% strict with it. No more acne or pimples anywhere. However when I do not take 100% care of myself (bad diet, stress, sweaty clothes, bad sleep) my skin tells me right away. I have it much better under control but it is fair to say: In order to have amazing skin you have to work on yourself. It is an ongoing process.
 
-From this I learnt that the health of my skin has a direct correlation to the health of my gut environment. Overtime from taking too many anti-inflammatories, drinking alcohol and eating processed/sugary and fried foods, I developed an unhealthy gut environment. An unhealthy gut is the perfect breeding ground for bacteria and fungus that can have a really damaging effect on your skin. Before you can take back control of your skin you need to create a healthy gut environment and I believe the best and most effective way to do this is to go on a strict vegan/pescatarian candida diet. I am going to link a great article about what this diet includes and some recipes for you [**<u>here</u>**](https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/)\!
+From the results I got from being on this diet, I learnt that the health of my skin has a direct correlation to the health of my gut environment. Overtime from taking too many anti-inflammatories, drinking alcohol and eating processed/sugary and fried foods, I developed an unhealthy gut environment. An unhealthy gut is the perfect breeding ground for bacteria and fungus that can have a really damaging effect on your skin. Before you can take back control of your skin you need to create a healthy gut environment and I believe the best and most effective way to do this is to go on a strict vegan/pescatarian candida diet. I am going to link a great article about what this diet includes and some recipes for you [**<u>here</u>**](https://www.thecandidadiet.com/candida-diet-vegan-vegetarian/)\!
 
-Essentially a **[vegan/candida diet](https://www.nutriplanet.org)** is a diet that restricts all processed food and all refined sugars/carbs. I was shocked that I wasn't allowed to eat fruit, even the sugar in fruit was feeding the bad bacteria in my gut. I was also shocked that after 2 years of being vegan and eating predominantly whole foods, my gut wasn't healthy already. The problem is sugar\! Once you have bad bacteria in your gut it can survive for years even on a really healthy diet. All the bad bacteria needs is some white bread or a bit of pasta or pizza or some coconut ice cream and it will stay with you.
+Essentially a **[vegan/pescatarian candida diet](https://www.nutriplanet.org)** is a diet that restricts all processed food and all refined sugars/carbs. I was shocked that I wasn't allowed to eat fruit, even the sugar in fruit was feeding the bad bacteria in my gut. I was also shocked that after 2 years of being vegan and eating predominantly whole foods, my gut wasn't healthy already. The problem is sugar\! Once you have bad bacteria in your gut it can survive for years even on a really healthy diet. All the bad bacteria needs is some white bread or a bit of pasta or pizza or some coconut ice cream and it will stay with you.
 
 I wish I could say that you can have a cheat meal here and there, or eating a sugary dessert once a week is ok. But what I found was that as soon as I made one mistake and ate something I shouldn't have, my skin would flair up right away and I would need to start again from the beginning.&nbsp;
 
 I am so confident that if you can stick to a full vegan/pescatarian candida diet for 1 month you will experience amazing results and your skin will be so much healthier than before. It was hard for me especially when Jake was having food I couldn't eat but it was so worth it in the long run. The good news is that after a few months now I have been able to re-introduce some foods that are not in the diet like bread/pizza and my skin won't flare up like it used to.
 
-This is something that worked really well for me, it may not be the same for all of you but its worth a try. There is no downside to eating a really clean diet, only benefits. The hard part is having the willpower to stay strong.
+This is something that worked really well for me, it may not be the same for all of you but its worth a try. There is no downside to eating a really clean diet, only benefits. The hard part is having the willpower to stay strong when you're tempted to eat naughty food.
 
 This solution might not be for you, in that case there are several other things that really helped me. I will list them below.&nbsp;
 
