@@ -63,23 +63,22 @@ sections:
       An unhealthy gut is the perfect breeding ground for bacteria and fungus
       that can have a really damaging effect on your skin.
     body-content_html: >-
-      <h4><strong>How I healed my skin after coming off the
-      pill</strong></h4><p>The first thing I would suggest if you&rsquo;re
-      wanting to come off the pill or if you&rsquo;re already trying, is to go
-      and get a complete blood test. The results will let you know if you are
-      deficient in any nutrients or if you have other conditions that need to be
-      taken care of that might affect or be affecting your skin.</p><p>After a
-      couple months of being off the pill I also recommend you get a hormone
-      test to gauge how your hormones are balancing out.</p><p>Now if
-      you&rsquo;re anything like me I know you&rsquo;re serious about taking
-      back control of your hormones and just overall becoming more in tune with
-      your true self. So I'm going to jump right into the most effective
-      solution that I found to heal my skin and rebalance my internal system. It
-      is not an easy solution and it takes willpower to stick to it but it will
-      change everything if you can.&nbsp;</p><h4
-      id="the-veganpescatarian-candida-diet"><strong>The vegan/pescatarian
-      candida diet&nbsp;</strong></h4><p>I got on this diet to try and heal my
-      all my fungus diseases (my <strong><a
+      <h4>How I healed my skin after coming off the pill</h4><p>The first thing
+      I would suggest if you&rsquo;re wanting to come off the pill or if
+      you&rsquo;re already trying, is to go and get a complete blood test. The
+      results will let you know if you are deficient in any nutrients or if you
+      have other conditions that need to be taken care of that might affect or
+      be affecting your skin.</p><p>After a couple months of being off the pill
+      I also recommend you get a hormone test to gauge how your hormones are
+      balancing out.</p><p>Now if you&rsquo;re anything like me I know
+      you&rsquo;re serious about taking back control of your hormones and just
+      overall becoming more in tune with your true self. So I'm going to jump
+      right into the most effective solution that I found to heal my skin and
+      rebalance my internal system. It is not an easy solution and it takes
+      willpower to stick to it but it will change everything if you
+      can.&nbsp;</p><h4 id="the-veganpescatarian-candida-diet"><strong>The
+      vegan/pescatarian candida diet&nbsp;</strong></h4><p>I got on this diet to
+      try and heal my all my fungus diseases (my <strong><a
       href="https://www.nutriplanet.org/2018/08/candida-overgrowth-guide/">candida</a>,&nbsp;</strong>the<strong>&nbsp;</strong>acne
       on my face &amp; white spots on my back called <strong><a
       href="https://www.healthline.com/health/tinea-versicolor">tinea
