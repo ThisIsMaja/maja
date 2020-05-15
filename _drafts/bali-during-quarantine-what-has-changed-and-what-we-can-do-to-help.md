@@ -50,13 +50,13 @@ So in this post, we want to tell you all about it and we will also talk about di
 * If we need to go outside we have to wear masks at all times.&nbsp;
 * Most of the cafes, bars, and restaurants were closed but since a few days ago some of them start to slowly open back up again.
 * Take-away and delivery are still possible.
-* All beached, gyms, SPA’s on the island are closed until the end of May.
+* All sights, beaches, gyms, SPA’s on the island are closed until the end of May.
 * All airports and seaports are closed until the 1st of June and the government might extend it in case of an increase of new COVID-19 cases.&nbsp;
 * The streets are very quiet, there is no traffic and you can see very few people outside.
-* There are no tourists on the island. Those who are here are either locals or foreigners who permanently live in Bali.
-* The government has granted emergency visas until the lock-down is over to all those who didn’t manage to return to their home countries.&nbsp;
+* There are no Visas On Arrival being issued at the moment.
+* The government has granted emergency visas until the lock-down is over to all those who didn’t manage to return to their home countries on time.&nbsp;
 
-If you want to follow official news from Indonesian government we advise you to check out those websites:
+If you want to follow the official news from Indonesian government we advise you to check out those websites:
 
 * [<u>Bali Hotel Association</u>](https://www.balihotelsassociation.com/important-updates/thesituation/){: target="_blank"}
 * [<u>Map and data showing cases in Bali</u>](https://pendataan.baliprov.go.id/){: target="_blank"}
@@ -64,18 +64,24 @@ If you want to follow official news from Indonesian government we advise you to 
 * [<u>Ministry of Foreign Affairs&nbsp;</u>](https://kemlu.go.id/portal/en/berita){: target="_blank"}
 * [<u>World Health Organisation</u>](https://www.who.int/){: target="_blank"}
 
-Bali locals are being hit much harder than other places by this lockdown because of their reliance on the tourism industry.&nbsp;
+Bali locals are being hit much harder than other places by this lockdown because of their reliance on the tourism industry. As you can imagine there are barely any tourists here. Those who are here are either locals or foreigners who permanently live in Bali. We don't know when Bali will be open for tourism again. One thing is clear, the longer borders stay closed the more difficult it will be for the island to recover.&nbsp;
 
-If you follow us on Instagram you will know about our DOGOOD Monday’s. If not, this is something we have been doing for over a year now. Basically, every Monday we try to do something good for someone else. In the past few weeks, we’ve been sharing programs, foundations and different ways you can help to support the local economy. Even the smallest contribution can make a huge difference to a local family or business.&nbsp;
+If you follow us on Instagram you will know about our DOGOOD Monday’s. If not, this is something we have been doing for over a year now. Basically, every Monday we try to do something good for someone else. In the past few weeks, we’ve been sharing different programs, names of the foundations and ways you can help to support the local economy. Even the smallest contribution can make a huge difference to a local family or business.&nbsp;
 
-If you follow us on Instagram you will know about our DOGOOD Monday’s. If not, this is something we have been doing for over a year now. Basically, every Monday we try to do something good for someone else. In the past few weeks, we’ve been sharing programs, foundations and different ways you can help to support the local economy. Even the smallest contribution can make a huge difference to a local family or business.&nbsp;
+If you love Bali and want to help the island recover, we will list below a few ways you can help.&nbsp;
 
 ### How can you help
 
-* @crisiskitchen\_bali - they deliver meals every day to families in Bali that desperately need it. They work together with communities and other cafes that donate food to those most in need. If you love Bali and you are able to help, check out their [<u>Gofundme page</u>](https://www.gofundme.com/f/crisis-kitchen-bali){: target="_blank"}.
+* @crisiskitchen\_bali - every day they deliver meals to families in Bali that desperately need it. They work together with communities and other cafes that donate food to those most in need. They are feeding about 600 people a day, which is crazy. If you would like to donate please check out their [<u>Gofundme page</u>](https://www.gofundme.com/f/crisis-kitchen-bali){: target="_blank"}.
 
-* ‘Adopt a Balinese family in need’ program - [<u>The Ananda team</u>](https://www.anandasoul.com/products/support-a-balinese-family){: target="_blank"} will use 100% of your donations to buy the contents of the care packages and distribute them amongst the families in their villages who are most in need. It is 15$ for a family for a week.
+* ‘Adopt a Balinese family in need’ program - [<u>The Ananda team</u>](https://www.anandasoul.com/products/support-a-balinese-family){: target="_blank"} will use 100% of your donations to buy the content of the care packages and distribute them amongst the families in their villages who need it the most. It is 15$ for a family for a week.
 
-* Adopt a dog - let’s not forget about our four-pawed friends. Balinese families are struggling to feed themselves not to talk about all street animals. You can donate to rescue, rehabilitate or re-home dogs or other animals in need.
+* [Sea Circus Food Fund](https://seacircus-bali.com/){: target="_blank"} - they are raising money to provide good nutritious meals to balinese families. At the moment they are feeding 600-800 people a day but have a capacity to feed up to 3000, if people continue to donate. 1$ feeds 2 people.
+
+* [Let's Help Bali (COVID-19)](https://www.facebook.com/groups/1528619800646703/){: target="_blank"} Facebook Group - they provide lunch packs together with some essentials, such as toothpaste, toilet paper and soap.
+
+* Adopt a dog - let’s not forget about our four-pawed friends. Balinese families are struggling to feed themselves not to talk about all street animals. You can donate to rescue, rehabilitate or re-home dogs and other animals in need.
 
 Here are a few foundations you can check out - @thepaws.co, @bawabali\_official, @hopeforbalidogs, @bali.paws.
+
+Those are just a few ways you can help. We are sure there are more fund raising campaigns going on, so feel free to do your own research.&nbsp;
