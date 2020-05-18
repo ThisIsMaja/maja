@@ -5,7 +5,7 @@ published: false
 slug: bali-during-quarantine
 title: 'Bali during quarantine: what has changed and what we can do to help'
 meta-description:
-meta-keywords:
+meta-keywords: 'bali covid, bali coronavirus,'
 image_path: /images/bali/bali-indonesia3.jpg
 banner-1_path: /images/bali/bali-indonesia3.jpg
 banner-fixed: true
