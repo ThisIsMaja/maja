@@ -157,7 +157,7 @@ Because of the seriousness of the situation we were forced to ask ourselves the 
 
 We have been here for 3 months now and we couldn’t be happier about our decision. Although there have been a lot of changes on the island, we love this place and we love how the locals and foreigners combined have handled the difficult situation we all find ourselves in.
 
-How has Bali faired compared to the rest of the world? Has this peaceful island turned into chaos? We know that a lot of you had to cancel your travel plans to come here and are probably wondering when you might be able to return.
+How has Bali fared compared to the rest of the world? Has this peaceful island turned into chaos? We know that a lot of you had to cancel your travel plans to come here and are probably wondering when you might be able to return.
 
 So in this post, we want to share our observations with you of how life here in Bali has changed and give you information direct from the authorities.
 
