@@ -80,30 +80,30 @@ sections:
       Anyone that has visited Bali will know how kind and generous the local
       people are.
     body-content_html: >-
-      <h4>How has Bali been affected?</h4><p>Bali locals are being hit much
-      harder than other places by this lockdown because of their reliance on the
-      tourism industry. As you can imagine there are barely any tourists here.
-      Those who are here are either locals or foreigners who permanently live in
-      Bali. We don't know when Bali will be open for tourism again. One thing is
-      clear, the longer borders stay closed the more difficult it will be for
-      the island to recover.&nbsp;</p><p>Anyone that has visited Bali will know
-      how kind and generous the local people are. Even during a time of crisis
-      we still have to force our delivery drivers, our cleaning ladies or
-      servers at cafes just to take a $2 or $3 tip.&nbsp;</p><p>If you follow us
-      on Instagram you will know about our DOGOOD Monday&rsquo;s. If not, this
-      is something we have been doing for over a year now. Basically, every
-      Monday we try to do something good for someone else. In the past few
-      weeks, we&rsquo;ve been sharing different programs, names of the
-      foundations and ways you can help to support the local Balinese people.
-      Even the smallest contribution can make a huge difference to a local
-      family or business.&nbsp;</p><p>If you love Bali and want to help the
-      island recover, we will list below a few ways you can help.&nbsp;</p><h3
-      id="how-can-you-help">How can you help</h3><ul><li><p>@crisiskitchen_bali
-      - every day they deliver meals to families in Bali that desperately need
-      it. They work together with communities and other cafes that donate food
-      to those most in need. They are feeding about 600 people a day, which is
-      crazy. If you would like to donate please check out their <a
-      target="_blank"
+      <h4><strong>How has Bali been affected?</strong></h4><p>Bali locals are
+      being hit much harder than other places by this lockdown because of their
+      reliance on the tourism industry. As you can imagine there are barely any
+      tourists here. Those who are here are either locals or foreigners who
+      permanently live in Bali. We don't know when Bali will be open for tourism
+      again. One thing is clear, the longer borders stay closed the more
+      difficult it will be for the island to recover.&nbsp;</p><p>Anyone that
+      has visited Bali will know how kind and generous the local people are.
+      Even during a time of crisis we still have to force our delivery drivers,
+      our cleaning ladies or servers at cafes just to take a $2 or $3
+      tip.&nbsp;</p><p>If you follow us on Instagram you will know about our
+      DOGOOD Monday&rsquo;s. If not, this is something we have been doing for
+      over a year now. Basically, every Monday we try to do something good for
+      someone else. In the past few weeks, we&rsquo;ve been sharing different
+      programs, names of the foundations and ways you can help to support the
+      local Balinese people. Even the smallest contribution can make a huge
+      difference to a local family or business.&nbsp;</p><p>If you love Bali and
+      want to help the island recover, we will list below a few ways you can
+      help.&nbsp;</p><h4 id="how-can-you-help"><strong>How can you
+      help</strong></h4><ul><li><p>@crisiskitchen_bali - every day they deliver
+      meals to families in Bali that desperately need it. They work together
+      with communities and other cafes that donate food to those most in need.
+      They are feeding about 600 people a day, which is crazy. If you would like
+      to donate please check out their <a target="_blank"
       href="https://www.gofundme.com/f/crisis-kitchen-bali"><u>Gofundme
       page</u></a>.</p></li><li><p>&lsquo;Adopt a Balinese family in need&rsquo;
       program - <a target="_blank"
