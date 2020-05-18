@@ -205,7 +205,7 @@ If you love Bali and want to help the island recover, we will list below a few w
 
 * Adopt a dog - let’s not forget about our four-pawed friends. Balinese families are struggling to feed themselves not to talk about all street animals. You can donate to rescue, rehabilitate or re-home dogs and other animals in need.
 
-Here are a few foundations you can check out - @thepaws.co, @bawabali\_official, @hopeforbalidogs, @bali.paws.
+Here are a few foundations you can check out - [@thepaws.co](https://www.instagram.com/thepaws.co/), [@bawabali\_official](https://www.instagram.com/bawabali_official/), [@hopeforbalidogs](https://www.instagram.com/hopeforbalidogs/), [@bali.paws](https://www.instagram.com/bali.paws/).
 
 The past few months haven’t been easy and they have brought and will continue bringing a lot of changes around the world. We know that a lot of people have been feeling a lot of mixed emotions during this time - stress, anxiety, fear of uncertainty, helplessness, and loneliness. We have always found that giving to others and providing a helping hand is the best way to feel good within yourself. There is something really special about selflessly supporting others that can transform uncertainty, fear, anxiousness into gratitude and appreciation.&nbsp;
 
