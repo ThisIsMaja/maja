@@ -124,8 +124,11 @@ sections:
       four-pawed friends. Balinese families are struggling to feed themselves
       not to talk about all street animals. You can donate to rescue,
       rehabilitate or re-home dogs and other animals in
-      need.</p></li></ul><p>Here are a few foundations you can check out -
-      @thepaws.co, @bawabali_official, @hopeforbalidogs, @bali.paws.</p>
+      need.</p></li></ul><p>Here are a few foundations you can check out - <a
+      href="https://www.instagram.com/thepaws.co/">@thepaws.co</a>, <a
+      href="https://www.instagram.com/bawabali_official/">@bawabali_official</a>,
+      <a href="https://www.instagram.com/hopeforbalidogs/">@hopeforbalidogs</a>,
+      <a href="https://www.instagram.com/bali.paws/">@bali.paws</a>.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
