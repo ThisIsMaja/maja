@@ -129,8 +129,8 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: true
-    main-paragraph-emphasis:
+    columns: false
+    main-paragraph-emphasis: 'If you''re feeling down, try giving. It really helps'
     body-content_html: >-
       <p>The past few months haven&rsquo;t been easy and they have brought and
       will continue bringing a lot of changes around the world. We know that a
