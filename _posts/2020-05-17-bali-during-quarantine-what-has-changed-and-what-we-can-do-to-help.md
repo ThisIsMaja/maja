@@ -17,8 +17,8 @@ author: Marie & Jake
 image-1_path: /images/bali/bali-indonesia7.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
-  How has Bali faired compared to the rest of the world? Has this peaceful
-  island turned into chaos?
+  How has Bali fared compared to the rest of the world? Has this peaceful island
+  turned into chaos?
 intro-content_html: >-
   <p>Two and a half months ago at the start of the global pandemic we had a
   really hard decision to make, where do we go? For most people the answer is
