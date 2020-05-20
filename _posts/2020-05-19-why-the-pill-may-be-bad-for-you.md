@@ -56,25 +56,25 @@ sections:
       Our bodies have evolved over thousands of years constantly changing and
       adapting to our environment. We are perfect just the way we are
     body-content_html: >-
-      <p><strong><em>Why the pill is not natural</em></strong></p><p>Your body
-      has its own sets of cycles, circadian rhythms and internal body clocks
-      that produces hormones when we need them, and keeps our basic homeostatic
-      processes running smoothly. A woman&rsquo;s menstrual cycle regulates
-      fertility and has an impact on her mood, bone health, skin health and even
-      mental clarity. The intricate balance between shifting oestrogen and
-      progesterone levels is what drives this. The pill manipulates our natural
-      cycle by pushing these hormones into an unnatural flat curve, effectively
-      stopping ovulation from occurring, and then inducing a &lsquo;fake
-      period&rsquo; by letting hormone levels drop suddenly (placebo
-      pills).</p><p>For some women who struggle with terribly painful or heavy
-      periods, unbalanced hormones, or conditions like polycystic ovarian
-      syndrome, the pill can be a lifesaver. But for all of us out there who
-      don't have any issues, the pill actually does more harm than good. Our
-      bodies have evolved over thousands of years constantly changing and
-      adapting to our environment. We are perfect just the way we are and when
-      we try to interfere with something so complex like the human body made up
-      of trillions on cells all communicating and working together, things are
-      bound to go wrong.&nbsp;</p>
+      <h4><strong>Why the pill is not natural</strong></h4><p>&nbsp;</p><p>Your
+      body has its own sets of cycles, circadian rhythms and internal body
+      clocks that produces hormones when we need them, and keeps our basic
+      homeostatic processes running smoothly. A woman&rsquo;s menstrual cycle
+      regulates fertility and has an impact on her mood, bone health, skin
+      health and even mental clarity. The intricate balance between shifting
+      oestrogen and progesterone levels is what drives this. The pill
+      manipulates our natural cycle by pushing these hormones into an unnatural
+      flat curve, effectively stopping ovulation from occurring, and then
+      inducing a &lsquo;fake period&rsquo; by letting hormone levels drop
+      suddenly (placebo pills).</p><p>For some women who struggle with terribly
+      painful or heavy periods, unbalanced hormones, or conditions like
+      polycystic ovarian syndrome, the pill can be a lifesaver. But for all of
+      us out there who don't have any issues, the pill actually does more harm
+      than good. Our bodies have evolved over thousands of years constantly
+      changing and adapting to our environment. We are perfect just the way we
+      are and when we try to interfere with something so complex like the human
+      body made up of trillions on cells all communicating and working together,
+      things are bound to go wrong.&nbsp;</p>
   - banner_path: /images/pill/contraceptives-maja5.jpg
     banner-caption:
     banner-fixed: false
