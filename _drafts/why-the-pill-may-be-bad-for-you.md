@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-17 00:00:00
-published: true
+published: false
 slug: bali-during-quarantine
 title: Why the 'pill' may be bad for you
 meta-description:
