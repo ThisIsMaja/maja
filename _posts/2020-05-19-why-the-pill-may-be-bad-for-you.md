@@ -22,9 +22,9 @@ intro-paragraph-emphasis: >-
   The process of coming off the pill was so challenging and so stressful, you
   are probably wondering why I put myself through that?
 intro-content_html: >-
-  <p>Recently I wrote a blog post about <a href="__notset__">how</a><a
-  href="https://thisismaja.com/posts/healing-skin-after-coming-off-the-pill">I
-  healed my skin after coming off the pill</a>. The process of coming off the
+  <p>Recently I wrote a blog post about <a
+  href="https://thisismaja.com/posts/healing-skin-after-coming-off-the-pill">how
+  I healed my skin after coming off the pill</a>. The process of coming off the
   pill was so challenging and so stressful, you are probably wondering why I put
   myself through that? There are many reasons why and I want to share those
   reasons with you in this blog post. I also want to tell you about what
