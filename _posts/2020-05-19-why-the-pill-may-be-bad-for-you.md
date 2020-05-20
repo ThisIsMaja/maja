@@ -239,6 +239,8 @@ Just remember that switching off the pill is very difficult and the longer you a
 
 <u>I would love to hear your thoughts on this! Have you come off the pill? What was your experience? If you have any resources that might help others please share in the comments. </u>
 
+Feel free to send this article to any of your friends or family who might have questions for you. It might help you explain to them why you feel the way you do about the contraception pill.
+
 Sending you all my love
 
 &nbsp;
