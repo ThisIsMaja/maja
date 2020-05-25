@@ -171,7 +171,9 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: true
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: >-
+      We found this very helpful in showing us how we are really performing
+      internally and it gives us insights that we cant feel.
     body-content_html: >-
       <h2 id="health-apps">Health apps</h2><ul><li><a target="_blank"
       href="https://www.headspace.com/headspace-meditation-app"><u>Headspace</u></a>
@@ -194,11 +196,19 @@ sections:
       stress levels and how good your sleep is. It will also show you your every
       day recovery, if you need more sleep and things like that. We found this
       very helpful in showing us how we are really performing internally and it
-      gives us insights that we cant feel.</p><p>So here they are. The 18 apps
-      we are using to help us save time, achieve our goals, take care of our
-      health and wellbeing and to have some fun as well.</p><p>Let us know below
-      what are the most used apps on your phone and which ones are your
-      must-haves.</p>
+      gives us insights that we cant feel.</p><p>&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>So here they are. The 18 apps we are using to help us save time,
+      achieve our goals, take care of our health and wellbeing and to have some
+      fun as well.</p><p><u>Let us know below what are the most used apps on
+      your phone and which ones are your must-haves! Is there anything we have
+      missed? We are always searching for new tools to add to our toolbox
+      ☺</u></p>
 show-gallery: true
 gallery:
   - image_path: /images/content-creation/instagram-stories3.jpg
