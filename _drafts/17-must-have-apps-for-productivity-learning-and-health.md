@@ -1,17 +1,17 @@
 ---
 layout: post
-date: 2020-05-12 00:00:00
-published: false
+date: 2020-05-24 00:00:00
+published: true
 slug: apps-for-productivity-learning-and-health
-title: '17 must-have apps for productivity, learning and health'
+title: '18 must-have apps for productivity, learning and health'
 meta-description: >-
-  Find out what are the 17 apps we use daily that save us time, helps to learn
+  Find out what are the 18 apps we use daily that save us time, helps to learn
   new things and motivate us to stay healthy.
 meta-keywords: >-
   musthave apps, must-have app, app to stay productive, apps for productivity,
   health apps, learning apps, useful apps,
-image_path: /images/office/productivity-apps5.jpg
-banner-1_path: /images/office/productivity-apps5.jpg
+image_path: /images/office/productivity-apps2.jpg
+banner-1_path: /images/office/productivity-apps2.jpg
 banner-fixed: true
 categories:
   - lifestyle
@@ -77,14 +77,14 @@ sections:
       those two platforms for payments and withdrawals in foreign countries.
       They have very minimal bank commissions and work pretty much in every
       country.</p>
-  - banner_path:
+  - banner_path: /images/office/productivity-apps6.jpg
     banner-caption:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2 id="productivity-and-time-management-apps">Productivity and time
-      management apps</h2><ul><li>Google Calendar</li></ul><p>We prefer this
+      <h1 id="productivity-and-time-management-apps">Productivity and time
+      management apps</h1><ul><li>Google Calendar</li></ul><p>We prefer this
       calendar to the iPhone one because it gives a more clear overview of the
       events that we have planned for this month. We love the grid layout of
       Google Calendar and that we can customize it with different colors for an
@@ -114,22 +114,23 @@ sections:
       productivity and make sure we stay focused on one particular task.
       Let&rsquo;s say we were to set a goal to reply to your comments on
       Instagram for 2 hours a day. Then every time we would do it we would time
-      ourselves to make sure we reach this goal.&nbsp;</p><h3
-      id="tip">Tip</h3><p>If you are already using a lot of tools from Google,
-      we guarantee you will like Google suite (previously Google Apps for
-      Business). Basically it is a cloud with all the features from Google's -
-      from Gmail to Google Doc to Google Hangouts. It is especially useful if
-      you run your business online and have employees that work remotely from
-      different parts of the globe. This way you can make sure that all of you
-      have access to company&rsquo;s data and files.&nbsp;</p>
-  - banner_path:
+      ourselves to make sure we reach this goal.&nbsp;</p><h4
+      id="tip"><strong>Tip</strong></h4><p>If you are already using a lot of
+      tools from Google, we guarantee you will like Google suite (previously
+      Google Apps for Business). Basically it is a cloud with all the features
+      from Google's - from Gmail to Google Doc to Google Hangouts. It is
+      especially useful if you run your business online and have employees that
+      work remotely from different parts of the globe. This way you can make
+      sure that all of you have access to company&rsquo;s data and
+      files.&nbsp;</p>
+  - banner_path: /images/office/productivity-apps4.jpg
     banner-caption:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2 id="entertainment-learning--fun-apps">Entertainment, learning &amp;
-      fun apps</h2><ul><li><a href="https://medium.com/"><u>Medium</u></a> -
+      <h1 id="entertainment-learning--fun-apps">Entertainment, learning &amp;
+      fun apps</h1><ul><li><a href="https://medium.com/"><u>Medium</u></a> -
       website that curates articles for you based on what you
       like.&nbsp;</li></ul><p>Every morning Marie likes to spend 15-20 minutes
       reading either a book or an article. And if it is an article than for sure
@@ -157,16 +158,19 @@ sections:
       this way. Audible has a free trial, so if you haven't used it yet you
       might want to give it a go.&nbsp;</p><ul><li><a target="_blank"
       href="https://www.tiktok.com/@mariefeandjakesnow"><u>TikTok</u></a> -
-      social media where people share short videos</li></ul><p>TikTok became
-      very famous in the past year and we have been loving to play with it. We
+      social media where people share short videos</li></ul><p>TikTok has become
+      very popular in the past year and we have been loving to play with it. We
       upload loads of snippets from our travels there. Some of them are more
-      scenematic and some are just us goofing around. We also love to watch
-      other creators on there. Just make sure to not lose a track of time while
-      you are there. That has definitely happened to us a few times.&nbsp;</p>
+      cinematic and some are just us goofing around. We also love to watch other
+      creators on there. Just make sure to not lose a track of time while you
+      are there. That has definitely happened to us a few
+      times.&nbsp;</p><ul><li>Spotify - Our go-to app for music and podcasts. A
+      premium spotify account is a must and a really good price to have
+      unlimited podcasts and music.&nbsp;</li></ul>
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: false
+    columns: true
     main-paragraph-emphasis:
     body-content_html: >-
       <h2 id="health-apps">Health apps</h2><ul><li><a target="_blank"
@@ -188,11 +192,13 @@ sections:
       href="https://apps.apple.com/us/app/whoop-performance-optimization/id933944389"><u>Whoop</u></a>
       - sleep tracker &amp; heart rate tracker.</li></ul><p>It can measure
       stress levels and how good your sleep is. It will also show you your every
-      day recovery, if you need more sleep and things like that.&nbsp;</p><p>So
-      here they are. The 17 apps we are using to help us save time, achieve our
-      goals, take care of our health and wellbeing and to have some fun as
-      well.</p><p>Let us know below what are the most used apps on your phone
-      and which ones are your must-haves.</p>
+      day recovery, if you need more sleep and things like that. We found this
+      very helpful in showing us how we are really performing internally and it
+      gives us insights that we cant feel.</p><p>So here they are. The 18 apps
+      we are using to help us save time, achieve our goals, take care of our
+      health and wellbeing and to have some fun as well.</p><p>Let us know below
+      what are the most used apps on your phone and which ones are your
+      must-haves.</p>
 show-gallery: true
 gallery:
   - image_path: /images/content-creation/instagram-stories3.jpg
@@ -273,6 +279,8 @@ We have mentioned Audible in our blog post [<u>15 books to read during self-isol
 * [<u>TikTok</u>](https://www.tiktok.com/@mariefeandjakesnow){: target="_blank"} - social media where people share short videos
 
 TikTok became very famous in the past year and we have been loving to play with it. We upload loads of snippets from our travels there. Some of them are more scenematic and some are just us goofing around. We also love to watch other creators on there. Just make sure to not lose a track of time while you are there. That has definitely happened to us a few times.&nbsp;
+
+1. Spotify - Our go-to app for music and podcasts. A premium spotify account is a must and a really good price to have unlimited podcasts and music.&nbsp;
 
 ## Health apps
 
