@@ -209,7 +209,7 @@ sections:
       your phone and which ones are your must-haves! Is there anything we have
       missed? We are always searching for new tools to add to our toolbox
       ☺</u></p>
-show-gallery: true
+show-gallery: false
 gallery:
   - image_path: /images/content-creation/instagram-stories3.jpg
     size: full
