@@ -22,13 +22,17 @@ image-1_path:
 image-2_path:
 intro-paragraph-emphasis:
 intro-content_html: >-
-  <p>You guys always ask us what things we use to help us to stay productive and
-  motivated. There is no straight answer to that question as it is a combination
-  of our habits, daily routine, mindset, and lifestyle. But we would be lying if
-  we said we don't have little tricks to help us along the way.</p><p>In this
-  post we will talk specifically about various app&rsquo;s we use weekly if not
-  daily. Some of them help to make our lives easier by saving us time, others
-  are for fun and entertainment.</p><p>We decided to group them in four
+  <p>We live in a time where we have almost unlimited access to tools and
+  resources but we also have unlimited access to every distraction you can
+  imagine. We get asked a lot about how we manage our time and projects, how we
+  stay creative and healthy and how we are able to do it all with relative
+  ease.</p><p>Well to be honest it's not always easy, but you can make
+  everything easier for yourself by making use of tools like apps that are
+  designed to help you be more productive, more creative, more healthy and just
+  overall make your life easier.</p><p>In this post we will talk specifically
+  about various app&rsquo;s we use weekly if not daily. Some of them help to
+  make our lives easier by saving us time, others are for fun and entertainment
+  that help us let go.</p><p>Our 17 must-have apps are grouped in four
   categories: lifehack apps, productivity &amp; time management apps, learning
   &amp; fun apps, and health apps.&nbsp;</p>
 sections:
