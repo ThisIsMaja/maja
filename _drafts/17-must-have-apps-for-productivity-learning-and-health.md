@@ -10,17 +10,21 @@ meta-description: >-
 meta-keywords: >-
   musthave apps, must-have app, app to stay productive, apps for productivity,
   health apps, learning apps, useful apps,
-image_path:
-banner-1_path:
+image_path: /images/office/productivity-apps5.jpg
+banner-1_path: /images/office/productivity-apps5.jpg
 banner-fixed: true
 categories:
-  - journal
+  - lifestyle
 tags:
   - productivity
-author: Marie
-image-1_path:
+  - Self Improvement
+  - Business
+author: Jake Snow
+image-1_path: /images/office/productivity-apps3.jpg
 image-2_path:
-intro-paragraph-emphasis:
+intro-paragraph-emphasis: >-
+  We get asked a lot about how we manage our time and projects, how we stay
+  creative and healthy and how we are able to do it all with relative ease.
 intro-content_html: >-
   <p>We live in a time where we have almost unlimited access to tools and
   resources but we also have unlimited access to every distraction you can
@@ -42,7 +46,7 @@ sections:
     columns: true
     main-paragraph-emphasis: Happiness inspires productivity
     body-content_html: >-
-      <h2 id="lifehack-apps">Lifehack Apps</h2><ul><li><u><a target="_blank"
+      <h1 id="lifehack-apps">Lifehack Apps</h1><ul><li><u><a target="_blank"
       href="https://wetransfer.com/">WeTransfer</a></u> - easy way to send big
       files.</li></ul><p>As you can imagine, doing what we do we shoot a lot of
       content. As we want to provide the best quality for your guys, those files
