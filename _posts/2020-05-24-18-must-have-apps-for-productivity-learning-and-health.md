@@ -222,7 +222,7 @@ Well to be honest it's not always easy, but you can make everything easier for y
 
 In this post we will talk specifically about various app’s we use weekly if not daily. Some of them help to make our lives easier by saving us time, others are for fun and entertainment that help us let go.
 
-Our 17 must-have apps are grouped in four categories: lifehack apps, productivity & time management apps, learning & fun apps, and health apps.&nbsp;
+Our 18 must-have apps are grouped in four categories: lifehack apps, productivity & time management apps, learning & fun apps, and health apps.&nbsp;
 
 ## Lifehack Apps
 
