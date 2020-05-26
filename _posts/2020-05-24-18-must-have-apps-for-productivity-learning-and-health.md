@@ -306,6 +306,6 @@ We use it to make sure we are getting proper nutrition being on a plant-based di
 
 It can measure stress levels and how good your sleep is. It will also show you your every day recovery, if you need more sleep and things like that.&nbsp;
 
-So here they are. The 17 apps we are using to help us save time, achieve our goals, take care of our health and wellbeing and to have some fun as well.
+So here they are. The 18 apps we are using to help us save time, achieve our goals, take care of our health and wellbeing and to have some fun as well.
 
 Let us know below what are the most used apps on your phone and which ones are your must-haves.
