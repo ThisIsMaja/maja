@@ -290,7 +290,7 @@ We have mentioned Audible in our blog post [<u>15 books to read during self-isol
 
 TikTok became very famous in the past year and we have been loving to play with it. We upload loads of snippets from our travels there. Some of them are more scenematic and some are just us goofing around. We also love to watch other creators on there. Just make sure to not lose a track of time while you are there. That has definitely happened to us a few times.&nbsp;
 
-1. Spotify - Our go-to app for music and podcasts. A premium spotify account is a must and a really good price to have unlimited podcasts and music.&nbsp;
+* Spotify - Our go-to app for music and podcasts. A premium Spotify account is a must and a really good price to have unlimited podcasts and music.&nbsp;
 
 ## Health apps
 
