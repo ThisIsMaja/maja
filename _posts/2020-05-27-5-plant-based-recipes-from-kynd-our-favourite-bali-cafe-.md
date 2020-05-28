@@ -3,7 +3,7 @@ layout: post
 date: 2020-05-27 00:00:00
 published: true
 slug: 5-plant-based-recipes-from-kynd-cafe
-title: '5 Plant based recipes from Kynd, our favourite Bali Cafe.'
+title: '5 Plant Based Recipes from Kynd, our favourite Bali Cafe.'
 meta-description: These quick and easy plant based recipes are delicious and
 meta-keywords: 'plant based, recipes, vegan recipes, Kynd cafe,'
 image_path: /images/food/kynd-burrito4.jpg
@@ -33,7 +33,7 @@ intro-content_html: >-
   Corryn and Lauren to cook up our favourite Vegan Mexi Burrito with Vegan
   chipotle sauce. If you are interested in cooking along with us and the timing
   works out, make sure you grab the ingredients to prepare :
-  )</p></blockquote><p>&nbsp;</p><p>What we love about <a
+  )</p></blockquote><p>What we love about <a
   href="https://www.instagram.com/kyndcommunity/">Kynd</a> is not only their
   delicious food but their mission to make this world a better place. It doesn't
   matter whether you are vegan, plant-based or on a standard diet, Kynd does not
@@ -41,8 +41,7 @@ intro-content_html: >-
   planning on coming to Bali make sure you take note of Kynd Cafe and also their
   sister Cafe 'Give' which is a completely non-for profit cafe that serves local
   Indonesian food and donates all profits to several balinese
-  foundations.</p><p>Are you ready for some deliciousness? Lets
-  go!</p><p>&nbsp;</p>
+  foundations.</p><p>Are you ready for some deliciousness? Lets go!</p>
 sections:
   - banner_path: /images/food/BERRY SMOOTHIE BOWL.jpg
     banner-caption:
@@ -52,10 +51,10 @@ sections:
     body-content_html: >-
       <h1><strong>BALI BERRY SMOOTHIE BOWL</strong></h1><p><strong>Makes
       1</strong></p><p><strong>INGREDIENTS&nbsp;</strong></p><p>1&frasl;2 cup
-      frozen mixed berries&nbsp;</p><p>50g frozen dragonfruit</p><p>1 large
-      banana, frozen</p><p>50g mango, frozen&nbsp;</p><p>1&frasl;4 cup
-      plant-based milk or coconut water</p><p>1 tablespoon chia seeds or any of
-      your favourite
+      frozen mixed berries&nbsp;<br />50g frozen dragonfruit<br />1 large
+      banana, frozen<br />50g mango, frozen&nbsp;<br />1&frasl;4 cup plant-based
+      milk or coconut water<br />1 tablespoon chia seeds or any of your
+      favourite
       superfoods&nbsp;</p><p>&nbsp;</p><p><strong>GARNISH&nbsp;</strong></p><p>1&frasl;2
       cup Granola</p><p>2 strawberries, sliced</p><p>1 banana, sliced</p><p>1
       tablespoons coconut flakes&nbsp;</p><p>1&frasl;2 mango, big thick
