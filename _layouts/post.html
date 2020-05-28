@@ -155,7 +155,7 @@ layout: default
 
 
 {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
-{% assign relevant = site.categories[pageCategory] | except: 'slug', page.slug %}
+{% assign relevant = site.categories[pageCategory] | where_exp:"post","post.url != page.url" %}
   {% for post in relevant limit:3 %}
 
       <a href="{{post.url}}" class="col-4_xs-12 padded-2 centered">
