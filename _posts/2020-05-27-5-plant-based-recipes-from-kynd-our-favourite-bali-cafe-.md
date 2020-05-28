@@ -51,10 +51,10 @@ sections:
     body-content_html: >-
       <h1><strong>BALI BERRY SMOOTHIE BOWL</strong></h1><p><strong>Makes
       1</strong></p><p><strong>INGREDIENTS&nbsp;</strong></p><p>1&frasl;2 cup
-      frozen mixed berries&nbsp;<br />50g frozen dragonfruit<br />1 large
-      banana, frozen<br />50g mango, frozen&nbsp;<br />1&frasl;4 cup plant-based
-      milk or coconut water<br />1 tablespoon chia seeds or any of your
-      favourite
+      frozen mixed berries&nbsp;</p><p>50g frozen dragonfruit</p><p>1 large
+      banana, frozen</p><p>50g mango, frozen&nbsp;</p><p>1&frasl;4 cup
+      plant-based milk or coconut water</p><p>1 tablespoon chia seeds or any of
+      your favourite
       superfoods&nbsp;</p><p>&nbsp;</p><p><strong>GARNISH&nbsp;</strong></p><p>1&frasl;2
       cup Granola</p><p>2 strawberries, sliced</p><p>1 banana, sliced</p><p>1
       tablespoons coconut flakes&nbsp;</p><p>1&frasl;2 mango, big thick
