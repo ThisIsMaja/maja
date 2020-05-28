@@ -71,7 +71,7 @@ sections:
       letters.&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/food/BERRY SMOOTHIE BOWL.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -107,7 +107,7 @@ sections:
       sauce and use maple syrup.</p>
   - banner_path: /images/food/BALI BANANA PANCAKES.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -133,7 +133,7 @@ sections:
       and garnish with extra cashews and coriander.&nbsp;</p>
   - banner_path: /images/food/RAW PAD THAI.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -178,7 +178,7 @@ sections:
       sides.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/food/kynd-burrito8.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -198,7 +198,7 @@ sections:
       fridge.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/food/APRICOT BALLS.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -230,7 +230,7 @@ sections:
       oil.&nbsp;</p><p>&nbsp;</p>
   - banner_path: /images/food/GIVE CORN FRITTERS.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html:
