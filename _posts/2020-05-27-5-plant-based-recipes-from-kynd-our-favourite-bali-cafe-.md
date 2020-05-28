@@ -1,41 +1,45 @@
 ---
 layout: post
-date: 2020-05-24 00:00:00
+date: 2020-05-27 00:00:00
 published: false
-slug: apps-for-productivity-learning-and-health
-title: 5 Plant Based Recipes from Bali's most famous Cafe
+slug: 5-plant-based-recipes-from-kynd-cafe
+title: '5 Plant Based Recipes from Kynd, our favourite Bali Cafe.'
 meta-description:
-meta-keywords: >-
-  musthave apps, must-have app, app to stay productive, apps for productivity,
-  health apps, learning apps, useful apps,
+meta-keywords:
 image_path: /images/food/kynd-burrito4.jpg
 banner-1_path: /images/food/kynd-burrito4.jpg
 banner-fixed: true
 categories:
+  - lifestyle
+  - wellbeing
 tags:
-  - productivity
-  - Self Improvement
-  - Business
-author: Jake Snow
-image-1_path: /images/office/productivity-apps3.jpg
+  - diet
+  - conscious living
+author: Marie & Jake
+image-1_path: /images/marie-jake/mariefeandjakesnow-bali2.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
-  We get asked a lot about how we manage our time and projects, how we stay
-  creative and healthy and how we are able to do it all with relative ease.
+  What we love the most about Bali amongst a whole list of things, is the fact
+  we can eat healthy food everyday without giving up variety or taste.
 intro-content_html: >-
-  <p>We live in a time where we have almost unlimited access to tools and
-  resources but we also have unlimited access to every distraction you can
-  imagine. We get asked a lot about how we manage our time and projects, how we
-  stay creative and healthy and how we are able to do it all with relative
-  ease.</p><p>Well to be honest it's not always easy, but you can make
-  everything easier for yourself by making use of tools like apps that are
-  designed to help you be more productive, more creative, more healthy and just
-  overall make your life easier.</p><p>In this post we will talk specifically
-  about various app&rsquo;s we use weekly if not daily. Some of them help to
-  make our lives easier by saving us time, others are for fun and entertainment
-  that help us let go.</p><p>Our 17 must-have apps are grouped in four
-  categories: lifehack apps, productivity &amp; time management apps, learning
-  &amp; fun apps, and health apps.&nbsp;</p>
+  <p>There are hundreds of amazing restaurants and cafes in Bali that offer
+  either a fully plant based menu or at least a handful of plant based options.
+  Our favourite of them all is Kynd! Today we want to share with you 5 easy
+  recipes directly from the Kynd menu so you can bring a little taste of Bali
+  into your kitchen at home.&nbsp;</p><blockquote><p><em>This Saturday afternoon
+  at 7.00pm Bali time (GMT +8) We will be going Live on our instagram with the
+  Co-Founders of Kynd, Corryn and Lauren to cook up our favourite Vegan Mexi
+  Burrito with Vegan chipotle sauce. If you are interested in cooking along with
+  us and the timing works out, make sure you grab the ingredients to prepare :
+  )</em></p></blockquote><p>What we love about Kynd is not only their delicious
+  food but their mission to make this world a better place. It doesn't matter
+  whether you are vegan, plant-based or on a standard diet, Kynd does not judge.
+  They let their food do the talking and we love that. If you're ever planning
+  on coming to Bali make sure you take note of Kynd Cafe and also their sister
+  Cafe 'Give' which is a completely non-for profit cafe that serves local
+  Indonesian food and donates all profits to several balinese
+  foundations.</p><p>Are you ready for some deliciousness? Lets
+  go!</p><p>&nbsp;</p>
 sections:
   - banner_path:
     banner-caption:
