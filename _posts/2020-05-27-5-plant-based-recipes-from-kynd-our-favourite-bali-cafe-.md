@@ -41,7 +41,7 @@ intro-content_html: >-
   foundations.</p><p>Are you ready for some deliciousness? Lets
   go!</p><p>&nbsp;</p>
 sections:
-  - banner_path:
+  - banner_path: /images/food/BERRY SMOOTHIE BOWL.jpg
     banner-caption:
     banner-fixed: false
     columns: false
@@ -69,7 +69,7 @@ sections:
       smoothie, this will help to make a base for your garnish. Top with sliced
       banana, strawberries, coconut flakes, chia, mint leaves and your mango
       letters.&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/BERRY SMOOTHIE BOWL.jpg
+  - banner_path: /images/food/BALI BANANA PANCAKES.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -105,7 +105,7 @@ sections:
       SERVE&nbsp;</strong></p><p>Garnish with strawberries, caramel sauce and
       shredded coconut.&nbsp;</p><p>If you are short on time skip the caramel
       sauce and use maple syrup.</p>
-  - banner_path: /images/food/BALI BANANA PANCAKES.jpg
+  - banner_path: /images/food/RAW PAD THAI.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -131,7 +131,7 @@ sections:
       dressing. Toss to coat.&nbsp;</p><p>&nbsp;</p><p><strong>TO
       SERVE&nbsp;</strong></p><p>&nbsp;</p><p>Divide ingredients into 4 bowls
       and garnish with extra cashews and coriander.&nbsp;</p>
-  - banner_path: /images/food/RAW PAD THAI.jpg
+  - banner_path: /images/food/kynd-burrito8.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -176,7 +176,7 @@ sections:
       dry pan and place the burrito on top. Rotate the burrito until you get a
       nice golden brown tortilla on both
       sides.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/kynd-burrito8.jpg
+  - banner_path: /images/food/APRICOT BALLS.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -196,7 +196,7 @@ sections:
       chopped.&nbsp;</p><p>&nbsp;</p><p>To form the balls, use a dessert spoon
       so that you get evenly sized balls. Roll them in your hands and set in the
       fridge.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/APRICOT BALLS.jpg
+  - banner_path: /images/food/GIVE CORN FRITTERS.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -228,12 +228,6 @@ sections:
       starting to brown, flip it over. Cook both sides until golden brown and
       crunchy. Let cool on paper towel to absorb any of the excess
       oil.&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/GIVE CORN FRITTERS.jpg
-    banner-caption:
-    banner-fixed: true
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html:
 show-gallery: false
 gallery:
   - image_path:
