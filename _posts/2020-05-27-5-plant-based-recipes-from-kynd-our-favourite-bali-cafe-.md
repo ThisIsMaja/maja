@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2020-05-27 00:00:00
-published: false
+published: true
 slug: 5-plant-based-recipes-from-kynd-cafe
 title: '5 Plant Based Recipes from Kynd, our favourite Bali Cafe.'
-meta-description:
-meta-keywords:
+meta-description: These quick and easy plant based recipes are delicious and
+meta-keywords: 'plant based, recipes, vegan recipes, Kynd cafe,'
 image_path: /images/food/kynd-burrito4.jpg
 banner-1_path: /images/food/kynd-burrito4.jpg
 banner-fixed: true
