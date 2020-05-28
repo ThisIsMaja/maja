@@ -231,6 +231,17 @@ sections:
       starting to brown, flip it over. Cook both sides until golden brown and
       crunchy. Let cool on paper towel to absorb any of the excess
       oil.&nbsp;</p><p>&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>We hope you enjoy bringing these beautiful, tasty and completely plant
+      based recipes to life. Will you be joining us for our LIVE COOKING
+      SHOW?</p><p><u>Let us know in the comments if you're a sweet or savoury
+      person? Can you guess who is sweet and who is savoury out of Marie and
+      Jake?</u></p>
 show-gallery: false
 gallery:
   - image_path:
