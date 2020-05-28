@@ -25,13 +25,16 @@ intro-content_html: >-
   <p>There are hundreds of amazing restaurants and cafes in Bali that offer
   either a fully plant based menu or at least a handful of plant based options.
   Our favourite of them all is Kynd! Today we want to share with you 5 easy
-  recipes directly from the Kynd menu so you can bring a little taste of Bali
-  into your kitchen at home.&nbsp;</p><blockquote><p>This Saturday afternoon at
-  7.00pm Bali time (GMT +8) We will be going Live on our instagram with the
-  Co-Founders of Kynd, Corryn and Lauren to cook up our favourite Vegan Mexi
-  Burrito with Vegan chipotle sauce. If you are interested in cooking along with
-  us and the timing works out, make sure you grab the ingredients to prepare :
-  )</p></blockquote><p>&nbsp;</p><p>What we love about Kynd is not only their
+  recipes directly from the <a
+  href="https://www.kyndcommunity.com/menu-primary">Kynd menu</a> so you can
+  bring a little taste of Bali into your kitchen at
+  home.&nbsp;</p><blockquote><p>This Saturday afternoon at 7.00pm Bali time (GMT
+  +8) We will be going Live on our instagram with the Co-Founders of Kynd,
+  Corryn and Lauren to cook up our favourite Vegan Mexi Burrito with Vegan
+  chipotle sauce. If you are interested in cooking along with us and the timing
+  works out, make sure you grab the ingredients to prepare :
+  )</p></blockquote><p>&nbsp;</p><p>What we love about <a
+  href="https://www.instagram.com/kyndcommunity/">Kynd</a> is not only their
   delicious food but their mission to make this world a better place. It doesn't
   matter whether you are vegan, plant-based or on a standard diet, Kynd does not
   judge. They let their food do the talking and we love that. If you're ever
