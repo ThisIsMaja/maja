@@ -105,10 +105,10 @@ sections:
       SERVE&nbsp;</strong></p><p>Garnish with strawberries, caramel sauce and
       shredded coconut.&nbsp;</p><p>If you are short on time skip the caramel
       sauce and use maple syrup.</p>
-  - banner_path: /images/office/productivity-apps4.jpg
+  - banner_path: /images/food/BALI BANANA PANCAKES.jpg
     banner-caption:
     banner-fixed: false
-    columns: true
+    columns: false
     main-paragraph-emphasis:
     body-content_html: >-
       <h1 id="entertainment-learning--fun-apps">Entertainment, learning &amp;
