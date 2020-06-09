@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="banner {% if page.banner-fixed == true %} fixed {% endif %} grid-right" style="background-image:url({{page.banner-1_path}});">
+<section class="blog-banner banner {% if page.banner-fixed == true %} fixed {% endif %} grid-right" style="background-image:url({{page.banner-1_path}});">
   <a href="cloudcannon:collections/{{ page.path }}" class="editor-link">Edit this post </a>
 
   <!-- <div class="overlay"></div> -->
@@ -16,7 +16,7 @@ layout: default
         {% include squiggle.html %}
     </div>
     <div class="col-12">
-      <h2 class="centered"> {{page.title}} </h2>
+      <h1 class="centered"> {{page.title}} </h1>
       <p class="author"> {{page.date | date: "%m.%d.%Y" }} </p>
      </div>
    </div>
@@ -24,9 +24,9 @@ layout: default
 
 </section>
 
-<section class="padded mob-show grey-bg">
+<section class="padded mob-show grey-bg blog-banner-mobile">
   <div class="padded-1">
-    <h2> {{page.title}} </h2>
+    <h1> {{page.title}} </h1>
     <span class="author">by {{page.author}}</span> //
     <span class="author"> {{page.date | date: "%m.%d.%Y" }} </span>
     <p> {% include squiggle.html %} </p>
