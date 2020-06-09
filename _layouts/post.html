@@ -105,6 +105,8 @@ layout: default
 
   <div class="right padded padded-t-0 bump-up capped-width">
       <img src="/images/logo/signoff_maja_black.gif" class="signoff" nopin="nopin">
+
+      <!-- <video src="/images/logo/signoff-video.mp4" autoplay inline muted loop class="signoff"> -->
   </div>
 
   <div class="previous-and-next">
@@ -155,7 +157,7 @@ layout: default
 
 
 {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
-{% assign relevant = site.categories[pageCategory] | except: 'title', page.title %}
+{% assign relevant = site.categories[pageCategory] | where_exp:"post","post.url != page.url" %}
   {% for post in relevant limit:3 %}
 
       <a href="{{post.url}}" class="col-4_xs-12 padded-2 centered">

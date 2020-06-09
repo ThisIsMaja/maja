@@ -4,7 +4,9 @@ date: 2020-05-27 00:00:00
 published: true
 slug: 5-plant-based-recipes-from-kynd-cafe
 title: '5 Plant Based Recipes from Kynd, our favourite Bali Cafe.'
-meta-description: These quick and easy plant based recipes are delicious and
+meta-description: >-
+  These quick and easy plant based recipes are delicious and will give you the
+  feeling of being in Bali at home
 meta-keywords: 'plant based, recipes, vegan recipes, Kynd cafe,'
 image_path: /images/food/kynd-burrito4.jpg
 banner-1_path: /images/food/kynd-burrito4.jpg
@@ -25,23 +27,25 @@ intro-content_html: >-
   <p>There are hundreds of amazing restaurants and cafes in Bali that offer
   either a fully plant based menu or at least a handful of plant based options.
   Our favourite of them all is Kynd! Today we want to share with you 5 easy
-  recipes directly from the Kynd menu so you can bring a little taste of Bali
-  into your kitchen at home.&nbsp;</p><blockquote><p>This Saturday afternoon at
-  7.00pm Bali time (GMT +8) We will be going Live on our instagram with the
-  Co-Founders of Kynd, Corryn and Lauren to cook up our favourite Vegan Mexi
-  Burrito with Vegan chipotle sauce. If you are interested in cooking along with
-  us and the timing works out, make sure you grab the ingredients to prepare :
-  )</p></blockquote><p>&nbsp;</p><p>What we love about Kynd is not only their
+  recipes directly from the <a
+  href="https://www.kyndcommunity.com/menu-primary">Kynd menu</a> so you can
+  bring a little taste of Bali into your kitchen at
+  home.&nbsp;</p><blockquote><p>This Saturday afternoon at 7.00pm Bali time (GMT
+  +8) We will be going Live on our instagram with the Co-Founders of Kynd,
+  Corryn and Lauren to cook up our favourite Vegan Mexi Burrito with Vegan
+  chipotle sauce. If you are interested in cooking along with us and the timing
+  works out, make sure you grab the ingredients to prepare :
+  )</p></blockquote><p>What we love about <a
+  href="https://www.instagram.com/kyndcommunity/">Kynd</a> is not only their
   delicious food but their mission to make this world a better place. It doesn't
   matter whether you are vegan, plant-based or on a standard diet, Kynd does not
   judge. They let their food do the talking and we love that. If you're ever
   planning on coming to Bali make sure you take note of Kynd Cafe and also their
   sister Cafe 'Give' which is a completely non-for profit cafe that serves local
   Indonesian food and donates all profits to several balinese
-  foundations.</p><p>Are you ready for some deliciousness? Lets
-  go!</p><p>&nbsp;</p>
+  foundations.</p><p>Are you ready for some deliciousness? Lets go!</p>
 sections:
-  - banner_path:
+  - banner_path: /images/food/BERRY SMOOTHIE BOWL.jpg
     banner-caption:
     banner-fixed: false
     columns: false
@@ -69,7 +73,7 @@ sections:
       smoothie, this will help to make a base for your garnish. Top with sliced
       banana, strawberries, coconut flakes, chia, mint leaves and your mango
       letters.&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/BERRY SMOOTHIE BOWL.jpg
+  - banner_path: /images/food/BALI BANANA PANCAKES.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -105,7 +109,7 @@ sections:
       SERVE&nbsp;</strong></p><p>Garnish with strawberries, caramel sauce and
       shredded coconut.&nbsp;</p><p>If you are short on time skip the caramel
       sauce and use maple syrup.</p>
-  - banner_path: /images/food/BALI BANANA PANCAKES.jpg
+  - banner_path: /images/food/RAW PAD THAI.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -131,7 +135,7 @@ sections:
       dressing. Toss to coat.&nbsp;</p><p>&nbsp;</p><p><strong>TO
       SERVE&nbsp;</strong></p><p>&nbsp;</p><p>Divide ingredients into 4 bowls
       and garnish with extra cashews and coriander.&nbsp;</p>
-  - banner_path: /images/food/RAW PAD THAI.jpg
+  - banner_path: /images/food/kynd-burrito8.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -176,7 +180,7 @@ sections:
       dry pan and place the burrito on top. Rotate the burrito until you get a
       nice golden brown tortilla on both
       sides.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/kynd-burrito8.jpg
+  - banner_path: /images/food/APRICOT BALLS.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -196,7 +200,7 @@ sections:
       chopped.&nbsp;</p><p>&nbsp;</p><p>To form the balls, use a dessert spoon
       so that you get evenly sized balls. Roll them in your hands and set in the
       fridge.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/APRICOT BALLS.jpg
+  - banner_path: /images/food/GIVE CORN FRITTERS.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -228,12 +232,17 @@ sections:
       starting to brown, flip it over. Cook both sides until golden brown and
       crunchy. Let cool on paper towel to absorb any of the excess
       oil.&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/GIVE CORN FRITTERS.jpg
+  - banner_path:
     banner-caption:
-    banner-fixed: true
+    banner-fixed: false
     columns: false
     main-paragraph-emphasis:
-    body-content_html:
+    body-content_html: >-
+      <p>We hope you enjoy bringing these beautiful, tasty and completely plant
+      based recipes to life. Will you be joining us for our LIVE COOKING
+      SHOW?</p><p><u>Let us know in the comments if you're a sweet or savoury
+      person? Can you guess who is sweet and who is savoury out of Marie and
+      Jake?</u></p>
 show-gallery: false
 gallery:
   - image_path:
