@@ -4,8 +4,12 @@ date: 2020-05-17 00:00:00
 published: true
 slug: bali-during-quarantine
 title: 'Bali during quarantine: what has changed and what we can do to help'
-meta-description:
-meta-keywords: 'bali covid, bali coronavirus,'
+meta-description: >-
+  We have been self-isolating in Bali for 3 months now. In this post we tell all
+  the changes we’ve noticed and how can you support the locals.
+meta-keywords: >-
+  bali covid, bali coronavirus, bali during quarantine, quarantine in bali,
+  corona and bali, coronavirus in bali
 image_path: /images/bali/bali-indonesia3.jpg
 banner-1_path: /images/bali/bali-indonesia3.jpg
 banner-fixed: true
