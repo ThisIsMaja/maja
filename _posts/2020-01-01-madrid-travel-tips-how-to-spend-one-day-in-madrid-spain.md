@@ -2,7 +2,7 @@
 layout: post
 date: 2020-01-01 00:00:00
 published: true
-slug: how-to-spend-one-day-in-Madrid
+slug: one-day-in-madrid
 title: 'Madrid Travel Tips: How To Spend One Day in Madrid, Spain'
 meta-description: >-
   Only in Madrid for one day? No need to worry, we've got you covered. Read
