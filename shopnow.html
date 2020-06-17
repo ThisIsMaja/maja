@@ -19,39 +19,82 @@ links:
     link_url: /preset-ambassador
   - link_text: Help
     link_url: /faqs
+background_image: /images/banners/gili-banner.jpg
+link_color: 'rgb(90,90,90)'
+link-background_color: rgba(255,255,255,0.8)
 ---
 
-<section class="explore-menu light-bg">
-<div class="bg-animation">
+<style>
+.explore-menu .main-links {
+  background-color: {{page.link-background_color}} ;
+  color: {{page.link_color}} ;
+  padding: 0.7rem 1rem;
+  margin: 0.5rem;
+  font-size: 1rem;
+  /* text-transform: none;
+  letter-spacing: 0; */
+}
+</style>
+
+<section class="explore-menu bg-image" style="background-image:url({{page.background_image}});">
 <nav class="padded">
 
   <div class="mini-header">
-    <a href="/" data-aos="fade">
+    <!-- <a href="/" data-aos="fade" style="border: none;">
       <img class="logo" src="/images/logo/maja-logo-6.png">
-    </a>
+    </a> -->
   </div>
   {% for item in page.links %}
 
-  <a href="{{item.link_url}}"> {{item.link_text}}</a>
+  <a href="{{item.link_url}}" class="main-links"> {{item.link_text}}</a>
 
   {% endfor %}
 
   <a class="emphasis" href="/subscribe">  MAJA TALK NEWSLETTER </a>
 
   <nav class="inline socials margin-top-2 padded-1">
-    <a href="http://www.instagram.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
-      <!-- <i class="fab fa-instagram"></i> -->
-      instagram
-    </a> /
-    <a href="http://www.youtube.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
-      <!-- <i class="fab fa-youtube"></i> -->
-      youtube
-    </a> /
-    <a href="https://vm.tiktok.com/W1teQt/" target="_blank" style="--index: 5;">
-      <!-- <i class="fab fa-youtube"></i> -->
-      tiktok
+    <a href="http://www.facebook.com/mariefeandjakesnow">
+      {% include svg-icons/facebook.html %}
+    </a>
+    <a href="http://www.instagram.com/mariefeandjakesnow">
+      {% include svg-icons/instagram.html %}
+    </a>
+    <a href="http://www.youtube.com/mariefeandjakesnow">
+      {% include svg-icons/youtube.html %}
+    </a>
+    <a href="https://vm.tiktok.com/W1teQt/">
+      {% include svg-icons/tik-tok.html %}
     </a>
   </nav>
 </nav>
-</div>
+
+</section>
+<section>
+
+    <div id="product-loop" class="blog-masonry explore-shop-slider grid">
+
+      {% assign sorted-products = site.products | sort: 'order' %}
+
+      {% for product in sorted-products %}
+
+          <div class="col-10 shop-item masonry-item padded-1 relative">
+              <a href="{{product.url}}" class="card">
+                {% unless product.save-percentage == false %}
+                <span class="save">SAVE<br />{{ product.save-percentage }}</span>
+                {% endunless %}
+                <img src="{{product.image_path}}" />
+                <div class="padded-1">
+                  <h3> {{product.title}}</h3>
+                  <p class="product-price"> {{product.price}}  <span class="compare-at-price">{{product.compare-at-price}} </span> </p>
+                  <p>{{product.short-description}} </p>
+                  <p class="stars"> ★★★★★ ({{product.reviews}}) </p>
+
+                  <!-- {% for tag in product.preset-tags %}<span class="category"> {{tag}} </span> {% endfor%} -->
+                </div>
+              </a>
+            </div>
+
+      {% endfor %}
+
+    </div>
 </section>
