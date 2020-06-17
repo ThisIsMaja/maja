@@ -19,33 +19,24 @@ links:
     link_url: 'https://thisismaja.com/faqs'
   - link_text: Do Good Card
     link_url: 'https://blacklivesmatters.carrd.co/'
-background_color: '#fcf6f3'
+background_image: /images/banners/gili-banner.jpg
 link_color: 'rgb(90,90,90)'
-link-hover_color: '#be9a85'
-link-border: false
+link-background_color: rgba(255,255,255,0.8)
 ---
 
 <style>
-.explore-menu a {
-  color: {{page.link_color}}
-}
-.explore-menu a:hover {
-  color: {{page.link-hover_color}}
-}
-{% if page.link-border == true %}
 .explore-menu .main-links {
-  border: 1px solid;
+  background-color: {{page.link-background_color}} ;
+  color: {{page.link_color}} ;
   padding: 0.7rem 1rem;
   margin: 0.5rem;
   font-size: 1rem;
+  /* text-transform: none;
+  letter-spacing: 0; */
 }
-
-{% endif %}
-
 </style>
 
-<section class="explore-menu light-bg" style="background-color:{{page.background_color}};">
-<div class="bg-animation">
+<section class="explore-menu bg-image" style="background-image:url({{page.background_image}});">
 <nav class="padded">
 
   <div class="mini-header">
@@ -62,31 +53,61 @@ link-border: false
   <a class="emphasis" href="/subscribe">  MAJA TALK NEWSLETTER </a>
 
   <nav class="inline socials margin-top-2 padded-1">
-    <a href="http://www.instagram.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
-      <!-- <i class="fab fa-instagram"></i> -->
-      instagram
-    </a> /
-    <a href="http://www.youtube.com/mariefeandjakesnow" target="_blank" style="--index: 5;">
-      <!-- <i class="fab fa-youtube"></i> -->
-      youtube
-    </a> /
-    <a href="https://vm.tiktok.com/W1teQt/" target="_blank" style="--index: 5;">
-      <!-- <i class="fab fa-youtube"></i> -->
-      tiktok
+    <a href="http://www.facebook.com/mariefeandjakesnow">
+      {% include svg-icons/facebook.html %}
+    </a>
+    <a href="http://www.instagram.com/mariefeandjakesnow">
+      {% include svg-icons/instagram.html %}
+    </a>
+    <a href="http://www.youtube.com/mariefeandjakesnow">
+      {% include svg-icons/youtube.html %}
+    </a>
+    <a href="https://vm.tiktok.com/W1teQt/">
+      {% include svg-icons/tik-tok.html %}
     </a>
   </nav>
 </nav>
 
-</div>
 </section>
-<section class="bg-featured padded">
+<section>
+
+    <div id="product-loop" class="blog-masonry explore-shop-slider grid">
+
+      {% assign sorted-products = site.products | sort: 'order' %}
+
+      {% for product in sorted-products %}
+
+          <div class="col-10 shop-item masonry-item padded-1
+          {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
+          " data-aos="fade" data-aos-delay="500">
+              <a href="{{product.url}}" class="card">
+                {% unless product.save-percentage == false %}
+                <span class="save">SAVE<br />{{ product.save-percentage }}</span>
+                {% endunless %}
+                <img src="{{product.image_path}}" />
+                <div class="padded-1">
+                  <h3> {{product.title}}</h3>
+                  <p class="product-price"> {{product.price}}  <span class="compare-at-price">{{product.compare-at-price}} </span> </p>
+                  <p>{{product.short-description}} </p>
+                  <p class="stars"> ★★★★★ ({{product.reviews}}) </p>
+
+                  <!-- {% for tag in product.preset-tags %}<span class="category"> {{tag}} </span> {% endfor%} -->
+                </div>
+              </a>
+            </div>
+
+      {% endfor %}
+
+    </div>
+</section>
+
+<section class="featured-bg padded-2-v padded-left-1 padded-bottom-2">
   <div class="explore-post-slider grid">
   {% for post in site.posts limit:6 %}
 
       <a href="{{post.url}}" class="col-8 padded-1 centered">
         <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
-        <span class="author">by {{post.author}}</span> //
-        <span class="author"> {{post.date | date: "%m.%d.%Y" }} </span>
+        <span class="author">by {{post.author}}</span>
         <h3> {{post.title}} </h3>
       </a>
 

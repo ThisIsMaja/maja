@@ -231,7 +231,8 @@
 
   }
 
-  .explore-post-slider {
+  .explore-post-slider,
+  .explore-shop-slider {
     overflow-x: auto;
     flex-wrap: nowrap;
     -webkit-overflow-scrolling: auto;
@@ -253,6 +254,21 @@
   .explore-post-slider h3 {
     font-size: 1.2rem;
     margin-top: 0.5rem;
+  }
+
+  .explore-shop-slider {
+    padding: 2rem 0 2rem 1rem;
+  }
+
+  .explore-menu .socials a {
+    padding: 0.5rem;
+  }
+
+  .explore-menu .socials svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: white;
+    fill: white;
   }
 
   // About Sections
