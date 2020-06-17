@@ -231,6 +231,30 @@
 
   }
 
+  .explore-post-slider {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: auto;
+  }
+
+  .explore-post-slider .bg-image {
+    padding-bottom: 60%;
+    margin-bottom: 1rem;
+  }
+
+  .explore-post-slider .author {
+    font-family: 'p22-underground';
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    padding: 0.5rem;
+  }
+
+  .explore-post-slider h3 {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+  }
+
   // About Sections
 
   img.about-arrow {

@@ -23,20 +23,43 @@ links:
     link_url: 'https://shopmariefeandjakesnow.com/products/accountability-calendar-june'
   - link_text: for free
     link_url: 'https://thisismaja.com/freebies'
+background_color: '#fcf6f3'
+link_color: 'rgb(90,90,90)'
+link-hover_color: '#be9a85'
+link-border: true
 ---
 
-<section class="explore-menu light-bg">
+<style>
+.explore-menu a {
+  color: {{page.link_color}}
+}
+.explore-menu a:hover {
+  color: {{page.link-hover_color}}
+}
+{% if page.link-border == true %}
+.explore-menu .main-links {
+  border: 1px solid;
+  padding: 0.7rem 1rem;
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+{% endif %}
+
+</style>
+
+<section class="explore-menu light-bg" style="background-color:{{page.background_color}};">
 <div class="bg-animation">
 <nav class="padded">
 
   <div class="mini-header">
-    <a href="/" data-aos="fade">
+    <a href="/" data-aos="fade" style="border: none;">
       <img class="logo" src="/images/logo/maja-logo-6.png">
     </a>
   </div>
   {% for item in page.links %}
 
-  <a href="{{item.link_url}}"> {{item.link_text}}</a>
+  <a href="{{item.link_url}}" class="main-links"> {{item.link_text}}</a>
 
   {% endfor %}
 
@@ -57,5 +80,20 @@ links:
     </a>
   </nav>
 </nav>
+
 </div>
+</section>
+<section class="bg-featured padded">
+  <div class="explore-post-slider grid">
+  {% for post in site.posts limit:6 %}
+
+      <a href="{{post.url}}" class="col-8 padded-1 centered">
+        <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
+        <span class="author">by {{post.author}}</span> //
+        <span class="author"> {{post.date | date: "%m.%d.%Y" }} </span>
+        <h3> {{post.title}} </h3>
+      </a>
+
+  {% endfor %}
+  </div>
 </section>
