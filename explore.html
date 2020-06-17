@@ -77,9 +77,7 @@ link-background_color: rgba(255,255,255,0.8)
 
       {% for product in sorted-products %}
 
-          <div class="col-10 shop-item masonry-item padded-1
-          {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
-          ">
+          <div class="col-10 shop-item masonry-item padded-1 relative">
               <a href="{{product.url}}" class="card">
                 {% unless product.save-percentage == false %}
                 <span class="save">SAVE<br />{{ product.save-percentage }}</span>
@@ -97,6 +95,25 @@ link-background_color: rgba(255,255,255,0.8)
             </div>
 
       {% endfor %}
+
+
+      {% assign sorted-freebies = site.freebies | sort: 'order' %}
+
+      <!-- {% for product in sorted-freebies limit: 15 %}
+
+          <div class="col-10 shop-item masonry-item padded-1
+          {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
+          " data-aos="fade" data-aos-delay="500">
+              <a href="{{product.url}}" class="card">
+                <img src="{{product.image_path}}" nopin="nopin">
+                <div class="padded-1">
+                  <h3> {{product.title}}</h3>
+                  <p>{{product.short-description}} </p>
+                </div>
+              </a>
+            </div>
+
+      {% endfor %} -->
 
     </div>
 </section>
