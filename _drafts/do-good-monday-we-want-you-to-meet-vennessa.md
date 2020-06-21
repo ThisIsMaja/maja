@@ -18,7 +18,7 @@ tags:
   - conscious living
 author: Marie & Jake
 image-1_path: /uploads/unnamed.jpg
-image-2_path:
+image-2_path: /uploads/vennessa.jpeg
 intro-paragraph-emphasis: THE WAY I SEE IT...
 intro-content_html: >-
   <p>Hi I'm Vennessa. I'm from the beautiful island of Jamaica. Like a lot of
