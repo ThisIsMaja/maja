@@ -26,7 +26,7 @@ intro-content_html: >-
   other families;&nbsp; my family migrated to the USA for a better life.
   Entering America I pursued a career as a Registered Nurse. While being a Nurse
   I got to experience a lot of different cultures and decided to take on the
-  task of being a travel blogger. With a curious mind it was no surprise to my
+  task of being a travel blogger. With a curious mind, it was no surprise to my
   family when I took on the journey to explore the world; whilst caring and
   helping people along the way. My goal is to inspire as many people as I can so
   they too will want to explore this beautiful world we get to call home.</p>
@@ -39,7 +39,7 @@ sections:
     body-content_html: >-
       <h2>TRAVELING WHILE BLACK</h2><p>&nbsp;</p><p>With the recent events
       happening in the United States and across the world. I feel the need to
-      talk about the racial disparities in the travel industry.&nbsp;</p><p>In
+      talk about racial disparities in the travel industry.&nbsp;</p><p>In
       recent years I realized that racial disparities had been rooted in us for
       generations. As a brief history; international travel had been viewed as a
       type of privilege that is generally not associated with people of color
@@ -70,17 +70,18 @@ sections:
       no place. In truth as a black traveler or individual of color there is no
       such thing as an escape from racism by going on vacation. Racism does not
       go away for us; it is a constant battle. From being racially profiled in a
-      foreign land to even airports by&nbsp; airline companies that say they are
-      built on diversity. I have been personally asked to be searched and was
-      blatantly told it was because I am black. So like any other parts of
+      foreign land to even airports by airline companies that say they are built
+      on diversity. I have been personally asked to be searched and was
+      blatantly told it was because I am black. So like any other part of
       society, racism has been built into the travel industry both consciously
-      and unconsciously.</p><p><img
+      and unconsciously.</p><p><img class="cms-image-placeholder"
+      data-cms-popout-id="image-0"
       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      class="cms-image-placeholder" data-cms-popout-id="image-0" /><img
-      src="blob:https://app.cloudcannon.com/62baa9f9-f582-432e-87bc-0c81fdb6ec78"
-      data-cms-popout-id="image-1"
+      /><img data-cms-popout-id="image-1"
       data-cms-original-src="/uploads/2ce9d012-902d-410c-9c66-cb8591e77240.jpeg"
-      width="622" height="960" /></p>
+      width="622" height="960"
+      src="blob:https://app.cloudcannon.com/62baa9f9-f582-432e-87bc-0c81fdb6ec78"
+      /></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -90,16 +91,16 @@ sections:
       <p>Starting out as a travel content creator is hard in itself. The roots
       of racism make it even harder. As black travelers we are less likely to be
       featured on travel accounts supported by non-black owners, less likely to
-      be asked to speak on panels , take part in campaigns, represent brands or
+      be asked to speak on panels, take part in campaigns, represent brands or
       companies, this causes less exposure for black travelers and creates a
       close niche between white bloggers. Some resorts won&rsquo;t even accept
-      black travel bloggers for paid partnership because of&nbsp; the color of
-      our skin and the texture of our hair because it does not meet their beauty
+      black travel bloggers for paid partnerships because of the color of our
+      skin and the texture of our hair because it does not meet their beauty
       standards. This exclusion leads to less pay and far fewer opportunities. A
       lot of black people from the travel industry have voiced their concerns
       about the big pay gap between white travel bloggers and black travel
-      bloggers, and many companies&nbsp; have yet to acknowledge or do anything
-      about it. They are so uncomfortable about the topic that they are quick to
+      bloggers, and many companies have yet to acknowledge or do anything about
+      it. They are so uncomfortable about the topic that they are quick to
       dismiss that there is even such an issue. So as a black travel blogger you
       have to work twice as hard to get only HALF of what others have.</p>
   - banner_path:
