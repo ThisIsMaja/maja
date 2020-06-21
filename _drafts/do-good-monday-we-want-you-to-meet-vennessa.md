@@ -14,7 +14,6 @@ banner-1_path: /uploads/unnamed-1.jpg
 banner-fixed: true
 categories:
   - lifestyle
-  - wellbeing
 tags:
   - conscious living
 author: Marie & Jake
