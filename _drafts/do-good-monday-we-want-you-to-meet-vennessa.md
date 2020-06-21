@@ -36,7 +36,89 @@ sections:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
-    body-content_html:
+    body-content_html: >-
+      <h2>TRAVELING WHILE BLACK</h2><p>&nbsp;</p><p>With the recent events
+      happening in the United States and across the world. I feel the need to
+      talk about the racial disparities in the travel industry.&nbsp;</p><p>In
+      recent years I realized that racial disparities had been rooted in us for
+      generations. As a brief history; international travel had been viewed as a
+      type of privilege that is generally not associated with people of color
+      (POC). A lot of POC across the world come from families that did not have
+      the opportunity to explore the world. Instead their families were focused
+      on fighting for basic rights. Within the United States many POC&nbsp;
+      were&nbsp; immigrants whose priorities were focused on starting and
+      creating a better life for their families. This lack of exposure to travel
+      in the past has helped create a lower number of black people traveling,
+      and so the idea of traveling internationally became associated with white
+      privilege.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>Nowadays people are drawn to social media. As such, influencers came
+      about and they started using social media as a platform to express
+      themselves. Being a black travel blogger and being able to go abroad my
+      hope was that I could share my travel experience with a wide audience of
+      POC so that they would be inspired to do the same. For instance, a
+      beautiful picture of me enjoying a view of the Indian ocean miles away
+      from home in hope that it may inspire a young person of color to work
+      towards sharing that same experience one day.</p><p>The travel community
+      likes to think of itself as a space of pure bliss, a tropical paradise, an
+      escape to a place of only fun and leisure where things such as racism have
+      no place. In truth as a black traveler or individual of color there is no
+      such thing as an escape from racism by going on vacation. Racism does not
+      go away for us; it is a constant battle. From being racially profiled in a
+      foreign land to even airports by&nbsp; airline companies that say they are
+      built on diversity. I have been personally asked to be searched and was
+      blatantly told it was because I am black. So like any other parts of
+      society, racism has been built into the travel industry both consciously
+      and unconsciously.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>Starting out as a travel content creator is hard in itself. The roots
+      of racism make it even harder. As black travelers we are less likely to be
+      featured on travel accounts supported by non-black owners, less likely to
+      be asked to speak on panels , take part in campaigns, represent brands or
+      companies, this causes less exposure for black travelers and creates a
+      close niche between white bloggers. Some resorts won&rsquo;t even accept
+      black travel bloggers for paid partnership because of&nbsp; the color of
+      our skin and the texture of our hair because it does not meet their beauty
+      standards. This exclusion leads to less pay and far fewer opportunities. A
+      lot of black people from the travel industry have voiced their concerns
+      about the big pay gap between white travel bloggers and black travel
+      bloggers, and many companies&nbsp; have yet to acknowledge or do anything
+      about it. They are so uncomfortable about the topic that they are quick to
+      dismiss that there is even such an issue. So as a black travel blogger you
+      have to work twice as hard to get only HALF of what others have.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>Traveling while black means you might be encountered by people who have
+      never seen black people. People will try to touch your hair, even try to
+      photograph or just stare at you as if you are on display. It can become
+      uncomfortable because their depiction of us is only based on what is
+      negatively shown on the media and you don't know if they are staring at
+      you because of pure interest or contempt. Many times as a black traveler
+      you might be the only black person in a resort and sometimes people can be
+      rude; they will ask you which room you are staying at, to see if it is a
+      luxurious room versus a room on the cheap end or even asks you how you are
+      able to afford travel as if it is impossible to be successful as a black
+      person.</p><p>As this black lives movement tries their hardest to oust
+      racism in the justice system. The travel industry should do their part to
+      topple racism. Instead of trying to negate that racism exists in the
+      industry, start by accepting that it is present within the travel industry
+      and know that this is a fight that you are not fighting alone. We can all
+      learn from each other as we all live unique lives. No matter your skin
+      color, we all have a part to contribute to society.</p>
 show-gallery: false
 gallery:
   - image_path:
