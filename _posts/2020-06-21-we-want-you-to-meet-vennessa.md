@@ -3,7 +3,7 @@ layout: post
 date: 2020-06-21 11:00:00
 published: false
 slug: meet-vennessa
-title: 'Do-Good-Monday: We Want You to Meet Vennessa'
+title: We Want You to Meet Vennessa
 meta-description: >-
   Being a black travel blogger and being able to go abroad my hope was that I
   could share my travel experience with a wide audience of POC so that they
