@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-06-21 11:00:00
-published: false
+date: 2020-06-20 11:00:00
+published: true
 slug: meet-vennessa
 title: We Want You to Meet Vennessa
 meta-description: >-
