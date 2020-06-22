@@ -18,7 +18,7 @@ categories:
 tags:
   - Travel Tips
 author: '@veennessa'
-image-1_path: /images/Contributors/Vennessa/vennessa-5.jpg
+image-1_path:
 image-2_path: /images/Contributors/Vennessa/vennessa-4.jpg
 intro-paragraph-emphasis: THE WAY I SEE IT...
 intro-content_html: >-
@@ -142,9 +142,11 @@ sections:
       sub-conscious biases you might have that without knowing effect people
       like Vennessa.&nbsp;</p><p>Please head over to <a target="_blank"
       href="https://veennessa.com/">Vennessas blog</a> and check out her amazing
-      work and show your support :)</p><p><u>We hope to do more contributor blog
-      posts in the future, if you would like to be featured here on our website
-      please contact us at hello@mariefeandjakesnow.com</u></p>
+      work and show your support :) If you have any questions for Vennessa or
+      us, please drop us a comment below.&nbsp;</p><p><u>We hope to do more
+      contributor blog posts in the future, if you would like to be featured
+      here on our website please contact us at
+      hello@mariefeandjakesnow.com</u></p>
 show-gallery: false
 gallery:
   - image_path:
