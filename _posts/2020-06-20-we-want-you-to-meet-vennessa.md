@@ -18,8 +18,8 @@ categories:
 tags:
   - Travel Tips
 author: '@veennessa'
-image-1_path:
-image-2_path: /images/Contributors/Vennessa/vennessa-4.jpg
+image-1_path: /images/Contributors/Vennessa/Vennessa-9.jpg
+image-2_path:
 intro-paragraph-emphasis: THE WAY I SEE IT...
 intro-content_html: >-
   <p>Hi I'm Vennessa. I'm from the beautiful island of Jamaica. Like a lot of
