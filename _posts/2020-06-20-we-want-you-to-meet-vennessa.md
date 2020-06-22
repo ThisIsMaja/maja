@@ -1,25 +1,25 @@
 ---
 layout: post
-date: 2020-06-21 11:00:00
-published: false
+date: 2020-06-20 11:00:00
+published: true
 slug: meet-vennessa
-title: 'Do-Good-Monday: We Want You to Meet Vennessa'
+title: We Want You to Meet Vennessa
 meta-description: >-
   Being a black travel blogger and being able to go abroad my hope was that I
   could share my travel experience with a wide audience of POC so that they
   would be inspired to do the same.
 meta-keywords: 'black travel blogger, people of color, black lives matter'
-image_path: /uploads/20200302-1537300.jpg
-banner-1_path: /uploads/unnamed-1.jpg
+image_path: /images/Contributors/Vennessa/vennessa-6.jpg
+banner-1_path: /images/Contributors/Vennessa/vennessa-6.jpg
 banner-fixed: true
 categories:
-  - lifestyle
   - Contributors
+  - travel
 tags:
-  - conscious living
-author: Marie & Jake
-image-1_path: /uploads/unnamed.jpg
-image-2_path: /uploads/vennessa.jpeg
+  - Travel Tips
+author: '@veennessa'
+image-1_path: /images/Contributors/Vennessa/vennessa-5.jpg
+image-2_path: /images/Contributors/Vennessa/vennessa-4.jpg
 intro-paragraph-emphasis: THE WAY I SEE IT...
 intro-content_html: >-
   <p>Hi I'm Vennessa. I'm from the beautiful island of Jamaica. Like a lot of
@@ -35,7 +35,9 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: >-
+      A lot of POC across the world come from families that did not have the
+      opportunity to explore the world
     body-content_html: >-
       <h2>TRAVELING WHILE BLACK</h2><p>&nbsp;</p><p>With the recent events
       happening in the United States and across the world. I feel the need to
@@ -55,7 +57,9 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: true
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: >-
+      my hope was that I could share my travel experience with a wide audience
+      of POC so that they would be inspired to do the same
     body-content_html: >-
       <p>Nowadays people are drawn to social media. As such, influencers came
       about and they started using social media as a platform to express
@@ -74,19 +78,15 @@ sections:
       on diversity. I have been personally asked to be searched and was
       blatantly told it was because I am black. So like any other part of
       society, racism has been built into the travel industry both consciously
-      and unconsciously.</p><p><img class="cms-image-placeholder"
-      data-cms-popout-id="image-0"
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /><img data-cms-popout-id="image-1"
-      data-cms-original-src="/uploads/2ce9d012-902d-410c-9c66-cb8591e77240.jpeg"
-      width="622" height="960"
-      src="blob:https://app.cloudcannon.com/62baa9f9-f582-432e-87bc-0c81fdb6ec78"
-      /></p>
+      and unconsciously.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: >-
+      A lot of black people from the travel industry have voiced their concerns
+      about the big pay gap between white travel bloggers and black travel
+      bloggers
     body-content_html: >-
       <p>Starting out as a travel content creator is hard in itself. The roots
       of racism make it even harder. As black travelers we are less likely to be
@@ -125,11 +125,7 @@ sections:
       industry, start by accepting that it is present within the travel industry
       and know that this is a fight that you are not fighting alone. We can all
       learn from each other as we all live unique lives. No matter your skin
-      color, we all have a part to contribute to society.</p><p><img
-      src="blob:https://app.cloudcannon.com/7e7645f7-b8e5-48db-85c7-6c3d6ea61935"
-      data-cms-popout-id="image-0"
-      data-cms-original-src="/uploads/86281c88-741d-4873-8282-e6a77239d8fa.jpeg"
-      width="720" height="1280" /></p>
+      color, we all have a part to contribute to society.</p>
 show-gallery: false
 gallery:
   - image_path:
