@@ -78,14 +78,7 @@ sections:
       on diversity. I have been personally asked to be searched and was
       blatantly told it was because I am black. So like any other part of
       society, racism has been built into the travel industry both consciously
-      and unconsciously.</p><p><img class="cms-image-placeholder"
-      data-cms-popout-id="image-0"
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /><img data-cms-popout-id="image-1"
-      data-cms-original-src="/uploads/2ce9d012-902d-410c-9c66-cb8591e77240.jpeg"
-      width="622" height="960"
-      src="blob:https://app.cloudcannon.com/62baa9f9-f582-432e-87bc-0c81fdb6ec78"
-      /></p>
+      and unconsciously.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -132,12 +125,7 @@ sections:
       industry, start by accepting that it is present within the travel industry
       and know that this is a fight that you are not fighting alone. We can all
       learn from each other as we all live unique lives. No matter your skin
-      color, we all have a part to contribute to society.</p><p><img
-      data-cms-popout-id="image-0"
-      data-cms-original-src="/uploads/86281c88-741d-4873-8282-e6a77239d8fa.jpeg"
-      width="720" height="1280"
-      src="blob:https://app.cloudcannon.com/7e7645f7-b8e5-48db-85c7-6c3d6ea61935"
-      /></p>
+      color, we all have a part to contribute to society.</p>
 show-gallery: false
 gallery:
   - image_path:
