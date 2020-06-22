@@ -211,7 +211,6 @@
 
   .explore-menu {
     margin-top: -4.3rem;
-    min-height: 100vh;
   }
 
   .explore-menu a {
@@ -221,7 +220,7 @@
   }
 
   .explore-menu .logo {
-    max-width: 12rem;
+    max-height: 5rem;
     margin: auto;
     display: block;
   }
@@ -229,6 +228,46 @@
   .explore-menu .inline a {
     display: inline-block;
 
+  }
+
+  .explore-post-slider,
+  .explore-shop-slider {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: auto;
+  }
+
+  .explore-post-slider .bg-image {
+    padding-bottom: 60%;
+    margin-bottom: 1rem;
+  }
+
+  .explore-post-slider .author {
+    font-family: 'p22-underground';
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    padding: 0.5rem;
+  }
+
+  .explore-post-slider h3 {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+  }
+
+  .explore-shop-slider {
+    padding: 2rem 0 2rem 1rem;
+  }
+
+  .explore-menu .socials a {
+    padding: 0.5rem;
+  }
+
+  .explore-menu .socials svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: white;
+    fill: white;
   }
 
   // About Sections

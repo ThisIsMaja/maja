@@ -1,6 +1,14 @@
 /* Blog Post Elements */
 /* ---- Blog loop elements style 1 ------ */
 
+.blog-banner h1 {
+  font-size: 2.2rem;
+}
+
+.blog-banner-mobile h1 {
+  font-size: 2rem;
+}
+
 blockquote {
     padding-left: 1.5rem;
     border-left: 2px solid;
@@ -258,7 +266,7 @@ a.category:hover {
 }
 
 
-// Mobile Metadata 
+// Mobile Metadata
 
 .mob-show .author {
     text-transform: uppercase;

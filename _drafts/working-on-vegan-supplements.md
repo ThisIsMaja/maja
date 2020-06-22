@@ -1,17 +1,13 @@
 ---
 layout: post
 date: 2020-05-27 00:00:00
-published: true
-slug: vegan-recipes-from-kynd-cafe
-title: '5 Plant Based Recipes from Kynd, our favourite Bali Cafe.'
-meta-description: >-
-  These quick and easy plant based recipes are delicious and will give you the
-  feeling of being in Bali at home
-meta-keywords: >-
-  plant based, recipes, vegan recipes, Kynd cafe, bali cafe, bali vegan cafe,
-  vegan cafe bali
-image_path: /images/food/kynd-burrito4.jpg
-banner-1_path: /images/food/kynd-burrito4.jpg
+published: false
+slug: vegan-supplements
+title: '*Working on* Vegan supplements'
+meta-description:
+meta-keywords:
+image_path:
+banner-1_path:
 banner-fixed: true
 categories:
   - lifestyle
@@ -252,3 +248,90 @@ gallery:
     alt:
 ---
 
+## Reasons to take supplements
+
+Vitamins and nutrients are something that our bodies can’t produce by themselves. Therefore in order to make sure we are not deficient in any of them we have to get them from external sources: food and/or supplements.&nbsp;
+
+## Vitamin D
+
+Also known as sun-vitamin.
+
+### Why do we need vitamin D?
+
+This vitamin is responsible for a number of important processes in our body.
+
+Let’s focus on the most vital ones:
+
+* Helps your body absorb calcium
+
+As you might know, we need calcium to build strong and healthy bones and teeth.
+
+* Supports your immune system and the neuromuscular system
+* Muscle recovery
+* Improves your mood and memory
+
+### Where to get it from?
+
+There are two ways you can get it from food and exposure to sunlight. In fact, vitamin D is so important that it is one of the only vitamines, if not the only one, that our bodies can produce by themselves.&nbsp;
+
+Here is the list of food you can get Vitamin D from:
+
+* Egg yolks
+* Fatty fish
+* Cheese
+* Fortified milk (also plant-based)
+* Fortifies cereals
+* Mushrooms (only if grown in UV light)
+* Butter
+
+As you can see a lot of those products come from animals. So if you are on a plant-based diet like us, you’ll probably struggle to get a daily dose of Vitamin D from your diet.&nbsp;
+
+The other option is sunlight.
+
+Experts say that 15 minutes a day of direct exposure (without using sunscreen) to UV light can be enough for your body to produce enough of vitamin D. However, let’s not forget that too much of sun exposure can also be dangerous for your skin and potentially help generate cancer cells. Also, unless you leave in a southern country you probably won’t get enough sunlight during winter months.&nbsp;
+
+These are the two main reason why you should consider supplementing vitamin D.
+
+## Omega-3s fatty acids
+
+### Why do we need Omega-3 fatty acids?
+
+The health benefits of omega-3 are extremely powerful. Scientists agree that fatty acids have a positive impact on our physical, mental and emotional state.
+
+Here are some of the most important benefits of omega-3 fatty acids:
+
+* Helps fight depression and anxiety
+* Fights heart diseases
+* Lower blood pressure and heart rate
+* Helps to ease inflammation
+* Can fight age-related diseases
+* Reduces insulin resistance
+* Helps prevent cancer
+
+### Where to get it from?
+
+* Nuts
+* Seeds
+* Fatty fish
+* Vegetable oils
+* Leafy greens
+* Soybeans
+
+There are two types:
+
+* Essential Omega-3 fatty acids - Alpha-linolenic acid (ALA)
+* Long-chain Omega-3 fatty acids - there are two of them and to avoid long terminology we will only use the abbreviations - EPA and DHA.
+
+Why is ALA called essential?
+
+Because our body can’t produce it and we can only get it from our diet.
+
+Why EPA and DHA are considered non-essential?
+
+Because our bodies can make them from ALA.&nbsp;
+
+At first, getting enough ALA might look easy for both meat and plant-based eaters. But the tricky part is converting ALA into EPA and DHA. The conversion rate varies between 2-10% which definitely not enough for our bodies.&nbsp;
+
+That is why supplementing omega-3 is so important no matter which diet you follow.&nbsp;
+
+## Vitamin B12
