@@ -37,7 +37,10 @@ intro-content_html: >-
   Corryn and Lauren to cook up our favourite Vegan Mexi Burrito with Vegan
   chipotle sauce. If you are interested in cooking along with us and the timing
   works out, make sure you grab the ingredients to prepare :
-  )</p></blockquote><p>What we love about <a
+  )</p><p><strong>Update:</strong> this event has ended. Make sure to follow us
+  on <a target="_blank"
+  href="https://www.instagram.com/mariefeandjakesnow/">Instagram</a> so you
+  won't miss the next one.</p></blockquote><p>What we love about <a
   href="https://www.instagram.com/kyndcommunity/">Kynd</a> is not only their
   delicious food but their mission to make this world a better place. It doesn't
   matter whether you are vegan, plant-based or on a standard diet, Kynd does not
