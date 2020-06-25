@@ -252,9 +252,23 @@ gallery:
 
 Vitamins and nutrients are something that our bodies can’t produce by themselves. Therefore in order to make sure we are not deficient in any of them we have to get them from external sources: food and/or supplements.&nbsp;
 
-## Vitamin D
+## Vitamin B12
 
-Also known as sun-vitamin.
+### Why do we need vitamin B12?
+
+It is responsible for securing the health of the nerve tissues, production of red blood cells and proper brain function. Besides that, it is also crucial for a healthy pregnancy, as it may prevent birth defects. Another benefit of vitamin B12 is that it can improve your mood, due to playing an important role in producing serotonin. Deficiency in B12 may result in neurological health issues and anemia.&nbsp;
+
+### Where to get it from?
+
+* Meat
+* Poultry
+* Fish
+* Dairy products
+* Eggs
+
+As you can see from the list all those products come from animals. This means, that if you are on a plant-based diet you can get enough vitamin B12 from food. That is why it is so important to supplement it.&nbsp;
+
+## Vitamin D
 
 ### Why do we need vitamin D?
 
@@ -264,7 +278,7 @@ Let’s focus on the most vital ones:
 
 * Helps your body absorb calcium
 
-As you might know, we need calcium to build strong and healthy bones and teeth.
+And we need calcium to build strong and healthy bones and teeth.
 
 * Supports your immune system and the neuromuscular system
 * Muscle recovery
@@ -286,11 +300,11 @@ Here is the list of food you can get Vitamin D from:
 
 As you can see a lot of those products come from animals. So if you are on a plant-based diet like us, you’ll probably struggle to get a daily dose of Vitamin D from your diet.&nbsp;
 
-The other option is sunlight.
+The other option of getting vitamin D is sunlight.
 
-Experts say that 15 minutes a day of direct exposure (without using sunscreen) to UV light can be enough for your body to produce enough of vitamin D. However, let’s not forget that too much of sun exposure can also be dangerous for your skin and potentially help generate cancer cells. Also, unless you leave in a southern country you probably won’t get enough sunlight during winter months.&nbsp;
+Experts say that 15 minutes a day of direct exposure (without using sunscreen) to UV light can be enough for your body to produce enough of vitamin D. However, let’s not forget that too much of sun exposure can also be dangerous for our skin and potentially help generate cancer cells. Also, unless you live in a southern country you probably won’t get enough sunlight during winter months.&nbsp;
 
-These are the two main reason why you should consider supplementing vitamin D.
+These are the two main reasons why you should consider supplementing vitamin D.
 
 ## Omega-3s fatty acids
 
@@ -317,21 +331,19 @@ Here are some of the most important benefits of omega-3 fatty acids:
 * Leafy greens
 * Soybeans
 
-There are two types:
+There are two types of Omega-3 fatty acids:
 
 * Essential Omega-3 fatty acids - Alpha-linolenic acid (ALA)
 * Long-chain Omega-3 fatty acids - there are two of them and to avoid long terminology we will only use the abbreviations - EPA and DHA.
 
-Why is ALA called essential?
+**Why is ALA called essential?**
 
 Because our body can’t produce it and we can only get it from our diet.
 
-Why EPA and DHA are considered non-essential?
+**Why EPA and DHA are considered non-essential?**
 
 Because our bodies can make them from ALA.&nbsp;
 
 At first, getting enough ALA might look easy for both meat and plant-based eaters. But the tricky part is converting ALA into EPA and DHA. The conversion rate varies between 2-10% which definitely not enough for our bodies.&nbsp;
 
 That is why supplementing omega-3 is so important no matter which diet you follow.&nbsp;
-
-## Vitamin B12
