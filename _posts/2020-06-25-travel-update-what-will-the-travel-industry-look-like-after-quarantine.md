@@ -48,7 +48,9 @@ sections:
       indefinitely, and will follow the guidelines to learn when is a good time
       to rebook. We have been staying close to the updates to learn more about
       how travel will change due to the coronavirus. We want to ensure we are
-      informed, and make well balanced decisions when the time comes!&nbsp;</p>
+      informed, and make well balanced decisions when the time
+      comes!&nbsp;</p><p>The first thing we will do when the borders open up is
+      visit our families in Australia and Germany.&nbsp;</p>
   - banner_path: /images/bali/Bali-blogpost4.jpg
     banner-caption:
     banner-fixed: false
@@ -140,10 +142,9 @@ sections:
       backyards. Staycations and road trips might be an amazing option for
       summer 2020!</p><p>Our only goals right now are to stay healthy and enjoy
       the time we have to work on passion projects and spend quality time
-      together. The first thing we will do when the borders open up is visit our
-      families in Australia and Germany.&nbsp;</p><p>What are your plans for
-      travel?&nbsp; Are you hesitant to fly internationally or eager to get back
-      to it?</p><p>&nbsp;</p>
+      together.&nbsp;</p><p>What are your plans for travel?&nbsp; Are you
+      hesitant to fly internationally or eager to get back to
+      it?</p><p>&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
