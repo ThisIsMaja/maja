@@ -127,30 +127,23 @@ sections:
       in June, and other countries are easing their border restrictions slowly.
       Every country is different, and their entry requirements vary
       significantly so always ensure you do your research before
-      booking.&nbsp;</p>
+      booking.&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <p>Traveling while black means you might be encountered by people who have
-      never seen black people. People will try to touch your hair, even try to
-      photograph or just stare at you as if you are on display. It can become
-      uncomfortable because their depiction of us is only based on what is
-      negatively shown on the media and you don't know if they are staring at
-      you because of pure interest or contempt. Many times as a black traveler
-      you might be the only black person in a resort and sometimes people can be
-      rude; they will ask you which room you are staying at, to see if it is a
-      luxurious room versus a room on the cheap end or even asks you how you are
-      able to afford travel as if it is impossible to be successful as a black
-      person.</p><p>As this black lives movement tries their hardest to oust
-      racism in the justice system. The travel industry should do their part to
-      topple racism. Instead of trying to negate that racism exists in the
-      industry, start by accepting that it is present within the travel industry
-      and know that this is a fight that you are not fighting alone. We can all
-      learn from each other as we all live unique lives. No matter your skin
-      color, we all have a part to contribute to society.</p>
+      <p>Travel has undoubtedly changed shape as a result of COVID-19. It may be
+      some time before we are off exploring the world again but we can take this
+      opportunity to explore our own countries, and see the beauty in our own
+      backyards. Staycations and road trips might be an amazing option for
+      summer 2020!</p><p>Our only goals right now are to stay healthy and enjoy
+      the time we have to work on passion projects and spend quality time
+      together. The first thing we will do when the borders open up is visit our
+      families in Australia and Germany.&nbsp;</p><p>What are your plans for
+      travel?&nbsp; Are you hesitant to fly internationally or eager to get back
+      to it?</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
