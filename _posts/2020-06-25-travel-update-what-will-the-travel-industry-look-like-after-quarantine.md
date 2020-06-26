@@ -144,27 +144,6 @@ sections:
       families in Australia and Germany.&nbsp;</p><p>What are your plans for
       travel?&nbsp; Are you hesitant to fly internationally or eager to get back
       to it?</p><p>&nbsp;</p>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: true
-    main-paragraph-emphasis:
-    body-content_html: >-
-      <p>We were sad to hear about Vennessas real life experience as a Black
-      travel influencer and all the unfairness she has personally felt in the
-      travel industry. But having said that we are proud that she has been brave
-      enough to highlight and shine some light on this subject. We know that
-      sharing her story is one small step towards creating a more equal world
-      for all.&nbsp;</p><p>It is our hope that if you're reading this that you
-      take it in and if you're in the travel industry you think about what
-      sub-conscious biases you might have that without knowing effect people
-      like Vennessa.&nbsp;</p><p>Please head over to <a target="_blank"
-      href="https://veennessa.com/">Vennessas blog</a> and check out her amazing
-      work and show your support :) If you have any questions for Vennessa or
-      us, please drop us a comment below.&nbsp;</p><p><u>We hope to do more
-      contributor blog posts in the future, if you would like to be featured
-      here on our website please contact us at
-      hello@mariefeandjakesnow.com</u></p>
 show-gallery: false
 gallery:
   - image_path:
