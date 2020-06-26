@@ -27,15 +27,14 @@ intro-content_html: >-
   so it has been a major change for us!&nbsp; We know many of you share our
   passion for travel so it&rsquo;s something on all our minds.&nbsp;</p><p>We
   don&rsquo;t have all the answers right now, we are letting the health experts
-  lead the way. But, one thing we do know is that the coronavirus will be a
-  reality for a while. Researchers are working hard to develop a vaccine, but
-  this takes time.&nbsp;&nbsp;</p><p>While countries around the world have been
-  locked down for months now, we are slowly starting to see things open up
-  around the world, but leisure travel has still pretty much screeched to a halt
-  for now.&nbsp; Countries are handling the pandemic differently so it&rsquo;s
-  important to follow guidance issued by your own government
-  agencies.&nbsp;</p><p>We wanted to take the time to answer some of your
-  burning questions related to travel the best we can!&nbsp;</p>
+  lead the way. But, one thing we do know is that the coronavirus restrictions
+  will be a reality for a while.&nbsp;&nbsp;</p><p>While countries around the
+  world have been locked down for months now, we are slowly starting to see
+  things open up around the world, but leisure travel has still pretty much
+  screeched to a halt for now.&nbsp; Countries are handling the pandemic
+  differently so it&rsquo;s important to follow guidance issued by your own
+  government agencies.&nbsp;</p><p>We wanted to take the time to answer some of
+  your burning questions related to travel the best we can!&nbsp;</p>
 sections:
   - banner_path:
     banner-caption:
