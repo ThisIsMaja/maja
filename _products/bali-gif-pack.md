@@ -1,12 +1,13 @@
 ---
-title: Ultimate Pack 1
-shopify-id: 1829753225280
+title: Support Bali Gif Pack
+shopify-id: 4466190254123
+published: false
 layout: product
-type: preset
-order: 6
-price: $19.95
-compare-at-price: $34.95
-save-percentage: 40%
+type: other
+order: 1
+price: $10
+compare-at-price:
+save-percentage: false
 image_path: /images/shop/cover-1.jpg
 main-gallery:
   - image_path: /images/shop/Pack-1/pack1-7.jpg
@@ -15,25 +16,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-1/pack1-10.jpg
     alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-1.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-11.png
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-9.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-8.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-2.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-5.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-6.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-3.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-12.jpg
-    alt:
-short-description: Colour bomb pack! 12 Mobile & Desktop
+short-description: Together with @caroline.kjellberg we wanted to help all the people and animals here in Bali that are suffering right now due to the sudden drop in tourism. So we created a massive bali, love and positivity themed GIF pack with over 100+ GIFS for you to use on your instagram stories, website, tiktok videos etc etc.
 preset-tags:
   - travel
   - outdoor

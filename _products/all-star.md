@@ -1,6 +1,7 @@
 ---
 title: The Allstar Bonus Pack
 layout: product
+type: preset
 shopify-id: 4389821513771
 order: 2
 price: $10.00

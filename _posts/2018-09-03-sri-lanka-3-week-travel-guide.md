@@ -17,6 +17,7 @@ categories:
   - travel
 tags:
   - asia
+  
 author: Marie Fe & Jake Snow
 image-1_path: /images/sri-lanka/sri-lanka-unawatuna.jpg
 image-2_path:
@@ -324,4 +325,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

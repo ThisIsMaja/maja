@@ -2,6 +2,7 @@
 title: Ultimate Pack 2
 shopify-id: 1830368641088
 layout: product
+type: preset
 order: 5
 price: $22.95
 compare-at-price: $49.95
