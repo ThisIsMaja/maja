@@ -92,7 +92,7 @@
   .featured-bg  {  background-color: #f9ede7;   }
 
   .light-text   { color: white; }
-  .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
+  .flex-flip:nth-child(2n){  }
 
   .highlighted-text {
     background-color: #FDFAF7;
@@ -138,6 +138,10 @@
 
   .small-gif {
     max-width: 2rem;
+  }
+
+  .hidden {
+    display: none;
   }
 
   /* General typography */
@@ -203,7 +207,7 @@
   //  Unique content
 
   .bg-animation {
-    background-image: url('/images/icons/maja_wave_website.gif');
+    // background-image: url('/images/icons/maja_wave_website.gif');
     // opacity: 0.5;
   }
   // .bg-animation section {
@@ -432,5 +436,10 @@
 @media(max-width:768px) {
   .about-page p{
     font-size: 1.8rem;
+  }
+
+  .mob-reverse { flex-direction: column-reverse; }
+  .mob-center {
+    text-align: center;
   }
 }

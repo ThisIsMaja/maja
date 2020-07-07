@@ -34,6 +34,11 @@ main-gallery:
   - image_path: /images/shop/Pack-1/pack1-12.jpg
     alt:
 short-description: Colour bomb pack! 12 Mobile & Desktop
+description: >-
+  Bright, sharp & colourful filters. This is the first pack we created in 2017.
+  This pack is what launched our Instagram and our photography to where it is
+  now. You are getting bright colours, orange tones and eye popping filters.
+show-extended-content: false
 preset-tags:
   - travel
   - outdoor
@@ -41,10 +46,6 @@ preset-tags:
   - sharp
   - landscape
   - very colourful
-description: >-
-  Bright, sharp & colourful filters. This is the first pack we created in 2017.
-  This pack is what launched our Instagram and our photography to where it is
-  now. You are getting bright colours, orange tones and eye popping filters.
 faqs:
   - question: What's Included?
     answer_html: >-

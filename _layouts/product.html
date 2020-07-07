@@ -8,7 +8,7 @@ layout: default
   </div>
   <div class="grid-centered padded">
   <div class="col-5_md-6_sm-12 relative">
-    {% unless page.save-percentage == false %}
+    {% unless page.save-percentage == nil %}
     <span class="save">SAVE<br>{{ page.save-percentage }}</span>
     {% endunless %}
     <img src="{{page.image_path}}">
@@ -28,6 +28,15 @@ layout: default
   </div>
 </section>
 
+{% if page.show-extended-content == true %}
+<section class="padded featured-bg ">
+
+  {{content}}
+
+</section>
+{% endif %}
+
+{% unless page.main-gallery[0].image_path == nil %}
 <section class="padded grey-bg">
   {% if paget.type == 'preset' %}
   <h2 class="subtle-heading centered"> This Pack's Presets </h2>
@@ -40,6 +49,7 @@ layout: default
     </div>
   </div>
 </section>
+{% endunless %}
 
 {% unless page.video_banner_path == nil %}
 

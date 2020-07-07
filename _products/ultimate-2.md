@@ -40,6 +40,10 @@ main-gallery:
   - image_path: /images/shop/Pack-2/pack2-15.jpg
     alt: short description of this image
 short-description: Our Travel Best Seller. 15 Mobile & Desktop
+description: >-
+  Vibrant, colourful presets, includes sunrise and sunset presets. For travel
+  addicts sun and nature lovers. We recommend our presets to beginners as well.
+show-extended-content: false
 faqs:
   - question: What's Included?
     answer_html: >-
@@ -70,16 +74,6 @@ preset-tags:
   - sunrise & sunset
   - landscape
   - allrounder
-description: >-
-  Vibrant, colourful presets, includes sunrise and sunset presets. For travel
-  addicts sun and nature lovers. We recommend our presets to beginners as well.
-gallery:
-  - image_path: /images/free-preset/IMG_2439.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
 reviews: 391
 show-on-compare-page: true
 video_banner_path: /images/shop/pack2-compare.mp4

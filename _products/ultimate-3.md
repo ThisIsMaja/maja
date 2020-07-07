@@ -47,6 +47,10 @@ main-gallery:
   - image_path: /images/shop/Pack-3/pack3-18.jpg
     alt: short description of this image
 short-description: Allrounder & Best Seller for Portraits & Travel. 18 Mobile & Desktop
+description: >-
+  This is the most versatile pack we have ever created. It will work perfectly
+  for portraits, selfies, travel, mobile photography and almost anything else.
+show-extended-content: false
 preset-tags:
   - selfies
   - outdoor
@@ -57,9 +61,6 @@ preset-tags:
   - colourful
   - soft
   - sharp
-description: >-
-  This is the most versatile pack we have ever created. It will work perfectly
-  for portraits, selfies, travel, mobile photography and almost anything else.
 faqs:
   - question: What's Included?
     answer_html: >-
@@ -83,13 +84,6 @@ faqs:
       presets</li><li>like sharp colourful presets</li><li>take outdoor and
       selfie pics</li><li>want a big variety of presets&nbsp;</li><li>want
       different skin colours to choose from :)</li></ul><p>&nbsp;</p>
-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
 reviews: 193
 show-on-compare-page: true
 video_banner_path: /images/shop/pack3.mp4
