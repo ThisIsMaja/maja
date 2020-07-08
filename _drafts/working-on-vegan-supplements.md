@@ -3,9 +3,13 @@ layout: post
 date: 2020-05-27 00:00:00
 published: false
 slug: vegan-supplements
-title: '*Working on* Vegan supplements'
-meta-description:
-meta-keywords:
+title: Supplements on a plant-based diet and why you should take them
+meta-description: >-
+  In this blog post, we talk about which supplements you should take if you are
+  on a plant-based diet and why. We also share the best vegan supplements.
+meta-keywords: >-
+  vegan supplements, supplements, omega 3, vitamin b12, vitamin d, plant-based
+  diet
 image_path:
 banner-1_path:
 banner-fixed: true
