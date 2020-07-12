@@ -86,11 +86,11 @@ sections:
       get enough of these because these nutrients come from bacteria, the sun's
       rays, and algae &mdash; things we do not always consume a lot of. The
       reason why it can be easier on a normal diet is because fish contains
-      Omega 3&rsquo;s which they get from the algae and other meat products like
-      chicken, beef contain B12 because they get it from bacteria in the soil.
-      Animals do not make these nutrients, they also get it from other places.
-      When we consume animal products we can get these nutrients but they
-      generally come with a whole host of bad stuff like saturated fat,
+      Omega 3&rsquo;s which they get from the algae. Other meat products like
+      chicken and beef contain B12 because the animals get it from bacteria in
+      the soil. Animals do not make these nutrients, they also get it from other
+      places. When we consume animal products we can get these nutrients but
+      they generally come with a whole host of bad stuff like saturated fat,
       cholesterol, heme iron, mercury etc.</p>
   - banner_path:
     banner-caption:
