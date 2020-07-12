@@ -22,8 +22,8 @@ image-1_path: /images/Future Kind/Future Kind-5.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   In all honesty we used to believe that supplements were completely unnecessary
-  and that most supplements have no benefits whatsoever (we still believe this
-  part).
+  and that most supplements have no benefits whatsoever - (we still believe the
+  latter).
 intro-content_html: >-
   <p>The supplement industry is full of misinformation and false claims. When it
   comes to food supplements there is also very little regulation in terms of
