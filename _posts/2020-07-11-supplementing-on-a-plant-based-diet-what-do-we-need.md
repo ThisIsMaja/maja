@@ -98,12 +98,12 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3>Why do we take vitamin B12, D3 and omega 3's EPA and
-      DHA?</h3><p>&nbsp;</p><p>It is important to note that apart from vitamin
-      B12 most people including those who eat high animal protein diets, are not
-      getting enough of these nutrients which look after our brains and other
-      vital systems in our bodies. A daily supplement with these 3 nutrients for
-      anybody can enhance so many areas of life
+      <h3><strong>Why do we take vitamin B12, D3 and omega 3's EPA and
+      DHA?</strong></h3><p>&nbsp;</p><p>It is important to note that apart from
+      vitamin B12 most people including those who eat high animal protein diets,
+      are not getting enough of these nutrients which look after our brains and
+      other vital systems in our bodies. A daily supplement with these 3
+      nutrients for anybody can enhance so many areas of life
       including:</p><p><strong>Supporting our energy levels</strong></p><p>B12
       is essential for energy production and for maintaining a healthy nervous
       system. Up to 92% of vegans are not getting enough B12. A B12 deficiency
