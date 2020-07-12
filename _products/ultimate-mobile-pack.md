@@ -2,6 +2,7 @@
 title: Ultimate Mobile Pack
 shopify-id: 4360618344491
 layout: product
+type: preset
 order: 1
 price: $19.95
 compare-at-price: $39.95
@@ -9,6 +10,11 @@ home-page-feature: true
 save-percentage: 50%
 image_path: /images/shop/cover-5.jpg
 short-description: The Bestseller for Mobile photos. 12 soft & dreamy Mobile & Desktop
+description: >-
+  Presets designed for any camera and great for mobile photography. Perfect for
+  Skin tones, food, selfies, lifestyle, indoors/outdoors! Transform all your
+  phone photos with just one click!!
+show-extended-content: false
 preset-tags:
   - travel
   - outdoor
@@ -41,10 +47,6 @@ main-gallery:
   - image_path: /images/shop/Mobile-Pack/mobile-11.jpg
     alt: short description of this image
   - image_path: /images/shop/Mobile-Pack/mobile-12.jpg
-description: >-
-  Presets designed for any camera and great for mobile photography. Perfect for
-  Skin tones, food, selfies, lifestyle, indoors/outdoors! Transform all your
-  phone photos with just one click!!
 faqs:
   - question: What's Included?
     answer_html: >-
@@ -71,13 +73,6 @@ faqs:
       course they also work&nbsp; for you camera pics)</li><li>you want to get a
       great deal - 19.95$ only :)</li></ul><p>It is a best seller and no
       brainer!</p>
-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
 reviews: 168
 show-on-compare-page: true
 video_banner_path: /images/shop/pack3-compare.mp4

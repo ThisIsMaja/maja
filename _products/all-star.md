@@ -1,11 +1,12 @@
 ---
 title: The Allstar Bonus Pack
 layout: product
+type: preset
 shopify-id: 4389821513771
 order: 2
 price: $10.00
 compare-at-price: $19.95
-save-percentage: false
+save-percentage: 50%
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
 short-description: Brand New! Soft Allrounders. 8 Mobile & Desktop
@@ -53,13 +54,6 @@ faqs:
       presets</li><li>if you are starting with presets or&nbsp;</li><li>you want
       another pack as an addition&nbsp;</li><li>you take photos on a phone or
       with a camera</li></ul>
-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
 reviews: 90
 show-on-compare-page: true
 video_banner_path: /images/shop/allstar-compare.mp4

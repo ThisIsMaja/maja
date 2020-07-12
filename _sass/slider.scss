@@ -21,6 +21,9 @@
   color: white;
 }
 
+.slick-blog-loop:not(.slick-initialized) .hidden {display: none}
+
+
 .slick-blog-loop h2 {
   // font-family: p22-underground, sans-serif;
   font-size: 1.8rem;

@@ -1,7 +1,8 @@
 ---
 title: Ultimate Pack 1
-layout: product
 shopify-id: 1829753225280
+layout: product
+type: preset
 order: 6
 price: $19.95
 compare-at-price: $34.95
@@ -33,6 +34,11 @@ main-gallery:
   - image_path: /images/shop/Pack-1/pack1-12.jpg
     alt:
 short-description: Colour bomb pack! 12 Mobile & Desktop
+description: >-
+  Bright, sharp & colourful filters. This is the first pack we created in 2017.
+  This pack is what launched our Instagram and our photography to where it is
+  now. You are getting bright colours, orange tones and eye popping filters.
+show-extended-content: false
 preset-tags:
   - travel
   - outdoor
@@ -40,10 +46,6 @@ preset-tags:
   - sharp
   - landscape
   - very colourful
-description: >-
-  Bright, sharp & colourful filters. This is the first pack we created in 2017.
-  This pack is what launched our Instagram and our photography to where it is
-  now. You are getting bright colours, orange tones and eye popping filters.
 faqs:
   - question: What's Included?
     answer_html: >-
@@ -73,23 +75,6 @@ faqs:
       blues</li><li>happy vibes&nbsp;</li><li>only want to pay 10$
       :)</li></ul><p>Make sure you underexpose your photos and use natural light
       for the best outcome</p>
-gallery:
-  - image_path: /images/shop/Pack-1/1970_BA_1080x.jpg
-    alt:
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
 reviews: 300
 show-on-compare-page: true
 video_banner_path: /images/shop/pack1-compare.mp4

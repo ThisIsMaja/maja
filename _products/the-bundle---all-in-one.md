@@ -2,6 +2,7 @@
 title: The Bundle - All in one
 shopify-id: 1856420216896
 layout: product
+type: preset
 order: 3
 price: $95.95
 compare-at-price: $215.95
@@ -62,4 +63,3 @@ show-on-compare-page: false
 video_banner_path:
 video_poster_path:
 ---
-

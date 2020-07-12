@@ -8,7 +8,9 @@ meta-description: >-
 meta-keywords: 'maja, mariefeandjakesnow, marie fe, jake snow, travelcouple, marie and jake'
 image_path:
 banner-1_desktop_video_path: /videos/maja-banner-min.mp4
+banner-1_desktop_poster_path: /images/banners/give-cafe2-before.jpg
 banner-1_mobile_video_path: /videos/mobile-banner-2.mp4
+banner-1_mobile_poster_path: /videos/home-video-poster-mobile.png
 banner-2_path: /images/banners/gili-banner.jpg
 banner-position: 50% 50%;
 ---
@@ -17,13 +19,16 @@ banner-position: 50% 50%;
 
 <!-- banner -->
 
-<section class="padded padded-t-0 home-page-banner mob-hide centered">
-  <video width="100%" height="auto" autoplay muted loop playsinline poster="/videos/home-video-poster-mobile.png">
-    <source src="{{page.banner-1_desktop_video_path}}" type="video/mp4" />
-  </video>
+<section class="padded padded-t-0 home-page-banner mob-hide centered" >
+  <div class="bg-image" style="background-image:url({{page.banner-1_desktop_poster_path}})">
+    <video class="lazy" width="100%" height="auto" autoplay muted loop playsinline poster="{{page.banner-1_desktop_poster_path}}">
+      <source src="{{page.banner-1_desktop_video_path}}" type="video/mp4" />
+    </video>
+  </div>
 </section>
+
 <section class="home-video-banner mob-show">
-  <video width="100%" height="auto" autoplay muted loop playsinline poster="/videos/home-video-poster-mobile.png">
+  <video class="lazy" width="100%" height="auto" autoplay muted loop playsinline poster="{{page.banner-1_mobile_poster_path}}">
     <source src="{{page.banner-1_mobile_video_path}}" type="video/mp4" />
   </video>
 </section>
@@ -48,7 +53,7 @@ banner-position: 50% 50%;
       <div class="relative slick-blog-loop">
         {% for post in site.posts limit:6 %}
 
-        <div class="{% unless post.loop.index == 1 %} hidden {% endunless %}">
+        <div class="slick-blog-item {% unless post.loop.index == 1 %} hidden {% endunless %}">
           <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
             <a href="{{post.url}}" class="col-5_sm-7_xs-10-bottom banner-inner grid">
               <div class="col-6 left mob-hide">
@@ -106,19 +111,18 @@ banner-position: 50% 50%;
 </section>
 
 <section class="padded light-bg" id="free-preset">
-  <div class="grid-centered capped-width">
-    <div class="col-5_sm-12-middle editable ">
+  <div class="grid-centered capped-width mob-reverse">
+    <div class="col-6_sm-12-middle editable">
       <p><img src="/freebies/course-free-preset/the-soft-asset.png" /></p>
     </div>
-    <div class="col-6_sm-12-middle padded bump-left white-bg" data-aos="fade-left">
+    <div class="col-6_sm-12-middle padded mob-center" data-aos="fade-left">
       <h2 class="editable subtle-heading">
-        FREE PRESET&nbsp;<img class="small-flower" src="/images/gifs/flower_01.gif" />
+        Shop Presets & More<img class="small-flower" src="/images/gifs/flower_01.gif" />
       </h2>
       <p class="editable">
-        
+          <a href="/shop" class="button"> EXPLORE SHOP NOW </a>
       </p>
-      <p><a href="/freebies/course-free-preset/the-soft.dng" class="button" download> DOWNLOAD NOW </a> <br /> </p>
-      <p class="subtitle"> Need help installing the preset? <br /> Instructions for <a href="https://www.instagram.com/tv/B9DXsNEKG0s/?igshid=sfpikr47k1e" target="_blank"> iPhone</a> and <a href="https://www.instagram.com/tv/B9DYX13Kl6T/?igshid=iyyao7p1xy0q" target="_blank"> android</a></p>
+      <!-- <p class="subtitle"> Need help installing the preset? <br /> Instructions for <a href="https://www.instagram.com/tv/B9DXsNEKG0s/?igshid=sfpikr47k1e" target="_blank"> iPhone</a> and <a href="https://www.instagram.com/tv/B9DYX13Kl6T/?igshid=iyyao7p1xy0q" target="_blank"> android</a></p> -->
     </div>
   </div>
 </section>

@@ -31,7 +31,7 @@
         </div>
       </div>
   </div>
-
+ 
 </header>
 
 
@@ -49,8 +49,15 @@
     <a href="/" style="--index: 0;"> Home </a>
     <a href="/blog" style="--index: 1;"> Blog </a>
     <a href="/about" style="--index: 2;"> About </a>
-    <a href="/shop" style="--index: 3;"> SHOP </a>
-    <a href="/subscribe" class="emphasis" style="--index: 4;"> MAJA TALK </a>
+    <a id="expand-menu" style="--index: 3;"> SHOP <i class="fas fa-chevron-down"></i> </a>
+    <nav class="hidden" id="expand-nav">
+      {% for link in site.data.mobile-nav %}
+      <a href="{{link.url}}"> {{link.title}}</a>
+      {% endfor %}
+    </nav>
+    <!--Update freebies link -->
+    <a href="/freebies" style="--index: 4;"> Freebies </a>
+    <a href="/subscribe" class="emphasis" style="--index: 5;"> MAJA TALK </a>
   </div>
   <nav class="inline socials">
     <a href="http://www.instagram.com/mariefeandjakesnow" target="_blank" style="--index: 5;">

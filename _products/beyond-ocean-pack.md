@@ -2,6 +2,7 @@
 title: Beyond Ocean Pack
 shopify-id: 1831677984832
 layout: product
+type: preset
 order: 7
 price: $19.95
 compare-at-price: $39.95
@@ -39,14 +40,15 @@ main-gallery:
   - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
 short-description: Ocean and Beach Presets - Donate 20%.  15 Mobile & Desktop
+description: >-
+  For ocean lovers and beach addicts but not only, great to edit anything else.
+  20% of all our sales will be donated to help clean up and save our oceans.
+show-extended-content: false
 preset-tags:
   - travel
   - outdoor
   - colourful
   - sharp
-description: >-
-  For ocean lovers and beach addicts but not only, great to edit anything else.
-  20% of all our sales will be donated to help clean up and save our oceans.
 faqs:
   - question: What's Included?
     answer_html: >-
@@ -70,13 +72,6 @@ faqs:
       sharp and colourful presets</li><li>you want allrounder presets (6) that
       are a similar style to preset pack 2 but better skin
       colours&nbsp;</li></ul>
-gallery:
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
-  - image_path: /images/free-preset/free-preset.jpg
-    alt: short description of this image
 reviews: 73
 show-on-compare-page: true
 video_banner_path: /images/shop/oceanpack-compare.mp4
