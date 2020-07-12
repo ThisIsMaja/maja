@@ -163,10 +163,11 @@ sections:
       Multivitamin from Future Kind</u></a> is one of them.</strong></p><p>If
       you're not convinced by now Eliot and Shaun have personally given you guys
       a 15% discount on any order you make using the code
-      &lsquo;<strong>maja</strong>&rsquo;. We hope this blog post can help you
-      guys reach a new level of health and happiness and we are excited to hear
-      your reviews and stories after supplementing with Future
-      Kind.</p><p>&nbsp;</p>
+      &lsquo;<strong>maja</strong>&rsquo; (unfortunately if you're in Europe
+      there a no shipping options but they are coming)&nbsp;</p><p>We hope this
+      blog post can help you guys reach a new level of health and happiness and
+      we are excited to hear your reviews and stories after supplementing with
+      Future Kind.</p><p>&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
