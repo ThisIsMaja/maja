@@ -136,7 +136,7 @@ sections:
       eye.</p><p><strong>Supporting healthy bones</strong></p><p>Adequate intake
       of Vitamin D is essential for maintaining healthy bones, as it helps with
       calcium and phosphorous absorption.</p><p>&nbsp;</p>
-  - banner_path: /images/Future Kind/Future Kind.jpg
+  - banner_path: /images/banners/maldives-banner.jpg
     banner-caption:
     banner-fixed: false
     columns: false
