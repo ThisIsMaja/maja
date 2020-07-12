@@ -32,7 +32,7 @@ intro-content_html: >-
   actually needed, which supplements would actually work and which supplement
   companies had the best intentions and weren&rsquo;t just out to make a quick
   buck.&nbsp;</p><p>It took a while but we eventually found the company, the
-  product and the results we were looking for in <a
+  product and the results we were looking for in <a target="_blank"
   href="https://bit.ly/futurekind">FUTURE KIND</a>. Before we get into which
   supplements we take and why, we want to give you a little back story.</p>
 sections:
@@ -142,7 +142,7 @@ sections:
     columns: false
     main-paragraph-emphasis: We take only one daily supplement everyday!
     body-content_html: >-
-      <p>It is the <strong><a
+      <p>It is the <strong><a target="_blank"
       href="https://bit.ly/veganmultivitamin"><u>Essential Vegan Multivitamin
       from Future Kind</u></a></strong> which contains only these 3 essential
       nutrients that we need as plant based eaters. We have been taking this
@@ -159,7 +159,7 @@ sections:
       pouch is even home-compostable.</p><p>4. Their shipping is carbon offset
       and we are a carbon positive business</p><p><strong>We only recommend
       products we know will benefit our community from people with good
-      intentions and good hearts, the <em><a
+      intentions and good hearts, the <em><a target="_blank"
       href="https://bit.ly/veganmultivitamin"><u>Essential Vegan Multivitamin
       from Future Kind</u></a></em> is one of them.</strong></p><p>If you're not
       convinced by now Eliot and Shaun have personally given you guys a 15%
