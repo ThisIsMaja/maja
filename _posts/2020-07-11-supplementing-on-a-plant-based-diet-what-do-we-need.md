@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-07-11 11:00:00
-published: false
+published: true
 slug: supplements-for-plant-based-diet
 title: 'Supplementing on a plant based diet, what do we need?'
 meta-description: >-
@@ -142,27 +142,28 @@ sections:
     columns: false
     main-paragraph-emphasis: We take only one daily supplement everyday!
     body-content_html: >-
-      <p>It is the <a href="https://bit.ly/veganmultivitamin"><u>Essential Vegan
-      Multivitamin from Future Kind</u></a> which contains only these 3
-      essential nutrients that we need as plant based eaters. We have been
-      taking this supplement for the past few months and can not only recommend
-      the product from the increase in energy and vitality we personally feel,
-      but from the results we received in our blood work which showed mid to
-      high levels in all nutrient categories.</p><p>We personally know Eliot and
-      Shaun who are the founders of Future Kind and we can vouch for their
-      integrity and their passion towards helping people and the world become
-      healthier and happier. Here are just a few reasons why we love Future
-      Kind:</p><p>1. They are the first ever multivitamin made by vegans for
-      vegans</p><p>2. They donate a percentage of every sale to animal
-      sanctuaries</p><p>3. Their packaging is made from 100% recycled materials
-      and is 100% recyclable. Our Super Greens pouch is even
-      home-compostable.</p><p>4. Their shipping is carbon offset and we are a
-      carbon positive business</p><p><strong>We only recommend products we know
-      will benefit our community from people with good intentions and good
-      hearts, the <a href="https://bit.ly/veganmultivitamin"><u>Essential Vegan
-      Multivitamin from Future Kind</u></a> is one of them.</strong></p><p>If
-      you're not convinced by now Eliot and Shaun have personally given you guys
-      a 15% discount on any order you make using the code
+      <p>It is the <strong><a
+      href="https://bit.ly/veganmultivitamin"><u>Essential Vegan Multivitamin
+      from Future Kind</u></a></strong> which contains only these 3 essential
+      nutrients that we need as plant based eaters. We have been taking this
+      supplement for the past few months and can not only recommend the product
+      from the increase in energy and vitality we personally feel, but from the
+      results we received in our blood work which showed mid to high levels in
+      all nutrient categories.</p><p>We personally know Eliot and Shaun who are
+      the founders of Future Kind and we can vouch for their integrity and their
+      passion towards helping people and the world become healthier and happier.
+      Here are just a few reasons why we love Future Kind:</p><p>1. They are the
+      first ever multivitamin made by vegans for vegans</p><p>2. They donate a
+      percentage of every sale to animal sanctuaries</p><p>3. Their packaging is
+      made from 100% recycled materials and is 100% recyclable. Our Super Greens
+      pouch is even home-compostable.</p><p>4. Their shipping is carbon offset
+      and we are a carbon positive business</p><p><strong>We only recommend
+      products we know will benefit our community from people with good
+      intentions and good hearts, the <em><a
+      href="https://bit.ly/veganmultivitamin"><u>Essential Vegan Multivitamin
+      from Future Kind</u></a></em> is one of them.</strong></p><p>If you're not
+      convinced by now Eliot and Shaun have personally given you guys a 15%
+      discount on any order you make using the code
       &lsquo;<strong>maja</strong>&rsquo; (unfortunately if you're in Europe
       there a no shipping options but they are coming)&nbsp;</p><p>We hope this
       blog post can help you guys reach a new level of health and happiness and
