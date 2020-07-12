@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2020-06-25 11:00:00
+date: 2020-07-11 11:00:00
 published: false
-slug: maja-travel-update
-title: Supplementing on a plant based diet
+slug: supplements-for-plant-based-diet
+title: 'Supplementing on a plant based diet, what do we need?'
 meta-description: >-
-  when we will travel, what it will look like, and how the industry will manage
-  during this pandemic.
-meta-keywords: 'travel, travel restrictions, coronavirus travel,'
+  Living on a plant based diet can provide many benefits but there are a few key
+  nutrients we need to think about!!
+meta-keywords: 'supplements, plant based diet, vegan, vegan supplements'
 image_path: /images/Future Kind/Future Kind-4.jpg
 banner-1_path: /images/Future Kind/Future Kind-4.jpg
 banner-fixed: true
