@@ -2,39 +2,28 @@
 layout: post
 date: 2020-07-11 11:00:00
 published: true
-slug: supplements-for-plant-based-diet
+slug:
 title: Maja Bali X Rove Ethical Fashion Collection ‚JOY‘
 meta-description: >-
-  Living on a plant based diet can provide many benefits but there are a few key
-  nutrients we need to think about!!
-meta-keywords: 'supplements, plant based diet, vegan, vegan supplements'
-image_path: /images/Future Kind/Future Kind-4.jpg
-banner-1_path: /images/Future Kind/Future Kind-4.jpg
+  It’s finally here- our first ever joint collection called ‚JOY‘. Maja Bali and
+  Rove Byron Bay have come together to create a collection of joyous designs and
+  uplifting colors. Ethical made flowy dresses in pastel hues that are perfectly
+  instagrammable are the center pieces of this collection.
+meta-keywords:
+image_path:
+banner-1_path:
 banner-fixed: true
 categories:
-  - wellbeing
+  - lifestyle
 tags:
-  - diet
+  - Fashion
+  - Maja Bali
   - conscious living
-  - Self Improvement
 author: Marie and Jake
-image-1_path: /images/Future Kind/Future Kind-5.jpg
+image-1_path:
 image-2_path:
-intro-paragraph-emphasis: >-
-  In all honesty we used to believe that supplements were completely unnecessary
-  and that most supplements have no benefits whatsoever - (we still believe the
-  latter).
-intro-content_html: >-
-  <p>The supplement industry is full of misinformation and false claims. When it
-  comes to food supplements there is also very little regulation in terms of
-  ingredient quality before products are released onto the shelves. With this in
-  mind we really wanted to put in the research to find out what supplements we
-  actually needed, which supplements would actually work and which supplement
-  companies had the best intentions and weren&rsquo;t just out to make a quick
-  buck.&nbsp;</p><p>It took a while but we eventually found the company, the
-  product and the results we were looking for in <a target="_blank"
-  href="https://bit.ly/futurekind">FUTURE KIND</a>. Before we get into which
-  supplements we take and why, we want to give you a little back story.</p>
+intro-paragraph-emphasis:
+intro-content_html:
 sections:
   - banner_path:
     banner-caption:
