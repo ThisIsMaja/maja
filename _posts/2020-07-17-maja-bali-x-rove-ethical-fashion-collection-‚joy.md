@@ -141,11 +141,11 @@ sections:
       driven?</strong></p><p>&nbsp;</p><p>Rove Designs is only using plant based
       fabric and no plastic whether for the pieces itself or packaging. Rove
       pays its workers good wages and regularly gives back to social and
-      environment causes.</p><p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/sizing-chart.jpg&amp;timestamp=1595074040503"
-      data-cms-popout-id="image-1"
+      environment causes.</p><p><img data-cms-popout-id="image-1"
       data-cms-original-src="/images/sizing-chart.jpg" width="1242"
-      height="1019" /></p><p>&nbsp;</p><p>&nbsp;</p>
+      height="1019"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/sizing-chart.jpg&amp;timestamp=1595074040503"
+      /></p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -163,6 +163,19 @@ sections:
       protecting the Amazon rainforest, donating face masks and hospital gowns
       in Indonesia and supporting Indigenous children's education in Australia.
       &nbsp;</em></div>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>SUNCHASER Dress in beige and light blue:</p><p>An absolute ROVE
+      favorite! This easy throw- on babydoll dress is perfect for the beach or
+      any occasion where want to feel cute but comfy. You probably don&rsquo;t
+      even want to put it off anymore once you wear it. The flowy cut and soft
+      linen will keep you cool even on hot days.</p><p>&bull; 100% pure
+      Linen&bull; Button- down front that can be unbuttoned&bull; loose and
+      comfy fit&bull; Side pockets</p>
 show-gallery: false
 gallery:
   - image_path:
