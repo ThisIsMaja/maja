@@ -38,28 +38,33 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <div><img
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      class="cms-image-placeholder" data-cms-popout-id="image-1"
-      /></div><div><strong>SUNCHASER Linen Dress in beige and light
-      blue:</strong></div><div>&nbsp;</div><div><p>The perfect all-round dress
-      for your sunchasing adventures! This cute babydoll dress with side pockets
-      is our absolute bestseller, you will live in it! Crafted from the softest
-      linen and designed in a flowy cut, the SUNCHASER dress keeps you cool even
-      in hot climates.</p><p>&bull; 100% pure linen&bull; Button-down front, can
-      be unbuttoned&bull; Side pockets</p></div>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html: >-
-      <div>&nbsp;</div><div>&nbsp;</div><div><strong>SUNCHASER Linen Dress in
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=Maja-x-Rove/00E9197B-021C-4A8E-9C49-06025646A020.jpeg&amp;timestamp=1595043398397"
+      data-cms-popout-id="image-0"
+      data-cms-original-src="/Maja-x-Rove/00E9197B-021C-4A8E-9C49-06025646A020.jpeg"
+      width="1600" height="2399" /></div><div><strong>SUNCHASER Linen Dress in
       beige and light blue:</strong></div><div>&nbsp;</div><div><p>The perfect
       all-round dress for your sunchasing adventures! This cute babydoll dress
       with side pockets is our absolute bestseller, you will live in it! Crafted
       from the softest linen and designed in a flowy cut, the SUNCHASER dress
       keeps you cool even in hot climates.</p><p>&bull; 100% pure linen&bull;
       Button-down front, can be unbuttoned&bull; Side pockets</p></div>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <div><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=Maja-x-Rove/2A13DE45-D5C0-4B5A-AB8A-F08E57B1F311.jpeg&amp;timestamp=1595043443729"
+      data-cms-popout-id="image-0"
+      data-cms-original-src="/Maja-x-Rove/2A13DE45-D5C0-4B5A-AB8A-F08E57B1F311.jpeg"
+      width="1600" height="2000" /></div><div><div><strong>SUNRISE Dress in
+      lavender, pistachio and lemon:</strong></div><div>&nbsp;</div><div><p>Our
+      cute &amp; easy throw-on dress! The SUNRISE Dress is crafted from cotton
+      gauze, which is incredibly soft to touch, light-weight to pack and
+      resistant to wrinkles. The flared fit and wing sleeves add playfulness to
+      your movements.</p><p>&bull; 100% soft cotton gauze&bull; Light,
+      wrinkle-resistant and comfortable</p></div></div><div>&nbsp;</div>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -78,41 +83,50 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <p>&nbsp;</p><div><strong>UDAIPUR Dress in lavender, lemons and light
-      blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress is one
-      of our most flattering styles. The flirty off-the-shoulder design and
-      elasticated top hug your body in all the right places. The flowy bottom
-      part moves softly around your ankles. Like the romantic white city of
-      Udaipur, you will enchant everyone with your beauty.</p><p>&bull; 100%
-      viscose&bull; Elasticated shirred top part and elastic sleeves for great
-      fit&bull; Ruffles along top and hemline</p></div>
+      <p><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=Maja-x-Rove/D96A2B78-0639-4DCF-9E57-92051AB8B75F.jpeg&amp;timestamp=1595043780261"
+      data-cms-popout-id="image-0"
+      data-cms-original-src="/Maja-x-Rove/D96A2B78-0639-4DCF-9E57-92051AB8B75F.jpeg"
+      width="1600" height="2000" /></p><div><strong>UDAIPUR Dress in lavender,
+      lemons and light blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR
+      Maxi Dress is one of our most flattering styles. The flirty
+      off-the-shoulder design and elasticated top hug your body in all the right
+      places. The flowy bottom part moves softly around your ankles. Like the
+      romantic white city of Udaipur, you will enchant everyone with your
+      beauty.</p><p>&bull; 100% viscose&bull; Elasticated shirred top part and
+      elastic sleeves for great fit&bull; Ruffles along top and
+      hemline</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><strong>ESPERANCE Dress in pistachio and light
-      blue:</strong></div><div>&nbsp;</div><div><p>The gorgeous ESPERANCE maxi
-      dress will quickly turn into your new favourite! Feminine and flowy, this
-      is the one for your next dreamy holidays. Perfect for watching the sun set
-      over the ocean! The ruffled straps and hemline are super flattering and
-      thanks to its elasticated top the dress adjusts to your body
-      effortlessly.</p><p>&bull; 100% viscose fujette&bull; Elasticated shirred
-      top part &bull; Ruffled straps and hemline</p></div>
+      <div><img
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+      class="cms-image-placeholder" data-cms-popout-id="image-0"
+      /></div><div>&nbsp;</div><div><strong>ESPERANCE Dress in pistachio and
+      light blue:</strong></div><div>&nbsp;</div><div><p>The gorgeous ESPERANCE
+      maxi dress will quickly turn into your new favourite! Feminine and flowy,
+      this is the one for your next dreamy holidays. Perfect for watching the
+      sun set over the ocean! The ruffled straps and hemline are super
+      flattering and thanks to its elasticated top the dress adjusts to your
+      body effortlessly.</p><p>&bull; 100% viscose fujette&bull; Elasticated
+      shirred top part &bull; Ruffled straps and hemline</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><div><div><div><strong>PARAISO Wrap Dress in Lavender and light
-      blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling Maxi Wrap
-      Dress is now available in gorgeous pastel hues! The super flattering cut
-      is perfect for any dress-up occasion as well as romantic strolls by the
-      beach.</p><p>&bull; 100% viscose&bull; Ruffled sleeves and hemline&bull;
-      Wrap style will adjust perfectly to your body shape&bull; Feminine
-      fit&bull; Invisible hook at front for optimal
+      <div><div><div><div><img src="data:," data-cms-popout-id="image-0"
+      /></div><div>&nbsp;</div><div><strong>PARAISO Wrap Dress in Lavender and
+      light blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling
+      Maxi Wrap Dress is now available in gorgeous pastel hues! The super
+      flattering cut is perfect for any dress-up occasion as well as romantic
+      strolls by the beach.</p><p>&bull; 100% viscose&bull; Ruffled sleeves and
+      hemline&bull; Wrap style will adjust perfectly to your body shape&bull;
+      Feminine fit&bull; Invisible hook at front for optimal
       coverage</p></div><div><div>&nbsp;</div><div>&nbsp;</div></div></div></div></div><div>&nbsp;</div>
   - banner_path:
     banner-caption:
