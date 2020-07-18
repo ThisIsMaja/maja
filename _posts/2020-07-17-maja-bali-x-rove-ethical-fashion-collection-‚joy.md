@@ -37,15 +37,7 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><img class="cms-image-placeholder" data-cms-popout-id="image-3"
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /><img class="cms-image-placeholder" data-cms-popout-id="image-4"
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /><img data-cms-popout-id="image-2"
-      data-cms-original-src="/images/Maja-x-Rove/rove-2.jpeg" width="1600"
-      height="2000" alt="Maja Bali Joy Collection"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-2.jpeg&amp;timestamp=1595048671915"
-      /></div><div><img
+      <div><img src="/images/Maja-x-Rove/rove-2.jpeg" alt="Maja Bali Joy Collection"><img
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-24.jpeg&amp;timestamp=1595051484228"
       data-cms-popout-id="image-0"
       data-cms-original-src="/images/Maja-x-Rove/rove-24.jpeg" width="1600"
