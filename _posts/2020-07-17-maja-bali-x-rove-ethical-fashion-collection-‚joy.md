@@ -133,12 +133,14 @@ sections:
       promo code the pieces will be between 29&euro; and
       79&euro;.</p><p>&nbsp;</p><p><strong>What sizes will the pieces be
       available in?</strong></p><p>&nbsp;</p><p>All styles will come in XS -
-      2XL</p><p>&nbsp;</p><p><strong>I am unsure about which size I should go
-      for?</strong></p><p>&nbsp;</p><p>&nbsp;</p><p><strong>How is this
-      collection ethically driven?</strong></p><p>&nbsp;</p><p>Rove Designs is
-      only using plant based fabric and no plastic whether for the pieces itself
-      or packaging. Rove pays its workers good wages and regularly gives back to
-      social and environment causes.</p><p>&nbsp;</p><p>&nbsp;</p>
+      2XL</p><p><strong>I am unsure about which size I should go
+      for?</strong></p><p>EU XS/24/US 4</p><p>EU S/36/US 6&nbsp;</p><p>EU M/38/
+      US 8 &nbsp;</p><p>EU L/40/US 10</p><p>EU XL/42/ US 12</p><p>EU 2X/ 44/
+      14</p><p>&nbsp;</p><p><strong>How is this collection ethically
+      driven?</strong></p><p>&nbsp;</p><p>Rove Designs is only using plant based
+      fabric and no plastic whether for the pieces itself or packaging. Rove
+      pays its workers good wages and regularly gives back to social and
+      environment causes.</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
