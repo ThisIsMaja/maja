@@ -111,7 +111,7 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: Sizing Chart Below
     body-content_html: >-
       <h3><strong>Q &amp;
       A's</strong></h3><p>&nbsp;</p><p>&nbsp;</p><p><strong>Do you ship
@@ -136,11 +136,16 @@ sections:
       2XL</p><p><strong>I am unsure about which size I should go
       for?</strong></p><p>EU XS/34/US 2</p><p>EU S/36/US 4&nbsp;</p><p>EU M/38/
       US 6 &nbsp;</p><p>EU L/40/US 8</p><p>EU XL/42/ US 10</p><p>EU 2X/ 44/
-      12</p><p>&nbsp;</p><p><strong>How is this collection ethically
+      12</p><p><u>Check the sizing chart below for more
+      specs</u></p><p><strong>How is this collection ethically
       driven?</strong></p><p>&nbsp;</p><p>Rove Designs is only using plant based
       fabric and no plastic whether for the pieces itself or packaging. Rove
       pays its workers good wages and regularly gives back to social and
-      environment causes.</p><p>&nbsp;</p><p>&nbsp;</p>
+      environment causes.</p><p><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/sizing-chart.jpg&amp;timestamp=1595074040503"
+      data-cms-popout-id="image-1"
+      data-cms-original-src="/images/sizing-chart.jpg" width="1242"
+      height="1019" /></p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
