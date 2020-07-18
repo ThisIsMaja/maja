@@ -66,10 +66,7 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3><img
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      class="cms-image-placeholder" data-cms-popout-id="image-0"
-      /></h3><div><strong>SUNSHINE Top in beige, light blue and
+      <h3>&nbsp;</h3><div><strong>SUNSHINE Top in beige, light blue and
       lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE Top has a super
       flattering fit with an off-shoulder ruffle and elasticated body. Its
       cropped design and gorgeous colour make it your perfect summer top to wear
