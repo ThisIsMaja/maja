@@ -3,7 +3,7 @@ layout: post
 date: 2020-07-11 11:00:00
 published: true
 slug: supplements-for-plant-based-diet
-title: 'Supplementing on a plant based diet, what do we need?'
+title: Maja Bali Ethical Fashion
 meta-description: >-
   Living on a plant based diet can provide many benefits but there are a few key
   nutrients we need to think about!!
@@ -176,3 +176,4 @@ gallery:
     alt:
 ---
 
+![](/uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg){: width="1600" height="2399"}![](/uploads/2fa3dd86-0eeb-4117-a804-6586fa47c6df.jpeg){: width="1600" height="2399"}![](/uploads/95cc288b-ec93-44bd-a0c6-2799d5999586.jpeg){: width="1600" height="2399"}![](/uploads/ab03f0a6-6c03-4645-bc08-e975055e0e62.jpeg){: width="1600" height="1067"}![](/uploads/a4a01309-30e0-4c8b-813f-eeae08c71495.jpeg){: width="1600" height="2399"}![](/uploads/13d0dac8-b19d-49f5-a60f-03940ed2db79.jpeg){: width="1600" height="2399"}![](/uploads/75ef853e-025c-4073-8bfe-15d66c98e8d3.jpeg){: width="1600" height="1999"}

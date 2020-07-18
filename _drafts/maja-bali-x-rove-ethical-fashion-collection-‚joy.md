@@ -2,39 +2,28 @@
 layout: post
 date: 2020-07-11 11:00:00
 published: true
-slug: supplements-for-plant-based-diet
-title: 'Supplementing on a plant based diet, what do we need?'
+slug:
+title: Maja Bali X Rove Ethical Fashion Collection ‚JOY‘
 meta-description: >-
-  Living on a plant based diet can provide many benefits but there are a few key
-  nutrients we need to think about!!
-meta-keywords: 'supplements, plant based diet, vegan, vegan supplements'
-image_path: /images/Future Kind/Future Kind-4.jpg
-banner-1_path: /images/Future Kind/Future Kind-4.jpg
+  It’s finally here- our first ever joint collection called ‚JOY‘. Maja Bali and
+  Rove Byron Bay have come together to create a collection of joyous designs and
+  uplifting colors. Ethical made flowy dresses in pastel hues that are perfectly
+  instagrammable are the center pieces of this collection.
+meta-keywords:
+image_path:
+banner-1_path:
 banner-fixed: true
 categories:
-  - wellbeing
+  - lifestyle
 tags:
-  - diet
+  - Fashion
+  - Maja Bali
   - conscious living
-  - Self Improvement
 author: Marie and Jake
-image-1_path: /images/Future Kind/Future Kind-5.jpg
+image-1_path:
 image-2_path:
-intro-paragraph-emphasis: >-
-  In all honesty we used to believe that supplements were completely unnecessary
-  and that most supplements have no benefits whatsoever - (we still believe the
-  latter).
-intro-content_html: >-
-  <p>The supplement industry is full of misinformation and false claims. When it
-  comes to food supplements there is also very little regulation in terms of
-  ingredient quality before products are released onto the shelves. With this in
-  mind we really wanted to put in the research to find out what supplements we
-  actually needed, which supplements would actually work and which supplement
-  companies had the best intentions and weren&rsquo;t just out to make a quick
-  buck.&nbsp;</p><p>It took a while but we eventually found the company, the
-  product and the results we were looking for in <a target="_blank"
-  href="https://bit.ly/futurekind">FUTURE KIND</a>. Before we get into which
-  supplements we take and why, we want to give you a little back story.</p>
+intro-paragraph-emphasis:
+intro-content_html:
 sections:
   - banner_path:
     banner-caption:
@@ -176,3 +165,14 @@ gallery:
     alt:
 ---
 
+<div>So our new launch is this Sunday and will be an exciting collab collection with Marie from&nbsp;<a href="https://www.instagram.com/mariefeandjakesnow/">@mariefeandjakesnow</a>&nbsp;/ @<a href="https://www.instagram.com/majabali_/">majabali_</a>&nbsp;. Our shared love for all things travel and fashion will come together in a first ever joint collection called "JOY"!</div>
+
+<div>&nbsp;</div>
+
+<div>With everything that has been going on this year, we've been wanting to bring uplifting colours and joyous designs to people's wardrobes around the world....Think beautiful flowy maxi dresses in gorgeous pastel hues, perfectly instagrammable and of course ethically made.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><strong><em>A word about our sustainability &amp; ethics behind the brand:</em></strong></div>
+
+<div><em>We produce ethically in Bali and ensure safe conditions and fair wages. Our pieces are all made from plant-based fibres and sent in minimal, plastic-free packaging. We also regularly give back and so far have donated to various projects involving girls' education in developing countries, the Australian bush fire relief, protecting the Amazon rainforest, donating face masks and hospital gowns in Indonesia and supporting Indigenous children's education in Australia. &nbsp;</em></div>
