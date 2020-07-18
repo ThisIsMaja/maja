@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-17 11:00:00
 published: true
-slug:
+slug: maja-x-rove-ethical-fashion-collection-joy
 title: Maja Bali X Rove Ethical Fashion Collection ‚JOY‘
 meta-description: >-
   It’s finally here- our first ever joint collection called ‚JOY‘. Maja Bali and
