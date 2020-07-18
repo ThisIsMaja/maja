@@ -38,10 +38,7 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <div><img src="/images/Maja-x-Rove/rove-2.jpeg" alt="Maja Bali Joy Collection"><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-24.jpeg&amp;timestamp=1595051484228"
-      data-cms-popout-id="image-0"
-      data-cms-original-src="/images/Maja-x-Rove/rove-24.jpeg" width="1600"
-      height="2399" /></div><div><div><strong>SUNRISE Dress in lavender,
+      src="/images/Maja-x-Rove/rove-24.jpeg"/></div><div><div><strong>SUNRISE Dress in lavender,
       pistachio and lemon:</strong></div><div>&nbsp;</div><div><p>Our cute &amp;
       easy throw-on dress! The SUNRISE Dress is crafted from cotton gauze, which
       is incredibly soft to touch, light-weight to pack and resistant to
@@ -55,9 +52,7 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <h3><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-26.jpeg&amp;timestamp=1595051529860"
-      data-cms-popout-id="image-2"
-      data-cms-original-src="/images/Maja-x-Rove/rove-26.jpeg" width="1600"
+      src="/images/Maja-x-Rove/rove-26.jpeg" width="1600"
       height="2399" /></h3><p>&nbsp;</p><div><strong>SUNSHINE Top in beige,
       light blue and lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE
       Top has a super flattering fit with an off-shoulder ruffle and elasticated
@@ -70,13 +65,7 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <p><img class="cms-image-placeholder" data-cms-popout-id="image-0"
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-13.jpeg&amp;timestamp=1595051427833"
-      data-cms-popout-id="image-1"
-      data-cms-original-src="/images/Maja-x-Rove/rove-13.jpeg" width="1600"
-      height="2399" /></p><div><strong>UDAIPUR Dress in lavender, lemons and
+      <p><img class="cms-image-placeholder" src="/images/Maja-x-Rove/rove-13.jpeg" /></p><div><strong>UDAIPUR Dress in lavender, lemons and
       light blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress
       is one of our most flattering styles. The flirty off-the-shoulder design
       and elasticated top hug your body in all the right places. The flowy
@@ -90,13 +79,7 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><img data-cms-popout-id="image-0"
-      data-cms-original-src="/images/Maja-x-Rove/rove-21.jpeg" width="1600"
-      height="2000"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-21.jpeg&amp;timestamp=1595048010022"
-      /><img class="cms-image-placeholder" data-cms-popout-id="image-0"
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /></div><div>&nbsp;</div><div><strong>ESPERANCE Dress in pistachio and
+      <div><img src="/images/Maja-x-Rove/rove-21.jpeg" width="1600"/></div><div>&nbsp;</div><div><strong>ESPERANCE Dress in pistachio and
       light blue:</strong></div><div>&nbsp;</div><div><p>The gorgeous ESPERANCE
       maxi dress will quickly turn into your new favourite! Feminine and flowy,
       this is the one for your next dreamy holidays. Perfect for watching the
@@ -110,18 +93,8 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><div><div><div><img class="cms-image-placeholder"
-      data-cms-popout-id="image-0"
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-22.jpeg&amp;timestamp=1595051362041"
-      data-cms-popout-id="image-0"
-      data-cms-original-src="/images/Maja-x-Rove/rove-22.jpeg" width="1600"
-      height="2000" /></div><div><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-16.jpeg&amp;timestamp=1595051394505"
-      data-cms-popout-id="image-1"
-      data-cms-original-src="/images/Maja-x-Rove/rove-16.jpeg" width="1600"
-      height="2399" /></div><div><strong>PARAISO Wrap Dress in Lavender and
+      <div><img src="/images/Maja-x-Rove/rove-22.jpeg"/></div><div><img
+      src="/images/Maja-x-Rove/rove-16.jpeg"/></div><div><strong>PARAISO Wrap Dress in Lavender and
       light blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling
       Maxi Wrap Dress is now available in gorgeous pastel hues! The super
       flattering cut is perfect for any dress-up occasion as well as romantic
@@ -135,11 +108,7 @@ sections:
     columns: false
     main-paragraph-emphasis: Sizing
     body-content_html: >-
-      <p><img data-cms-popout-id="image-0"
-      data-cms-original-src="/images/Maja-x-Rove/size-chart.jpg" width="1242"
-      height="1022"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/size-chart.jpg&amp;timestamp=1595046110271"
-      /></p>
+      <p><img src="/images/Maja-x-Rove/size-chart.jpg" /></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
