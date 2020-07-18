@@ -43,15 +43,15 @@ sections:
       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
       /><img data-cms-popout-id="image-2"
       data-cms-original-src="/images/Maja-x-Rove/rove-2.jpeg" width="1600"
-      height="2000"
+      height="2000" alt="Maja Bali Joy Collection"
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-2.jpeg&amp;timestamp=1595048671915"
       /></div><div><div><img data-cms-popout-id="image-3"
       data-cms-original-src="/images/Maja-x-Rove/rove-24.jpeg" width="1600"
-      height="2399"
+      height="2399" alt="Maja Bali Joy Collection"
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-24.jpeg&amp;timestamp=1595048717833"
       /></div><div><img data-cms-popout-id="image-6"
       data-cms-original-src="/images/Maja-x-Rove/rove-23.jpeg" width="1600"
-      height="2399"
+      height="2399" alt="Maja Bali Joy Collection"
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-23.jpeg&amp;timestamp=1595048750794"
       /></div><div><strong>SUNRISE Dress in lavender, pistachio and
       lemon:</strong></div><div>&nbsp;</div><div><p>Our cute &amp; easy throw-on
@@ -63,10 +63,13 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: true
+    columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3>&nbsp;</h3><div><strong>SUNSHINE Top in beige, light blue and
+      <h3>&nbsp;</h3><p><img
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+      class="cms-image-placeholder" data-cms-popout-id="image-0"
+      /></p><div><strong>SUNSHINE Top in beige, light blue and
       lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE Top has a super
       flattering fit with an off-shoulder ruffle and elasticated body. Its
       cropped design and gorgeous colour make it your perfect summer top to wear
@@ -80,6 +83,9 @@ sections:
     body-content_html: >-
       <p><img class="cms-image-placeholder" data-cms-popout-id="image-0"
       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+      /><img
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+      class="cms-image-placeholder" data-cms-popout-id="image-0"
       /></p><div><strong>UDAIPUR Dress in lavender, lemons and light
       blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress is one
       of our most flattering styles. The flirty off-the-shoulder design and
@@ -115,9 +121,9 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><div><div><div><img
+      <div><div><div><div><img class="cms-image-placeholder"
+      data-cms-popout-id="image-0"
       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      class="cms-image-placeholder" data-cms-popout-id="image-0"
       /></div><div><strong>PARAISO Wrap Dress in Lavender and light
       blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling Maxi Wrap
       Dress is now available in gorgeous pastel hues! The super flattering cut
@@ -141,7 +147,9 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: >-
+      Our pieces are all made from plant-based fibres and sent in minimal,
+      plastic-free packaging
     body-content_html: >-
       <div><strong><em>A word about our sustainability &amp; ethics behind the
       brand:</em></strong></div><div><em>We produce ethically in Bali and ensure
@@ -152,12 +160,6 @@ sections:
       protecting the Amazon rainforest, donating face masks and hospital gowns
       in Indonesia and supporting Indigenous children's education in Australia.
       &nbsp;</em></div>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html:
 show-gallery: false
 gallery:
   - image_path:
