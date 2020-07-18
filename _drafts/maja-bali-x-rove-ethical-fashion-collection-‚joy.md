@@ -22,38 +22,31 @@ tags:
 author: Marie and Jake
 image-1_path:
 image-2_path:
-intro-paragraph-emphasis:
-intro-content_html:
+intro-paragraph-emphasis: >-
+  Our shared love for all things travel and fashion will come together in a
+  first ever joint collection called "JOY"!
+intro-content_html: >-
+  <div><p>With everything that has been going on this year, we've been wanting
+  to bring uplifting colours and joyous designs to people's wardrobes around the
+  world.</p></div><div>Beautiful flowy maxi dresses in gorgeous pastel hues and
+  of course ethically made.&nbsp;</div><div>&nbsp;</div><h3>&nbsp;</h3>
 sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: true
-    main-paragraph-emphasis: >-
-      But it is not only this diet that has changed our lives for the better, it
-      is our consciousness towards what we put into our bodies
+    main-paragraph-emphasis:
     body-content_html: >-
-      <p>Living on a plant-based diet for the past 4 years has improved our
-      lives immensely. We&rsquo;ve experienced so much more energy, focus, drive
-      and vitality since we swapped out all animal products and most processed
-      foods in exchange for a whole plant based diet. It is hard to overstate
-      the positive impact this diet and this way of life has had on our overall
-      happiness and success. But it is not only this diet that has changed our
-      lives for the better, it is our consciousness towards what we put into our
-      bodies and our focus on giving our bodies the nutrients we really need to
-      thrive.</p><p>We were thriving for 3 years on a plant-based diet before we
-      noticed a small decline in our energy and our focus. We had always been
-      conscious of what we were eating and we tried our best to eat a variety of
-      plant based foods. But travelling full time and spending time in countries
-      with very little plant based options made it difficult for us to cover all
-      the nutrients we needed through food alone. This is when we started
-      researching into supplementation and we learnt that with the right
-      products, made by the right companies, we could take a daily supplement
-      that would ensure all our nutrient needs were being met. If you travel a
-      lot like us, or you have a really busy schedule, or you just want to make
-      sure you&rsquo;re operating at 100%. Supplementing can help you stay
-      healthy and at the top of your game (if you use the right products and
-      supplement with the nutrients you actually need)</p>
+      <div><img
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+      class="cms-image-placeholder" data-cms-popout-id="image-1"
+      /></div><div><strong>SUNCHASER Linen Dress in beige and light
+      blue:</strong></div><div>&nbsp;</div><div><p>The perfect all-round dress
+      for your sunchasing adventures! This cute babydoll dress with side pockets
+      is our absolute bestseller, you will live in it! Crafted from the softest
+      linen and designed in a flowy cut, the SUNCHASER dress keeps you cool even
+      in hot climates.</p><p>&bull; 100% pure linen&bull; Button-down front, can
+      be unbuttoned&bull; Side pockets</p></div>
   - banner_path: /images/Future Kind/Future Kind-2.jpg
     banner-caption:
     banner-fixed: false
@@ -165,14 +158,4 @@ gallery:
     alt:
 ---
 
-<div>So our new launch is this Sunday and will be an exciting collab collection with Marie from&nbsp;<a href="https://www.instagram.com/mariefeandjakesnow/">@mariefeandjakesnow</a>&nbsp;/ @<a href="https://www.instagram.com/majabali_/">majabali_</a>&nbsp;. Our shared love for all things travel and fashion will come together in a first ever joint collection called "JOY"!</div>
-
-<div>&nbsp;</div>
-
-<div>With everything that has been going on this year, we've been wanting to bring uplifting colours and joyous designs to people's wardrobes around the world....Think beautiful flowy maxi dresses in gorgeous pastel hues, perfectly instagrammable and of course ethically made.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div><strong><em>A word about our sustainability &amp; ethics behind the brand:</em></strong></div>
-
-<div><em>We produce ethically in Bali and ensure safe conditions and fair wages. Our pieces are all made from plant-based fibres and sent in minimal, plastic-free packaging. We also regularly give back and so far have donated to various projects involving girls' education in developing countries, the Australian bush fire relief, protecting the Amazon rainforest, donating face masks and hospital gowns in Indonesia and supporting Indigenous children's education in Australia. &nbsp;</em></div>
+<div><div><div><p>Our shared love for all things travel and fashion will come together in a first ever joint collection called "JOY"!</p><p>With everything that has been going on this year, we've been wanting to bring uplifting colours and joyous designs to people's wardrobes around the world.</p></div><div>Beautiful flowy maxi dresses in gorgeous pastel hues and of course ethically made.&nbsp;</div><div>&nbsp;</div><div><strong><em>A word about our sustainability &amp; ethics behind the brand:</em></strong></div><div><em>We produce ethically in Bali and ensure safe conditions and fair wages. Our pieces are all made from plant-based fibres and sent in minimal, plastic-free packaging. We also regularly give back and so far have donated to various projects involving girls' education in developing countries, the Australian bush fire relief, protecting the Amazon rainforest, donating face masks and hospital gowns in Indonesia and supporting Indigenous children's education in Australia. &nbsp;</em></div></div><div>&nbsp;</div><div><strong>SUNSHINE Top in beige, light blue and lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE Top has a super flattering fit with an off-shoulder ruffle and elasticated body. Its cropped design and gorgeous colour make it your perfect summer top to wear from beach to sunset bar.</p><p>&bull; 100% cotton&bull; Shirred, cropped body&bull; Elasticated top with ruffle</p></div><div><div>&nbsp;</div></div><div>&nbsp;</div><div><strong>SUNCHASER Linen Dress in beige and light blue:</strong></div><div>&nbsp;</div><div><p>The perfect all-round dress for your sunchasing adventures! This cute babydoll dress with side pockets is our absolute bestseller, you will live in it! Crafted from the softest linen and designed in a flowy cut, the SUNCHASER dress keeps you cool even in hot climates.</p><p>&bull; 100% pure linen&bull; Button-down front, can be unbuttoned&bull; Side pockets</p></div><div><div>&nbsp;</div></div><div>&nbsp;</div><div><strong>UDAIPUR Dress in lavender, lemons and light blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress is one of our most flattering styles. The flirty off-the-shoulder design and elasticated top hug your body in all the right places. The flowy bottom part moves softly around your ankles. Like the romantic white city of Udaipur, you will enchant everyone with your beauty.</p><p>&bull; 100% viscose&bull; Elasticated shirred top part and elastic sleeves for great fit&bull; Ruffles along top and hemline</p></div><div><div>&nbsp;</div><div>&nbsp;</div><div><strong>ESPERANCE Dress in pistachio and light blue:</strong></div><div>&nbsp;</div><div><p>The gorgeous ESPERANCE maxi dress will quickly turn into your new favourite! Feminine and flowy, this is the one for your next dreamy holidays. Perfect for watching the sun set over the ocean! The ruffled straps and hemline are super flattering and thanks to its elasticated top the dress adjusts to your body effortlessly.</p><p>&bull; 100% viscose fujette&bull; Elasticated shirred top part &bull; Ruffled straps and hemline</p></div><div><div>&nbsp;</div><div>&nbsp;</div><div><strong>SUNRISE Dress in lavender, pistachio and lemon:</strong></div><div>&nbsp;</div><div><p>Our cute &amp; easy throw-on dress! The SUNRISE Dress is crafted from cotton gauze, which is incredibly soft to touch, light-weight to pack and resistant to wrinkles. The flared fit and wing sleeves add playfulness to your movements.</p><p>&bull; 100% soft cotton gauze&bull; Light, wrinkle-resistant and comfortable</p></div><div>&nbsp;</div><div><div>&nbsp;</div><div>&nbsp;</div><div><strong>PARAISO Wrap Dress in Lavender and light blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling Maxi Wrap Dress is now available in gorgeous pastel hues! The super flattering cut is perfect for any dress-up occasion as well as romantic strolls by the beach.</p><p>&bull; 100% viscose&bull; Ruffled sleeves and hemline&bull; Wrap style will adjust perfectly to your body shape&bull; Feminine fit&bull; Invisible hook at front for optimal coverage</p></div><div><div>&nbsp;</div><div>&nbsp;</div></div></div></div></div><div>&nbsp;</div><p>&nbsp;</p><p>&nbsp;</p></div>
