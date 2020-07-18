@@ -111,7 +111,7 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis: Have a look at our sizing chart below
+    main-paragraph-emphasis:
     body-content_html: >-
       <h3><strong>Q &amp;
       A's</strong></h3><p>&nbsp;</p><p>&nbsp;</p><p><strong>Do you ship
@@ -133,16 +133,12 @@ sections:
       promo code the pieces will be between 29&euro; and
       79&euro;.</p><p>&nbsp;</p><p><strong>What sizes will the pieces be
       available in?</strong></p><p>&nbsp;</p><p>All styles will come in XS -
-      2XL</p><p>&nbsp;</p><p>I am unsure about which size I should go
-      for.</p><p>Have a look at our sizing chart below. Also you&rsquo;ll find
-      the exact measurements of each style on the website. (Marie is 168cm tall
-      and wears size XS in all styles)</p><p>&nbsp;</p><p><strong>How is this
+      2XL</p><p>&nbsp;</p><p><strong>I am unsure about which size I should go
+      for?</strong></p><p>&nbsp;</p><p>&nbsp;</p><p><strong>How is this
       collection ethically driven?</strong></p><p>&nbsp;</p><p>Rove Designs is
       only using plant based fabric and no plastic whether for the pieces itself
       or packaging. Rove pays its workers good wages and regularly gives back to
-      social and environment causes.</p><p>&nbsp;</p><p><img
-      data-cms-popout-id="image-0" src="/images/Maja-x-Rove/size-chart.jpg"
-      /></p><p>&nbsp;</p><p>&nbsp;</p>
+      social and environment causes.</p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
