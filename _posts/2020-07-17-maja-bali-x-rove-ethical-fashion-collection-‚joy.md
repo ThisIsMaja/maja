@@ -45,36 +45,33 @@ sections:
       data-cms-original-src="/images/Maja-x-Rove/rove-2.jpeg" width="1600"
       height="2000" alt="Maja Bali Joy Collection"
       src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-2.jpeg&amp;timestamp=1595048671915"
-      /></div><div><div><img data-cms-popout-id="image-3"
+      /></div><div><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-24.jpeg&amp;timestamp=1595051484228"
+      data-cms-popout-id="image-0"
       data-cms-original-src="/images/Maja-x-Rove/rove-24.jpeg" width="1600"
-      height="2399" alt="Maja Bali Joy Collection"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-24.jpeg&amp;timestamp=1595048717833"
-      /></div><div><img data-cms-popout-id="image-6"
-      data-cms-original-src="/images/Maja-x-Rove/rove-23.jpeg" width="1600"
-      height="2399" alt="Maja Bali Joy Collection"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-23.jpeg&amp;timestamp=1595048750794"
-      /></div><div><strong>SUNRISE Dress in lavender, pistachio and
-      lemon:</strong></div><div>&nbsp;</div><div><p>Our cute &amp; easy throw-on
-      dress! The SUNRISE Dress is crafted from cotton gauze, which is incredibly
-      soft to touch, light-weight to pack and resistant to wrinkles. The flared
-      fit and wing sleeves add playfulness to your movements.</p><p>&bull; 100%
-      soft cotton gauze&bull; Light, wrinkle-resistant and
-      comfortable</p></div></div><div>&nbsp;</div>
+      height="2399" /></div><div><div><strong>SUNRISE Dress in lavender,
+      pistachio and lemon:</strong></div><div>&nbsp;</div><div><p>Our cute &amp;
+      easy throw-on dress! The SUNRISE Dress is crafted from cotton gauze, which
+      is incredibly soft to touch, light-weight to pack and resistant to
+      wrinkles. The flared fit and wing sleeves add playfulness to your
+      movements.</p><p>&bull; 100% soft cotton gauze&bull; Light,
+      wrinkle-resistant and comfortable</p></div></div><div>&nbsp;</div>
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3>&nbsp;</h3><p><img
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      class="cms-image-placeholder" data-cms-popout-id="image-0"
-      /></p><div><strong>SUNSHINE Top in beige, light blue and
-      lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE Top has a super
-      flattering fit with an off-shoulder ruffle and elasticated body. Its
-      cropped design and gorgeous colour make it your perfect summer top to wear
-      from beach to sunset bar.</p><p>&bull; 100% cotton&bull; Shirred, cropped
-      body&bull; Elasticated top with ruffle</p></div>
+      <h3><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-26.jpeg&amp;timestamp=1595051529860"
+      data-cms-popout-id="image-2"
+      data-cms-original-src="/images/Maja-x-Rove/rove-26.jpeg" width="1600"
+      height="2399" /></h3><p>&nbsp;</p><div><strong>SUNSHINE Top in beige,
+      light blue and lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE
+      Top has a super flattering fit with an off-shoulder ruffle and elasticated
+      body. Its cropped design and gorgeous colour make it your perfect summer
+      top to wear from beach to sunset bar.</p><p>&bull; 100% cotton&bull;
+      Shirred, cropped body&bull; Elasticated top with ruffle</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -84,14 +81,15 @@ sections:
       <p><img class="cms-image-placeholder" data-cms-popout-id="image-0"
       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
       /><img
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      class="cms-image-placeholder" data-cms-popout-id="image-0"
-      /></p><div><strong>UDAIPUR Dress in lavender, lemons and light
-      blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress is one
-      of our most flattering styles. The flirty off-the-shoulder design and
-      elasticated top hug your body in all the right places. The flowy bottom
-      part moves softly around your ankles. Like the romantic white city of
-      Udaipur, you will enchant everyone with your beauty.</p><p>&bull; 100%
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-13.jpeg&amp;timestamp=1595051427833"
+      data-cms-popout-id="image-1"
+      data-cms-original-src="/images/Maja-x-Rove/rove-13.jpeg" width="1600"
+      height="2399" /></p><div><strong>UDAIPUR Dress in lavender, lemons and
+      light blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress
+      is one of our most flattering styles. The flirty off-the-shoulder design
+      and elasticated top hug your body in all the right places. The flowy
+      bottom part moves softly around your ankles. Like the romantic white city
+      of Udaipur, you will enchant everyone with your beauty.</p><p>&bull; 100%
       viscose&bull; Elasticated shirred top part and elastic sleeves for great
       fit&bull; Ruffles along top and hemline</p></div>
   - banner_path:
@@ -100,12 +98,11 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-21.jpeg&amp;timestamp=1595048010022"
-      data-cms-popout-id="image-0"
+      <div><img data-cms-popout-id="image-0"
       data-cms-original-src="/images/Maja-x-Rove/rove-21.jpeg" width="1600"
-      height="2000" /><img class="cms-image-placeholder"
-      data-cms-popout-id="image-0"
+      height="2000"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-21.jpeg&amp;timestamp=1595048010022"
+      /><img class="cms-image-placeholder" data-cms-popout-id="image-0"
       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
       /></div><div>&nbsp;</div><div><strong>ESPERANCE Dress in pistachio and
       light blue:</strong></div><div>&nbsp;</div><div><p>The gorgeous ESPERANCE
@@ -124,13 +121,21 @@ sections:
       <div><div><div><div><img class="cms-image-placeholder"
       data-cms-popout-id="image-0"
       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
-      /></div><div><strong>PARAISO Wrap Dress in Lavender and light
-      blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling Maxi Wrap
-      Dress is now available in gorgeous pastel hues! The super flattering cut
-      is perfect for any dress-up occasion as well as romantic strolls by the
-      beach.</p><p>&bull; 100% viscose&bull; Ruffled sleeves and hemline&bull;
-      Wrap style will adjust perfectly to your body shape&bull; Feminine
-      fit&bull; Invisible hook at front for optimal
+      /><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-22.jpeg&amp;timestamp=1595051362041"
+      data-cms-popout-id="image-0"
+      data-cms-original-src="/images/Maja-x-Rove/rove-22.jpeg" width="1600"
+      height="2000" /></div><div><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-16.jpeg&amp;timestamp=1595051394505"
+      data-cms-popout-id="image-1"
+      data-cms-original-src="/images/Maja-x-Rove/rove-16.jpeg" width="1600"
+      height="2399" /></div><div><strong>PARAISO Wrap Dress in Lavender and
+      light blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling
+      Maxi Wrap Dress is now available in gorgeous pastel hues! The super
+      flattering cut is perfect for any dress-up occasion as well as romantic
+      strolls by the beach.</p><p>&bull; 100% viscose&bull; Ruffled sleeves and
+      hemline&bull; Wrap style will adjust perfectly to your body shape&bull;
+      Feminine fit&bull; Invisible hook at front for optimal
       coverage</p></div><div><div>&nbsp;</div><div>&nbsp;</div></div></div></div></div><div>&nbsp;</div>
   - banner_path:
     banner-caption:
