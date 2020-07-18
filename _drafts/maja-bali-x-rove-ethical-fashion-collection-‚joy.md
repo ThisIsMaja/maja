@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-07-11 11:00:00
+date: 2020-07-17 11:00:00
 published: true
 slug:
 title: Maja Bali X Rove Ethical Fashion Collection ‚JOY‘
@@ -10,8 +10,8 @@ meta-description: >-
   uplifting colors. Ethical made flowy dresses in pastel hues that are perfectly
   instagrammable are the center pieces of this collection.
 meta-keywords:
-image_path:
-banner-1_path:
+image_path: /images/Maja-x-Rove/Rove X Maja - Banner.jpg
+banner-1_path: /images/Maja-x-Rove/Rove X Maja - Banner.jpg
 banner-fixed: true
 categories:
   - lifestyle
@@ -19,8 +19,8 @@ tags:
   - Fashion
   - Maja Bali
   - conscious living
-author: Marie and Jake
-image-1_path:
+author: Marie Fe
+image-1_path: /images/Rove x Maja Pics/Rove X Maja-32 2.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Our shared love for all things travel and fashion will come together in a
@@ -37,17 +37,17 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=Maja-x-Rove/00E9197B-021C-4A8E-9C49-06025646A020.jpeg&amp;timestamp=1595043398397"
-      data-cms-popout-id="image-0"
+      <div><img data-cms-popout-id="image-0"
       data-cms-original-src="/Maja-x-Rove/00E9197B-021C-4A8E-9C49-06025646A020.jpeg"
-      width="1600" height="2399" /></div><div><strong>SUNCHASER Linen Dress in
-      beige and light blue:</strong></div><div>&nbsp;</div><div><p>The perfect
-      all-round dress for your sunchasing adventures! This cute babydoll dress
-      with side pockets is our absolute bestseller, you will live in it! Crafted
-      from the softest linen and designed in a flowy cut, the SUNCHASER dress
-      keeps you cool even in hot climates.</p><p>&bull; 100% pure linen&bull;
-      Button-down front, can be unbuttoned&bull; Side pockets</p></div>
+      width="1600" height="2399"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=Maja-x-Rove/00E9197B-021C-4A8E-9C49-06025646A020.jpeg&amp;timestamp=1595043398397"
+      /></div><div><strong>SUNCHASER Linen Dress in beige and light
+      blue:</strong></div><div>&nbsp;</div><div><p>The perfect all-round dress
+      for your sunchasing adventures! This cute babydoll dress with side pockets
+      is our absolute bestseller, you will live in it! Crafted from the softest
+      linen and designed in a flowy cut, the SUNCHASER dress keeps you cool even
+      in hot climates.</p><p>&bull; 100% pure linen&bull; Button-down front, can
+      be unbuttoned&bull; Side pockets</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -83,19 +83,18 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=Maja-x-Rove/D96A2B78-0639-4DCF-9E57-92051AB8B75F.jpeg&amp;timestamp=1595043780261"
-      data-cms-popout-id="image-0"
+      <p><img data-cms-popout-id="image-0"
       data-cms-original-src="/Maja-x-Rove/D96A2B78-0639-4DCF-9E57-92051AB8B75F.jpeg"
-      width="1600" height="2000" /></p><div><strong>UDAIPUR Dress in lavender,
-      lemons and light blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR
-      Maxi Dress is one of our most flattering styles. The flirty
-      off-the-shoulder design and elasticated top hug your body in all the right
-      places. The flowy bottom part moves softly around your ankles. Like the
-      romantic white city of Udaipur, you will enchant everyone with your
-      beauty.</p><p>&bull; 100% viscose&bull; Elasticated shirred top part and
-      elastic sleeves for great fit&bull; Ruffles along top and
-      hemline</p></div>
+      width="1600" height="2000"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=Maja-x-Rove/D96A2B78-0639-4DCF-9E57-92051AB8B75F.jpeg&amp;timestamp=1595043780261"
+      /></p><div><strong>UDAIPUR Dress in lavender, lemons and light
+      blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress is one
+      of our most flattering styles. The flirty off-the-shoulder design and
+      elasticated top hug your body in all the right places. The flowy bottom
+      part moves softly around your ankles. Like the romantic white city of
+      Udaipur, you will enchant everyone with your beauty.</p><p>&bull; 100%
+      viscose&bull; Elasticated shirred top part and elastic sleeves for great
+      fit&bull; Ruffles along top and hemline</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -128,6 +127,17 @@ sections:
       hemline&bull; Wrap style will adjust perfectly to your body shape&bull;
       Feminine fit&bull; Invisible hook at front for optimal
       coverage</p></div><div><div>&nbsp;</div><div>&nbsp;</div></div></div></div></div><div>&nbsp;</div>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis: Sizing
+    body-content_html: >-
+      <p><img
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/size-chart.jpg&amp;timestamp=1595046110271"
+      data-cms-popout-id="image-0"
+      data-cms-original-src="/images/Maja-x-Rove/size-chart.jpg" width="1242"
+      height="1022" /></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
