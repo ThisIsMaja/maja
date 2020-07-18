@@ -111,6 +111,19 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>SUNCHASER Dress in beige and light blue:</p><p>An absolute ROVE
+      favorite! This easy throw- on babydoll dress is perfect for the beach or
+      any occasion where want to feel cute but comfy. You probably don&rsquo;t
+      even want to put it off anymore once you wear it. The flowy cut and soft
+      linen will keep you cool even on hot days.</p><p>&bull; 100% pure
+      Linen&bull; Button- down front that can be unbuttoned&bull; loose and
+      comfy fit&bull; Side pockets</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
     main-paragraph-emphasis: Sizing Chart Below
     body-content_html: >-
       <h3><strong>Q &amp;
@@ -163,20 +176,7 @@ sections:
       protecting the Amazon rainforest, donating face masks and hospital gowns
       in Indonesia and supporting Indigenous children's education in Australia.
       &nbsp;</em></div>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html: >-
-      <p>SUNCHASER Dress in beige and light blue:</p><p>An absolute ROVE
-      favorite! This easy throw- on babydoll dress is perfect for the beach or
-      any occasion where want to feel cute but comfy. You probably don&rsquo;t
-      even want to put it off anymore once you wear it. The flowy cut and soft
-      linen will keep you cool even on hot days.</p><p>&bull; 100% pure
-      Linen&bull; Button- down front that can be unbuttoned&bull; loose and
-      comfy fit&bull; Side pockets</p>
-show-gallery: false
+show-gallery: true
 gallery:
   - image_path:
     size: full
