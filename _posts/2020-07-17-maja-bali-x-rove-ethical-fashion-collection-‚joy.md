@@ -114,8 +114,8 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-19.jpg&amp;timestamp=1595130080806"
-      data-cms-popout-id="image-1"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-19.jpg&amp;timestamp=1595130284317"
+      data-cms-popout-id="image-2"
       data-cms-original-src="/images/Maja-x-Rove/rove-19.jpg" width="1600"
       height="2399" /></p><p><strong>SUNCHASER Dress in beige and light
       blue:</strong></p><p>An absolute ROVE favorite! This easy throw- on
