@@ -114,9 +114,9 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-11.jpeg&amp;timestamp=1595085157067"
-      data-cms-popout-id="image-0"
-      data-cms-original-src="/images/Maja-x-Rove/rove-11.jpeg" width="1600"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-19.jpg&amp;timestamp=1595130080806"
+      data-cms-popout-id="image-1"
+      data-cms-original-src="/images/Maja-x-Rove/rove-19.jpg" width="1600"
       height="2399" /></p><p><strong>SUNCHASER Dress in beige and light
       blue:</strong></p><p>An absolute ROVE favorite! This easy throw- on
       babydoll dress is perfect for the beach or any occasion where want to feel
