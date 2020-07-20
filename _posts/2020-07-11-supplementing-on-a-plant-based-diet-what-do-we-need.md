@@ -67,7 +67,7 @@ sections:
       supplement with the nutrients you actually need)</p>
   - banner_path: /images/Future Kind/futureind-banner2.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis: >-
       there are 3 main nutrients/vitamins that we do find hard to get especially
