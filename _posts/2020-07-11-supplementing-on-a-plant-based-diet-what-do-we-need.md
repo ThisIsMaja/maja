@@ -9,7 +9,7 @@ meta-description: >-
   nutrients we need to think about!!
 meta-keywords: 'supplements, plant based diet, vegan, vegan supplements'
 image_path: /images/Future Kind/Future Kind-4.jpg
-banner-1_path: /images/Future Kind/futureind-banner2.jpg
+banner-1_path: /images/Future Kind/Future Kind-4.jpg
 banner-fixed: true
 categories:
   - wellbeing
@@ -65,7 +65,7 @@ sections:
       sure you&rsquo;re operating at 100%. Supplementing can help you stay
       healthy and at the top of your game (if you use the right products and
       supplement with the nutrients you actually need)</p>
-  - banner_path: /images/Future Kind/Future Kind-4.jpg
+  - banner_path: /images/Future Kind/futureind-banner2.jpg
     banner-caption:
     banner-fixed: false
     columns: false
