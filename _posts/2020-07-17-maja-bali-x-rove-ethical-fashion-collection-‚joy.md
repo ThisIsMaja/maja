@@ -114,10 +114,7 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/Maja-x-Rove/rove-11.jpeg&amp;timestamp=1595085157067"
-      data-cms-popout-id="image-0"
-      data-cms-original-src="/images/Maja-x-Rove/rove-11.jpeg" width="1600"
-      height="2399" /></p><p><strong>SUNCHASER Dress in beige and light
+      src="/images/Maja-x-Rove/rove-19.jpg" /></p><p><strong>SUNCHASER Dress in beige and light
       blue:</strong></p><p>An absolute ROVE favorite! This easy throw- on
       babydoll dress is perfect for the beach or any occasion where want to feel
       cute but comfy. You probably don&rsquo;t even want to put it off anymore
@@ -158,11 +155,7 @@ sections:
       driven?</strong></p><p>&nbsp;</p><p>Rove Designs is only using plant based
       fabric and no plastic whether for the pieces itself or packaging. Rove
       pays its workers good wages and regularly gives back to social and
-      environment causes.</p><p><img data-cms-popout-id="image-1"
-      data-cms-original-src="/images/sizing-chart.jpg" width="1242"
-      height="1019"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/sizing-chart.jpg&amp;timestamp=1595074040503"
-      /></p><p>&nbsp;</p><p>&nbsp;</p>
+      environment causes.</p><p><img src="/images/sizing-chart.jpg"></p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
