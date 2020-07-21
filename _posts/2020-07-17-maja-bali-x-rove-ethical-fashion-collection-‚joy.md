@@ -29,7 +29,11 @@ intro-content_html: >-
   <div><p>With everything that has been going on this year, we've been wanting
   to bring uplifting colours and joyous designs to people's wardrobes around the
   world.</p></div><div>Beautiful flowy maxi dresses in gorgeous pastel hues and
-  of course ethically made.&nbsp;</div><div>&nbsp;</div><h3>&nbsp;</h3>
+  of course ethically
+  made.&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>RESTOCK - PREORDER
+  THIS SUNDAY&nbsp;</div><div>(7pm Bali/9pm Sydney/1pm Germany/7am
+  NY</div><div><a
+  href="https://www.rovedesigns.com/pages/joy">https://www.rovedesigns.com/pages/joy</a></div><div>&nbsp;</div><h3>&nbsp;</h3>
 sections:
   - banner_path:
     banner-caption:
@@ -113,14 +117,14 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <p><img
-      src="/images/Maja-x-Rove/rove-19.jpg" /></p><p><strong>SUNCHASER Dress in beige and light
-      blue:</strong></p><p>An absolute ROVE favorite! This easy throw- on
-      babydoll dress is perfect for the beach or any occasion where want to feel
-      cute but comfy. You probably don&rsquo;t even want to put it off anymore
-      once you wear it. The flowy cut and soft linen will keep you cool even on
-      hot days.</p><p>&bull; 100% pure Linen&bull; Button- down front that can
-      be unbuttoned&bull; loose and comfy fit&bull; Side pockets</p>
+      <p><img src="/images/Maja-x-Rove/rove-19.jpg" /></p><p><strong>SUNCHASER
+      Dress in beige and light blue:</strong></p><p>An absolute ROVE favorite!
+      This easy throw- on babydoll dress is perfect for the beach or any
+      occasion where want to feel cute but comfy. You probably don&rsquo;t even
+      want to put it off anymore once you wear it. The flowy cut and soft linen
+      will keep you cool even on hot days.</p><p>&bull; 100% pure Linen&bull;
+      Button- down front that can be unbuttoned&bull; loose and comfy fit&bull;
+      Side pockets</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -155,7 +159,8 @@ sections:
       driven?</strong></p><p>&nbsp;</p><p>Rove Designs is only using plant based
       fabric and no plastic whether for the pieces itself or packaging. Rove
       pays its workers good wages and regularly gives back to social and
-      environment causes.</p><p><img src="/images/sizing-chart.jpg"></p><p>&nbsp;</p><p>&nbsp;</p>
+      environment causes.</p><p><img
+      src="/images/sizing-chart.jpg"></p><p>&nbsp;</p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
