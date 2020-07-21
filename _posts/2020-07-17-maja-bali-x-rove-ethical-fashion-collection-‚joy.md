@@ -32,8 +32,9 @@ intro-content_html: >-
   of course ethically
   made.&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>RESTOCK - PREORDER
   THIS SUNDAY&nbsp;</div><div>(7pm Bali/9pm Sydney/1pm Germany/7am
-  NY</div><div>See the collection here</div><div>&nbsp;--&gt;&nbsp;<a
-  href="https://www.rovedesigns.com/pages/joy">https://www.rovedesigns.com/pages/joy</a></div><div>&nbsp;</div><h3>&nbsp;</h3>
+  NY</div><div>See the collection<a
+  href="https://www.rovedesigns.com/pages/joy">
+  here</a></div><div>&nbsp;</div><div>&nbsp;</div><h3>&nbsp;</h3>
 sections:
   - banner_path:
     banner-caption:
