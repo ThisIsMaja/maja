@@ -8,6 +8,7 @@ defaults:
       type: 'posts'
     values:
       permalink: /posts/:slug
+      all-posts: true
 
 collections:
   archives:
