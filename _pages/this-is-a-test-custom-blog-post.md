@@ -26,6 +26,9 @@ page_blocks:
       - background_image: /uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg
         image-height: portrait
         body-content_html: <p>Another description&nbsp;</p>
+      - background_image: /uploads/75ef853e-025c-4073-8bfe-15d66c98e8d3.jpeg
+        image-height: portrait
+        body-content_html: <p>A final description</p>
 _all-posts: true
 _comments:
   slug: this overrides the default url
