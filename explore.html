@@ -73,7 +73,7 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
 
       {% for product in sorted-products %}
 
-          <div class="col-10 shop-item masonry-item padded-1 relative">
+          <div class="col-4_sm-10 shop-item masonry-item padded-1 relative">
               <a href="{{product.url}}" class="card">
                 {% unless product.save-percentage == false %}
                 <span class="save">SAVE<br />{{ product.save-percentage }}</span>
@@ -118,7 +118,7 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
   <div class="explore-post-slider grid">
   {% for post in site.posts limit:6 %}
 
-      <a href="{{post.url}}" class="col-8 padded-1 centered">
+      <a href="{{post.url}}" class="col-4_sm-8 padded-1 centered">
         <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
         <span class="author">by {{post.author}}</span>
         <h3> {{post.title}} </h3>

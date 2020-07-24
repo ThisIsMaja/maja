@@ -1,0 +1,13 @@
+<section class="relative slick-gallery {{include.block.block-class}}">
+
+      {% for image in include.block.images %}
+
+      <div class="slick-gallery-item {% unless post.loop.index == 1 %} hidden {% endunless %}">
+        <div class="banner" style="background-image:url({{image.background_image}})">
+      <div>
+
+      {% endfor %}
+
+    </div>
+
+</section>

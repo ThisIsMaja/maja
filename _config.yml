@@ -16,12 +16,24 @@ collections:
     output: true
   freebies:
     output: true
+  pages:
+    output: true
 
 sizes:
   - full
   - one-half
   - one-third
   - two-thirds
+
+banner-heights:
+  - 50-vh
+  - 70-vh
+  - 90-vh
+
+image-heights:
+  - landscape
+  - square
+  - portrait
 
 _options:
   body-content_html:
@@ -163,3 +175,45 @@ autopages:
       - 'archive-tags.html'
     title: ':tag' # :tag is replaced by the tag name
     permalink: '/tag/:tag'
+
+
+page_blocks: []
+_array_structures:
+  page_blocks:
+    - label: Image Banner
+      icon: ballot
+      value:
+        _id: image-banner
+        background_image:
+        banner-height:
+        body-content_html:
+    - label: Image Gallery
+      icon: ballot
+      value:
+        _id: image-gallery
+        block-class:
+        gallery-images: []
+    - label: Slideshow Gallery
+      icon: ballot
+      value:
+        _id: slideshow-gallery
+        block-class:
+        slideshow-images: []
+    - label: Text Block
+      icon:
+      value:
+        _id: text-block
+        block-class:
+        body-content_html:
+  gallery-images:
+    label: Gallery Images
+    icon: collections
+    value:
+      background_image:
+      image-height:
+      body-content_html:
+  slidewshow-images:
+    label: Slideshow Images
+    icon: collections
+    value:
+      background_image:

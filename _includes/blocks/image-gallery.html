@@ -1,0 +1,16 @@
+<section class="relative image-gallery grid-center {{block-class}}">
+
+      {% for image in include.block.gallery-images %}
+
+      <div class="col-4_sm-12">
+        <div class="bg-image {{image.image-height}}" style="background-image:url({{image.background_image}})"></div>
+        <div class="gallery-text">
+          {{image.body-content_html}}
+        </div>
+      <div>
+
+      {% endfor %}
+
+    </div>
+
+</section>

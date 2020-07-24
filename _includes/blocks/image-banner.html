@@ -1,0 +1,7 @@
+<section class="banner grid padded {{include.block.banner-height}}" style="background-image:url('{{include.block.background_image}}')">
+  <div class="col-8_sm-12-middle centered">
+    {% unless include.block.body-content_html == nil %}
+    {{ include.block.text_html }}
+    {% endunless %}
+  </div>
+</section>

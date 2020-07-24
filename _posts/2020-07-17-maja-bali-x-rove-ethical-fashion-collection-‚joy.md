@@ -15,6 +15,7 @@ banner-1_path: /images/Maja-x-Rove/rove-maja-banner.jpg
 banner-fixed: true
 categories:
   - lifestyle
+  - newsfeed
 tags:
   - Fashion
   - Maja Bali
