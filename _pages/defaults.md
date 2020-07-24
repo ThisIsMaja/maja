@@ -1,6 +1,7 @@
 ---
 layout: modular
 published: false
+date: 2020-01-01
 slug:
 title:
 meta-description:
