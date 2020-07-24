@@ -1,6 +1,5 @@
 ---
 layout: modular
-date:
 published: false
 slug:
 title:
