@@ -23,6 +23,9 @@ page_blocks:
         body-content_html: >-
           <p>This is a sample title</p><p><a target="_blank" rel="noopener"
           href="#">Buy it now&nbsp;</a></p>
+      - background_image: /uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg
+        image-height: portrait
+        body-content_html: <p>Another description&nbsp;</p>
 _all-posts: true
 _comments:
   slug: this overrides the default url
