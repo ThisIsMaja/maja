@@ -27,9 +27,10 @@ sizes:
   - two-thirds
 
 banner-heights:
-  - 50-vh
-  - 70-vh
-  - 90-vh
+  - vh-50
+  - vh-70
+  - vh-80
+  - vh-90
 
 image-heights:
   - landscape
@@ -41,6 +42,9 @@ block-classes:
   - grey-bg
   - featured-bg
   - dark-bg
+  - padded
+  - padded-1
+  - padded-2
 
 _options:
   body-content_html:
@@ -193,12 +197,13 @@ _array_structures:
         _id: image-banner
         background_image:
         banner-height:
-        body-content_html:
+        heading_html:
     - label: Image Gallery
       icon: ballot
       value:
         _id: image-gallery
         block-class:
+        heading_html:
         gallery-images: []
     - label: Slideshow Gallery
       icon: ballot

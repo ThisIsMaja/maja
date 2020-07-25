@@ -108,13 +108,6 @@
   .light-text   { color: white; }
   .flex-flip:nth-child(2n){  }
 
-  .highlighted-text {
-    background-color: #FDFAF7;
-    box-shadow: 15px 0px 0px 2px  #FDFAF7, -10px 0px 0px 2px  #FDFAF7;
-    line-height: 1.7;
-    font-size: 1.1rem;
-  }
-
   .columns {
     column-count: 2;
     column-gap: 2rem;

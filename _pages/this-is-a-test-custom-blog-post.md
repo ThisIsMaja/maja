@@ -2,7 +2,7 @@
 layout: modular
 published: true
 date: 2020-07-24 00:00:00
-slug:
+permalink: test-test
 title: This is a test custom blog post
 meta-description:
 meta-keywords:
@@ -13,8 +13,8 @@ author: Marie Fe
 page_blocks:
   - _id: image-banner
     background_image: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
-    banner-height: 50-vh
-    body-content_html: <h1>Big Heading</h1>
+    banner-height: vh-50
+    heading_html: <h1>Big Heading</h1>
   - _id: image-gallery
     block-class: dark-bg
     gallery-images:
@@ -33,4 +33,3 @@ _all-posts: true
 _comments:
   slug: this overrides the default url
 ---
-

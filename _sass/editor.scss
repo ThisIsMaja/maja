@@ -1,9 +1,15 @@
 
 /* Typography Styles */
+h1.white,
+h2.white,
+h3.white, {
+    color: white;
+}
 
-h2.cursive {
-    font-family: cursive;
-    color: pink;
+span.highlighted {
+    background-color: #FDFAF7;
+    box-shadow: 15px 0px 0px 2px  #FDFAF7, -10px 0px 0px 2px  #FDFAF7;
+    line-height: 1.7;
 }
 
 /* Image Styles */
