@@ -232,15 +232,15 @@ _array_structures:
         image-2_path:
         intro-paragraph-emphasis:
         body-content_html:
-  gallery-image:
-    label: Gallery Image
-    icon: collections
-    value:
-      background_image:
-      image-height:
-      body-content_html:
-  slidewshow-image:
-    label: Slideshow Image
-    icon: collections
-    value:
-      background_image:
+  gallery-images:
+    - label: Gallery Image
+      icon: collections
+      value:
+        background_image:
+          image-height:
+            body-content_html:
+  slidewshow-images:
+    - label: Slideshow Image
+      icon: collections
+      value:
+        background_image:
