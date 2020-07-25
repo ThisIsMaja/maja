@@ -47,10 +47,16 @@ block-classes:
   - padded-2
 
 _options:
+  heading_html:
+    format: p h1 h2 h3 h4 h5 h6
+    bold: true
+    italic: true
+    underline: true
+    styles: /assets/editor.css
   body-content_html:
     blockquote: true
     horizontalrule: true
-    format: p h1 h2 h3 h4 h5 h6 pre address div
+    format: p h1 h2 h3 h4 h5 h6
     bold: true
     italic: true
     numberedlist: true
