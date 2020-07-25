@@ -29,7 +29,14 @@ page_blocks:
       - background_image: /uploads/75ef853e-025c-4073-8bfe-15d66c98e8d3.jpeg
         image-height: portrait
         body-content_html: <p>A final description</p>
+  - _id: slideshow-gallery
+    block-class: dark-bg
+    slideshow-images:
+      - background_image: /uploads/13d0dac8-b19d-49f5-a60f-03940ed2db79.jpeg
+      - background_image: /uploads/6248302a-9df9-4022-bd7f-3a9f845db39e.jpeg
+      - background_image: /uploads/a4a01309-30e0-4c8b-813f-eeae08c71495.jpeg
 _all-posts: true
 _comments:
   slug: this overrides the default url
 ---
+
