@@ -233,14 +233,14 @@ _array_structures:
         intro-paragraph-emphasis:
         body-content_html:
   gallery-images:
-    - label: Gallery Image
-      icon: collections
-      value:
-        background_image:
-          image-height:
-            body-content_html:
-  slidewshow-images:
-    - label: Slideshow Image
-      icon: collections
-      value:
-        background_image:
+    label: Gallery Image
+    icon: collections
+    value:
+      background_image:
+      image-height:
+      body-content_html:
+  slideshow-images:
+    label: Slideshow Image
+    icon: collections
+    value:
+      background_image:
