@@ -223,15 +223,24 @@ _array_structures:
         _id: text-block
         block-class:
         body-content_html:
-  gallery-images:
-    label: Gallery Images
+    - label: Intro
+      icon:
+      value:
+        _id: intro
+        block-class:
+        image-1_path:
+        image-2_path:
+        intro-paragraph-emphasis:
+        body-content_html:
+  gallery-image:
+    label: Gallery Image
     icon: collections
     value:
       background_image:
       image-height:
       body-content_html:
-  slidewshow-images:
-    label: Slideshow Images
+  slidewshow-image:
+    label: Slideshow Image
     icon: collections
     value:
       background_image:
