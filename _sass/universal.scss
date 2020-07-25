@@ -34,6 +34,20 @@
     background-position: center;
   }
 
+  .bg-image.landscape {
+    padding-bottom:60%;
+  }
+
+  .bg-image.square {
+    padding-bottom: 100%;
+  }
+
+  .bg-image.portrait {
+    padding-bottom: 120%;
+  }
+
+
+
   .bg-image.overlay {
     position: absolute;
     top: 0;

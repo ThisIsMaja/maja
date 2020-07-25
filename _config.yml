@@ -36,6 +36,12 @@ image-heights:
   - square
   - portrait
 
+block-classes:
+  - light-bg
+  - grey-bg
+  - featured-bg
+  - dark-bg
+
 _options:
   body-content_html:
     blockquote: true
