@@ -63,8 +63,7 @@ This is big emphasis Lorem ipsum dolor sit amet, consectetur adipisicing elit, s
 This is emphasis Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {: .emphasis}
 
-This is a normal image.
-{: .emphasis}
+This is a normal paragraph.
 
 ![](/uploads/2fa3dd86-0eeb-4117-a804-6586fa47c6df.jpeg){: .one-half width="1600" height="2399"}![](/uploads/f95597c7-d2bf-4e6b-8d52-92cd1a3c43ad.jpeg){: .one-half width="1600" height="1999"}
 
