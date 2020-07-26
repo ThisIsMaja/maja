@@ -88,3 +88,13 @@ h2.clear-images-h2 {
 h3.clear-images-h3 {
   clear: both;
 }
+
+.align-to-left {
+  text-align: left;
+}
+.align-to-center {
+  text-align: center;
+}
+.align-to-right {
+  text-align: right;
+}
