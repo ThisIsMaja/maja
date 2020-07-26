@@ -54,6 +54,43 @@ page_blocks:
       qui officia deserunt mollit anim id est laborum.</p>
   - _id: main-content
     block-class: light-bg
+  - _id: affilliate-gallery
+    name: Affiliate Gallery
+    block-class:
+    heading_html: >-
+      <h2 class="align-to-center">affiliate gallery</h2><p
+      class="align-to-center">short little paragraph</p>
+    affiliate-images:
+      - embed-code_html: >-
+          <div class="cms-embed"
+          data-cms-embed="PGRpdiBjbGFzcz0ic2hvcHRoZXBvc3Qtd2lkZ2V0IiBkYXRhLXdpZGdldC1pZD0iNDExMTkwMCI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiFmdW5jdGlvbih3LGksZCxnLGUsdCl7ZC5nZXRFbGVtZW50QnlJZChpKXx8KGVsZW1lbnQ9ZC5jcmVhdGVFbGVtZW50KHQpLGVsZW1lbnQuaWQ9aSxlbGVtZW50LnNyYz0iaHR0cHM6Ly93aWRnZXRzLnJld2FyZHN0eWxlLmNvbSIrZSxkLmJvZHkuYXBwZW5kQ2hpbGQoZWxlbWVudCkpLHcuaGFzT3duUHJvcGVydHkoZyk9PT0hMCYmImNvbXBsZXRlIj09PWQucmVhZHlTdGF0ZSYmd1tnXS5pbml0KCl9KHdpbmRvdywic2hvcHRoZXBvc3Qtc2NyaXB0Iixkb2N1bWVudCwiX19zdHAiLCIvanMvc2hvcHRoZXBvc3QuanMiLCJzY3JpcHQiKTwvc2NyaXB0PjxkaXYgY2xhc3M9InJzLWFkYmxvY2siPjxpbWcgc3JjPSJodHRwczovL2Fzc2V0cy5yZXdhcmRzdHlsZS5jb20vcHJvZHVjdGlvbi9lZDE1NTE4NTY4OGE5OTU1OTBkNGNkZjI1YjhjMTk4NmM3ZWJiM2IwL2ltYWdlcy9zZWFyY2gvMzUwLmdpZiIgb25lcnJvcj0idGhpcy5wYXJlbnROb2RlLmlubmVySFRNTD0iRGlzYWJsZSB5b3VyIGFkIGJsb2NraW5nIHNvZnR3YXJlIHRvIHZpZXcgdGhpcyBjb250ZW50LiIiIHN0eWxlPSJ3aWR0aDogMTVweDsgaGVpZ2h0OiAxNXB4Ij4mbHQ7bm9zY3JpcHQmZ3Q7SmF2YVNjcmlwdCBpcyBjdXJyZW50bHkgZGlzYWJsZWQgaW4gdGhpcyBicm93c2VyLiBSZWFjdGl2YXRlIGl0IHRvIHZpZXcgdGhpcyBjb250ZW50LiZsdDsvbm9zY3JpcHQmZ3Q7PC9kaXY+PC9kaXY+"><div
+          class="shopthepost-widget" data-widget-id="4111900"><script
+          type="text/javascript">!function(w,i,d,g,e,t){d.getElementById(i)||(element=d.createElement(t),element.id=i,element.src="https://widgets.rewardstyle.com"+e,d.body.appendChild(element)),w.hasOwnProperty(g)===!0&&"complete"===d.readyState&&w[g].init()}(window,"shopthepost-script",document,"__stp","/js/shopthepost.js","script")</script><div
+          class="rs-adblock"><img
+          src="https://assets.rewardstyle.com/production/ed155185688a995590d4cdf25b8c1986c7ebb3b0/images/search/350.gif"
+          onerror="this.parentNode.innerHTML=" />&lt;noscript&gt;JavaScript is
+          currently disabled in this browser. Reactivate it to view this
+          content.&lt;/noscript&gt;</div></div></div><p>&nbsp;</p>
+      - embed-code_html: >-
+          <div class="cms-embed"
+          data-cms-embed="PGRpdiBjbGFzcz0ic2hvcHRoZXBvc3Qtd2lkZ2V0IiBkYXRhLXdpZGdldC1pZD0iNDExMTkwMCI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiFmdW5jdGlvbih3LGksZCxnLGUsdCl7ZC5nZXRFbGVtZW50QnlJZChpKXx8KGVsZW1lbnQ9ZC5jcmVhdGVFbGVtZW50KHQpLGVsZW1lbnQuaWQ9aSxlbGVtZW50LnNyYz0iaHR0cHM6Ly93aWRnZXRzLnJld2FyZHN0eWxlLmNvbSIrZSxkLmJvZHkuYXBwZW5kQ2hpbGQoZWxlbWVudCkpLHcuaGFzT3duUHJvcGVydHkoZyk9PT0hMCYmImNvbXBsZXRlIj09PWQucmVhZHlTdGF0ZSYmd1tnXS5pbml0KCl9KHdpbmRvdywic2hvcHRoZXBvc3Qtc2NyaXB0Iixkb2N1bWVudCwiX19zdHAiLCIvanMvc2hvcHRoZXBvc3QuanMiLCJzY3JpcHQiKTwvc2NyaXB0PjxkaXYgY2xhc3M9InJzLWFkYmxvY2siPjxpbWcgc3JjPSJodHRwczovL2Fzc2V0cy5yZXdhcmRzdHlsZS5jb20vcHJvZHVjdGlvbi9lZDE1NTE4NTY4OGE5OTU1OTBkNGNkZjI1YjhjMTk4NmM3ZWJiM2IwL2ltYWdlcy9zZWFyY2gvMzUwLmdpZiIgb25lcnJvcj0idGhpcy5wYXJlbnROb2RlLmlubmVySFRNTD0iRGlzYWJsZSB5b3VyIGFkIGJsb2NraW5nIHNvZnR3YXJlIHRvIHZpZXcgdGhpcyBjb250ZW50LiIiIHN0eWxlPSJ3aWR0aDogMTVweDsgaGVpZ2h0OiAxNXB4Ij4mbHQ7bm9zY3JpcHQmZ3Q7SmF2YVNjcmlwdCBpcyBjdXJyZW50bHkgZGlzYWJsZWQgaW4gdGhpcyBicm93c2VyLiBSZWFjdGl2YXRlIGl0IHRvIHZpZXcgdGhpcyBjb250ZW50LiZsdDsvbm9zY3JpcHQmZ3Q7PC9kaXY+PC9kaXY+"><div
+          class="shopthepost-widget" data-widget-id="4111900"><script
+          type="text/javascript">!function(w,i,d,g,e,t){d.getElementById(i)||(element=d.createElement(t),element.id=i,element.src="https://widgets.rewardstyle.com"+e,d.body.appendChild(element)),w.hasOwnProperty(g)===!0&&"complete"===d.readyState&&w[g].init()}(window,"shopthepost-script",document,"__stp","/js/shopthepost.js","script")</script><div
+          class="rs-adblock"><img
+          src="https://assets.rewardstyle.com/production/ed155185688a995590d4cdf25b8c1986c7ebb3b0/images/search/350.gif"
+          onerror="this.parentNode.innerHTML=" />&lt;noscript&gt;JavaScript is
+          currently disabled in this browser. Reactivate it to view this
+          content.&lt;/noscript&gt;</div></div></div><p>&nbsp;</p>
+      - embed-code_html: >-
+          <div class="cms-embed"
+          data-cms-embed="PGRpdiBjbGFzcz0ic2hvcHRoZXBvc3Qtd2lkZ2V0IiBkYXRhLXdpZGdldC1pZD0iNDExMTkwMCI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiFmdW5jdGlvbih3LGksZCxnLGUsdCl7ZC5nZXRFbGVtZW50QnlJZChpKXx8KGVsZW1lbnQ9ZC5jcmVhdGVFbGVtZW50KHQpLGVsZW1lbnQuaWQ9aSxlbGVtZW50LnNyYz0iaHR0cHM6Ly93aWRnZXRzLnJld2FyZHN0eWxlLmNvbSIrZSxkLmJvZHkuYXBwZW5kQ2hpbGQoZWxlbWVudCkpLHcuaGFzT3duUHJvcGVydHkoZyk9PT0hMCYmImNvbXBsZXRlIj09PWQucmVhZHlTdGF0ZSYmd1tnXS5pbml0KCl9KHdpbmRvdywic2hvcHRoZXBvc3Qtc2NyaXB0Iixkb2N1bWVudCwiX19zdHAiLCIvanMvc2hvcHRoZXBvc3QuanMiLCJzY3JpcHQiKTwvc2NyaXB0PjxkaXYgY2xhc3M9InJzLWFkYmxvY2siPjxpbWcgc3JjPSJodHRwczovL2Fzc2V0cy5yZXdhcmRzdHlsZS5jb20vcHJvZHVjdGlvbi9lZDE1NTE4NTY4OGE5OTU1OTBkNGNkZjI1YjhjMTk4NmM3ZWJiM2IwL2ltYWdlcy9zZWFyY2gvMzUwLmdpZiIgb25lcnJvcj0idGhpcy5wYXJlbnROb2RlLmlubmVySFRNTD0iRGlzYWJsZSB5b3VyIGFkIGJsb2NraW5nIHNvZnR3YXJlIHRvIHZpZXcgdGhpcyBjb250ZW50LiIiIHN0eWxlPSJ3aWR0aDogMTVweDsgaGVpZ2h0OiAxNXB4Ij4mbHQ7bm9zY3JpcHQmZ3Q7SmF2YVNjcmlwdCBpcyBjdXJyZW50bHkgZGlzYWJsZWQgaW4gdGhpcyBicm93c2VyLiBSZWFjdGl2YXRlIGl0IHRvIHZpZXcgdGhpcyBjb250ZW50LiZsdDsvbm9zY3JpcHQmZ3Q7PC9kaXY+PC9kaXY+"><div
+          class="shopthepost-widget" data-widget-id="4111900"><script
+          type="text/javascript">!function(w,i,d,g,e,t){d.getElementById(i)||(element=d.createElement(t),element.id=i,element.src="https://widgets.rewardstyle.com"+e,d.body.appendChild(element)),w.hasOwnProperty(g)===!0&&"complete"===d.readyState&&w[g].init()}(window,"shopthepost-script",document,"__stp","/js/shopthepost.js","script")</script><div
+          class="rs-adblock"><img
+          src="https://assets.rewardstyle.com/production/ed155185688a995590d4cdf25b8c1986c7ebb3b0/images/search/350.gif"
+          onerror="this.parentNode.innerHTML=" />&lt;noscript&gt;JavaScript is
+          currently disabled in this browser. Reactivate it to view this
+          content.&lt;/noscript&gt;</div></div></div><p>&nbsp;</p>
 _all-posts: true
 _comments:
   slug: this overrides the default url
