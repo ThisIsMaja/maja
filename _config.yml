@@ -223,7 +223,7 @@ _array_structures:
     - label: Affiliate Gallery
       icon: ballot
       value:
-        _id: affilliate-gallery
+        _id: affiliate-gallery
         name: Affiliate Gallery
         block-class:
         heading_html:
