@@ -70,6 +70,9 @@ _options:
     superscript: true
     image: true
     bulletedlist: true
+    right: align-to-right
+    center: align-to-center
+    left: align-to-left
     styles: /assets/editor.css
   content:
     blockquote: true
