@@ -52,7 +52,7 @@ _options:
     bold: true
     italic: true
     underline: true
-    styles: /assets/editor.scss
+    styles: /assets/editor.css
   body-content_html:
     blockquote: true
     horizontalrule: true
