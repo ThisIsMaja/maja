@@ -197,6 +197,11 @@ autopages:
 page_blocks: []
 _array_structures:
   page_blocks:
+    - label: Main Content
+      icon: ballot
+      value:
+        _id: main-content
+        block-class:
     - label: Image Banner
       icon: ballot
       value:
