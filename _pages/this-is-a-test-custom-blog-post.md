@@ -54,6 +54,16 @@ page_blocks:
       qui officia deserunt mollit anim id est laborum.</p>
   - _id: main-content
     block-class: light-bg
+  - _id: affilliate-gallery
+    name: Affiliate Gallery
+    block-class:
+    heading_html: >-
+      <h1 class="align-to-center">This is a test heading</h1><p
+      class="align-to-center">and a short paragraph intro</p>
+    gallery-images:
+      - background_image:
+        image-height:
+        body-content_html:
 _all-posts: true
 _comments:
   slug: this overrides the default url
