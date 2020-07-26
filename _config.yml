@@ -204,6 +204,7 @@ _array_structures:
         _id: main-content
         name: Main Content
         block-class:
+        maja-signoff: false
     - label: Image Banner
       icon: ballot
       value:
@@ -242,6 +243,7 @@ _array_structures:
         name: Simple Text Block
         block-class:
         body-content_html:
+        maja-signoff: false
     - label: Intro
       icon:
       value:
