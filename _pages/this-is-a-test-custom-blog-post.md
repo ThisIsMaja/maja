@@ -14,7 +14,7 @@ page_blocks:
   - _id: image-banner
     background_image: /uploads/20200302-1537300.jpg
     banner-height: vh-50
-    heading_html: <h1>A new kind of page template</h1>
+    heading_html: <h1><span class="highlighted">A new kind of page template</span></h1>
   - _id: image-gallery
     block-class: dark-bg
     gallery-images:
