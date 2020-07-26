@@ -25,18 +25,36 @@ page_blocks:
           href="#">Buy it now&nbsp;</a></p>
       - background_image: /uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg
         image-height: portrait
-        body-content_html: <p>Another description&nbsp;</p>
+        body-content_html: >-
+          <p>Another description&nbsp;</p><p><a href="#">Buy it now
+          $37&nbsp;</a></p>
       - background_image: /uploads/75ef853e-025c-4073-8bfe-15d66c98e8d3.jpeg
         image-height: portrait
-        body-content_html: <p>A final description</p>
+        body-content_html: '<p>A final description</p><p><a href="#">Buy now $28</a></p>'
   - _id: slideshow-gallery
     block-class: dark-bg
     slideshow-images:
       - background_image: /uploads/13d0dac8-b19d-49f5-a60f-03940ed2db79.jpeg
       - background_image: /uploads/6248302a-9df9-4022-bd7f-3a9f845db39e.jpeg
-      - background_image: /uploads/a4a01309-30e0-4c8b-813f-eeae08c71495.jpeg
+      - background_image: /uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg
+  - _id: main-content
+    block-class: light-bg
+  - _id: intro
+    block-class: featured-bg
+    image-1_path: /uploads/75ef853e-025c-4073-8bfe-15d66c98e8d3.jpeg
+    image-2_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
+    intro-paragraph-emphasis: 'oh hey there, what a beautiful introduction to this page.'
+    body-content_html: >-
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+      eiusmod tempor <strong>incididunt</strong> ut labore et dolore magna
+      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+      nisi ut aliquip ex ea <u>commodo</u> consequat. Duis aute irure dolor in
+      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+      pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
+      qui officia deserunt mollit anim id est laborum.</p>
 _all-posts: true
 _comments:
   slug: this overrides the default url
 ---
 
+This is a test, fingers crossed it appears.&nbsp;
