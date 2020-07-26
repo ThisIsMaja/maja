@@ -25,16 +25,20 @@ page_blocks:
           href="#">Buy it now&nbsp;</a></p>
       - background_image: /uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg
         image-height: portrait
-        body-content_html: <p>Another description&nbsp;</p>
+        body-content_html: >-
+          <p>Another description&nbsp;</p><p><a href="#">Buy it now
+          $37&nbsp;</a></p>
       - background_image: /uploads/75ef853e-025c-4073-8bfe-15d66c98e8d3.jpeg
         image-height: portrait
-        body-content_html: <p>A final description</p>
+        body-content_html: '<p>A final description</p><p><a href="#">Buy now $28</a></p>'
   - _id: slideshow-gallery
     block-class: dark-bg
     slideshow-images:
       - background_image: /uploads/13d0dac8-b19d-49f5-a60f-03940ed2db79.jpeg
       - background_image: /uploads/6248302a-9df9-4022-bd7f-3a9f845db39e.jpeg
       - background_image: /uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg
+  - _id: main-content
+    block-class: dark-bg
 _all-posts: true
 _comments:
   slug: this overrides the default url
