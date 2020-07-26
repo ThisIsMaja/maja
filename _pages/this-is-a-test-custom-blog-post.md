@@ -34,7 +34,7 @@ page_blocks:
     slideshow-images:
       - background_image: /uploads/13d0dac8-b19d-49f5-a60f-03940ed2db79.jpeg
       - background_image: /uploads/6248302a-9df9-4022-bd7f-3a9f845db39e.jpeg
-      - background_image: /uploads/a4a01309-30e0-4c8b-813f-eeae08c71495.jpeg
+      - background_image: /uploads/571d1392-2d3e-425b-96af-b2c28009e133.jpeg
 _all-posts: true
 _comments:
   slug: this overrides the default url
