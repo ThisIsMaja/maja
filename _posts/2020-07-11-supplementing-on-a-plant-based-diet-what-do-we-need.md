@@ -65,9 +65,9 @@ sections:
       sure you&rsquo;re operating at 100%. Supplementing can help you stay
       healthy and at the top of your game (if you use the right products and
       supplement with the nutrients you actually need)</p>
-  - banner_path: /images/Future Kind/Future Kind-2.jpg
+  - banner_path: /images/Future Kind/futureind-banner2.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis: >-
       there are 3 main nutrients/vitamins that we do find hard to get especially

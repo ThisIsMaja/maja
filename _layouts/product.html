@@ -64,6 +64,15 @@ layout: default
 
 {% endunless %}
 
+{% unless page.vimeo-id == nil %}
+
+<section class="featured-bg padded">
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/{{page.vimeo-id}}' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+</section>
+
+{% endunless%}
+
+
 
 <section class="padded relative" id="faqs">
   <div class="capped-width">
@@ -106,9 +115,13 @@ layout: default
     {% endfor %}
   </div>
 </section> -->
+{% unless page.shopify-id == nil %}
+
 <section class="padded dark-bg" id="looxreviews">
   <div id="looxReviews" data-product-id="{{page.shopify-id}}" class="loox-reviews-default"></div>
 </section>
+
+{% endunless %}
 
 
 <!--  Javascript for the buy button -->

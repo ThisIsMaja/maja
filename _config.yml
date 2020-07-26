@@ -1,4 +1,4 @@
-permalink: /:year/:title
+future: true
 
 url: https://thisismaja.com
 
@@ -8,6 +8,7 @@ defaults:
       type: 'posts'
     values:
       permalink: /posts/:slug
+      all-posts: true
 
 collections:
   archives:
@@ -16,6 +17,8 @@ collections:
     output: true
   freebies:
     output: true
+  pages:
+    output: true
 
 sizes:
   - full
@@ -23,11 +26,37 @@ sizes:
   - one-third
   - two-thirds
 
+banner-heights:
+  - vh-50
+  - vh-70
+  - vh-80
+  - vh-90
+
+image-heights:
+  - landscape
+  - square
+  - portrait
+
+block-classes:
+  - light-bg
+  - grey-bg
+  - featured-bg
+  - dark-bg
+
 _options:
+  heading_html:
+    format: p h1 h2 h3 h4 h5 h6
+    bold: true
+    italic: true
+    underline: true
+    right: align-to-right
+    center: align-to-center
+    left: align-to-left
+    styles: /assets/editor.css
   body-content_html:
     blockquote: true
     horizontalrule: true
-    format: p h1 h2 h3 h4 h5 h6 pre address div
+    format: p h1 h2 h3 h4 h5 h6
     bold: true
     italic: true
     numberedlist: true
@@ -37,15 +66,16 @@ _options:
     redo: true
     underline: true
     strike: true
-    subscript: true
-    superscript: true
     image: true
     bulletedlist: true
+    right: align-to-right
+    center: align-to-center
+    left: align-to-left
     styles: /assets/editor.css
   content:
     blockquote: true
     horizontalrule: true
-    format: p h1 h2 h3 h4 h5 h6 pre address div
+    format: p h1 h2 h3 h4 h5 h6
     bold: true
     italic: true
     numberedlist: true
@@ -60,11 +90,11 @@ _options:
     redo: true
     underline: true
     strike: true
-    subscript: true
-    superscript: true
     image: true
     bulletedlist: true
     styles: /assets/editor.css
+  embed-code_html:
+    embed: true
 
 sass:
     sass_dir: _sass
@@ -163,3 +193,81 @@ autopages:
       - 'archive-tags.html'
     title: ':tag' # :tag is replaced by the tag name
     permalink: '/tag/:tag'
+
+
+page_blocks: []
+_array_structures:
+  page_blocks:
+    - label: Main Content
+      icon: ballot
+      value:
+        _id: main-content
+        name: Main Content
+        block-class:
+        maja-signoff: false
+    - label: Image Banner
+      icon: ballot
+      value:
+        _id: image-banner
+        name: Image Banner
+        background_image:
+        banner-height:
+        heading_html:
+    - label: Image Gallery
+      icon: ballot
+      value:
+        _id: image-gallery
+        name: Image Gallery
+        block-class:
+        heading_html:
+        gallery-images: []
+    - label: Affiliate Gallery
+      icon: ballot
+      value:
+        _id: affiliate-gallery
+        name: Affiliate Gallery
+        block-class:
+        heading_html:
+        affiliate-images: []
+    - label: Slideshow Gallery
+      name: Slideshow Gallery
+      icon: ballot
+      value:
+        _id: slideshow-gallery
+        block-class:
+        slideshow-images: []
+    - label: Text Block
+      icon:
+      value:
+        _id: text-block
+        name: Simple Text Block
+        block-class:
+        body-content_html:
+        maja-signoff: false
+    - label: Intro
+      icon:
+      value:
+        _id: intro
+        name: Intro Section
+        block-class:
+        image-1_path:
+        image-2_path:
+        intro-paragraph-emphasis:
+        body-content_html:
+  gallery-images:
+    label: Gallery Image
+    icon: collections
+    value:
+      background_image:
+      image-height:
+      body-content_html:
+  affiliate-images:
+    label: Affiliate Image
+    icon: collections
+    value:
+      embed-code_html:
+  slideshow-images:
+    label: Slideshow Image
+    icon: collections
+    value:
+      background_image:

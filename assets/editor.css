@@ -28,22 +28,19 @@ img {
   height: auto;
 }
 
-img.one-third,
-.gallery img.one-third {
+img.one-third {
   display: inline-block;
   width: calc(33% - 1rem);
   margin: 0.5rem;
 }
 
-img.two-thirds,
-.gallery img.two-thirds {
+img.two-thirds {
   display: inline-block;
   width: calc(66% - 1rem);
   margin: 0.5rem;
 }
 
-img.one-half,
-.gallery img.one-half {
+img.one-half {
   display: inline-block;
   width: calc(50% - 1rem);
   margin: 0.5rem;
@@ -64,6 +61,20 @@ img.float-right {
 img.small-centered {
   max-width: 300px;
   margin:auto;
+}
+
+a.button  {
+   text-decoration: none;
+    color: #be9a85;
+    border: 2px solid;
+    padding: 0.6rem 2rem;
+    margin-top: 1rem;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-family: p22-underground, sans-serif;
 }
 
 /* Clear Floats */
