@@ -12,9 +12,9 @@ tags:
 author: Marie Fe
 page_blocks:
   - _id: image-banner
-    background_image: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
+    background_image: /uploads/20200302-1537300.jpg
     banner-height: vh-50
-    heading_html: <h1>Big Heading</h1>
+    heading_html: <h1>&nbsp;</h1><p>A new kind of page template</p>
   - _id: image-gallery
     block-class: dark-bg
     gallery-images:
