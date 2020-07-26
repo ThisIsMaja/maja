@@ -54,7 +54,7 @@ page_blocks:
       qui officia deserunt mollit anim id est laborum.</p>
   - _id: main-content
     block-class: light-bg
-  - _id: affilliate-gallery
+  - _id: affiliate-gallery
     name: Affiliate Gallery
     block-class:
     heading_html: >-
