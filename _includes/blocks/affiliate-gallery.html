@@ -1,0 +1,21 @@
+<section class="relative image-gallery grid-center {{block-class}} padded">
+
+    {% unless include.block.heading_html == nil %}
+
+    <div class="col-12 padded-2">
+      {{heading_html}}
+    </div>
+
+    {% endunless %}
+
+    {% for image in include.block.gallery-images %}
+
+      <div class="col-4_sm-12 padded-1">
+
+          {{image.body-content_html}}
+
+      </div>
+
+      {% endfor %}
+
+</section>

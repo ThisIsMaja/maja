@@ -66,8 +66,7 @@ _options:
     redo: true
     underline: true
     strike: true
-    subscript: true
-    superscript: true
+    embed: true
     image: true
     bulletedlist: true
     right: align-to-right
@@ -92,8 +91,6 @@ _options:
     redo: true
     underline: true
     strike: true
-    subscript: true
-    superscript: true
     image: true
     bulletedlist: true
     styles: /assets/editor.css
@@ -219,6 +216,14 @@ _array_structures:
       value:
         _id: image-gallery
         name: Image Gallery
+        block-class:
+        heading_html:
+        gallery-images: []
+    - label: Affiliate Gallery
+      icon: ballot
+      value:
+        _id: affilliate-gallery
+        name: Affiliate Gallery
         block-class:
         heading_html:
         gallery-images: []
