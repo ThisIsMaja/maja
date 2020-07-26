@@ -63,6 +63,20 @@ img.small-centered {
   margin:auto;
 }
 
+a.button  {
+   text-decoration: none;
+    color: #be9a85;
+    border: 2px solid;
+    padding: 0.6rem 2rem;
+    margin-top: 1rem;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-family: p22-underground, sans-serif;
+}
+
 /* Clear Floats */
 p.clear-images-paragraph {
   clear: both;
