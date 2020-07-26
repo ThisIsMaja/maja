@@ -201,11 +201,13 @@ _array_structures:
       icon: ballot
       value:
         _id: main-content
+        name: Main Content
         block-class:
     - label: Image Banner
       icon: ballot
       value:
         _id: image-banner
+        name: Image Banner
         background_image:
         banner-height:
         heading_html:
@@ -213,10 +215,12 @@ _array_structures:
       icon: ballot
       value:
         _id: image-gallery
+        name: Image Gallery
         block-class:
         heading_html:
         gallery-images: []
     - label: Slideshow Gallery
+      name: Slideshow Gallery
       icon: ballot
       value:
         _id: slideshow-gallery
@@ -226,12 +230,14 @@ _array_structures:
       icon:
       value:
         _id: text-block
+        name: Simple Text Block
         block-class:
         body-content_html:
     - label: Intro
       icon:
       value:
         _id: intro
+        name: Intro Section
         block-class:
         image-1_path:
         image-2_path:
