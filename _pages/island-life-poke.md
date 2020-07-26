@@ -2,7 +2,7 @@
 layout: modular
 published: false
 date: 2020-07-25 00:00:00
-permalink:
+permalink: island-life-poke
 title: Island Life Poke
 meta-description:
 meta-keywords:
