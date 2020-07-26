@@ -14,7 +14,9 @@ page_blocks:
   - _id: image-banner
     background_image: /uploads/20200302-1537300.jpg
     banner-height: vh-50
-    heading_html: <h1>A new kind of page template</h1>
+    heading_html: >-
+      <h1><span class="highlighted">A new kind of</span></h1><h1><span
+      class="highlighted">page template</span></h1>
   - _id: image-gallery
     block-class: dark-bg
     gallery-images:
@@ -57,6 +59,14 @@ _comments:
   slug: this overrides the default url
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is big emphasis Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{: .big-emphasis}
+
+This is emphasis Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{: .emphasis}
+
+This is a normal paragraph.
+
+![](/uploads/2fa3dd86-0eeb-4117-a804-6586fa47c6df.jpeg){: .one-half width="1600" height="2399"}![](/uploads/f95597c7-d2bf-4e6b-8d52-92cd1a3c43ad.jpeg){: .one-half width="1600" height="1999"}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
