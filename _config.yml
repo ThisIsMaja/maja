@@ -94,6 +94,8 @@ _options:
     image: true
     bulletedlist: true
     styles: /assets/editor.css
+  embed-code_html:
+    embed: true
 
 sass:
     sass_dir: _sass
@@ -226,7 +228,7 @@ _array_structures:
         name: Affiliate Gallery
         block-class:
         heading_html:
-        gallery-images: []
+        affiliate-images: []
     - label: Slideshow Gallery
       name: Slideshow Gallery
       icon: ballot
@@ -258,6 +260,11 @@ _array_structures:
       background_image:
       image-height:
       body-content_html:
+  affiliate-images:
+    label: Affiliate Image
+    icon: collections
+    value:
+      embed-code_html:
   slideshow-images:
     label: Slideshow Image
     icon: collections
