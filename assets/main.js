@@ -70,7 +70,13 @@ $(document).ready(function() {
 		autoplay: true,
 		autoplaySpeed: 5000
 	});
+
 	$('.slick-compare-loop').slick({
+		autoplay: true,
+		autoplaySpeed: 4000
+	});
+
+	$('.slick-gallery-loop').slick({
 		autoplay: true,
 		autoplaySpeed: 4000
 	});
