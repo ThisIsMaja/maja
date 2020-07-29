@@ -19,7 +19,7 @@ tags:
   - mental Health
   - diet
   - womens health
-author: Marie and Jake
+author: Marie
 image-1_path: /images/Maja-x-Rove/joy-collection53.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
@@ -61,20 +61,22 @@ sections:
       chamomile, fennel seeds, cinnamon and dill. You can drink them on their
       own or create your own tea-mix.</p><p>A great spice with the same effect
       is turmeric. You can try adding it to your meals or having it together
-      with some warm milk.</p><h3 id="cbd-oil"><strong>CBD
-      oil</strong></h3><p>Chemical drugs are often used for menstrual problems -
-      as they help for the moment.<br />Considering the potential consequential
-      damage to your body, these drugs should not be your first choice for
-      obvious reasons. I always prefer natural remedies in all aspects of
-      life!<br />The good news is that more and more women handle problems like
-      abdominal pain, headache or back pain without these and other hormone
-      preparations and rather reach the CBD-Oil since it is plant-based and
-      natural.&nbsp;<br />With its supportive effect on the human
-      endocannabinoid system (ECS). CBD is recognized as a natural treatment for
-      several kinds of pain or stress and anxiety.&nbsp;</p><p><br />Typical
-      menstrual problems can be defused in its intensity and becoming less
-      apparent because CBD has an influence on the bodies pain receptors. For
-      our european readers I can totally recommend the
+      with some warm milk.</p><p><img
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+      class="cms-image-placeholder" data-cms-popout-id="image-0" /></p><h3
+      id="cbd-oil"><strong>CBD oil</strong></h3><p>Chemical drugs are often used
+      for menstrual problems - as they help for the moment.<br />Considering the
+      potential consequential damage to your body, these drugs should not be
+      your first choice for obvious reasons. I always prefer natural remedies in
+      all aspects of life!<br />The good news is that more and more women handle
+      problems like abdominal pain, headache or back pain without these and
+      other hormone preparations and rather reach the CBD-Oil since it is
+      plant-based and natural.&nbsp;<br />With its supportive effect on the
+      human endocannabinoid system (ECS). CBD is recognized as a natural
+      treatment for several kinds of pain or stress and anxiety.&nbsp;</p><p><br
+      />Typical menstrual problems can be defused in its intensity and becoming
+      less apparent because CBD has an influence on the bodies pain receptors.
+      For our european readers I can totally recommend the
       <strong>so[u]lution</strong> (<a target="_blank" rel="noopener"
       href="https://bit.ly/soulutionpost">the-soulution.com</a>). The products
       are Bio-Suisse certified, controlled according to European guidelines,
@@ -96,10 +98,11 @@ sections:
       your favorite aromas. In general, lavender, clary sage and marjoram are
       considered to be the relaxing ones. You might want to give them a try
       first and at the end come up with your own perfect combo.&nbsp;</p><p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/pill/period-cramps2.jpg&amp;timestamp=1596027158925"
       data-cms-popout-id="image-5"
       data-cms-original-src="/images/pill/period-cramps2.jpg" width="1600"
-      height="2400" /></p><h3 id="healthy-diet"><strong>Healthy
+      height="2400"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/pill/period-cramps2.jpg&amp;timestamp=1596027158925"
+      /></p><h3 id="healthy-diet"><strong>Healthy
       diet&nbsp;</strong></h3><p>This won&rsquo;t immediately relieve period
       cramps but it may have a positive effect over time.</p><p>Try including
       more omega-3 rich foods in your diet and avoid having foods that make you
