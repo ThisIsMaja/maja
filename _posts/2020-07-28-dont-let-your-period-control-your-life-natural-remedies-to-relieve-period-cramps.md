@@ -81,9 +81,9 @@ sections:
       href="https://bit.ly/soulutionpost">the-soulution.com</a></strong>). The
       products are Bio-Suisse certified, controlled according to European
       guidelines, vegan and produced without animal suffering. You can also use
-      the code 'happy10' to get a discount. I used this CBD oil when I was in
-      Germany and it really helped with my period pain, focus and overall
-      wellbeing.</p>
+      the code '<strong>happy10</strong>' to get a discount. I used this CBD oil
+      when I was in Germany and it really helped with my period pain, focus and
+      overall wellbeing.</p>
   - banner_path: /images/pill/period-cramps4.jpg
     banner-caption:
     banner-fixed: false
