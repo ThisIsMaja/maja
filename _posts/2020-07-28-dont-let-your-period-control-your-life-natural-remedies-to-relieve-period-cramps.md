@@ -133,6 +133,16 @@ sections:
       &ldquo;gentle&rdquo;. Try doing slow stretching and soft yoga flow laying
       on your back. This will help blood circulation and the release of
       endorphins.</p><p>&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>If you have any other remedies that help you get through those tough
+      days please share them with us in the comments below.</p><p>Now i'm going
+      to get a herbal tea, a hot bean bag and Jake to give me a massage
+      :)&nbsp;</p><p>Sending you all love Xx</p>
 show-gallery: false
 gallery:
   - image_path:
