@@ -3,7 +3,9 @@ layout: post
 date: 2020-07-28 11:00:00
 published: true
 slug: natural-remedies-for-period-cramps
-title: 'Don''t let period control your life: natural remedies to relieve period cramps'
+title: >-
+  Don't let your period control your life: natural remedies to relieve period
+  cramps
 meta-description: >-
   Here are a few solutions to give you that period pain relief you've always
   needed.
