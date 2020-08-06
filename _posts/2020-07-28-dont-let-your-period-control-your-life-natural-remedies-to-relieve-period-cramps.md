@@ -19,7 +19,7 @@ tags:
   - mental Health
   - diet
   - womens health
-author: Marie and Jake
+author: Marie
 image-1_path: /images/Maja-x-Rove/joy-collection53.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
@@ -61,25 +61,29 @@ sections:
       chamomile, fennel seeds, cinnamon and dill. You can drink them on their
       own or create your own tea-mix.</p><p>A great spice with the same effect
       is turmeric. You can try adding it to your meals or having it together
-      with some warm milk.</p><h3 id="cbd-oil"><strong>CBD
-      oil</strong></h3><p>Chemical drugs are often used for menstrual problems -
-      as they help for the moment.<br />Considering the potential consequential
-      damage to your body, these drugs should not be your first choice for
-      obvious reasons. I always prefer natural remedies in all aspects of
-      life!<br />The good news is that more and more women handle problems like
-      abdominal pain, headache or back pain without these and other hormone
-      preparations and rather reach the CBD-Oil since it is plant-based and
-      natural.&nbsp;<br />With its supportive effect on the human
-      endocannabinoid system (ECS). CBD is recognized as a natural treatment for
-      several kinds of pain or stress and anxiety.&nbsp;</p><p><br />Typical
-      menstrual problems can be defused in its intensity and becoming less
-      apparent because CBD has an influence on the bodies pain receptors. For
-      our european readers I can totally recommend the
-      <strong>so[u]lution</strong> (<a target="_blank" rel="noopener"
-      href="https://bit.ly/soulutionpost">the-soulution.com</a>). The products
-      are Bio-Suisse certified, controlled according to European guidelines,
-      vegan and produced without animal suffering. I used this CBD oil when I
-      was in Germany and it really helped with my period pain</p>
+      with some warm milk.</p><p><img class="cms-image-placeholder"
+      data-cms-popout-id="image-0"
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+      /></p><h3 id="cbd-oil"><strong>CBD oil</strong></h3><p>Chemical drugs are
+      often used for menstrual problems - as they help for the moment.<br
+      />Considering the potential consequential damage to your body, these drugs
+      should not be your first choice for obvious reasons. I always prefer
+      natural remedies in all aspects of life!<br />The good news is that more
+      and more women handle problems like abdominal pain, headache or back pain
+      without these and other hormone preparations and rather reach the CBD-Oil
+      since it is plant-based and natural.&nbsp;<br />With its supportive effect
+      on the human endocannabinoid system (ECS). CBD is recognized as a natural
+      treatment for several kinds of pain or stress and anxiety.&nbsp;</p><p><br
+      />Typical menstrual problems can be defused in its intensity and becoming
+      less apparent because CBD has an influence on the bodies pain receptors.
+      For our european readers I can totally recommend the so[u]lution
+      (<strong><a target="_blank" rel="noopener"
+      href="https://bit.ly/soulutionpost">the-soulution.com</a></strong>). The
+      products are Bio-Suisse certified, controlled according to European
+      guidelines, vegan and produced without animal suffering. You can also use
+      the code '<strong>happy10</strong>' to get a discount. I used this CBD oil
+      when I was in Germany and it really helped with my period pain, focus and
+      overall wellbeing.</p>
   - banner_path: /images/pill/period-cramps4.jpg
     banner-caption:
     banner-fixed: false
@@ -96,10 +100,11 @@ sections:
       your favorite aromas. In general, lavender, clary sage and marjoram are
       considered to be the relaxing ones. You might want to give them a try
       first and at the end come up with your own perfect combo.&nbsp;</p><p><img
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/pill/period-cramps2.jpg&amp;timestamp=1596027158925"
       data-cms-popout-id="image-5"
       data-cms-original-src="/images/pill/period-cramps2.jpg" width="1600"
-      height="2400" /></p><h3 id="healthy-diet"><strong>Healthy
+      height="2400"
+      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/pill/period-cramps2.jpg&amp;timestamp=1596027158925"
+      /></p><h3 id="healthy-diet"><strong>Healthy
       diet&nbsp;</strong></h3><p>This won&rsquo;t immediately relieve period
       cramps but it may have a positive effect over time.</p><p>Try including
       more omega-3 rich foods in your diet and avoid having foods that make you
@@ -130,6 +135,16 @@ sections:
       &ldquo;gentle&rdquo;. Try doing slow stretching and soft yoga flow laying
       on your back. This will help blood circulation and the release of
       endorphins.</p><p>&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <p>If you have any other remedies that help you get through those tough
+      days please share them with us in the comments below.</p><p>Now i'm going
+      to get a herbal tea, a hot bean bag and Jake to give me a massage
+      :)&nbsp;</p><p>Sending you all love Xx</p>
 show-gallery: false
 gallery:
   - image_path:
@@ -153,7 +168,7 @@ A great spice with the same effect is turmeric. You can try adding it to your me
 
 Chemical drugs are often used for menstrual problems - as they help for the moment.<br>Considering the potential consequential damage to your body, these drugs should not be your first choice for obvious reasons. I always prefer natural remedies in all aspects of life\!<br>The good news is that more and more women handle problems like abdominal pain, headache or back pain without these and other hormone preparations and rather reach the CBD-Oil since it is plant-based and natural.&nbsp;<br>With its supportive effect on the human endocannabinoid system (ECS). CBD is recognized as a natural treatment for several kinds of pain or stress and anxiety.&nbsp;
 
-<br>Typical menstrual problems can be defused in its intensity and becoming less apparent because CBD has an influence on the bodies pain receptors. For our european readers I can totally recommend the **so\[u\]lution** ([the-soulution.com](https://bit.ly/soulutionpost){: target="_blank" rel="noopener"}). The products are Bio-Suisse certified, controlled according to European guidelines, vegan and produced without animal suffering. I used this CBD oil when I was in Germany and it really helped with my period pain
+<br>Typical menstrual problems can be defused in its intensity and becoming less apparent because CBD has an influence on the bodies pain receptors. For our european readers I can totally recommend the **so\[u\]lution** ([the-soulution.com](https://bit.ly/soulutionpost){: target="_blank" rel="noopener"}). The products are Bio-Suisse certified, controlled according to European guidelines, vegan and produced without animal suffering. You can use the code '**happy10'** to get a discount. I used this CBD oil when I was in Germany and it really helped with my period pain, my focus and my overall wellbeing.
 
 ### Self-massage with essential oils
 
