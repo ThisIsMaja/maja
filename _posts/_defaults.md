@@ -14,7 +14,9 @@ categories:
 tags:
 author: Marie Fe
 image-1_path:
+image-1_alt:
 image-2_path:
+image-2_alt: 
 intro-paragraph-emphasis:
 intro-content_html:
 sections:

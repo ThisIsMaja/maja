@@ -7,7 +7,7 @@ title: blog
   <h1 class="centered editable"> Latest on the blog </h1>
   <p class="centered editable"> This page will display the 50 latest blog posts. </p>
 
-  <div class="grid blog-loop">
+  <div class="blog-masonry blog-loop">
 
     {% for post in site.posts limit:50 %}
         {% include post-loop-item.html %}

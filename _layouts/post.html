@@ -47,12 +47,12 @@ layout: default
 <section id="post-content" class="post-content grid padded mob-flex-flip capped-width">
 
   <div class="col-6_sm-12 padded-1">
-      <img src="{{page.image-1_path}}">
-      <img src="{{page.image-2_path}}">
+      <img src="{{page.image-1_path}}" alt="{{page.image-1_alt}}">
+      <img src="{{page.image-2_path}}" alt="{{page.image-2_alt}}">
   </div>
   <div class="col-6_sm-12 padded-1">
       <p class="emphasis"> {{page.intro-paragraph-emphasis}}</p>
-      <img src="/images/gifs/wave.gif" class="small-gif">
+      <img src="/images/gifs/wave.gif" class="small-gif" alt="wave-animation">
       {{page.intro-content_html}}
   </div>
 </section>
@@ -89,7 +89,7 @@ layout: default
         <p class="emphasis"> {{section.main-paragraph-emphasis}}</p>
 
         <img src="/images/gifs/dots.gif" style="transform: rotate(270deg);
-    max-width: 4rem;">
+    max-width: 4rem;" alt="dot-animation">
         <!-- {% include flick-lite.html %} -->
 
     </div>
@@ -102,7 +102,7 @@ layout: default
   {% if forloop.last == true %}
 
   <div class="right padded padded-t-0 bump-up capped-width">
-      <img src="/images/logo/signoff_maja_black.gif" class="signoff" nopin="nopin">
+      <img src="/images/logo/signoff_maja_black.gif" class="signoff" nopin="nopin" alt="maja-logo">
 
       <!-- <video src="/images/logo/signoff-video.mp4" autoplay inline muted loop class="signoff"> -->
   </div>
@@ -128,10 +128,10 @@ layout: default
 
 <section class="gallery padded capped-width centered blog-content" id="gallery">
   <p>
-    <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
+    <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;" alt="zig-zag">
   </p>
   {% for item in page.gallery %}
-  <img src="{{item.image_path}}" class="{{item.size}}">
+  <img src="{{item.image_path}}" class="{{item.size}}" alt="{{item.alt}}">
   {% endfor %}
   <p class="subtitle margin-top-1" data-cms-options='{"link": true}'> {{page.gallery-text}}</p>
 

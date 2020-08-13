@@ -11,7 +11,7 @@ layout: default
     {% unless page.save-percentage == nil %}
     <span class="save">SAVE<br>{{ page.save-percentage }}</span>
     {% endunless %}
-    <img src="{{page.image_path}}">
+    <img src="{{page.image_path}}" alt="{{page.title}}">
   </div>
   <div class="col-5_md-6_sm-12 padded-2">
     <h1> {{page.title}} </h1>
@@ -44,7 +44,7 @@ layout: default
   <div class="capped-width">
     <div class="slick-product-loop">
       {% for product in page.main-gallery %}
-      <img src="{{product.image_path}}">
+      <img src="{{product.image_path}}" alt="{{product.title}} before and after">
       {% endfor %}
     </div>
   </div>
@@ -101,7 +101,7 @@ layout: default
       <p> As always we thank you so much for your support, we really appreciate every single one of you. </p>
       <p> Lots of Love </p>
 
-      <img src=/images/logo/signoff_maja_black.gif class="signoff">
+      <img src=/images/logo/signoff_maja_black.gif class="signoff" alt="mariefeandjakesnow maja logo">
     </div>
   </div>
     <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
