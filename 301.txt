@@ -1,1 +1,2 @@
 /subscribe/ /subscribe
+/freebies/free-preset/ /freebies/free-preset
