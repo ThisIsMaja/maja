@@ -9,7 +9,7 @@ compare-at-price: $19.95
 save-percentage: 50%
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
-short-description: Brand New! Soft Allrounders. 8 Mobile & Desktop
+short-description: Bonus Pack - Soft Presets - 8 Mobile & Desktop
 preset-tags:
   - travel
   - outdoor
