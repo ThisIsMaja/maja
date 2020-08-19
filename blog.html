@@ -28,8 +28,13 @@ show-more-posts-button: true
 
   <div class="blog-loop blog-masonry">
 
-    {% for post in site.posts limit: 15 %}
+
+    {% for post in site.posts limit: 25 %}
+      {% unless post.published == false %}
+
         {% include post-loop-item.html %}
+
+      {% endunless %}
     {% endfor %}
 
   </div>

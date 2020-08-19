@@ -117,14 +117,15 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
 
 <section class="featured-bg padded-2-v padded-left-1 padded-bottom-2">
   <div class="explore-post-slider grid">
-  {% for post in site.posts limit:6 %}
+  {% for post in site.posts limit:10 %}
+    {% unless post.published == false %}
 
-      <a href="{{post.url}}" class="col-4_sm-8 padded-1 centered">
-        <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
-        <span class="author">by {{post.author}}</span>
-        <h3> {{post.title}} </h3>
-      </a>
-
+        <a href="{{post.url}}" class="col-4_sm-8 padded-1 centered">
+          <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
+          <span class="author">by {{post.author}}</span>
+          <h3> {{post.title}} </h3>
+        </a>
+      {% endunless %}
   {% endfor %}
   </div>
 </section>

@@ -3,7 +3,7 @@
 
 <div class="masonry-item padded-1
 {% for tag in post.tags %} {{tag | slugify}} {% endfor%}
-" data-aos="fade" data-aos-delay="500">
+" data-aos="fade" data-aos-delay="100">
     <a href="/posts/{{post.slug}}" class="blog-item">
       <div class="relative">
         <img src="{{post.image_path}}">
