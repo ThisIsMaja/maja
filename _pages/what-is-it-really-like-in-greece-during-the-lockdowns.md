@@ -3,8 +3,8 @@ layout: modular
 published: false
 date: 2020-01-01 00:00:00
 permalink: greece-during-pandemic
-title: What is it really like in Greece during the Lockdowns
-meta-description:
+title: Greece Summer During the Pandemic
+meta-description: What is it really like now in Greece during the Lockdowns
 meta-keywords:
 image_path:
 newsfeed: true
@@ -29,7 +29,7 @@ page_blocks:
       to accept this virus might be around for a while and put into place
       measures to combat it while regaining our lives and the global
       economy.</p>
-    maja-signoff: false
+    maja-signoff: true
 _all-posts: true
 _hide_content: true
 _comments:
