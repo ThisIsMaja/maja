@@ -2,7 +2,7 @@
 layout: modular
 published: false
 date: 2020-01-01 00:00:00
-permalink:
+permalink: greece-during-pandemic
 title: What is it really like in Greece during the Lockdowns
 meta-description:
 meta-keywords:
