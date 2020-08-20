@@ -1,6 +1,6 @@
 ---
 layout: post
-date:
+date: 2020-08-19 00:00:00
 published: false
 slug:
 title: Life In Greece Right Now
