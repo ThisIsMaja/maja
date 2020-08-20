@@ -14,7 +14,7 @@ author: Marie Fe
 page_blocks:
   - _id: text-block
     name: Life in Greece right now
-    block-class: grey-bg
+    block-class: light-bg
     body-content_html: >-
       <p class="emphasis">We arrived in Athens Greece on the 16th of August 2020
       in the middle of the global pandemic that has seen many countries close
