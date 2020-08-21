@@ -49,6 +49,7 @@ banner-position: 50% 50%;
 
       <div class="relative slick-blog-loop">
         {% for post in site.posts limit:6 %}
+        {% unless post.published == false %}
 
         <div class="slick-blog-item {% unless post.loop.index == 1 %} hidden {% endunless %}">
           <div class="banner grid-right" style="background-image:url({{post.banner-1_path}}); padding: 0.5rem;">
@@ -69,6 +70,7 @@ banner-position: 50% 50%;
 
         </div>
 
+        {% endunless %}
         {% endfor %}
 
       </div>
