@@ -9,7 +9,7 @@ compare-at-price: $19.95
 save-percentage: 50%
 home-page-feature: true
 image_path: /images/shop/cover-4.jpg
-short-description: Soft Allrounder - 8 Presets Mobile & Desktop
+short-description: 8 Soft Presets Mobile & Desktop
 preset-tags:
   - travel
   - outdoor
