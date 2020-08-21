@@ -39,7 +39,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
-short-description: "15 Sharp Beach & Ocean\_Presets Mobile & Desktop"
+short-description: "15 Bright Beach Ocean\_Presets Mobile & Desktop"
 description: >-
   For ocean lovers and beach addicts but not only, great to edit anything else.
   20% of all our sales will be donated to help clean up and save our oceans.
