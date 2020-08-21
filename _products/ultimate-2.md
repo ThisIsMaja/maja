@@ -39,7 +39,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-15.jpg
     alt: short description of this image
-short-description: 15 Bright Travel Presets Mobile & Desktop
+short-description: 15 Bright Travel Presets Mobile & Pc
 description: >-
   Vibrant, colourful presets, includes sunrise and sunset presets. For travel
   addicts sun and nature lovers. We recommend our presets to beginners as well.
