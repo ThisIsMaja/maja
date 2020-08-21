@@ -46,7 +46,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-3/pack3-18.jpg
     alt: short description of this image
-short-description: Allrounder & Best Seller for Portraits & Travel. 18 Mobile & Desktop
+short-description: 18 Portrait & Travel Presets Mobile & Pc
 description: >-
   This is the most versatile pack we have ever created. It will work perfectly
   for portraits, selfies, travel, mobile photography and almost anything else.
