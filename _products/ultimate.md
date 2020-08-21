@@ -33,7 +33,7 @@ main-gallery:
     alt:
   - image_path: /images/shop/Pack-1/pack1-12.jpg
     alt:
-short-description: Most colourful pack 12 Presets Mobile & Pc
+short-description: 12 Very Colourful Presets Mobile & Pc
 description: >-
   Bright, sharp & colourful filters. This is the first pack we created in 2017.
   This pack is what launched our Instagram and our photography to where it is
