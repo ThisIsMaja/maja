@@ -39,7 +39,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Ocean/ocean-15.JPG
     alt: short description of this image
-short-description: Ocean and Beach Presets - Donate 20%.  15 Mobile & Desktop
+short-description: "15 Sharp Beach & Ocean\_Presets Mobile & Desktop"
 description: >-
   For ocean lovers and beach addicts but not only, great to edit anything else.
   20% of all our sales will be donated to help clean up and save our oceans.
@@ -80,4 +80,6 @@ video_poster_path: /images/shop/ocean-cover.jpg
 
 &nbsp;
 
-&nbsp;
+15 Sharp Beach & Ocean Presets Mobile & Desktop
+
+Ocean & Beach Presets - Donate 20%. &nbsp;15 Mobile & Desktop
