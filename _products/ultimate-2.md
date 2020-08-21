@@ -39,7 +39,7 @@ main-gallery:
     alt: short description of this image
   - image_path: /images/shop/Pack-2/pack2-15.jpg
     alt: short description of this image
-short-description: Our Travel Best Seller 15 Mobile & Desktop
+short-description: 15 Bright Travel Presets Mobile & Desktop
 description: >-
   Vibrant, colourful presets, includes sunrise and sunset presets. For travel
   addicts sun and nature lovers. We recommend our presets to beginners as well.
@@ -81,3 +81,7 @@ video_poster_path: /images/shop/pack2-cover.jpg
 ---
 
 Designed to bring more professionalism to your photos in ONE CLICK while keeping that colourful, eye catching style. If you need any help, message us @majapresets\!
+
+&nbsp;
+
+15 Sharp Beach & Ocean Presets Mobile & Desktop
