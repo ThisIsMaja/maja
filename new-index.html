@@ -27,8 +27,11 @@ show-more-posts-button: false
 
   <div class="blog-loop blog-masonry">
 
-    {% for post in site.categories.newsfeed limit: 20 %}
-        {% include post-loop-item.html %}
+
+    {% assign newsfeed-posts = site.documents | where: "categories", "newsfeed" %}
+
+    {% for post in newsfeed-posts limit:25 %}
+          {% include post-loop-item.html %}
     {% endfor %}
 
   </div>

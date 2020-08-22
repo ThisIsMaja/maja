@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-24 00:00:00
-published: true
+hidden: false
 slug: apps-for-productivity-learning-and-health
 title: '18 must-have apps for productivity, learning and health'
 meta-description: >-

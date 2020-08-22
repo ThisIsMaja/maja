@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-04-28 00:00:00
-published: true
+hidden: false
 slug: benefits-of-intermittent-fasting
 title: The benefits of intermittent fasting and why we do it
 meta-description: >-

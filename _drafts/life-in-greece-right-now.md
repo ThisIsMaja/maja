@@ -1,7 +1,7 @@
 ---
 layout: modular
 date: 2020-08-19 00:00:00
-published: false
+hidden: true
 slug:
 title: Life In Greece Right Now
 meta-description:

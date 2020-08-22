@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-08-21 00:00:00
-published: false
+hidden: true
 slug: travel-guide-uluwatu
 title: Travel Guide Uluwatu
 meta-description:

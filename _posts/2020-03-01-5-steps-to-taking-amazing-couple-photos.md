@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-03-01 00:00:00
-published: true
+hidden: false
 slug: how-to-make-amazing-couple-photos
 title: 5 Steps to Taking Amazing Couple Photos
 meta-description: >-

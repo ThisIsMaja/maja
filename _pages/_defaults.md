@@ -1,6 +1,6 @@
 ---
 layout: modular
-published: false
+hidden: true
 date: 2020-01-01
 permalink:
 title:

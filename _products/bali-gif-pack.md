@@ -1,7 +1,7 @@
 ---
 title: Support Bali Gif Pack
 shopify-id: 4466190254123
-published: false
+hidden: true
 layout: product
 type: other
 order: 1

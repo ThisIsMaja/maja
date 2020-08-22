@@ -5,8 +5,6 @@ hide-from-google: true
 hide-header: true
 hide-footer: false
 links:
-  - link_text:
-    link_url:
   - link_text: Maja Blog
     link_url: 'https://thisismaja.com/'
   - link_text: All Presets on Sale -50% off
@@ -37,11 +35,6 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
 <section class="explore-menu bg-image" style="background-image:url({{page.background_image}});">
 <nav class="padded">
 
-  <div class="mini-header">
-    <!-- <a href="/" data-aos="fade" style="border: none;">
-      <img class="logo" src="/images/logo/maja-logo-6.png">
-    </a> -->
-  </div>
   {% for item in page.links %}
 
   <a href="{{item.link_url}}" class="main-links"> {{item.link_text}}</a>
@@ -74,6 +67,7 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
       {% assign sorted-products = site.products | sort: 'order' %}
 
       {% for product in sorted-products %}
+      {% unless product.hidden == true %}
 
           <div class="col-4_sm-10 shop-item masonry-item padded-1 relative">
               <a href="{{product.url}}" class="card">
@@ -91,7 +85,7 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
                 </div>
               </a>
             </div>
-
+      {% endunless %}
       {% endfor %}
 
 
@@ -119,7 +113,7 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
 <section class="featured-bg padded-2-v padded-left-1 padded-bottom-2">
   <div class="explore-post-slider grid">
   {% for post in site.posts limit:10 %}
-    {% unless post.published == false %}
+    {% unless post.hidden == true %}
 
         <a href="{{post.url}}" class="col-4_sm-8 padded-1 centered">
           <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>

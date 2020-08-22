@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-27 00:00:00
-published: true
+hidden: false
 slug: vegan-recipes-from-kynd-cafe
 title: '5 Plant Based Recipes from Kynd, our favourite Bali Cafe.'
 meta-description: >-

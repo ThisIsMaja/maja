@@ -10,7 +10,7 @@ defaults:
       type: 'posts'
     values:
       permalink: /posts/:slug
-      all-posts: true
+
 
 collections:
   archives:
@@ -21,6 +21,10 @@ collections:
     output: true
   pages:
     output: true
+    all-posts: true
+  posts:
+    output: true
+    all-posts: true
 
 sizes:
   - full

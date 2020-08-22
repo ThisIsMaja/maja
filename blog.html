@@ -30,7 +30,7 @@ show-more-posts-button: true
 
 
     {% for post in site.posts limit: 25 %}
-      {% unless post.published == false %}
+      {% unless post.hidden == true %}
 
         {% include post-loop-item.html %}
 

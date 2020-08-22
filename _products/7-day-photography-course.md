@@ -1,7 +1,7 @@
 ---
 title: Photography Mini-Course
 layout: product
-published: false
+hidden: true
 type: course
 order: 2
 price: $29

@@ -1,6 +1,6 @@
 ---
 layout: modular
-published: false
+hidden: true
 date: 2020-01-01 00:00:00
 permalink: greece-during-pandemic
 title: Greece Summer During the Pandemic
@@ -35,4 +35,3 @@ _hide_content: true
 _comments:
   slug: this overrides the default url
 ---
-

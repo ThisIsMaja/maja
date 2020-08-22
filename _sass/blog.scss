@@ -130,6 +130,17 @@ blockquote {
   margin-left: 0;
 }
 
+// Archive Post Loop
+
+.archive-post-item h3 {
+  font-size: 1.4rem;
+  line-height: 1.2;
+}
+
+.archive-post-item .bg-image {
+  min-height:3rem
+}
+
 
 /* ---- Blog post pages ------ */
 // .light-bg.odd {

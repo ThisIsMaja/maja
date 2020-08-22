@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-17 00:00:00
-published: false
+hidden: true
 slug: relationships-during-isolation
 title: How to keep your relationships strong during isolation
 meta-description:

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-01-19 00:00:00
-published: true
+hidden: false
 slug: obertauern-ski-holiday
 title: 'Winter Holiday In Obertauern, Austria'
 meta-description: >-
