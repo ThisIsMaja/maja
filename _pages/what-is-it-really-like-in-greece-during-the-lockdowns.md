@@ -30,8 +30,14 @@ page_blocks:
       be around for a while and put into place measures to combat it while
       regaining our lives and the global economy.</p>
     maja-signoff: true
+  - _id: image-banner
+    name: Image Banner
+    background_image: /images/greece/mariefeandjakesnow-greece11.jpg
+    banner-height:
+    heading_html:
 _all-posts: true
 _hide_content: true
 _comments:
   slug: this overrides the default url
 ---
+
