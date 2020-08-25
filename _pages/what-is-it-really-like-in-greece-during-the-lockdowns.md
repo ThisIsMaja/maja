@@ -12,6 +12,11 @@ categories:
 tags:
 author: Marie Fe
 page_blocks:
+  - _id: image-banner
+    name: Image Banner
+    background_image: /images/greece/mariefeandjakesnow-greece11.jpg
+    banner-height:
+    heading_html:
   - _id: text-block
     name: Life in Greece right now
     block-class: light-bg
@@ -30,11 +35,6 @@ page_blocks:
       be around for a while and put into place measures to combat it while
       regaining our lives and the global economy.</p>
     maja-signoff: true
-  - _id: image-banner
-    name: Image Banner
-    background_image: /images/greece/mariefeandjakesnow-greece11.jpg
-    banner-height:
-    heading_html:
 _all-posts: true
 _hide_content: true
 _comments:
