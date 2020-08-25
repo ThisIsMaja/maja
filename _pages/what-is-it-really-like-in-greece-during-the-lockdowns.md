@@ -16,7 +16,7 @@ page_blocks:
     name: Image Banner
     background_image: /images/greece/mariefeandjakesnow-greece11.jpg
     banner-height:
-    heading_html: <p>Greece Update</p>
+    heading_html: <h1 class="emphasis align-to-center">Greece Update</h1>
   - _id: text-block
     name: Life in Greece right now
     block-class: light-bg
