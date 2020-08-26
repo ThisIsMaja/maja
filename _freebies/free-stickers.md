@@ -2,7 +2,7 @@
 title: Free Stay At Home Stickers
 layout: freebie
 order: 1
-hidden: true
+hidden: false
 form_id: stay-home-stickers
 image_path: /images/shop/ultimate-2.PNG
 short-description: Stunning vibrant presets for your next tropical holiday
