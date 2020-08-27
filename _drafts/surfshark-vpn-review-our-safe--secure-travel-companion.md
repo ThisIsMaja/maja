@@ -58,7 +58,7 @@ sections:
       no-brainer.&nbsp;&nbsp;</p><p>If that&rsquo;s not enough to convince you
       why using a VPN can be worthwhile, we can tell you that it can also
       improve your digital experience and even save you money!</p>
-  - banner_path:
+  - banner_path: /images/travel-tips/surfshark-vpn-review-protect-your-privacy-and-data.png
     banner-caption:
     banner-fixed: false
     columns: true
