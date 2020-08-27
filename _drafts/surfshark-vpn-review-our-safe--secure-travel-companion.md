@@ -150,6 +150,37 @@ sections:
       connection.</p><p>Whitelister gives you the power to choose what apps and
       websites are protected by the Surfshark VPN without turning it on and
       off.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Does Surfshark keep logs of your online activity?</h2><p>Did you know
+      that your Internet Service Provider (ISP) can see all the websites you
+      visit and things you download? Scary right!</p><p>They are also required
+      to store this information for years and in some countries can even sell
+      the data if it&rsquo;s anonymised.</p><p>If you&rsquo;re using a VPN then
+      it&rsquo;s likely you want to protect your personal information and data
+      so it&rsquo;s also important to choose a VPN that doesn&rsquo;t collect
+      and store these. Surshark VPN is a no log VPN, meaning it does not collect
+      details like IP address, browsing history, used bandwidth, session
+      information, network traffic and connection timestamps.</p><p>You can use
+      Surfshark&rsquo;s Blind Search organic search tool with no ads or tracking
+      to browse. Your online activity is totally private.</p><h2>Can Surfshark
+      be used on multiple devices?</h2><p>Surfshark VPN is great because you can
+      use it on unlimited devices all at the same time. No other VPN currently
+      allows this!&nbsp;</p><p>We&rsquo;ve found it really useful as between
+      Marie and I we have more than four devices and anyone in our team can use
+      it too!</p><h2>Surfshark free trial</h2><p>If you&rsquo;ve never used a
+      VPN and you want to test one out before committing long-term, Surfshark
+      VPN offers a <a target="_blank" rel="noopener"
+      href="https://surfshark.com/vpn-free-trial">30-day risk-free
+      guarantee</a>.</p><p>You will need to create a Surfshark account and pay
+      the first installment after which you can use and test Surfshark VPN for
+      30 days.</p><p>At 30 days you can decide if you want to cancel your
+      subscription and get a full refund or continue your subscription and keep
+      using Surfshark.</p>
 show-gallery: false
 gallery:
   - image_path:
