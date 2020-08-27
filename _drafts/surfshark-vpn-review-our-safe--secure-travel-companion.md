@@ -152,7 +152,7 @@ sections:
       off.</p>
   - banner_path: /images/travel-tips/surfshark-vpn-review-mobile.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
