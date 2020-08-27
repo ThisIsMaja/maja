@@ -175,14 +175,14 @@ sections:
       Marie and I we have more than four devices and anyone in our team can use
       it too!</p><h2>Surfshark free trial</h2><p>If you&rsquo;ve never used a
       VPN and you want to test one out before committing long-term, Surfshark
-      VPN offers a <a target="_blank" rel="noopener"
+      VPN offers a <a target="_blank" rel="noopener sponsored"
       href="https://surfshark.com/vpn-free-trial">30-day risk-free
       guarantee</a>.</p><p>You will need to create a Surfshark account and pay
       the first installment after which you can use and test Surfshark VPN for
       30 days.</p><p>At 30 days you can decide if you want to cancel your
       subscription and get a full refund or continue your subscription and keep
       using Surfshark.</p><h3>Use the MAJA discount code</h3><p><a
-      target="_blank" rel="noopener" href="https://surfshark.deals/MAJA">Click
+      target="_blank" rel="noopener sponsored" href="https://surfshark.deals/MAJA">Click
       here</a>&nbsp;and then enter promo code MAJA for 85% off and 3 extra
       months free!</p>
   - banner_path:
