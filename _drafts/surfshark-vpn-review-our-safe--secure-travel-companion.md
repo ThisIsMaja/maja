@@ -58,6 +58,19 @@ sections:
       no-brainer.&nbsp;&nbsp;</p><p>If that&rsquo;s not enough to convince you
       why using a VPN can be worthwhile, we can tell you that it can also
       improve your digital experience and even save you money!</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2 class="emphasis">How Surfshark saves us money on travel</h2><p>Who
+      knew that a VPN could come in so handy while
+      travelling!&nbsp;</p><p>Surfshark does a lot more than just allow you to
+      watch your favourite shows abroad.&nbsp;</p><p>We are going to tell you
+      about some amazing travel hacks that you can achieve by using
+      Surfshark&rsquo;s VPN.</p><h3>Surfshark VPN helps you unlock better
+      prices</h3>
 show-gallery: false
 gallery:
   - image_path:
