@@ -4,8 +4,10 @@ date: 2020-08-27 00:00:00
 hidden: true
 slug: surfshark-vpn-review
 title: 'Surfshark VPN Review: Our Safe & Secure Travel Companion'
-meta-description:
-meta-keywords:
+meta-description: >-
+  Our personal Surfshark VPN review and how it allows us to watch Netflix, save
+  money, and surf the web safely & securely whilst travelling the world
+meta-keywords: Surfshark VPN review
 image_path:
 banner-1_path:
 banner-fixed: true
