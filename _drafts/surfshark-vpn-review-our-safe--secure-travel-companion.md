@@ -61,7 +61,7 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: false
+    columns: true
     main-paragraph-emphasis:
     body-content_html: >-
       <h2 class="emphasis">How Surfshark saves us money on travel</h2><p>Who
