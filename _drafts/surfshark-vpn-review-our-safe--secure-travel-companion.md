@@ -111,6 +111,45 @@ sections:
       never miss out!</p><p>We mostly use Surfshark&rsquo;s VPN on our laptops
       and mobile phones but it can also be used on tablets, smart TV&rsquo;s,
       Xbox and Playstation and other devices using their Smart DNS feature.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Is Surfshark safe and reliable?</h2><p>Surfshark is one of the best
+      VPNs out there at the moment. We think it&rsquo;s pretty powerful and
+      offers reliable online security and privacy.&nbsp;</p><p>It has a few
+      technical features which are worth talking about for those of you that
+      want to know a little bit more about what it&rsquo;s capable
+      of.</p><h3>Hacklock ID Protection</h3><p>Surfshark VPN will actually
+      notify you if your email address or password get leaked.</p><h3>Clean
+      Web</h3><p>Because ads, trackers, malware and phishing attempts are all
+      blocked you can surf the internet in peace.&nbsp;</p><p>The stripping back
+      of all of these things is the way that you also save on mobile data and
+      boost your browsing speeds as I mentioned above.</p><h3>Kill
+      Switch</h3><p>The VPN Kill Switch will automatically disconnect you from
+      the internet if your VPN connection drops unexpectedly.&nbsp;</p><p>This
+      means that you can feel sure that your personal information and data is
+      protected at all times.</p><h3>No borders mode</h3><p>Surfshark VPN lets
+      you unblock websites and apps by accessing streaming sites, by-passing
+      geo-restrictions and gets you around censorship.&nbsp;</p><p>I&rsquo;ve
+      already talked about how we use the VPN to watch Netflix but you can do
+      the same thing with ESPN, Disney Plus and so many more.&nbsp;</p><p>Plus,
+      if you&rsquo;re travelling to a country like China where there are
+      restrictions on what websites and apps you can access and the media is
+      censored you can use Surfshark VPN to access everything freely and
+      anonymously.</p><h3>Whitelister</h3><p>Whitelister is Surfshark&rsquo;s
+      way of enabling split tunneling.&nbsp;</p><p>Basically, this allows you to
+      have some of your internet traffic go over VPN and the rest go over the
+      internet as normal.&nbsp;</p><p>So, you can be using the Surfshark VPN and
+      the normal internet at the same time without
+      disconnecting.&nbsp;</p><p>This comes in handy as some banking websites
+      don&rsquo;t work with a VPN or you might need to access connected devices
+      such as a printer that doesn&rsquo;t require a VPN
+      connection.</p><p>Whitelister gives you the power to choose what apps and
+      websites are protected by the Surfshark VPN without turning it on and
+      off.</p>
 show-gallery: false
 gallery:
   - image_path:
