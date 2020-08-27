@@ -8,8 +8,8 @@ meta-description: >-
   Our personal Surfshark VPN review and how it allows us to watch Netflix, save
   money, and surf the web safely & securely whilst travelling the world
 meta-keywords: Surfshark VPN review
-image_path:
-banner-1_path:
+image_path: /images/travel-tips/surfshark-vpn-review.jpg
+banner-1_path: /images/travel-tips/surfshark-vpn-review.jpg
 banner-fixed: true
 newsfeed: false
 categories:
