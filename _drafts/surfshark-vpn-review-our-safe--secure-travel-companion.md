@@ -43,7 +43,7 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <p class="big-emphasis">What does Surfshark VPN do?</p><p>The two big draw
+      <p class="emphasis">What does Surfshark VPN do?</p><p>The two big draw
       cards of using the Surfshark VPN service are to protect your security and
       privacy online.</p><p>Surfshark VPN can help you shield your online
       presence in many different ways. It encrypts your personal information and
