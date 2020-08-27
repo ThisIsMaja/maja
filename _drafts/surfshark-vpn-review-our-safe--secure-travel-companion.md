@@ -181,7 +181,7 @@ sections:
       30 days.</p><p>At 30 days you can decide if you want to cancel your
       subscription and get a full refund or continue your subscription and keep
       using Surfshark.</p>
-  - banner_path:
+  - banner_path: /images/travel-tips/surfshark-vpn-review-mobile.jpg
     banner-caption:
     banner-fixed: false
     columns: false
