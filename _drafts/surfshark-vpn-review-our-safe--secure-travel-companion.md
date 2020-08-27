@@ -91,9 +91,9 @@ sections:
       and increases the speed of your internet, saving you money on global
       roaming.&nbsp;</p><p>This was useful for us when we were based in
       Australia and had Australian sim cards which we travelled with.&nbsp;</p>
-  - banner_path:
+  - banner_path: /images/travel-tips/surfshark-vpn-review-netflix-laptop.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
