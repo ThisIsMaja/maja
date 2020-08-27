@@ -60,7 +60,7 @@ sections:
       improve your digital experience and even save you money!</p>
   - banner_path:
     banner-caption:
-    banner-fixed: true
+    banner-fixed: false
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
