@@ -60,7 +60,7 @@ sections:
       improve your digital experience and even save you money!</p>
   - banner_path: /images/travel-tips/surfshark-vpn-review-netflix-laptop.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
