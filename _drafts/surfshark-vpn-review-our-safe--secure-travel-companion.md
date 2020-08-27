@@ -163,8 +163,8 @@ sections:
       the data if it&rsquo;s anonymised.</p><p>If you&rsquo;re using a VPN then
       it&rsquo;s likely you want to protect your personal information and data
       so it&rsquo;s also important to choose a VPN that doesn&rsquo;t collect
-      and store these. Surshark VPN is a no log VPN, meaning it does not collect
-      details like IP address, browsing history, used bandwidth, session
+      and store these. Surfshark VPN is a no log VPN, meaning it does not
+      collect details like IP address, browsing history, used bandwidth, session
       information, network traffic and connection timestamps.</p><p>You can use
       Surfshark&rsquo;s Blind Search organic search tool with no ads or tracking
       to browse. Your online activity is totally private.</p><h2>Can Surfshark
