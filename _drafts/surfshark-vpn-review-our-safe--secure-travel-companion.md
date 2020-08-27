@@ -14,13 +14,28 @@ banner-fixed: true
 newsfeed: false
 categories:
 tags:
-author: Marie Fe
+author: Jake Snow
 image-1_path:
 image-1_alt:
 image-2_path:
 image-2_alt:
-intro-paragraph-emphasis:
-intro-content_html:
+intro-paragraph-emphasis: Our Review of Surfshark VPN
+intro-content_html: >-
+  <p>We have a confession to make. There was a time when we had no idea what a
+  VPN was or why we would need to use one - until we discovered Surfshark. We
+  want to share our Surfshark VPN review with you to explain more about
+  VPN&rsquo;s and how they can come in handy, especially when
+  travelling!&nbsp;</p><p>You might be asking &lsquo;what on earth is a
+  VPN?&rsquo;. VPN stands for Virtual Private Network. It is a service that
+  allows you to connect to the internet securely, giving you privacy and
+  protecting your data.&nbsp;</p><p>We actually started using the Surfshark VPN
+  to get our fix of Australian Netflix whilst in Indonesia!&nbsp;</p><p>Without
+  a VPN it&rsquo;s only possible to access the Netflix library of whichever
+  country you are in at the time which can be pretty limiting if you want to
+  catch up on your favourite shows from back home.</p><p>There&rsquo;s a lot
+  more that a VPN can do, so keep reading our Surfshark VPN review to find out
+  all about the cool features that it has and also about our own personal
+  experience using this service.</p>
 sections:
   - banner_path:
     banner-caption:
