@@ -70,7 +70,27 @@ sections:
       watch your favourite shows abroad.&nbsp;</p><p>We are going to tell you
       about some amazing travel hacks that you can achieve by using
       Surfshark&rsquo;s VPN.</p><h3>Surfshark VPN helps you unlock better
-      prices</h3>
+      prices</h3><p>It&rsquo;s a known fact that people in different countries
+      see different prices for things. If this comes as a shock to you, well now
+      you know that price discrimination is a real thing!&nbsp;</p><p>Using the
+      Surfshark VPN you can actually get better prices for things like flights
+      accommodation and car rentals just by switching up which country you
+      search from.&nbsp;</p><p>All you need to do is check the price without
+      using Surfshark, make a note of it and then close the
+      page.&nbsp;</p><p>Then turn on Surfshark and choose a server that&rsquo;s
+      in a different country than the country you are in.&nbsp;</p><p>Finally,
+      you open an incognito window and go to the same website and re-check the
+      price.&nbsp;</p><p>If you can see a change in price then you can now see
+      the difference between what something would have cost in one country
+      versus another.&nbsp;</p><p>You can keep checking the price by selecting
+      different servers until you find the best price. Crazy isn&rsquo;t
+      it!</p><h3>Surfshark VPN saves mobile roaming data</h3><p>A fact that
+      might not be so widely known is that loading ads and banners uses a lot of
+      data. We definitely didn&rsquo;t know this!&nbsp;</p><p>With Surfshark
+      there is a feature you can turn on that saves up to 40% of roaming data
+      and increases the speed of your internet, saving you money on global
+      roaming.&nbsp;</p><p>This was useful for us when we were based in
+      Australia and had Australian sim cards which we travelled with.&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
