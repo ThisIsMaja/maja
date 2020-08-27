@@ -150,7 +150,7 @@ sections:
       connection.</p><p>Whitelister gives you the power to choose what apps and
       websites are protected by the Surfshark VPN without turning it on and
       off.</p>
-  - banner_path: /images/travel-tips/surfshark-vpn-review-features.png
+  - banner_path: /images/travel-tips/surfshark-vpn-review-mobile.jpg
     banner-caption:
     banner-fixed: false
     columns: true
