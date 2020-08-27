@@ -11,9 +11,11 @@ meta-keywords: Surfshark VPN review
 image_path: /images/travel-tips/surfshark-vpn-review.jpg
 banner-1_path: /images/travel-tips/surfshark-vpn-review.jpg
 banner-fixed: true
-newsfeed: false
+newsfeed: true
 categories:
+  - travel
 tags:
+  - Travel Tips
 author: Jake Snow
 image-1_path: /images/travel-tips/surfshark-vpn-review-netflix.jpg
 image-1_alt: streaming Netflix on a laptop using Surfshark VPN
@@ -182,9 +184,9 @@ sections:
       30 days.</p><p>At 30 days you can decide if you want to cancel your
       subscription and get a full refund or continue your subscription and keep
       using Surfshark.</p><h3>Use the MAJA discount code</h3><p><a
-      target="_blank" rel="noopener sponsored" href="https://surfshark.deals/MAJA">Click
-      here</a>&nbsp;and then enter promo code MAJA for 85% off and 3 extra
-      months free!</p>
+      target="_blank" rel="noopener sponsored"
+      href="https://surfshark.deals/MAJA">Click here</a>&nbsp;and then enter
+      promo code MAJA for 85% off and 3 extra months free!</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
