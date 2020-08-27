@@ -15,8 +15,8 @@ newsfeed: false
 categories:
 tags:
 author: Jake Snow
-image-1_path:
-image-1_alt:
+image-1_path: /images/travel-tips/surfshark-vpn-review-netflix.jpg
+image-1_alt: streaming Netflix on a laptop using Surfshark VPN
 image-2_path:
 image-2_alt:
 intro-paragraph-emphasis: Our Review of Surfshark VPN
