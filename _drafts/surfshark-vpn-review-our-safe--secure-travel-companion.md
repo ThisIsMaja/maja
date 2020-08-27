@@ -184,7 +184,7 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: true
+    columns: false
     main-paragraph-emphasis:
     body-content_html: >-
       <h2>Surfshark VPN Review final thoughts</h2><p>Marie and I have been using
