@@ -43,18 +43,18 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <p class="emphasis">What does Surfshark VPN do?</p><p>The two big draw
-      cards of using the Surfshark VPN service are to protect your security and
-      privacy online.</p><p>Surfshark VPN can help you shield your online
-      presence in many different ways. It encrypts your personal information and
-      sends it via a secure VPN tunnel meaning no-one unwanted can see
-      it.&nbsp;</p><p>Because of this, ads, trackers and malware are blocked,
-      online banking and managing crypto assets is more secure, using public
-      WiFi is more safe and when you&rsquo;re gaming your personal information
-      is protected.&nbsp;</p><p>Most of us spend 6-8 hours per day online
-      searching, browsing and using websites, and these websites end up learning
-      a lot of information about us! If you care about securing your digital
-      life and protecting your identity then using a VPN is a
+      <h2 class="emphasis">What does Surfshark VPN do?</h2><p
+      class="emphasis">The two big draw cards of using the Surfshark VPN service
+      are to protect your security and privacy online.</p><p>Surfshark VPN can
+      help you shield your online presence in many different ways. It encrypts
+      your personal information and sends it via a secure VPN tunnel meaning
+      no-one unwanted can see it.&nbsp;</p><p>Because of this, ads, trackers and
+      malware are blocked, online banking and managing crypto assets is more
+      secure, using public WiFi is more safe and when you&rsquo;re gaming your
+      personal information is protected.&nbsp;</p><p>Most of us spend 6-8 hours
+      per day online searching, browsing and using websites, and these websites
+      end up learning a lot of information about us! If you care about securing
+      your digital life and protecting your identity then using a VPN is a
       no-brainer.&nbsp;&nbsp;</p><p>If that&rsquo;s not enough to convince you
       why using a VPN can be worthwhile, we can tell you that it can also
       improve your digital experience and even save you money!</p>
