@@ -44,7 +44,7 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <h2 class="emphasis">What does Surfshark VPN do?</h2><p>The two big draw
-      cards of using the <a target="_blank" rel="noopener"
+      cards of using the <a target="_blank" rel="noopener sponsored"
       href="https://surfshark.com/">Surfshark VPN service</a> are to protect
       your security and privacy online.</p><p>Surfshark VPN can help you shield
       your online presence in many different ways. It encrypts your personal
