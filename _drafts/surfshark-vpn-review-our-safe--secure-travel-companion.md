@@ -91,6 +91,26 @@ sections:
       and increases the speed of your internet, saving you money on global
       roaming.&nbsp;</p><p>This was useful for us when we were based in
       Australia and had Australian sim cards which we travelled with.&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Using Surfshark with Netflix</h2><p>As I mentioned, the original
+      reason Marie and I started using Surfshark was to access content from our
+      Netflix account that wasn&rsquo;t available to us when we were travelling
+      in Bali.&nbsp;</p><p>This happens because streaming platforms, such as
+      Netflix, don&rsquo;t offer the exact same content in all countries due to
+      licensing.&nbsp;</p><p>So, even though we pay the monthly fee with
+      Netflix, without a VPN we can only access the films and series available
+      in the country we are actually in at the time.&nbsp;</p><p>We have an
+      Australian Netflix account because we signed up to the service when we
+      were living in Australia.&nbsp;</p><p>When we use the Surfshark VPN we can
+      access the entire Netflix catalogue from anywhere in the world, so we
+      never miss out!</p><p>We mostly use Surfshark&rsquo;s VPN on our laptops
+      and mobile phones but it can also be used on tablets, smart TV&rsquo;s,
+      Xbox and Playstation and other devices using their Smart DNS feature.</p>
 show-gallery: false
 gallery:
   - image_path:
