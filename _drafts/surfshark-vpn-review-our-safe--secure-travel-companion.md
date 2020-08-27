@@ -187,13 +187,14 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <p>Marie and I have been using Surfshark now for x years and it&rsquo;s
-      come in so handy for both travel and business.</p><p>Having something that
-      our extended team can use since we are usually not all in the same country
-      at the same time is amazing too.</p><p>The benefits that come with using
-      Surfshark VPN beyond the privacy and security are like added bonuses -
-      it&rsquo;s definitely helped save us a bit of money and we even get our
-      fix of Aussie Netflix whilst on the road!&nbsp;</p>
+      <h2>Surfshark VPN Review final thoughts</h2><p>Marie and I have been using
+      Surfshark now for x years and it&rsquo;s come in so handy for both travel
+      and business.</p><p>Having something that our extended team can use since
+      we are usually not all in the same country at the same time is amazing
+      too.</p><p>The benefits that come with using Surfshark VPN beyond the
+      privacy and security are like added bonuses - it&rsquo;s definitely helped
+      save us a bit of money and we even get our fix of Aussie Netflix whilst on
+      the road!&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
