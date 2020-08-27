@@ -180,7 +180,10 @@ sections:
       the first installment after which you can use and test Surfshark VPN for
       30 days.</p><p>At 30 days you can decide if you want to cancel your
       subscription and get a full refund or continue your subscription and keep
-      using Surfshark.</p>
+      using Surfshark.</p><h3>Use the MAJA discount code</h3><p><a
+      target="_blank" rel="noopener" href="https://surfshark.deals/MAJA">Click
+      here</a>&nbsp;and then enter promo code MAJA for 85% off and 3 extra
+      months free!</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
