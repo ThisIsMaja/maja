@@ -57,12 +57,12 @@ sections:
       leave our Bali island life to head back to Europe, one of the essentials
       was to get ourselves tested for the virus.</p><p>This is one of the most
       important and essential responsible tourism examples we can give
-      you.&nbsp;</p><p>Taking this test not only gives you the peace of mind to
-      know that you can travel without the risk of infecting others, it also
-      gives you the relevant paperwork to show airlines and border controls that
-      you are no risk to travel and enter.</p><p>Taking the test itself
-      isn&rsquo;t a pleasant experience, which some of you guys might have seen
-      when watching our <a target="_blank" rel="noopener"
+      you.&nbsp;</p><p>Taking this test (PCR/Swab test) not only gives you the
+      peace of mind to know that you can travel without the risk of infecting
+      others, it also gives you the relevant paperwork to show airlines and
+      border controls that you are no risk to travel and enter.</p><p>Taking the
+      test itself isn&rsquo;t a pleasant experience, which some of you guys
+      might have seen when watching our <a target="_blank" rel="noopener"
       href="www.instagram.com/mariefeandjakesnow">Instagram stories</a>, but
       there was no way we could have got on that flight without receiving those
       negative results.</p>
@@ -76,8 +76,10 @@ sections:
       isolation and mostly with just each other, and of course Leo, it was
       really strange to be back at the airport and around people again.</p><p>We
       love meeting and being around people so social distancing has taken the
-      most getting used to for Marie and I.</p><p>It&rsquo;s recommended that at
-      this point, you should be keeping around 2 meters (3 steps) away from
+      most getting used to for Marie and I. Even if you are like ourselves and
+      you feel comfortable that the virus is not a threat to your health, others
+      may not. It's important to remember this</p><p>It&rsquo;s recommended that
+      at this point, you should be keeping around 2 meters (3 steps) away from
       other people.&nbsp;</p><p>We found the airport to be so eerily quiet that
       this wasn&rsquo;t too difficult. Not only that every restaurant, store or
       desk for example had markings on the floor to remind you to keep your
