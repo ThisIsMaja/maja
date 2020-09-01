@@ -161,12 +161,19 @@ layout: default
     'DOMEvents': {
       'click .shopify-buy__btn': function (evt, target) {
         dataLayer.push({
-            'event': 'addToCart',
-            'productId': '{{page.shopify-id}}',
-            'name': '{{page.title}}',
-            'price':  parseFloat('{{page.price}}'.replace('$', '')),
-            'description': '{{page.description}}'
-        })
+          'event': 'addToCart',
+          'ecommerce': {
+            'currencyCode': 'USD',
+            'add': {                               
+              'products': [{                       
+                'name': '{{page.title}}',
+                'id': '{{page.shopify-id}}',
+                'price': parseFloat('{{page.price}}'.replace('$', '')),
+                'quantity': 1
+               }]
+            }
+          }
+        });
       }
     },
     "styles": {
@@ -243,6 +250,26 @@ layout: default
     ]
   },
   "cart": {
+    "DOMEvents": {
+      'click .shopify-buy__quantity-increment': function (evt, target) {
+        console.log(evt);
+        console.log(target)
+        dataLayer.push({
+          'event': 'addToCart',
+          'ecommerce': {
+            'currencyCode': 'USD',
+            'add': {                               
+              'products': [{                       
+                'name': '{{page.title}}',
+                'id': '{{page.shopify-id}}',
+                'price': parseFloat('{{page.price}}'.replace('$', '')),
+                'quantity': 1
+               }]
+            }
+          }
+        });
+      }
+    },
     "styles": {
       "button": {
         "font-family": "p22-underground, sans-serif",
