@@ -27,20 +27,23 @@ intro-content_html: >-
   for Marie and I whenever we visit a country and culture that isn&rsquo;t our
   own. Now more than ever we have seen first hand how devastating the lack of
   tourism can be for economies and livelihoods in countries such as Indonesia.
-  With this in mind it has forced us to ask ourselves the question &ldquo;How
-  can we be responsible tourists during this Coronavirus
-  pandemic?&rdquo;</p><p>Having been living in Bali for X - (Jake to fill in)
-  months, which is the longest we have been in one place for X - (Jake to fill
-  in) years, we really had the itch to continue travelling not only to
-  experience and document new places, but also to check in with friends and
-  family back home too. With Europe calling we faced this new challenge of
-  making sure we could travel without jeopardizing the safety of
-  others.</p><p>As we prepare to make our way from Bali - (inlink?) to Germany -
-  (inlink?) via Greece - (inlink?) and Italy - (inlink?) we will talk you
-  through the 5 most important examples of how you too can be a responsible
-  tourist. From practicing social distancing to respecting the laws, rules and
-  regulations of the countries you travel to and from, continue reading to hear
-  all about our first hand experiences.</p>
+  With this in mind we have asked ourselves the question &ldquo;How can we be
+  responsible tourists during this Coronavirus pandemic so that we can support
+  people who truly desperately need it?&rdquo;</p><p>Having been living in Bali
+  for 7 months, which is the longest we have been in one place for 4 years. We
+  really felt the need to travel once again to not only check in with friends
+  and family back home but to also get a first hand experience of what tourism
+  is really like right now. We had heard many different things in the media and
+  a lot of it was conflicting. Instead of listening to what others were saying,
+  we wanted to see for ourselves. So we decided to travel, the big question was
+  'how could travel without jeopardizing the safety of others?'</p><p>Since we
+  left Bali we arrived in Greece, made our way from Athens to Santorini,
+  explored Santorini, left for Italy and then explored some more. In the post
+  will talk about our experience first hand and give you the 5 most important
+  examples of how we've been responsible tourists and how you can too. From
+  practicing social distancing to respecting the laws, rules and regulations of
+  the countries you travel to and from, continue reading to hear all about our
+  first hand experiences.</p>
 sections:
   - banner_path:
     banner-caption:
