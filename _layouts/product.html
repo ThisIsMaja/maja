@@ -162,10 +162,10 @@ layout: default
       'click .shopify-buy__btn': function (evt, target) {
         dataLayer.push({
             'event': 'addToCart',
-            'productId': {{page.shopify-id}},
-            'name': {{page.title}},
+            'productId': '{{page.shopify-id}}',
+            'name': '{{page.title}}',
             'price': {{page.price}},
-            'description': {{page.short-description}}
+            'description': '{{page.description}}'
         })
       }
     },
