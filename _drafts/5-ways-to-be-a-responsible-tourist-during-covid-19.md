@@ -80,6 +80,29 @@ sections:
       distance.</p><p>Responsible travelling means abiding by the rules and
       being respectful of others so keeping the 2 meter distance is important
       for respecting those things.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>3 - Maintain Good Cleanliness &amp; Hygiene</h2><p>If ever there was a
+      time to maintain a high standard of cleanliness and hygiene it&rsquo;s
+      now!</p><p>We have absolutely no doubt that you guys take good care of
+      yourselves, so forgive us if this advice appears condescending, but Marie
+      and I noticed there were improvements we could make to protect ourselves
+      and others with this.</p><p>Just some little tips we would recommend after
+      doing some research and having experience travelling from Asia to Europe
+      would be:</p><ul><li>Wash your hands with soap and water for at least 20
+      seconds whenever you can. If you catch a look at a bathroom sign then jump
+      in and give them hands a wash.</li><li>Carry around a little travel sized
+      bottle of hand sanitizer just in case you don&rsquo;t have access to a
+      bathroom for some time. Always good to apply this after you've touched
+      anything too.</li><li>Wearing a mask is of course essential, but if you
+      are going to cough or sneeze then make sure you have some tissues to hand.
+      Gone are the days you can do this into your hands or sleeve!</li><li>Avoid
+      touching your eyes, nose or mouth if you can, especially if your hands
+      aren&rsquo;t clean.</li></ul>
 show-gallery: false
 gallery:
   - image_path:
