@@ -118,6 +118,26 @@ sections:
       tomorrow, so to avoid upsetting the authorities it&rsquo;s important that
       you continually check with the relevant sources of the countries that you
       are in or plan to travel too.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>5 - Show Respect to Others</h2><p>The biggest advice we can give to
+      all of you responsible travellers out there would be to show love,
+      compassion and respect to everyone around you.</p><p>Being in our Bali
+      bubble, where everything appears to be pretty normal, it was easy to
+      forget how hard it has been on others around the world.</p><p>We have to
+      respect those living in the countries that we plan to visit and understand
+      the hardships that the Coronavirus has affected everyone mentally,
+      physically and financially.</p><p>This means spreading more love and
+      positivity than ever. It means showing compassion for those who have
+      potentially lost jobs or even worse their loved ones. It means showing
+      respect to those around us even if they appear short with us because we
+      have no idea what they have been through.</p><p>From fellow travellers to
+      the locals we have to look after and help each other now more than
+      ever.</p>
 show-gallery: false
 gallery:
   - image_path:
