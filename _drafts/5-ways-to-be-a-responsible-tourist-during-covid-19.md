@@ -103,6 +103,21 @@ sections:
       Gone are the days you can do this into your hands or sleeve!</li><li>Avoid
       touching your eyes, nose or mouth if you can, especially if your hands
       aren&rsquo;t clean.</li></ul>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>4 - Abide by Rules &amp; Regulations</h2><p>Tourism rules and
+      regulations have never been stricter than they are now so it&rsquo;s vital
+      that you do your research before and during a visit to any new travel
+      destination.</p><p>You will find that rules and regulations vary from
+      country to country and are also changeable day by day due to how volatile
+      the coronavirus can be.</p><p>What might have been OK today might not be
+      tomorrow, so to avoid upsetting the authorities it&rsquo;s important that
+      you continually check with the relevant sources of the countries that you
+      are in or plan to travel too.</p>
 show-gallery: false
 gallery:
   - image_path:
