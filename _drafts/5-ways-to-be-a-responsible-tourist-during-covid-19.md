@@ -83,7 +83,7 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: true
+    columns: false
     main-paragraph-emphasis:
     body-content_html: >-
       <h2>3 - Maintain Good Cleanliness &amp; Hygiene</h2><p>If ever there was a
