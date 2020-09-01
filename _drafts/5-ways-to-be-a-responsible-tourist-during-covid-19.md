@@ -37,13 +37,14 @@ intro-content_html: >-
   a lot of it was conflicting. Instead of listening to what others were saying,
   we wanted to see for ourselves. So we decided to travel, the big question was
   'how could travel without jeopardizing the safety of others?'</p><p>Since we
-  left Bali we arrived in Greece, made our way from Athens to Santorini,
-  explored Santorini, left for Italy and then explored some more. In the post
-  will talk about our experience first hand and give you the 5 most important
-  examples of how we've been responsible tourists and how you can too. From
-  practicing social distancing to respecting the laws, rules and regulations of
-  the countries you travel to and from, continue reading to hear all about our
-  first hand experiences.</p>
+  left Bali we arrived in <a target="_blank" rel="noopener"
+  href="https://thisismaja.com/posts/ten-day-greece-itinerary">Greece</a>, made
+  our way from Athens to Santorini, explored Santorini, left for Italy and then
+  explored some more. In the post will talk about our experience first hand and
+  give you the 5 most important examples of how we've been responsible tourists
+  and how you can too. From practicing social distancing to respecting the laws,
+  rules and regulations of the countries you travel to and from, continue
+  reading to hear all about our first hand experiences.</p>
 sections:
   - banner_path:
     banner-caption:
