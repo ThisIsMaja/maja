@@ -164,7 +164,7 @@ layout: default
             'event': 'addToCart',
             'productId': '{{page.shopify-id}}',
             'name': '{{page.title}}',
-            'price':  parseFloat({{page.price}}.replace('$', '')),
+            'price':  parseFloat('{{page.price}}'.replace('$', '')),
             'description': '{{page.description}}'
         })
       }
