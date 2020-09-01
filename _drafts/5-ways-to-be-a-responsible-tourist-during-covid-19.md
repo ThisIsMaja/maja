@@ -59,7 +59,8 @@ sections:
       gives you the relevant paperwork to show airlines and border controls that
       you are no risk to travel and enter.</p><p>Taking the test itself
       isn&rsquo;t a pleasant experience, which some of you guys might have seen
-      when watching our Instagram stories - (link to @mariefeandjakesnow), but
+      when watching our <a target="_blank" rel="noopener"
+      href="www.instagram.com/mariefeandjakesnow">Instagram stories</a>, but
       there was no way we could have got on that flight without receiving those
       negative results.</p>
   - banner_path:
