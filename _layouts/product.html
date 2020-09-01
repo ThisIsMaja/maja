@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+<script>
+    function analyticsTracking() {
+        console.log('analytics');
+    }
+</script>
 <section class="grid-center shop-details light-bg">
   <div class="left padding-0">
     <button class="back-button mob-hide" onclick="goBack()">< Go Back</button>
@@ -16,7 +20,7 @@ layout: default
   <div class="col-5_md-6_sm-12 padded-2">
     <h1> {{page.title}} </h1>
     <div class="shopify-buy-button-styles">
-        <div onClick="console.log('Testing For Stuff');" id='product-component-{{page.shopify-id}}'></div>
+        <div onClick="analyticsTracking()" id='product-component-{{page.shopify-id}}'></div>
      </div>
     <p> <span class="compare-at-price">{{page.compare-at-price}} </span> {{page.price}} </p>
 
