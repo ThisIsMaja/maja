@@ -25,10 +25,10 @@ intro-paragraph-emphasis: 5 Examples of Responsible Tourism
 intro-content_html: >-
   <p>Sustainable and responsible tourism has always been the number one priority
   for Marie and I whenever we visit a country and culture that isn&rsquo;t our
-  own. Not only that, now more than ever we have seen first hand how devastating
-  the lack of tourism can be for economies and livelihoods in countries such as
-  Indonesia. With all that in mind it has forced us to ask ourselves the
-  question &ldquo;How can we be responsible tourists during this Coronavirus
+  own. Now more than ever we have seen first hand how devastating the lack of
+  tourism can be for economies and livelihoods in countries such as Indonesia.
+  With this in mind it has forced us to ask ourselves the question &ldquo;How
+  can we be responsible tourists during this Coronavirus
   pandemic?&rdquo;</p><p>Having been living in Bali for X - (Jake to fill in)
   months, which is the longest we have been in one place for X - (Jake to fill
   in) years, we really had the itch to continue travelling not only to
