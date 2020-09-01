@@ -156,8 +156,8 @@ sections:
       is continuing to explore this incredible planet to educate ourselves on
       what&rsquo;s important and what is not.</p><p>Together we have to ensure
       that the ability to travel must survive. We want to see borders open and
-      countries and economies to thrive once again and we can all play our part
-      by being mindful and responsible travellers.</p>
+      countries and economies thriving once again. We can all play our part by
+      being mindful and responsible travellers.</p>
 show-gallery: false
 gallery:
   - image_path:
