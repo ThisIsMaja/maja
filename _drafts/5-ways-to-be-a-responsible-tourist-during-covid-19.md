@@ -62,6 +62,24 @@ sections:
       when watching our Instagram stories - (link to @mariefeandjakesnow), but
       there was no way we could have got on that flight without receiving those
       negative results.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>2 - Practice Social Distancing</h2><p>After spending so much time in
+      isolation and mostly with just each other, and of course Leo, it was
+      really strange to be back at the airport and around people again.</p><p>We
+      love meeting and being around people so social distancing has taken the
+      most getting used to for Marie and I.</p><p>It&rsquo;s recommended that at
+      this point, you should be keeping around 2 meters (3 steps) away from
+      other people.&nbsp;</p><p>We found the airport to be so eerily quiet that
+      this wasn&rsquo;t too difficult. Not only that every restaurant, store or
+      desk for example had markings on the floor to remind you to keep your
+      distance.</p><p>Responsible travelling means abiding by the rules and
+      being respectful of others so keeping the 2 meter distance is important
+      for respecting those things.</p>
 show-gallery: false
 gallery:
   - image_path:
