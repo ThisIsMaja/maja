@@ -160,8 +160,8 @@ layout: default
   "product": {
     'DOMEvents': {
       'click .button': function (evt, target) {
-        console.log(event);
-        console.log(target)
+        console.log('button for add to cart is pushed')
+        dataLayer.push('Add To Cart')
       }
     },
     "styles": {
