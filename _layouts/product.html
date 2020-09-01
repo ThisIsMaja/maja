@@ -159,21 +159,11 @@ layout: default
         options: {
   "product": {
     'DOMEvents': {
-      'click product.button': function (evt, target) {
-        console.log('button for add to cart is pushed 1')
-        dataLayer.push('Add To Cart')
-      },
-      'click .button': function (evt, target) {
-        console.log('button for add to cart is pushed2')
-        dataLayer.push('Add To Cart')
-      },
-      'click product.buttonWrapper': function (evt, target) {
-        console.log('button for add to cart is pushed3')
-        dataLayer.push('Add To Cart')
-      },
       'click .shopify-buy__btn': function (evt, target) {
-        console.log('button for add to cart is pushed4')
-        dataLayer.push('Add To Cart')
+        dataLayer.push({
+            'event': 'addToCart',
+            'productId': {{page.shopify-id}}
+        })
       }
     },
     "styles": {
