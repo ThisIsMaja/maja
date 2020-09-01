@@ -138,6 +138,25 @@ sections:
       have no idea what they have been through.</p><p>From fellow travellers to
       the locals we have to look after and help each other now more than
       ever.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Be a Responsible Tourist</h2><p>There is no doubting this is a super
+      sensitive time to be travelling and we understand first hand the fears
+      that some of you may have.</p><p>However, we feel like travel is the key
+      to connection that we must fight to maintain whilst of course showing
+      respect to this virus and the dangers that it has.</p><p>Travel is what
+      brought Marie and I together. Documenting our journey is what brought us
+      and you together through this shared love and passion for going to new
+      places and seeing new things. What feeds our soul more than anything else
+      is continuing to explore this incredible planet to educate ourselves on
+      what&rsquo;s important and what is not.</p><p>Together we have to ensure
+      that the ability to travel must survive. We want to see borders open and
+      countries and economies to thrive once again and we can all play our part
+      by being mindful and responsible travellers.</p>
 show-gallery: false
 gallery:
   - image_path:
