@@ -47,7 +47,21 @@ sections:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
-    body-content_html:
+    body-content_html: >-
+      <h2>1 - Get Tested Before Leaving</h2><p>One of the biggest differences we
+      noticed about travelling during the Coronavirus was the extra preparation
+      that goes in beforehand.</p><p>After making a last minute decision to
+      leave our Bali island life to head back to Europe, one of the essentials
+      was to get ourselves tested for the virus.</p><p>This is one of the most
+      important and essential responsible tourism examples we can give
+      you.&nbsp;</p><p>Taking this test not only gives you the peace of mind to
+      know that you can travel without the risk of infecting others, it also
+      gives you the relevant paperwork to show airlines and border controls that
+      you are no risk to travel and enter.</p><p>Taking the test itself
+      isn&rsquo;t a pleasant experience, which some of you guys might have seen
+      when watching our Instagram stories - (link to @mariefeandjakesnow), but
+      there was no way we could have got on that flight without receiving those
+      negative results.</p>
 show-gallery: false
 gallery:
   - image_path:
