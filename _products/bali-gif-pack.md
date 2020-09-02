@@ -8,7 +8,7 @@ order: 1
 price: $10
 compare-at-price:
 save-percentage:
-image_path: /uploads/img-3403.jpg
+image_path: /uploads/img-3403-1.jpg
 main-gallery:
   - image_path:
     alt:
