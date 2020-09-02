@@ -36,8 +36,8 @@ intro-content_html: >-
   is really like right now. We had heard many different things in the media and
   a lot of it was conflicting. Instead of listening to what others were saying,
   we wanted to see for ourselves. So we decided to travel, the big question was
-  'how could travel without jeopardizing the safety of others?'</p><p>Since we
-  left Bali we arrived in <a target="_blank" rel="noopener"
+  'how could we travel without jeopardizing the safety of others?'</p><p>Since
+  we left Bali we arrived in <a target="_blank" rel="noopener"
   href="https://thisismaja.com/posts/ten-day-greece-itinerary">Greece</a>, made
   our way from Athens to Santorini, explored Santorini, left for Italy and then
   explored some more. In the post will talk about our experience first hand and
