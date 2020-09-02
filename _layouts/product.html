@@ -158,24 +158,24 @@ layout: default
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
-    // 'DOMEvents': {
-    //   'click .shopify-buy__btn': function (evt, target) {
-    //     dataLayer.push({
-    //       'event': 'addToCart',
-    //       'ecommerce': {
-    //         'currencyCode': 'USD',
-    //         'add': {                               
-    //           'products': [{                       
-    //             'name': '{{page.title}}',
-    //             'id': '{{page.shopify-id}}',
-    //             'price': parseFloat('{{page.price}}'.replace('$', '')),
-    //             'quantity': 1
-    //           }]
-    //         }
-    //       }
-    //     });
-    //   }
-    // },
+    'DOMEvents': {
+      'click .shopify-buy__btn': function (evt, target) {
+        dataLayer.push({
+          'event': 'addToCart',
+          'ecommerce': {
+            'currencyCode': 'USD',
+            'add': {                               
+              'products': [{                       
+                'name': '{{page.title}}',
+                'id': '{{page.shopify-id}}',
+                'price': parseFloat('{{page.price}}'.replace('$', '')),
+                'quantity': 1
+              }]
+            }
+          }
+        });
+      }
+    },
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
