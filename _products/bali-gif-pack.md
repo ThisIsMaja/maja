@@ -14,19 +14,24 @@ main-gallery:
     alt:
 short-description: Introducing the SUPPORT BALI GIF PACK!
 description: >-
-  Together with @caroline.kjellberg we wanted to help all the people and animals
-  here in Bali that are suffering right now due to the sudden drop in tourism.
-  So we created a massive bali, love and positivity themed GIF pack with over
-  100+ GIFS for you to use on your instagram stories, website, tiktok videos etc
-  etc.
+  Together with @caroline.kjellberg, we wanted to help all the people and
+  animals here in Bali that are suffering right now due to the sudden drop in
+  tourism. So we created a massive Bali, love, and positivity themed GIF pack
+  with over 100+ GIFS for you to use on your Instagram stories, website, TikTok
+  videos, etc.
 show-extended-content: true
 preset-tags:
   - travel
 faqs:
   - question: What's Included?
-    answer_html: <p>This is a short answer </p>
+    answer_html: >-
+      <p>100+ animated GIFS inspired by Bali, Love and Positivity for you to
+      decorate your Instagram stories, website, Tik Tok videos, etc.&nbsp;</p>
   - question: Is this pack for me?
-    answer_html: <p> This is another short answer </p>
+    answer_html: >-
+      <p>If you want to help the local Balinese community during this difficult
+      time as well as create unique Instagram stories and Tik Tok videos, then
+      this pack is definitely for you.</p>
 reviews: 300
 show-on-compare-page: true
 video_banner_path:
