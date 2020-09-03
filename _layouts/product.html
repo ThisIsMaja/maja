@@ -158,28 +158,22 @@ layout: default
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
-    'DOMEvents': {
-      'click .shopify-buy__btn-wrapper': function (evt, target) {
-        dataLayer.push({
-          'event': 'addToCart',
-          'ecommerce': {
-            'currencyCode': 'USD',
-            'add': {                               
-              'products': [{                       
-                'name': '{{page.title}}',
-                'id': '{{page.shopify-id}}',
-                'price': parseFloat('{{page.price}}'.replace('$', '')),
-                'quantity': 1
-              }]
-            }
-          }
-        });
-      }
-    },
     "events": {
         "addVariantToCart": function (product) {
-            console.log('Add Varient to Cart')
-            console.log(product)
+            dataLayer.push({
+              'event': 'addToCart',
+              'ecommerce': {
+                'currencyCode': 'USD',
+                'add': {                               
+                  'products': [{                       
+                    'name': '{{page.title}}',
+                    'id': product.id,
+                    'price': parseFloat('{{page.price}}'.replace('$', '')),
+                    'quantity': 1
+                  }]
+                }
+              }
+            });
         },
         "updateQuantity": function (product) {
             console.log('Update Quantity')
