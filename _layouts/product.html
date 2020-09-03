@@ -176,6 +176,16 @@ layout: default
         });
       }
     },
+    "events": {
+        "addVariantToCart": function (product) {
+            console.log('Add Varient to Cart')
+            console.log(product)
+        },
+        "updateQuantity": function (product) {
+            console.log('Update Quantity')
+            console.log(product)
+        },
+    },
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
@@ -250,6 +260,16 @@ layout: default
     ]
   },
   "cart": {
+    "events": {
+       "openCheckout": function (cart) { 
+           console.log('OpenCheckout')
+           console.log(cart)
+       },
+       'updateItemQuantity': function (cart) {
+           console.log('Updatet Line Item Quantity')
+           console.log(cart)
+       }, 
+    },
     "styles": {
       "button": {
         "font-family": "p22-underground, sans-serif",
