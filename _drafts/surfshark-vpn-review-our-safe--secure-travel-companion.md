@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-08-27 00:00:00
-hidden: true
+date: 2020-09-05 00:00:00
+hidden: false
 slug: surfshark-vpn-review
 title: 'Surfshark VPN Review: Our Safe & Secure Travel Companion'
 meta-description: >-
