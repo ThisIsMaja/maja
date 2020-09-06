@@ -24,20 +24,19 @@ image-2_alt:
 intro-paragraph-emphasis: Our Review of Surfshark VPN
 intro-content_html: >-
   <p>We have a confession to make. There was a time when we had no idea what a
-  VPN was or why we would need to use one - until we discovered Surfshark. We
-  want to share our Surfshark VPN review with you to explain more about
-  VPN&rsquo;s and how they can come in handy, especially when
-  travelling!&nbsp;</p><p>You might be asking &lsquo;what on earth is a
-  VPN?&rsquo;. VPN stands for Virtual Private Network. It is a service that
-  allows you to connect to the internet securely, giving you privacy and
-  protecting your data.&nbsp;</p><p>We actually started using the Surfshark VPN
-  to get our fix of Australian Netflix whilst in Indonesia!&nbsp;</p><p>Without
-  a VPN it&rsquo;s only possible to access the Netflix library of whichever
-  country you are in at the time which can be pretty limiting if you want to
-  catch up on your favourite shows from back home.</p><p>There&rsquo;s a lot
-  more that a VPN can do, so keep reading our Surfshark VPN review to find out
-  all about the cool features that it has and also about our own personal
-  experience using this service.</p>
+  VPN was or why we would need to use one. We want to share our Surfshark VPN
+  review with you to explain more about VPN&rsquo;s and how they can come in
+  handy, especially when travelling!&nbsp;</p><p>You might be asking &lsquo;what
+  on earth is a VPN?&rsquo;. VPN stands for Virtual Private Network. It is a
+  service that allows you to connect to the internet securely, giving you
+  privacy and protecting your data.&nbsp;</p><p>We actually started using the
+  Surfshark VPN to get our fix of Netflix whilst in
+  Indonesia!&nbsp;</p><p>Without a VPN it&rsquo;s only possible to access the
+  Netflix library of whichever country you are in at the time which can be
+  pretty limiting if you want to catch up on your favourite shows from back
+  home.</p><p>There&rsquo;s a lot more that a VPN can do, so keep reading our
+  Surfshark VPN review to find out all about the cool features that it has and
+  also about our own personal experience using this service.</p>
 sections:
   - banner_path:
     banner-caption:
@@ -45,11 +44,11 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2 class="emphasis">What does Surfshark VPN do?</h2><p>The two big draw
-      cards of using the <a target="_blank" rel="noopener sponsored"
+      <h2 class="emphasis">What does a VPN do?</h2><p>The two big draw cards of
+      using the <a target="_blank" rel="noopener sponsored"
       href="https://surfshark.com/">Surfshark VPN service</a> are to protect
-      your security and privacy online.</p><p>Surfshark VPN can help you shield
-      your online presence in many different ways. It encrypts your personal
+      your security and privacy online.</p><p>A VPN can help you shield your
+      online presence in many different ways. It encrypts your personal
       information and sends it via a secure VPN tunnel meaning no-one unwanted
       can see it.&nbsp;</p><p>Because of this, ads, trackers and malware are
       blocked, online banking and managing crypto assets is more secure, using
@@ -67,7 +66,7 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2 class="emphasis">How Surfshark saves us money on travel</h2><p>Who
+      <h2 class="emphasis">How having a VPN saves us money on travel</h2><p>Who
       knew that a VPN could come in so handy while
       travelling!&nbsp;</p><p>Surfshark does a lot more than just allow you to
       watch your favourite shows abroad.&nbsp;</p><p>We are going to tell you
