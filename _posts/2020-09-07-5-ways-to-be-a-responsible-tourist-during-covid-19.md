@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-07 00:00:00
-hidden: true
+hidden: false
 slug: responsible-tourist
 title: 5 Ways to be a Responsible Tourist During Covid-19
 meta-description: >-
