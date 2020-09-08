@@ -1,13 +1,14 @@
 ---
 layout: modular
-published: false
+hidden: true
 date: 2020-07-25 00:00:00
 permalink: island-life-poke
 title: Island Life Poke
 meta-description:
 meta-keywords:
-image_path:
+image_path: /images/style/mariefeandjakesnow-pill3.jpg
 categories:
+  - newsfeed
 tags:
 author: Marie Fe
 page_blocks:
@@ -16,8 +17,6 @@ page_blocks:
     block-class: dark-bg
     body-content_html: <p class="big-emphasis">OPENING THIS WEEKEND IN PADANG PADANG</p>
 _all-posts: true
-_hide_content: true
 _comments:
   slug: this overrides the default url
 ---
-

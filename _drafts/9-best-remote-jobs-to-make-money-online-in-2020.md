@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-12 00:00:00
-published: false
+hidden: true
 slug: remote-jobs-to-make-money-online
 title: 9 Best Remote Jobs to Make Money Online in 2020
 meta-description:

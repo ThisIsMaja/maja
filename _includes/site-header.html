@@ -1,6 +1,6 @@
 <!-- This is your site header, you can replace this with whichever header you want to use -->
 
-<header class="nav-bar fixed">
+<header class="nav-bar">
   <div class="grid-center">
       <nav class="col-4-middle right mob-hide" data-aos="fade" data-aos-delay="500">
         <a href="/blog"> BLOG </a>
@@ -31,7 +31,7 @@
         </div>
       </div>
   </div>
- 
+
 </header>
 
 
@@ -39,7 +39,6 @@
 
 <!-- This is the mobile menu  -->
 <nav class="mobile-menu">
-  <div class="hamburger close"> X </div>
   <div class="mini-header">
     <a href="/" data-aos="fade">
       <img class="logo" src="/images/logo/maja-logo-6.png" nopin = "nopin">
@@ -49,7 +48,7 @@
     <a href="/" style="--index: 0;"> Home </a>
     <a href="/blog" style="--index: 1;"> Blog </a>
     <a href="/about" style="--index: 2;"> About </a>
-    <a id="expand-menu" style="--index: 3;"> SHOP <i class="fas fa-chevron-down"></i> </a>
+    <a id="expand-menu" style="--index: 3;"> Shop > </a>
     <nav class="hidden" id="expand-nav">
       {% for link in site.data.mobile-nav %}
       <a href="{{link.url}}"> {{link.title}}</a>
@@ -57,7 +56,7 @@
     </nav>
     <!--Update freebies link -->
     <a href="/freebies" style="--index: 4;"> Freebies </a>
-    <a href="/subscribe" class="emphasis" style="--index: 5;"> MAJA TALK </a>
+    <a href="/subscribe" class="emphasis" style="--index: 5;"> MAJA NEWSLETTER </a>
   </div>
   <nav class="inline socials">
     <a href="http://www.instagram.com/mariefeandjakesnow" target="_blank" style="--index: 5;">

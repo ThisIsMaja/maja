@@ -1,17 +1,20 @@
 ---
 title: Photography Mini-Course
 layout: product
-published: false
+hidden: true
 type: course
 order: 2
 price: $29
 compare-at-price: $120
 save-percentage: $100
-home-page-feature: true
+home-page-feature: false
 image_path: /images/shop/cover-4.jpg
 short-description: 7 days of phography lessons and activities
 description: >-
-  In this course we've taken our years of photography experience and squeezed as much knowledge as possible into a beginner-friendly course. We'll teach you actionale tips and tricks that you can try today, even in your own home with whatever camera you already have (including your phone!)
+  In this course we've taken our years of photography experience and squeezed as
+  much knowledge as possible into a beginner-friendly course. We'll teach you
+  actionale tips and tricks that you can try today, even in your own home with
+  whatever camera you already have (including your phone!)
 show-extended-content: true
 main-gallery:
   - image_path: /images/shop/Allstar-Bonus-Pack/allstar-1.JPG
@@ -55,18 +58,19 @@ vimeo-video-instead:
 ---
 
 ## 7 Day Photography Challenge
+
 ##### MAJA X INSTITUTE OF CODE
 
 Whether you are an absolute beginner, or someone looking to improve your skills this 7 day mini-course has a little something for everyone.
 
-It's perfect for someone who wants to be able capture better photos for themselves -- whether that's family portraits or solo travel photos. If you are an entrepreneur running your own business, this course will help you create beautiful scenes and create content for your brand. And if you are thinking of starting a career in photography, this will be the perfect introduction.
+It's perfect for someone who wants to be able capture better photos for themselves – whether that's family portraits or solo travel photos. If you are an entrepreneur running your own business, this course will help you create beautiful scenes and create content for your brand. And if you are thinking of starting a career in photography, this will be the perfect introduction.
 
 #### What you'll learn:
 
-- How to find the best lighting (even if you are stuck inside)
-- Setting up a scene for food & product photography
-- How to have a mini-photoshoot in your living room or backyard
-- Lightroom editing basics with Emilio
-- Marie & Jake show you how to take photos with a tripod & timer
-- Step-by-step walkthrough of editing a photo for instagram with Jake
-- Manual Photography Basics (Understanding Aperture, Shutter Speed & ISO)
+* How to find the best lighting (even if you are stuck inside)
+* Setting up a scene for food & product photography
+* How to have a mini-photoshoot in your living room or backyard
+* Lightroom editing basics with Emilio
+* Marie & Jake show you how to take photos with a tripod & timer
+* Step-by-step walkthrough of editing a photo for instagram with Jake
+* Manual Photography Basics (Understanding Aperture, Shutter Speed & ISO)

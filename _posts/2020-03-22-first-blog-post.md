@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-04-25 00:00:00
-published: true
+hidden: false
 slug: how-to-be-more-creative
 title: How to bring more creativity into your daily routine
 meta-description: >-

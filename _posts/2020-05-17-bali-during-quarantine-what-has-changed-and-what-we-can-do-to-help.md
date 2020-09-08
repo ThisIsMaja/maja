@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-17 00:00:00
-published: true
+hidden: false
 slug: bali-during-quarantine
 title: 'Bali during quarantine: what has changed and what we can do to help'
 meta-description: >-

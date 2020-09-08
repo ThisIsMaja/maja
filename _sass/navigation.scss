@@ -1,10 +1,6 @@
 
   /* Headers and footers */
 
-  body {
-    padding-top: 5.6rem;
-  }
-
   header {
     padding: 0.2rem 5%;
     // border-bottom: 1px solid #f9f0e7;
@@ -110,7 +106,7 @@
   }
 
   .hamburger {
-    position: absolute;
+    position: fixed;
     top: -1rem;
     right: 0;
     z-index: 6;
@@ -153,39 +149,44 @@
   }
 
   .mobile-menu .logo {
-    width: 15rem;
+    width: 8rem;
     max-width:80%;
   }
 
   .mobile-menu a {
-    padding: 0.4rem;
+    padding: 0.1rem;
     display: block;
     text-decoration: none;
-    color: rgb(120,120,130);
+    color: rgb(60,60,60);
     font-size: 1.4rem;
-    letter-spacing: 1px;
+    font-family: orpheuspro, serif;
+    text-transform: none;
+
   }
 
   .mobile-menu .inline a,
   .explore-menu .inline a {
     display: inline-block;
-    // color: rgb(100,100,110);
+    color: rgb(100,100,110);
     font-weight: normal;
     font-family: "orpheuspro";
     text-transform: none;
     font-size: 0.9rem;
     padding: 0.2rem;
+    font-style: italic;
   }
 
   .mobile-menu .emphasis,
   .explore-menu .emphasis {
-    background-color: #eab9aa;
+    background-color: rgb(60,60,60);
     color: white;
-    margin: 0.5rem;
-    font-size: 1rem;
+    margin: 1rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
     /* font-weight: bold; */
     display: inline-block;
-    padding: 0.7rem 2rem;
+    padding: 0.3rem 0.5rem;
+    font-family: 'p22-underground', sans-serif;
   }
 
   header .mobile-menu a {
@@ -214,7 +215,7 @@
   // Explore Menu
 
   .explore-menu {
-    margin-top: -4.3rem;
+    // margin-top: -4.3rem;
   }
 
   .explore-menu a {
@@ -366,12 +367,6 @@
 
   @media(max-width:768px) {
     header {
-      position: fixed;
-      top:0;
-      left:0;
-      right:0;
-      background-color: white;
-      z-index: 2;
       padding: 0.5rem 0 0 0;
     }
     header .logo {

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-11-26 00:00:00
-published: true
+hidden: false
 slug: best-local-islands-maldives
 title: The Best local Islands to Visit in The Maldives (On a Budget)
 meta-description: >-

@@ -1,6 +1,6 @@
 ---
 layout: modular
-published: false
+hidden: true
 date: 2020-01-01 00:00:00
 permalink: test-ordinary
 title: my favs
@@ -44,4 +44,3 @@ _hide_content: true
 _comments:
   slug: this overrides the default url
 ---
-

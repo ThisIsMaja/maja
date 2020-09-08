@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-06-25 11:00:00
-published: true
+hidden: false
 slug: maja-travel-update
 title: 'Travel Update: What will the travel industry look like after quarantine?'
 meta-description: >-

@@ -98,32 +98,32 @@ $(function() {
 
 
 // Nav bar appear and dissapear on scroll
-
-var lastScrollTop = 0;
-var delayOpen;
-
-$(window).scroll(function () {
-
-  if (delayOpen) {clearTimeout( delayOpen )};
-
-  var st = $(this).scrollTop();
-
-  if (st < lastScrollTop){
-    $('.nav-bar ').fadeIn();
-  } else {
-    $('.nav-bar ').fadeOut()
-  };
-
-  function reset(){
-
-    delayOpen = setTimeout(function(){ $('.nav-bar ').fadeIn(); }, 500);
-  };
-
-  reset()
-
-  lastScrollTop = st;
-
-})
+//
+// var lastScrollTop = 0;
+// var delayOpen;
+//
+// $(window).scroll(function () {
+//
+//   if (delayOpen) {clearTimeout( delayOpen )};
+//
+//   var st = $(this).scrollTop();
+//
+//   if (st < lastScrollTop){
+//     $('.nav-bar ').fadeIn();
+//   } else {
+//     $('.nav-bar ').fadeOut()
+//   };
+//
+//   function reset(){
+//
+//     delayOpen = setTimeout(function(){ $('.nav-bar ').fadeIn(); }, 500);
+//   };
+//
+//   reset()
+//
+//   lastScrollTop = st;
+//
+// })
 
 // End Nav Bar
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-04-26 00:00:00
-published: true
+hidden: false
 slug: exploring-the-philippines
 title: 'Exploring the Philippines: Our Top 3 Favorite Islands'
 meta-description: >-

@@ -9,7 +9,7 @@ compare-at-price: $39.95
 home-page-feature: true
 save-percentage: 50%
 image_path: /images/shop/cover-5.jpg
-short-description: The Bestseller for Mobile photos. 12 soft & dreamy Mobile & Desktop
+short-description: 12 Dreamy Presets for Mobile & Pc
 description: >-
   Presets designed for any camera and great for mobile photography. Perfect for
   Skin tones, food, selfies, lifestyle, indoors/outdoors! Transform all your

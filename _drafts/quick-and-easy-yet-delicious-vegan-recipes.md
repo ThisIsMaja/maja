@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-12 00:00:00
-published: false
+hidden: true
 slug: delicious-vegan-recipes
 title: Quick and easy yet delicious vegan recipes
 meta-description:

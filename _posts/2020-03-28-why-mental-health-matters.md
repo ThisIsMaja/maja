@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-01-01
-published: true
+hidden: false
 slug: mental-health-matters
 title: (Why) Mental Health Matters
 meta-description: >-

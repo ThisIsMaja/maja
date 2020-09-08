@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-01-01 00:00:00
-published: true
+hidden: false
 slug: one-day-in-madrid
 title: 'Madrid Travel Tips: How To Spend One Day in Madrid, Spain'
 meta-description: >-

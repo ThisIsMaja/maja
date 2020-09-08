@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-09-03 00:00:00
-published: true
+hidden: false
 slug: travel-guide-sri-lanka
 title: Sri Lanka 3 Week Travel Guide
 meta-description: >-

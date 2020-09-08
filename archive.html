@@ -3,14 +3,27 @@ layout: default
 title: blog
 ---
 
-<section class="padded">
-  <h1 class="centered editable"> Latest on the blog </h1>
-  <p class="centered editable"> This page will display the 50 latest blog posts. </p>
+<section class="padded light-bg">
+  <h1 class="centered editable padded-2-v"> Newsfeed Archive </h1>
 
-  <div class="blog-masonry blog-loop">
+  <div class="archive-loop">
 
-    {% for post in site.posts limit:50 %}
-        {% include post-loop-item.html %}
+    <!--  First create a new join collection  -->
+    {% assign all-posts = "" | split: "" %}
+      {% for post in site.posts %}
+        {% assign all-posts = all-posts | push: post %}
+      {% endfor %}
+      {% for post in site.pages %}
+        {% assign all-posts = all-posts | push: post %}
+    {% endfor %}
+
+    {% assign ordered-posts = all-posts | date_sort | reverse %}
+
+    <!--  Then loop through it  -->
+    {% for post in ordered-posts %}
+      {% unless post.hidden == true %}
+        {% include post-loop-item-3.html %}
+      {% endunless %}
     {% endfor %}
 
   </div>

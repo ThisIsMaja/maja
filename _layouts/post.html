@@ -151,12 +151,13 @@ layout: default
 
 <h4 class=" centered subtle-heading"> Related Posts </h4>
 
-<div class="horizontal-scroll grid">
+<div class="horizontal-scroll grid-center">
 
 
 {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
 {% assign relevant = site.categories[pageCategory] | where_exp:"post","post.url != page.url" %}
   {% for post in relevant limit:3 %}
+    {% unless post.hidden == true %}
 
       <a href="{{post.url}}" class="col-4_xs-12 padded-2 centered">
         <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
@@ -164,7 +165,7 @@ layout: default
         <span class="author"> {{post.date | date: "%m.%d.%Y" }} </span>
         <h3> {{post.title}} </h3>
       </a>
-
+      {% endunless %}
   {% endfor %}
 </div>
 

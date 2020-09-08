@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-07-11 00:00:00
-published: true
+hidden: false
 slug: travel-guide-south-africa-safari
 title: Travel Guide To The Perfect South Africa Safari Holiday
 meta-description: >-
@@ -291,4 +291,3 @@ gallery:
     size: full
     alt:
 ---
-

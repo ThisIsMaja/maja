@@ -7,3 +7,7 @@ _comments:
 {% for block in page.page_blocks %}
       {% include blocks/{{block._id}}.html block=block %}
 {% endfor %}
+
+{% if page.hidden == true %}
+<meta name="robots" content="noindex">
+{% endif %}

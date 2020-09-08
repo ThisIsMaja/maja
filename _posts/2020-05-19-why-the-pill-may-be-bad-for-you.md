@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-19 00:00:00
-published: true
+hidden: false
 slug: why-the-pill-may-be-bad
 title: Why the 'pill' may be bad for you
 meta-description: >-

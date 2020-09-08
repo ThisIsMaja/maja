@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-11-18 00:00:00
-published: true
+hidden: false
 slug: life-changing-trip-to-turkey
 title: Our romantic life-changing trip to Turkey
 meta-description: >-

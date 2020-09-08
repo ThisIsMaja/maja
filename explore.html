@@ -5,19 +5,20 @@ hide-from-google: true
 hide-header: true
 hide-footer: false
 links:
-  - link_text: |-
-      Dreamsea bikini collection / launching this Sunday /
-      Discount code “dreamsea12”
-    link_url: 'https://www.underseawear.com/'
-  - link_text: Interview with Undersea about my Sustainable Bikini Collection
-    link_url: >-
-      https://www.underseawear.com/blogs/news/exclusive-interview-with-marie-fe-about-the-dream-sea-collection
-  - link_text: Buy 2 Preset packs for 1
-    link_url: 'https://thisismaja.com/shop'
-  - link_text: Maja Blog & website
+  - link_text: Maja Blog
     link_url: 'https://thisismaja.com/'
-background_image: /images/banners/yellow-banner.png
-link_color: '#4f6ec6'
+  - link_text: Best VPN Deal - 85% discount and 3 free months for free
+    link_url: 'https://surfshark.deals/MAJA'
+  - link_text: All Presets on Sale -50% off
+    link_url: 'https://thisismaja.com/shop'
+  - link_text: Mobile photo Bestseller
+    link_url: 'https://thisismaja.com/products/ultimate-mobile-pack'
+  - link_text: Bonus Pack for only 10$
+    link_url: 'https://thisismaja.com/products/all-star'
+  - link_text: Maja Bali Bikini Collection (Discount "DREAMSEA12")
+    link_url: 'https://www.underseawear.com/'
+background_image: /images/banners/maja-banner1.jpg
+link_color: '#6da9a0'
 link-background_color: 'rgba(255, 255, 255, 0.8)'
 ---
 
@@ -36,11 +37,6 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
 <section class="explore-menu bg-image" style="background-image:url({{page.background_image}});">
 <nav class="padded">
 
-  <div class="mini-header">
-    <!-- <a href="/" data-aos="fade" style="border: none;">
-      <img class="logo" src="/images/logo/maja-logo-6.png">
-    </a> -->
-  </div>
   {% for item in page.links %}
 
   <a href="{{item.link_url}}" class="main-links"> {{item.link_text}}</a>
@@ -73,6 +69,7 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
       {% assign sorted-products = site.products | sort: 'order' %}
 
       {% for product in sorted-products %}
+      {% unless product.hidden == true %}
 
           <div class="col-4_sm-10 shop-item masonry-item padded-1 relative">
               <a href="{{product.url}}" class="card">
@@ -90,7 +87,7 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
                 </div>
               </a>
             </div>
-
+      {% endunless %}
       {% endfor %}
 
 
@@ -117,14 +114,15 @@ link-background_color: 'rgba(255, 255, 255, 0.8)'
 
 <section class="featured-bg padded-2-v padded-left-1 padded-bottom-2">
   <div class="explore-post-slider grid">
-  {% for post in site.posts limit:6 %}
+  {% for post in site.posts limit:10 %}
+    {% unless post.hidden == true %}
 
-      <a href="{{post.url}}" class="col-4_sm-8 padded-1 centered">
-        <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
-        <span class="author">by {{post.author}}</span>
-        <h3> {{post.title}} </h3>
-      </a>
-
+        <a href="{{post.url}}" class="col-4_sm-8 padded-1 centered">
+          <div class="bg-image padded" style="background-image:url({{post.image_path}})"> </div>
+          <span class="author">by {{post.author}}</span>
+          <h3> {{post.title}} </h3>
+        </a>
+      {% endunless %}
   {% endfor %}
   </div>
 </section>

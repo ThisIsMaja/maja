@@ -1,7 +1,7 @@
 ---
 layout: post
 date:
-published: false
+hidden: true
 slug:
 title:
 meta-description:
