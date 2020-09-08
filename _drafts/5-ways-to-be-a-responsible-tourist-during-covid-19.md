@@ -17,7 +17,7 @@ categories:
 tags:
   - Travel Tips
 author: Jake Snow
-image-1_path:
+image-1_path: /images/Italy/amalfi-coast-drive3.jpg
 image-1_alt:
 image-2_path:
 image-2_alt:
