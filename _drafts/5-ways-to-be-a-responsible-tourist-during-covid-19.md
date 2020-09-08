@@ -8,8 +8,8 @@ meta-description: >-
   This is our 5 tried and tested suggestions on how to be a safe and responsible
   tourist during Covid-19
 meta-keywords: responsible tourist
-image_path:
-banner-1_path:
+image_path: /images/greece/greece-santorini-summer.jpg
+banner-1_path: /images/greece/greece-santorini-summer.jpg
 banner-fixed: true
 newsfeed: true
 categories:
