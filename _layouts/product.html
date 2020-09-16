@@ -7,11 +7,10 @@ layout: default
     // Product impressions are sent by pushing an impressions object
     // containing one or more impressionFieldObjects.
     dataLayer.push({
-      'event': 'Viewed Product',
       'ecommerce': {
         'impressions': [
          {
-           'id': '{{page.shopify-id}},       // Name or ID is required.
+           'id': '{{page.shopify-id}}',       // Name or ID is required.
            'name': '{{page.title}}'
            'price': parseFloat('{{page.price}}'.replace('$', '')),
          }]
