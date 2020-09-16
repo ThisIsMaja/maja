@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+<script>
+    // Measures product impressions and also tracks a standard
+    // pageview for the tag configuration.
+    // Product impressions are sent by pushing an impressions object
+    // containing one or more impressionFieldObjects.
+    dataLayer.push({
+      'ecommerce': {
+        'impressions': [
+         {
+           'name': '{{product.title}}',       // Name or ID is required.
+           'price': parseFloat('{{page.price}}'.replace('$', '')),
+         }]
+      }
+    });
+</script>
 <section class="grid-center shop-details light-bg">
   <div class="left padding-0">
     <button class="back-button mob-hide" onclick="goBack()">< Go Back</button>
@@ -122,21 +137,6 @@ layout: default
 
 {% endunless %}
 
-<script>
-    // Measures product impressions and also tracks a standard
-    // pageview for the tag configuration.
-    // Product impressions are sent by pushing an impressions object
-    // containing one or more impressionFieldObjects.
-    dataLayer.push({
-      'ecommerce': {
-        'impressions': [
-         {
-           'name': '{{product.title}}',       // Name or ID is required.
-           'price': parseFloat('{{page.price}}'.replace('$', '')),
-         }]
-      }
-    });
-</script>
 
 <!--  Javascript for the buy button -->
 
