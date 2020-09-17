@@ -1,19 +1,21 @@
-travel:
-  - africa
-  - americas
+destinations:
   - asia
   - europe
+  - middle east
+  - africa
+  - north america
+  - south america
+  - oceania
 lifestyle:
-  - business
-  - photography
-  - productivity
+  - news
+  - fashion & beauty
   - self-improvement
 wellbeing:
-  - diet
-  - mental health
-  - conscious living
-journal:
-  - our thoughts
-  - productivity
   - relationships
-contributors: 
+  - food & nutrition
+  - health & fitness
+learn from us:
+  - photography
+  - social media
+  - business
+  - travel tips
