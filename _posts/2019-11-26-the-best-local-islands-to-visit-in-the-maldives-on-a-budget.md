@@ -13,7 +13,7 @@ image_path: /images/maldives/amilla-fushi7.jpg
 banner-1_path: /images/maldives/amilla-fushi7.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
   - asia
 author: Marie Fe
@@ -253,4 +253,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

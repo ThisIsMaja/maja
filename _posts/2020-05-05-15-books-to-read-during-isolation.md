@@ -12,12 +12,9 @@ image_path: /images/style/books-stock2.jpg
 banner-1_path: /images/style/books-stock2.jpg
 banner-fixed: false
 categories:
-  - journal
-  - wellbeing
+  - lifestyle
 tags:
-  - Self Improvement
-  - Business
-  - productivity
+  - self-improvement
 author: Marie & Jake
 image-1_path: /images/style/books-stock1.jpg
 image-2_path:
@@ -205,4 +202,3 @@ gallery:
     size: full
     alt:
 ---
-

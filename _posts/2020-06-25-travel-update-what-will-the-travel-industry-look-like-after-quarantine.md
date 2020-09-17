@@ -12,9 +12,9 @@ image_path: /images/bali/Bali-blogpost1.jpg
 banner-1_path: /images/bali/Bali-blogpost1.jpg
 banner-fixed: true
 categories:
-  - travel
+  - lifestyle
 tags:
-  - Travel Tips
+  - news
 author: Marie and Jake
 image-1_path: /images/bali/Bali-blogpost3.jpg
 image-2_path:
@@ -151,4 +151,3 @@ gallery:
     size: full
     alt:
 ---
-

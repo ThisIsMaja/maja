@@ -13,11 +13,9 @@ image_path: /images/style/maja-stock-style3.jpg
 banner-1_path: /images/style/maja-stock-47.jpg
 banner-fixed: true
 categories:
-  - journal
   - lifestyle
 tags:
-  - Self Improvement
-  - productivity
+  - self-improvement
 author: Jake Snow
 image-1_path: /images/style/maja-stock-style3.jpg
 image-1-caption:
@@ -79,4 +77,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

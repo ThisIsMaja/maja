@@ -17,10 +17,8 @@ banner-1_path: /images/marie-jake/gili-island2.jpg
 banner-fixed: false
 categories:
   - wellbeing
-  - lifestyle
 tags:
-  - diet
-  - Self Improvement
+  - health & fitness
 author: Jake Snow
 image-1_path: /images/food/vegan-food3.jpg
 image-2_path: /images/marie-jake/mariefeandjakesnow-1.jpg
@@ -181,4 +179,3 @@ gallery:
     size: full
     alt:
 ---
-

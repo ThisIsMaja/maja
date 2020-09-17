@@ -15,13 +15,9 @@ banner-fixed: true
 banner-2_path:
 banner-2-caption:
 categories:
-  - lifestyle
-  - travel
+  - learn from us
 tags:
-  - productivity
-  - Business
-  - Self Improvement
-  - Travel Tips
+  - travel tips
 author: Marie Fe & Jake Snow
 image-1_path: /images/marie-jake/Website 2-9.jpg
 image-2_path: /images/marie-jake/Website 3-1.jpg
@@ -110,4 +106,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

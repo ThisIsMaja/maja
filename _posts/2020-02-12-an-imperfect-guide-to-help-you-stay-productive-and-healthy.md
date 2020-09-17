@@ -14,11 +14,8 @@ banner-1_path: /images/office/home-office4.jpg
 banner-fixed: true
 categories:
   - lifestyle
-  - wellbeing
 tags:
-  - mental Health
-  - productivity
-  - Self Improvement
+  - self-improvement
 author: Marie Fe
 image-1_path: /images/office/maja-content1.jpg
 image-2_path:
@@ -190,4 +187,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

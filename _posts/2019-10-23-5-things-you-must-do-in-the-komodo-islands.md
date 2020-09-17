@@ -13,7 +13,7 @@ image_path: /images/komodo-islands/Komodo-Islands1.jpg
 banner-1_path: /images/komodo-islands/Komodo-Islands2.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
   - asia
 author: Marie Fe & Jake Snow
@@ -148,4 +148,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

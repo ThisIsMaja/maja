@@ -16,9 +16,7 @@ banner-fixed: true
 categories:
   - lifestyle
 tags:
-  - productivity
-  - Self Improvement
-  - Business
+  - self-improvement
 author: Jake Snow
 image-1_path: /images/office/productivity-apps3.jpg
 image-2_path:

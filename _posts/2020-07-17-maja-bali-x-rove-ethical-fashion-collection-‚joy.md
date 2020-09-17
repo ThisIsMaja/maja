@@ -15,11 +15,8 @@ banner-1_path: /images/Maja-x-Rove/rove-maja-banner.jpg
 banner-fixed: true
 categories:
   - lifestyle
-  - newsfeed
 tags:
-  - Fashion
-  - Maja Bali
-  - conscious living
+  - fashion & beauty
 author: Marie Fe
 image-1_path: /images/Maja-x-Rove/rove-7.jpeg
 image-2_path:

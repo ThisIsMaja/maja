@@ -13,10 +13,8 @@ banner-1_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
 banner-fixed: true
 categories:
   - lifestyle
-  - journal
 tags:
-  - productivity
-  - self-important
+  - self-improvement
 author: Marie Fe
 image-1_path: /images/style/maja-stock-23.jpg
 image-2_path: /images/style/maja-stock-29.jpg
@@ -76,7 +74,7 @@ gallery:
   - image_path:
     size: full
     alt:
-gallery-text: 
+gallery-text:
 ---
 
 Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.

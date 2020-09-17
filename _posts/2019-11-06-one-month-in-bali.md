@@ -15,7 +15,7 @@ image_path: /images/bali/bali-indonesia5.jpg
 banner-1_path: /images/bali/bali-indonesia6.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
   - asia
 author: Marie Fe & Jake Snow
@@ -384,4 +384,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

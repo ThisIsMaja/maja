@@ -13,12 +13,9 @@ image_path: /images/content-creation/iphone-content1.jpg
 banner-1_path: /images/content-creation/iphone-content1.jpg
 banner-fixed: true
 categories:
-  - journal
-  - lifestyle
+  - learn from us
 tags:
-  - Self Improvement
-  - Business
-  - productivity
+  - social media
 author: Marie & Jake
 image-1_path: /images/content-creation/iphone-content7.jpg
 image-2_path: /images/content-creation/iphone-content6.jpg
@@ -164,4 +161,3 @@ gallery:
     size: full
     alt:
 ---
-

@@ -13,11 +13,9 @@ image_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-1_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-fixed: true
 categories:
-  - journal
   - wellbeing
 tags:
-  - diet
-  - mental Health
+  - health & fitness
 author: Marie
 image-1_path: /images/personal/skin-pimples.jpg
 image-2_path:

@@ -14,9 +14,9 @@ image_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
 banner-1_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
 banner-fixed: false
 categories:
-  - travel
+  - destinations
 tags:
-  - americas
+  - north america
 author: Marie Fe
 image-1_path: /images/hawaii/mariefeandjakesnow-hawaii4.jpg
 image-2_path:
@@ -308,4 +308,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

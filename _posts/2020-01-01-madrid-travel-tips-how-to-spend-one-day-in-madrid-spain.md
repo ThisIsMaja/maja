@@ -14,9 +14,9 @@ image_path: /images/city/madrid-spain1.jpg
 banner-1_path: /images/city/madrid-spain5.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
-  - Europe
+  - europe
 author: Marie Fe
 image-1_path: /images/city/madrid-spain3.jpg
 image-2_path: /images/city/madrid-spain4.jpg
@@ -122,4 +122,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

@@ -14,11 +14,9 @@ image_path: /images/food/kynd-burrito4.jpg
 banner-1_path: /images/food/kynd-burrito4.jpg
 banner-fixed: true
 categories:
-  - lifestyle
   - wellbeing
 tags:
-  - diet
-  - conscious living
+  - food & nutrition
 author: Marie & Jake
 image-1_path: /images/marie-jake/mariefeandjakesnow-bali2.jpg
 image-2_path: /images/food/kynd-burrito6.jpg
@@ -254,4 +252,3 @@ gallery:
     size: full
     alt:
 ---
-

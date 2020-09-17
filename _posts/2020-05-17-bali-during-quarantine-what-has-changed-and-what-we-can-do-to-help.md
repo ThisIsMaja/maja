@@ -14,9 +14,9 @@ image_path: /images/bali/bali-indonesia3.jpg
 banner-1_path: /images/bali/bali-indonesia3.jpg
 banner-fixed: true
 categories:
-  - travel
+  - lifestyle
 tags:
-  - asia
+  - news
 author: Marie & Jake
 image-1_path: /images/bali/bali-indonesia7.jpg
 image-2_path:

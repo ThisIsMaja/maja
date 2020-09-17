@@ -13,9 +13,9 @@ banner-1_path: /images/greece/greece-santorini-summer.jpg
 banner-fixed: true
 newsfeed: true
 categories:
-  - travel
+  - learn from us
 tags:
-  - Travel Tips
+  - travel tips
 author: Jake Snow
 image-1_path: /images/Italy/amalfi-coast-drive3.jpg
 image-1_alt:
@@ -171,4 +171,3 @@ gallery:
     alt:
 _all-posts: true
 ---
-

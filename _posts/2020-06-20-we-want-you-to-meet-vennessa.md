@@ -13,10 +13,9 @@ image_path: /images/Contributors/Vennessa/vennessa-6.jpg
 banner-1_path: /images/Contributors/Vennessa/vennessa-6.jpg
 banner-fixed: true
 categories:
-  - Contributors
-  - travel
+  - lifestyle
 tags:
-  - Travel Tips
+  - news
 author: '@veennessa'
 image-1_path: /images/Contributors/Vennessa/Vennessa-9.jpg
 image-2_path:
@@ -153,4 +152,3 @@ gallery:
     size: full
     alt:
 ---
-

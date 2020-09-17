@@ -13,9 +13,9 @@ image_path: /images/Philippines/philippines-travel8.jpg
 banner-1_path: /images/Philippines/philippines-travel8.jpg
 banner-fixed: false
 categories:
-  - lifestyle
+  - learn from us
 tags:
-  - Photography
+  - photography
 author: Jake Snow
 image-1_path: /images/Philippines/Coron 5-1.jpg
 image-2_path: /images/komodo-islands/Komodo-Islands7.jpg
@@ -103,4 +103,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

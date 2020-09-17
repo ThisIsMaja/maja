@@ -13,10 +13,9 @@ image_path: /images/turkey/Pamukkale.jpg
 banner-1_path: /uploads/cappadocia.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
-  - asia
-  - Europe
+  - middle east
 author: Marie Fe & Jake Snow
 image-1_path: /images/turkey/cappadocia-photography2.jpg
 image-2_path:
@@ -96,4 +95,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

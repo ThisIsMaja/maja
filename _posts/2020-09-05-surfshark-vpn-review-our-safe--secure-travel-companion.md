@@ -13,9 +13,9 @@ banner-1_path: /images/office/surfshark-vpn.jpg
 banner-fixed: true
 newsfeed: true
 categories:
-  - travel
+  - learn from us
 tags:
-  - Travel Tips
+  - travel tips
 author: Jake Snow
 image-1_path: /images/travel-tips/surfshark-vpn-review-netflix.jpg
 image-1_alt: streaming Netflix on a laptop using Surfshark VPN
@@ -207,4 +207,3 @@ gallery:
     alt:
 _all-posts: true
 ---
-

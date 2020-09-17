@@ -13,9 +13,9 @@ image_path: /images/Obertauern/Obertauern5.jpg
 banner-1_path: /images/Obertauern/Obertauern5.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
-  - Europe
+  - europe
 author: Jake Snow
 image-1_path: /images/Obertauern/Obertauern1.jpg
 image-2_path: /images/Obertauern/Obertauern2.jpg
@@ -130,4 +130,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

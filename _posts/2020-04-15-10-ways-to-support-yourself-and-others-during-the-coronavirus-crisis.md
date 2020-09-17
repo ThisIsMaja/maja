@@ -13,10 +13,9 @@ image_path: /images/Coronavirus/coronavirus3.jpg
 banner-1_path: /images/Coronavirus/coronavirus2.jpg
 banner-fixed: true
 categories:
-  - wellbeing
+  - lifestyle
 tags:
-  - mental Health
-  - conscious living
+  - news
 author: Marie Fe
 image-1_path: /images/Coronavirus/coronavirus1.jpg
 image-2_path:
@@ -85,4 +84,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

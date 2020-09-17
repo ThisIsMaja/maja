@@ -13,9 +13,9 @@ image_path: /images/egypt-jordan/giza-pyramids2.jpg
 banner-1_path: /images/style/maja-stock-40.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
-  - africa
+  - middle east
 author: Marie Fe & Jake Snow
 image-1_path: /images/egypt-jordan/petra-jordan1.jpg
 image-2_path:
@@ -255,4 +255,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

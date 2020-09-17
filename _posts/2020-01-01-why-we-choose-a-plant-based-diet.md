@@ -14,11 +14,8 @@ banner-1_path: /images/food/vegan-food1.jpg
 banner-fixed: false
 categories:
   - wellbeing
-  - lifestyle
-  - journal
 tags:
-  - diet
-  - Self Improvement
+  - health & fitness
 author: Marie Fe
 image-1_path: /images/food/vegan-food8.jpg
 image-2_path: /images/food/plantbased-food3.jpg
@@ -180,4 +177,3 @@ gallery:
     alt:
 gallery-text:
 ---
-

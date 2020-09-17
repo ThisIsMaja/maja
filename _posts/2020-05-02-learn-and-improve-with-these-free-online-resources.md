@@ -15,11 +15,8 @@ banner-1_path: /images/nature/sunflower.jpg
 banner-fixed: false
 categories:
   - lifestyle
-  - journal
 tags:
-  - Self Improvement
-  - Business
-  - productivity
+  - self-improvement
 author: Marie & Jake
 image-1_path: /images/office/maja-content1.jpg
 image-2_path: /images/style/books-maja1.jpg
@@ -182,4 +179,3 @@ gallery:
     size: full
     alt:
 ---
-

@@ -14,7 +14,7 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - conscious living
+  - health & fitness
 author: Marie Fe
 image-1_path: /images/marie-jake/Website 2-25.jpg
 image-2_path:

@@ -13,7 +13,7 @@ image_path: /images/south-africa/south-africa-couple2.jpg
 banner-1_path: /images/south-africa/south-africa-safari3.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
   - africa
 author: Marie Fe & Jake Snow

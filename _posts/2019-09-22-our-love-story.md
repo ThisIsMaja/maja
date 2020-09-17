@@ -13,9 +13,9 @@ image_path: /images/marie-jake/Website 2-23.jpg
 banner-1_path: /images/nature/mariefeandjakesnow-banner10.jpg
 banner-fixed: true
 categories:
-  - journal
+  - wellbeing
 tags:
-  - our relationships
+  - relationships
 author: Marie & Jake
 image-1_path: /images/style/maja-stock-34.jpg
 image-2_path:

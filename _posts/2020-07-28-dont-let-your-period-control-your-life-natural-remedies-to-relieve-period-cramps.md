@@ -16,9 +16,7 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - mental Health
-  - diet
-  - womens health
+  - health & fitness
 author: Marie
 image-1_path: /images/Maja-x-Rove/joy-collection53.jpg
 image-2_path:

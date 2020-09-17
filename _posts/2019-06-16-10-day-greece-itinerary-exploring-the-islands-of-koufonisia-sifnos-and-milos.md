@@ -12,9 +12,9 @@ image_path: /images/greece/mariefeandjakesnow-greece14.jpg
 banner-1_path: /images/greece/mariefeandjakesnow-greece12.jpg
 banner-fixed: true
 categories:
-  - travel
+  - destinations
 tags:
-  - Europe
+  - europe
 author: Marie Fe & Jake Snow
 image-1_path: /images/greece/mariefeandjakesnow-greece2.jpg
 image-2_path:
@@ -314,4 +314,3 @@ gallery:
     alt:
 gallery-text:
 ---
-
