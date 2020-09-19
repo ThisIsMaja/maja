@@ -167,14 +167,12 @@ banners:
   </div>
   
   <script>
-    var pushProductImpressions = function(currentProduct) {
     dataLayer.push({
-                    'event': 'productImpression',
-                    'ecommerce': {
-                        'impressions': productsForAnalytics
-                    }
-                    });
-    }
+                        'event': 'productImpression',
+                        'ecommerce': {
+                            'impressions': productsForAnalytics
+                        }
+                  });
   </script>
   <p class="padded-1 centered">
     <a href="/shop-presets" class="subtle-button"> See All Presets </a>
