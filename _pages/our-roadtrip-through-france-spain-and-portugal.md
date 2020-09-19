@@ -3,7 +3,7 @@ layout: modular
 hidden: true
 date: 2020-09-18 00:00:00
 permalink: portugal-roadtrip-plans
-title: Our Road Trip to Portugal via France and Spain
+title: Our Road Trip To Portugal Via France And Spain
 meta-description:
 meta-keywords:
 image_path: /images/travel/maja-travel8.jpg
