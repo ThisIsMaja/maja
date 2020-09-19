@@ -115,15 +115,11 @@ banners:
         // initialize product array for analytics, and on click tracking command for product click
         var productsForAnalytics = new Array()
         var pushProductClick = function(currentProduct) {
-            console.log(currentProduct);
             dataLayer.push({
                             'event': 'productClick',
                             'ecommerce': {
                               'click': {
-                                'products': [{
-                                  'name': "currentProduct.title",                      // Name or ID is required.
-                                  'price': parseFloat(currentProduct.price.replace('$', ''))
-                                 }]
+                                'products': [currentProduct]
                               }
                              }
             });
@@ -141,7 +137,7 @@ banners:
         <script>
             const productForAnalytics = {
                 'name': '{{product.title}}',
-                'price': parseFloat({{product.price}}.replace('$', ''))
+                'price': parseFloat('{{product.price}}'.replace('$', ''))
             }
             productsForAnalytics.push(productForAnalytics);
             pushProductClick(productForAnalytics);
