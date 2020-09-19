@@ -15,11 +15,11 @@ page_blocks:
   - _id: intro
     name: Intro Section
     block-class:
-    image-1_path:
-    image-2_path:
+    image-1_path: /images/travel/maja-travel8.jpg
+    image-2_path: /images/travel/maja-travel1.jpg
     intro-paragraph-emphasis: >-
       We had the idea to pick up a camper and do a road trip down to Portugal to
-      meet our friends Raquel and Miguel (@explorerssaurus_
+      meet our friends Raquel and Miguel (@explorerssaurus_)
     body-content_html: >-
       <p>We've never been to Portugal before and we already have our eye on the
       perfect Camper Van for the trip. But then we started to wonder, can we
