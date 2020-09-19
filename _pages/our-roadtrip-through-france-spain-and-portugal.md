@@ -1,16 +1,16 @@
 ---
 layout: modular
 hidden: true
-date: 2020-09-17 00:00:00
+date: 2020-09-18 00:00:00
 permalink: portugal-roadtrip-plans
 title: 'Our Roadtrip through France, Spain and Portugal'
 meta-description:
 meta-keywords:
-image_path:
+image_path: /images/travel/maja-travel8.jpg
 newsfeed: true
 categories:
 tags:
-author: Marie Fe
+author: Marie Fe & Jake Snow
 page_blocks:
   - _id: intro
     name: Intro Section
