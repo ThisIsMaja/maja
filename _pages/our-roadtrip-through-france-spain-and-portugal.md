@@ -16,7 +16,7 @@ page_blocks:
     name: Intro Section
     block-class:
     image-1_path: /images/travel/maja-travel8.jpg
-    image-2_path: /images/travel/maja-travel1.jpg
+    image-2_path:
     intro-paragraph-emphasis: >-
       We had the idea to pick up a camper and do a road trip down to Portugal to
       meet our friends Raquel and Miguel (@explorerssaurus_)
@@ -48,7 +48,18 @@ page_blocks:
       people per group to go to a restaurant, cafe, bar<br />- No alcoholic
       beverages in public areas<br />- minimum distance of 2m to other
       people&nbsp;<br />- You have to wear a mask in stores and public
-      transportation</p><p>&nbsp;</p>
+      transportation</p><p>It seems that a road trip to Portugal is a real
+      possibility the a potential 5 day quarantine when we return to Germany. As
+      long as these restrictions don't change within the next week we will start
+      to plan for our trip going ahead!!&nbsp;</p><p>We can't wait to show you
+      guys what possibilities are out there right now in terms of travel. We
+      know that we are all restricted in different ways but that doesn't mean we
+      give up hope and stop having fun.&nbsp;</p><p><u>Road trips are our
+      favourite trips and we are excited to take you guys with us on this next
+      adventure. If you have done a road trip recently, we would love to hear
+      about your experience and if any of you guys have questions or information
+      regarding anything to do with our trip. Please lets have a chat below in
+      the comment box :)</u></p><p>&nbsp;</p>
 _all-posts: true
 _hide_content: true
 _comments:
