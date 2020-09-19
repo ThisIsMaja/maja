@@ -17,7 +17,7 @@ page_blocks:
     name: Intro Section
     block-class:
     image-1_path: /images/travel/maja-travel8.jpg
-    image-2_path:
+    image-2_path: /images/travel/ahorn-camper.jpg
     intro-paragraph-emphasis: >-
       We had the idea to pick up a camper and do a road trip to Portugal, via
       France and Spain, to meet our friends Raquel and Miguel
@@ -59,14 +59,17 @@ page_blocks:
       next week we will start to plan for our trip going ahead!!&nbsp;</p><p>We
       can't wait to show you guys what possibilities are out there right now in
       terms of travel. We know that we are all restricted in different ways but
-      that doesn't mean we give up hope and stop having fun.&nbsp;</p><p><a
+      that doesn't mean we give up hope and stop having fun.&nbsp;</p><p>We
+      always get asked how we are able to afford travelling full time. Now it is
+      our job and we can work from anywhere but in the beginning we travelled by
+      saving in many different ways.&nbsp;<a
       href="https://thisismaja.com/posts/ways-to-save-to-travel-full-time">Check
-      out these 8 ways to save enough to travel full time</a></p><p><u>Road
-      trips are our favourite trips and we are excited to take you guys with us
-      on this next adventure. If you have done a road trip recently, we would
-      love to hear about your experience and if any of you guys have questions
-      or information regarding anything to do with our trip let us know. Please
-      lets have a chat in the comment box below :)</u></p><p>&nbsp;</p>
+      out these 8 ways to save enough to travel full time</a></p><p>Road trips
+      are our favourite trips and we are excited to take you guys with us on
+      this next adventure. If you have done a road trip recently, we would love
+      to hear about your experience and if any of you guys have questions or
+      information regarding anything to do with our trip let us know. Please
+      lets have a chat in the comment box below :)</p><p>&nbsp;</p>
 _all-posts: true
 _hide_content: true
 _comments:
