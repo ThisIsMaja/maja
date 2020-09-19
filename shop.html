@@ -135,7 +135,7 @@ banners:
 
     {% if product.home-page-feature == true %}
         <script>
-            const productForAnalytics = {
+            var productForAnalytics = {
                 'name': '{{product.title}}',
                 'price': parseFloat('{{product.price}}'.replace('$', ''))
             }
