@@ -25,7 +25,30 @@ page_blocks:
       perfect Camper Van for the trip. But then we started to wonder, can we
       actually travel through France, Spain and then Portugal right now taking
       into account the COVID restrictions. So we started to do some research and
-      this is what we found out.</p><p>&nbsp;</p>
+      this is what we found out.</p><p><strong>When traveling from Germany to
+      France:</strong></p><p>- they warn people of unnecessary travels to
+      Ile-de-France, Provence-Alpes-Cote-d&rsquo;Azur,
+      Auvergne-Rh&ocirc;ne-Alpes, Occitanie, Nouvelle-Aquitaine and Corse
+      because of high infection rates<br />- No restrictions for entry and
+      transit. When returning to Germany there&rsquo;s a five day quarantine
+      obligation which ends with the receiving of a negative Corona test
+      (starting from 1st of October). If you only enter France for transit
+      without overnight stay the quarantine might be
+      omitted&nbsp;</p><p><strong>When traveling from France to
+      Spain:</strong></p><p>- no restrictions for travelers coming from France
+      (neither for entry or transit)<br />- There might be a health check where
+      they check your temperature and entry formal<br />- A lot of the camping
+      grounds are open</p><p><strong>Traveling from Spain to
+      Portugal:</strong></p><p>- no restrictions for travelers coming from
+      Spain&nbsp;<br />- You might have to provide information about your
+      destination, reason for the trip, contact details (when you entry by plane
+      the airline will keep your entry information card and they will check your
+      temperature)</p><p><strong>General rules:</strong></p><p>- cafes,
+      restaurants and bars have close between 8-11pm<br />- maximum of four
+      people per group to go to a restaurant, cafe, bar<br />- No alcoholic
+      beverages in public areas<br />- minimum distance of 2m to other
+      people&nbsp;<br />- You have to wear a mask in stores and public
+      transportation</p><p>&nbsp;</p>
 _all-posts: true
 _hide_content: true
 _comments:
