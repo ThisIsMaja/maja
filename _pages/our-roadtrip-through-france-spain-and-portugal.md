@@ -23,10 +23,10 @@ page_blocks:
       meet our friends Raquel and Miguel (@explorerssaurus_)
     body-content_html: >-
       <p>We've never been to Portugal before and we already have our eye on the
-      perfect Camper Van for the trip. But then we started to wonder, can we
-      actually travel through France, Spain and then Portugal right now taking
-      into account the COVID restrictions. So we started to do some research and
-      this is what we found out.</p><p><strong>When traveling from Germany to
+      perfect camper van for the trip! We started to wonder, can we actually
+      travel through France, Spain and then Portugal right now, taking into
+      account the COVID restrictions? So, we started to do some research and
+      this is what we found out...</p><p><strong>When traveling from Germany to
       France:</strong></p><p>- they warn people of unnecessary travels to
       Ile-de-France, Provence-Alpes-Cote-d&rsquo;Azur,
       Auvergne-Rh&ocirc;ne-Alpes, Occitanie, Nouvelle-Aquitaine and Corse
