@@ -27,15 +27,15 @@ page_blocks:
       travel through France, Spain and then Portugal right now, taking into
       account the COVID restrictions? So, we started to do some research and
       this is what we found out...</p><p><strong>When traveling from Germany to
-      France:</strong></p><p>- They warn people of unnecessary travels to
+      France:</strong></p><ul><li>- They warn people of unnecessary travels to
       Ile-de-France, Provence-Alpes-Cote-d&rsquo;Azur,
       Auvergne-Rh&ocirc;ne-Alpes, Occitanie, Nouvelle-Aquitaine and Corse
-      because of high infection rates<br />- No restrictions for entry and
+      because of high infection rates</li><li>- No restrictions for entry and
       transit. When returning to Germany there&rsquo;s a five day quarantine
       obligation which ends with the receiving of a negative COVID test
       (starting from 1st of October). If you only enter France for transit
       without overnight stay the quarantine might be
-      omitted&nbsp;</p><p><strong>When traveling from France to
+      omitted&nbsp;</li></ul><p><strong>When traveling from France to
       Spain:</strong></p><p>- No restrictions for travellers coming from France
       (neither for entry or transit)<br />- There might be a health check where
       they check your temperature and entry<br />- A lot of the camping grounds
