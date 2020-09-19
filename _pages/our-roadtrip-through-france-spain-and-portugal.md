@@ -62,7 +62,7 @@ page_blocks:
       that doesn't mean we give up hope and stop having fun.&nbsp;</p><p>We
       always get asked how we are able to afford travelling full time. Now it is
       our job and we can work from anywhere but in the beginning we travelled by
-      saving in many different ways.&nbsp;<a
+      saving in many different ways.&nbsp;</p><p><a
       href="https://thisismaja.com/posts/ways-to-save-to-travel-full-time">Check
       out these 8 ways to save enough to travel full time</a></p><p>Road trips
       are our favourite trips and we are excited to take you guys with us on
