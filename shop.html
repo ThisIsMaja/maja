@@ -140,12 +140,11 @@ banners:
                 'price': parseFloat('{{product.price}}'.replace('$', ''))
             }
             productsForAnalytics.push(productForAnalytics);
-            pushProductClick(productForAnalytics);
         </script>
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
-            <a href="{{product.url}}" class="card">
+            <a href="{{product.url}}" class="card" onclick="pushProductClick(productForAnalytics);">
               {% unless product.save-percentage == false %}
               <span class="save">SAVE<br />{{ product.save-percentage }}</span>
               {% endunless %}
@@ -170,7 +169,7 @@ banners:
   <script>
     var pushProductImpressions = function(currentProduct) {
     dataLayer.push({
-                    'event': 'productClick',
+                    'event': 'productImpression',
                     'ecommerce': {
                         'impressions': productsForAnalytics
                     }
