@@ -7,7 +7,7 @@ title: Our Road Trip To Portugal Via France And Spain
 meta-description:
 meta-keywords:
 image_path: /images/travel/maja-travel8.jpg
-newsfeed: true
+newsfeed: false
 categories:
   - newsfeed
 tags:
