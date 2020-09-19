@@ -10,6 +10,11 @@ defaults:
       type: 'posts'
     values:
       permalink: /posts/:slug
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      permalink: /posts/:slug
 
 
 collections:
