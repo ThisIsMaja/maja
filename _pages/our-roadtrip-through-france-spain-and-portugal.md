@@ -25,7 +25,7 @@ page_blocks:
       perfect Camper Van for the trip. But then we started to wonder, can we
       actually travel through France, Spain and then Portugal right now taking
       into account the COVID restrictions. So we started to do some research and
-      this is what we found out.</p>
+      this is what we found out.</p><p>&nbsp;</p>
 _all-posts: true
 _hide_content: true
 _comments:
