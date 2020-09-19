@@ -22,6 +22,7 @@ collections:
   pages:
     output: true
     all-posts: true
+    permalink: /posts/:slug
   posts:
     output: true
     all-posts: true
