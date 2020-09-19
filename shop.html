@@ -146,7 +146,7 @@ banners:
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
-            <a href="{{product.url}}" class="card" onClick="pushProductClick({{product}})">
+            <a href="{{product.url}}" class="card">
               {% unless product.save-percentage == false %}
               <span class="save">SAVE<br />{{ product.save-percentage }}</span>
               {% endunless %}
