@@ -115,17 +115,18 @@ banners:
         // initialize product array for analytics, and on click tracking command for product click
         var productsForAnalytics = new Array()
         var pushProductClick = function(currentProduct) {
-        dataLayer.push({
+            console.log(currentProduct);
+            dataLayer.push({
                             'event': 'productClick',
                             'ecommerce': {
                               'click': {
                                 'products': [{
-                                  'name': currentProduct.title,                      // Name or ID is required.
+                                  'name': "currentProduct.title",                      // Name or ID is required.
                                   'price': parseFloat(currentProduct.price.replace('$', ''))
                                  }]
                               }
                              }
-                         });
+            });
         }
     </script>
 <div class="padded-1">
@@ -146,7 +147,7 @@ banners:
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
-            <a href="{{product.url}}" class="card">
+            <a href="{{product.url}}" class="card", onclick="pushProductClick({{product}})">
               {% unless product.save-percentage == false %}
               <span class="save">SAVE<br />{{ product.save-percentage }}</span>
               {% endunless %}
