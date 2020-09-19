@@ -86,7 +86,6 @@ banners:
   </h2>
 </section> -->
 
-
 <section class="shop-intro relative">
   <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
   <div class="capped-width centered padded">
@@ -112,8 +111,6 @@ banners:
       <a href="#" class="category">{{category}}</a>
     {% endfor %}
    -->
- 
-
 <div class="padded-1">
 
   <div id="product-loop" class="blog-masonry">
@@ -123,11 +120,10 @@ banners:
     {% for product in sorted-products %}
 
     {% if product.home-page-feature == true %}
-        
+
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
-            <!--<a href="{{product.url}}" onClick=pushProductClick({{product}}) class="card">-->
             <a href="{{product.url}}" class="card">
               {% unless product.save-percentage == false %}
               <span class="save">SAVE<br />{{ product.save-percentage }}</span>
