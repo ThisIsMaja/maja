@@ -4,8 +4,8 @@ hidden: false
 date: 2020-09-18 00:00:00
 permalink: portugal-roadtrip-plans
 title: Our Road Trip To Portugal Via France And Spain
-meta-description:
-meta-keywords:
+meta-description: Roadtripping to Portugal from Germany via France and Spain
+meta-keywords: roadtrip-in-portugal
 image_path: /images/travel/maja-travel8.jpg
 newsfeed: true
 categories:
