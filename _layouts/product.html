@@ -9,12 +9,14 @@ layout: default
     dataLayer.push({
       'event': 'viewedProduct',
       'ecommerce': {
-        'impressions': [
-         {
-           'id': '{{page.shopify-id}}',       // Name or ID is required.
-           'name': '{{page.title}}',
-           'price': parseFloat('{{page.price}}'.replace('$', '')),
-         }]
+        'detail': {
+            'products': [
+                 {
+                   'id': '{{page.shopify-id}}',       // Name or ID is required.
+                   'name': '{{page.title}}',
+                   'price': parseFloat('{{page.price}}'.replace('$', '')),
+                 }]
+        },
       }
     });
 </script>
