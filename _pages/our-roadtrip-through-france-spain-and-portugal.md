@@ -51,20 +51,20 @@ page_blocks:
       between 8 pm - 11 pm</li><li>Maximum of four people per group can go to a
       restaurant, cafe or bar</li><li>No alcoholic beverages in public
       areas</li><li>Minimum distance of 2 metres to other people</li><li>You
-      have to wear a mask in stores and on public
-      transportation</li></ul><p>Read more about being a responsible
-      tourist</p><p>It seems that a road trip to Portugal is a real possibility,
-      then a potential 5-day quarantine when we return to Germany. As long as
-      these restrictions don't change within the next week we will start to plan
-      for our trip going ahead!!&nbsp;</p><p>We can't wait to show you guys what
-      possibilities are out there right now in terms of travel. We know that we
-      are all restricted in different ways but that doesn't mean we give up hope
-      and stop having fun.&nbsp;</p><p><u>Road trips are our favourite trips and
-      we are excited to take you guys with us on this next adventure. If you
-      have done a road trip recently, we would love to hear about your
-      experience and if any of you guys have questions or information regarding
-      anything to do with our trip let us know. Please lets have a chat in the
-      comment box below :)</u></p><p>&nbsp;</p>
+      have to wear a mask in stores and on public transportation</li></ul><p><a
+      href="https://thisismaja.com/posts/responsible-tourist">Read more about
+      being a responsible tourist</a></p><p>It seems that a road trip to
+      Portugal is a real possibility, then a potential 5-day quarantine when we
+      return to Germany. As long as these restrictions don't change within the
+      next week we will start to plan for our trip going ahead!!&nbsp;</p><p>We
+      can't wait to show you guys what possibilities are out there right now in
+      terms of travel. We know that we are all restricted in different ways but
+      that doesn't mean we give up hope and stop having fun.&nbsp;</p><p><u>Road
+      trips are our favourite trips and we are excited to take you guys with us
+      on this next adventure. If you have done a road trip recently, we would
+      love to hear about your experience and if any of you guys have questions
+      or information regarding anything to do with our trip let us know. Please
+      lets have a chat in the comment box below :)</u></p><p>&nbsp;</p>
 _all-posts: true
 _hide_content: true
 _comments:
