@@ -70,6 +70,7 @@ page_blocks:
       to hear about your experience and if any of you guys have questions or
       information regarding anything to do with our trip let us know. Please
       lets have a chat in the comment box below :)</p><p>&nbsp;</p>
+comments: true
 _all-posts: true
 _hide_content: true
 _comments:
