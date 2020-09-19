@@ -3,7 +3,7 @@ layout: modular
 hidden: true
 date: 2020-09-18 00:00:00
 permalink: portugal-roadtrip-plans
-title: 'Our Roadtrip through France, Spain and Portugal'
+title: Our Road Trip to Portugal via France and Spain
 meta-description:
 meta-keywords:
 image_path: /images/travel/maja-travel8.jpg
@@ -19,15 +19,17 @@ page_blocks:
     image-1_path: /images/travel/maja-travel8.jpg
     image-2_path:
     intro-paragraph-emphasis: >-
-      We had the idea to pick up a camper and do a road trip down to Portugal to
-      meet our friends Raquel and Miguel (@explorerssaurus_)
+      We had the idea to pick up a camper and do a road trip to Portugal, via
+      France and Spain, to meet our friends Raquel and Miguel
+      (@explorerssaurus_)
     body-content_html: >-
       <p>We've never been to Portugal before and we already have our eye on the
       perfect camper van for the trip! We started to wonder recently, can we
-      actually travel through France, Spain and then Portugal right now, taking
-      into account the COVID restrictions? So, we started to do some research
-      and this is what we found out...</p><p><strong>When traveling from Germany
-      to France:</strong></p><ul><li>They warn people of unnecessary travels to
+      actually road trip to Portugal right now, travelling through France and
+      Spain from Germany, taking into account the COVID restrictions? So, we
+      started to do some research and this is what we found
+      out...</p><p><strong>When travelling from Germany to
+      France:</strong></p><ul><li>They warn people of unnecessary travels to
       Ile-de-France, Provence-Alpes-Cote-d&rsquo;Azur,
       Auvergne-Rh&ocirc;ne-Alpes, Occitanie, Nouvelle-Aquitaine and Corse
       because of high infection rates</li><li>No restrictions for entry and
@@ -35,11 +37,11 @@ page_blocks:
       obligation which ends with the receiving of a negative COVID test
       (starting from 1st of October). If you only enter France for transit
       without overnight stay the quarantine might be
-      omitted&nbsp;</li></ul><p><strong>When traveling from France to
+      omitted&nbsp;</li></ul><p><strong>When travelling from France to
       Spain:</strong></p><ul><li>No restrictions for travellers coming from
       France (neither for entry or transit)</li><li>There might be a health
       check where they check your temperature</li><li>A lot of the camping
-      grounds are open</li></ul><p><strong>Traveling from Spain to
+      grounds are open</li></ul><p><strong>When travelling from Spain to
       Portugal:</strong></p><ul><li>No restrictions for travellers coming from
       Spain&nbsp;</li><li>You might have to provide information about your
       destination, reason for the trip and contact details (when you enter by
