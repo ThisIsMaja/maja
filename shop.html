@@ -86,6 +86,7 @@ banners:
   </h2>
 </section> -->
 
+
 <section class="shop-intro relative">
   <div class="bg-image overlay" style="background-image:url('/images/gifs/website_leaves_black.gif')"> </div>
   <div class="capped-width centered padded">
@@ -111,6 +112,25 @@ banners:
       <a href="#" class="category">{{category}}</a>
     {% endfor %}
    -->
+ 
+
+// initialize product array for analytics, and on click tracking command for product click
+<script>
+    var productsForAnalytics = new Array()
+    var pushProductClick = function(currentProduct) {
+    dataLayer.push({
+                        'event': 'productClick',
+                        'ecommerce': {
+                          'click': {
+                            'products': [{
+                              'name': currentProduct.title,                      // Name or ID is required.
+                              'price': parseFloat(currentProduct.price.replace('$', ''))
+                             }]
+                           }
+                         }
+                     });
+    }
+</script>
 <div class="padded-1">
 
   <div id="product-loop" class="blog-masonry">
@@ -120,11 +140,18 @@ banners:
     {% for product in sorted-products %}
 
     {% if product.home-page-feature == true %}
-
+    
+        <script>
+            productsForAnalytics.push({
+                'name': {{product.title}},
+                'price': parseFloat({{product.price}}.replace('$', ''))
+            })
+        </script>
+        
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
-            <a href="{{product.url}}" class="card">
+            <a href="{{product.url}}" onClick=pushProductClick({{product}}) class="card">
               {% unless product.save-percentage == false %}
               <span class="save">SAVE<br />{{ product.save-percentage }}</span>
               {% endunless %}
@@ -149,6 +176,16 @@ banners:
     <a href="/shop-presets" class="subtle-button"> See All Presets </a>
   </p>
 </div></section>
+<script>
+    var pushProductImpressions = function(currentProduct) {
+    dataLayer.push({
+                    'event': 'productClick',
+                    'ecommerce': {
+                        'impressions': productsForAnalytics
+                    }
+                    });
+    }
+</script>
 
 <section class="padded-1">
 
