@@ -143,7 +143,10 @@ banners:
                 'name': '{{product.title}}',
                 'price': parseFloat({{product.price}}.replace('$', ''))
             })
-            pushProductClick({{product}});
+            pushProductClick({
+                'name': '{{product.title}}',
+                'price': parseFloat({{product.price}}.replace('$', ''))
+            });
         </script>
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
