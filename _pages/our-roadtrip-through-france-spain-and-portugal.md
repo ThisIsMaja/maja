@@ -9,6 +9,7 @@ meta-keywords:
 image_path: /images/travel/maja-travel8.jpg
 newsfeed: true
 categories:
+  - newsfeed
 tags:
 author: Marie Fe & Jake Snow
 page_blocks:
