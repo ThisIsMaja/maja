@@ -64,10 +64,10 @@ page_blocks:
       our job and we can work from anywhere but in the beginning we travelled by
       saving in many different ways.&nbsp;</p><p><a
       href="https://thisismaja.com/posts/ways-to-save-to-travel-full-time">Check
-      out these 8 ways to save enough to travel full time</a></p><p>Road trips
-      are our favourite trips and we are excited to take you guys with us on
-      this next adventure. If you have done a road trip recently, we would love
-      to hear about your experience and if any of you guys have questions or
+      these 8 ways to save enough to travel full time</a></p><p>Road trips are
+      our favourite trips and we are excited to take you guys with us on this
+      next adventure. If you have done a road trip recently, we would love to
+      hear about your experience and if any of you guys have questions or
       information regarding anything to do with our trip let us know. Please
       lets have a chat in the comment box below :)</p><p>&nbsp;</p>
 comments: true
