@@ -59,7 +59,9 @@ page_blocks:
       next week we will start to plan for our trip going ahead!!&nbsp;</p><p>We
       can't wait to show you guys what possibilities are out there right now in
       terms of travel. We know that we are all restricted in different ways but
-      that doesn't mean we give up hope and stop having fun.&nbsp;</p><p><u>Road
+      that doesn't mean we give up hope and stop having fun.&nbsp;</p><p><a
+      href="https://thisismaja.com/posts/ways-to-save-to-travel-full-time">Check
+      out these 8 ways to save enough to travel full time</a></p><p><u>Road
       trips are our favourite trips and we are excited to take you guys with us
       on this next adventure. If you have done a road trip recently, we would
       love to hear about your experience and if any of you guys have questions
