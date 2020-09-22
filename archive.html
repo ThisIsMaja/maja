@@ -8,21 +8,13 @@ title: blog
 
   <div class="archive-loop">
 
-    <!--  First create a new join collection  -->
-    {% assign all-posts = "" | split: "" %}
-      {% for post in site.posts %}
-        {% assign all-posts = all-posts | push: post %}
-      {% endfor %}
-      {% for post in site.pages %}
-        {% assign all-posts = all-posts | push: post %}
-    {% endfor %}
+    {% assign all-posts = site.documents | where: 'all-posts', true | sort: 'date' | reverse %}
 
-    {% assign ordered-posts = all-posts | date_sort | reverse %}
-
-    <!--  Then loop through it  -->
-    {% for post in ordered-posts %}
+    {% for post in all-posts limit:25 %}
       {% unless post.hidden == true %}
+
         {% include post-loop-item-3.html %}
+
       {% endunless %}
     {% endfor %}
 

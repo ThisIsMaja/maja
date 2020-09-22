@@ -1,14 +1,14 @@
 ---
 layout: modular
-hidden: true
-date: 2020-01-01 00:00:00
-permalink: greece-during-pandemic
+hidden: false
+date: 2020-09-07 00:00:00
+slug: greece-during-pandemic
 title: Greece Summer During the Pandemic
 meta-description: What is it really like now in Greece during the Lockdowns
 meta-keywords:
-image_path:
-newsfeed: false
+image_path: /images/greece/mariefeandjakesnow-greece11.jpg
 categories:
+  - newsfeed
 tags:
 author: Marie Fe
 page_blocks:
@@ -35,9 +35,8 @@ page_blocks:
       be around for a while and put into place measures to combat it while
       regaining our lives and the global economy.</p>
     maja-signoff: true
-_all-posts: true
+all-posts: true
 _hide_content: true
 _comments:
   slug: this overrides the default url
 ---
-

@@ -324,4 +324,5 @@ gallery:
     size: full
     alt:
 gallery-text:
+_all-posts: true
 ---

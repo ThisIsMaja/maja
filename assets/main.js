@@ -156,6 +156,33 @@ $(document).ready(function(){
 
 });
 
+$('nav#blog-filter a').click(function(e){
+	e.preventDefault();
+
+	/* make this link class active and remove class 'active' from any other links */
+	$('nav#blog-filter .active').removeClass('active');
+	$(this).addClass('active');
+
+	/* get the name of the cateory from this link */
+	var filterVal = $(this).text().replace(' ','-').toLowerCase();
+
+	$('#blog-loop .masonry-item').each(function() {
+			if(filterVal == 'all'){
+				$(this).removeClass('hidden');
+				$('#read-more').removeClass('hidden');
+			}else{
+				if(!$(this).hasClass(filterVal)) {
+					$(this).addClass('hidden'); // hide those that don't have the filter
+				}else{
+					$(this).removeClass('hidden'); // show those that do have the filter
+				}
+			$('#read-more').addClass('hidden');
+			AOS.refresh();
+			};
+	});
+
+});
+
 
 });
 

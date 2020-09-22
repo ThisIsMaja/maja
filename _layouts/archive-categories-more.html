@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+
+<section class="padded light-bg">
+  <h1 class="centered editable padded-2-v"> {{page.category | capitalize }} Archive </h1>
+
+  <div class="archive-loop capped-width">
+
+    {% assign all-posts = site.documents | where: 'all-posts', true | sort: 'date' | reverse %}
+    {% assign page-category = page.category %}
+    {% assign relevant-posts = all-posts | where: 'categories', page-category %}
+
+    {% for post in relevant-posts offset:25 %}
+      {% unless post.hidden == true %}
+
+        {% include post-loop-item-3.html %}
+
+      {% endunless %}
+    {% endfor %}
+
+  </div>
+
+</section>

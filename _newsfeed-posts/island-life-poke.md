@@ -2,7 +2,7 @@
 layout: modular
 hidden: true
 date: 2020-07-25 00:00:00
-permalink: island-life-poke
+slug: island-life-poke
 title: Island Life Poke
 meta-description:
 meta-keywords:

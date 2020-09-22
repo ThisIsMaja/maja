@@ -2,12 +2,11 @@
 layout: modular
 hidden: true
 date: 2020-01-01 00:00:00
-permalink: test-ordinary
+slug: test-ordinary
 title: my favs
 meta-description:
 meta-keywords:
 image_path:
-newsfeed: true
 categories:
 tags:
 author: Marie Fe

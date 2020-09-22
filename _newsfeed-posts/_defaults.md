@@ -2,17 +2,17 @@
 layout: modular
 hidden: true
 date: 2020-01-01
-permalink:
+slug:
 title:
 meta-description:
 meta-keywords:
 image_path:
-newsfeed: true
 categories:
+  - newsfeed
 tags:
 author: Marie Fe
 page_blocks:
-_all-posts: true
+all-posts: true
 _hide_content: true
 _comments:
   slug: this overrides the default url  
