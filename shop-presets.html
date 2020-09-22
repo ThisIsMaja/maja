@@ -47,7 +47,13 @@ image_path:
     {% for product in sorted-products limit: 15 %}
 
     {% if product.type == 'preset' %}
-
+        <script>
+            var productForAnalytics = {
+                'name': '{{product.title}}',
+                'price': parseFloat('{{product.price}}'.replace('$', ''))
+            }
+            productsForAnalytics.push(productForAnalytics);
+        </script>
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
