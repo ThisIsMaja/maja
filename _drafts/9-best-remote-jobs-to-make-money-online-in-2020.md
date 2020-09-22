@@ -4,8 +4,10 @@ date: 2020-05-12 00:00:00
 hidden: true
 slug: remote-jobs-to-make-money-online
 title: 9 Best Remote Jobs to Make Money Online in 2020
-meta-description:
-meta-keywords:
+meta-description: >-
+  We think that 2020 has proved to all of us that working online is the best way
+  to go. In this post, we share 9 remote jobs to start making money online.
+meta-keywords: 'best remote jobs, remote jobs, work from home, remote work'
 image_path:
 banner-1_path:
 banner-fixed: true
