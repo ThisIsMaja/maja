@@ -11,3 +11,17 @@ _comments:
 {% if page.hidden == true %}
 <meta name="robots" content="noindex">
 {% endif %}
+
+
+{% if page.comments == true %}
+
+<section class="padded grey-bg">
+  <script src="https://cdn.commento.io/js/count.js"></script>
+  <a class="subtitle" href="{{site.url}}{{page.url}}#commento"> comments</a>
+  <script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
+
+</section>
+
+
+{% endif %}

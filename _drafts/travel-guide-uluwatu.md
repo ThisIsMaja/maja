@@ -1,17 +1,23 @@
 ---
 layout: post
-date: 2020-08-21 00:00:00
+date: 2020-08-21 10:00:00
 hidden: true
-slug: travel-guide-uluwatu
-title: Travel Guide Uluwatu
-meta-description:
-meta-keywords:
+slug: uluwatu-travel-guide
+title: 'Uluwatu: Travel Guide'
+meta-description: >-
+  Everything you need to know about Uluwatu before visiting it. Where to eat,
+  where to stay, where to party, and where to surf.
+meta-keywords: >-
+  uluwatu, travel uluwatu, travel guide uluwatu, bukit, bali, uluwatu travel,
+  uluwatu bali
 image_path:
 banner-1_path:
 banner-fixed: true
 newsfeed: false
 categories:
+  - travel
 tags:
+  - asia
 author: Marie Fe
 image-1_path:
 image-1_alt:
