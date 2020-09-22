@@ -17,8 +17,12 @@ tags:
 author: Marie & Jake
 image-1_path:
 image-2_path:
-intro-paragraph-emphasis:
-intro-content_html:
+intro-paragraph-emphasis: “What would you do if there were no way you could fail?” Tim Ferriss
+intro-content_html: >-
+  <p>The current situation in the world shows that if you want to have security
+  in life you need to start making money online. Whether it is a digital nomad
+  lifestyle you are after or simply work remotely from home, being location
+  independent is the way to go.&nbsp;</p>
 sections:
   - banner_path:
     banner-caption:
