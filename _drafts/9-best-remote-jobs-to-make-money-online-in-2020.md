@@ -18,20 +18,20 @@ tags:
 author: Marie & Jake
 image-1_path: /images/9-Remote-Jobs/best-remote-jobs-work-online (1).jpg
 image-2_path:
-intro-paragraph-emphasis: “What would you do if there were no way you could fail?” Tim Ferriss
+intro-paragraph-emphasis:
 intro-content_html: >-
-  <h2><strong>9 Examples of How to Make Money Online</strong></h2><p>There has
-  never been a better, or worse time to pivot in terms of how you make an
-  income. The Coronavirus Pandemic has forced us all to pivot in some way shape
-  or form which could make this the time for you to consider some of the best
-  remote jobs to make money online.</p><p>Having been in the travel
-  blogging/influencer industry for a few years now we have learned through trial
-  and error what works and what doesn&rsquo;t. We want to share our knowledge
-  with you in order to help you too achieve your goals of securing a remote
-  online income.</p><p>In this article you will find some insight on some of the
-  remote jobs which have helped us secure an income plus some examples that some
-  of our friends use too. From Web Development to Social Media Management we
-  have something in here for people of all skill sets.</p>
+  <h2>9 Examples of How to Make Money Online</h2><p>There has never been a
+  better, or worse time to pivot in terms of how you make an income. The
+  Coronavirus Pandemic has forced us all to pivot in some way shape or form
+  which could make this the time for you to consider some of the best remote
+  jobs to make money online.</p><p>Having been in the travel blogging/influencer
+  industry for a few years now we have learned through trial and error what
+  works and what doesn&rsquo;t. We want to share our knowledge with you in order
+  to help you too achieve your goals of securing a remote online
+  income.</p><p>In this article you will find some insight on some of the remote
+  jobs which have helped us secure an income plus some examples that some of our
+  friends use too. From Web Development to Social Media Management we have
+  something in here for people of all skill sets.</p>
 sections:
   - banner_path: /images/9-Remote-Jobs/best-remote-jobs-man-typing-behing-the-laptop.jpg
     banner-caption:
