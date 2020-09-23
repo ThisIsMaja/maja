@@ -28,7 +28,7 @@ show-more-posts-button: true
 
   <div class="blog-loop blog-masonry">
 
-    {% assign all-posts = site.documents | where: 'all-posts', true | sort: 'date' | reverse %}
+    {% assign all-posts = site.posts | where: 'all-posts', true | sort: 'date' | reverse %}
 
     {% for post in all-posts limit:25 %}
       {% unless post.hidden == true %}

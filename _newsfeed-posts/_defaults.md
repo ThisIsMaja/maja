@@ -7,9 +7,7 @@ title:
 meta-description:
 meta-keywords:
 image_path:
-categories:
-  - newsfeed
-tags:
+newsfeed: true 
 author: Marie Fe
 page_blocks:
 all-posts: true

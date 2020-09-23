@@ -7,8 +7,7 @@ title: Island Life Poke
 meta-description:
 meta-keywords:
 image_path: /images/style/mariefeandjakesnow-pill3.jpg
-categories:
-  - newsfeed
+newsfeed: true 
 tags:
 author: Marie Fe
 page_blocks:

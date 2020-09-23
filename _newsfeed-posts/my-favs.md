@@ -7,7 +7,7 @@ title: my favs
 meta-description:
 meta-keywords:
 image_path:
-categories:
+newsfeed: true 
 tags:
 author: Marie Fe
 page_blocks:

@@ -7,8 +7,7 @@ title: Greece Summer During the Pandemic
 meta-description: What is it really like now in Greece during the Lockdowns
 meta-keywords:
 image_path: /images/greece/mariefeandjakesnow-greece11.jpg
-categories:
-  - newsfeed
+newsfeed: true
 tags:
 author: Marie Fe
 page_blocks:

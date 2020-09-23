@@ -8,9 +8,6 @@ meta-description: Roadtripping to Portugal from Germany via France and Spain
 meta-keywords: roadtrip-in-portugal
 image_path: /images/travel/maja-travel8.jpg
 newsfeed: true
-categories:
-  - newsfeed
-tags:
 author: Marie Fe & Jake Snow
 page_blocks:
   - _id: intro

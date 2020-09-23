@@ -8,7 +8,7 @@ layout: default
 
   <div class="archive-loop capped-width">
 
-    {% assign all-posts = site.documents | where: 'all-posts', true | sort: 'date' | reverse %}
+    {% assign all-posts = site.posts | where: 'all-posts', true | sort: 'date' | reverse %}
     {% assign page-category = page.category %}
     {% assign relevant-posts = all-posts | where: 'categories', page-category %}
 

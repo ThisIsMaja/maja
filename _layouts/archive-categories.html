@@ -21,7 +21,7 @@ layout: default
 
   <div class="blog-masonry blog-loop" id="blog-loop">
 
-    {% assign all-posts = site.documents | where: 'all-posts', true | sort: 'date' | reverse %}
+    {% assign all-posts = site.posts | sort: 'date' | reverse %}
 
     {% assign page-category = page.category %}
     {% assign relevant-posts = all-posts | where: 'categories', page-category %}

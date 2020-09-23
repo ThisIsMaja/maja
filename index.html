@@ -14,7 +14,7 @@ navigation-links:
   - url: /shop
     title: Shop Presets
   - url: /shop-maja-bali
-    title: Shop Maja Bali 
+    title: Shop Maja Bali
 show-more-posts-button: false
 ---
 
@@ -23,9 +23,11 @@ show-more-posts-button: false
   <div class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
 
     <a href="/" class="category active"> Newsfeed </a>
-    <a href="/blog" class="category"> Blog </a>
-    <a href="/shop" class="category"> Shop Presets </a>
-    <a href="/shop-maja-bali" class="category"> Shop Maja Bali The Label</a>
+
+    {% for link in page.navigation-links %}
+    <a href="{{link.url}}" class="category"> {{link.title}} </a>
+    {% endfor %}
+
 
   </div>
 </section>
@@ -35,7 +37,7 @@ show-more-posts-button: false
   <div class="blog-loop blog-masonry">
 
 
-    {% assign newsfeed-posts = site.documents | where: "categories", "newsfeed" %}
+    {% assign newsfeed-posts = site.documents | where: "newsfeed", true %}
 
     {% for post in newsfeed-posts %}
       {% unless post.hidden == true %}
