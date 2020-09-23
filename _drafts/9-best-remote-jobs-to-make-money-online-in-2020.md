@@ -9,16 +9,18 @@ meta-description: >-
   this post, we share the most in-demand remote jobs to start making money
   online.
 meta-keywords: 'best remote jobs, remote jobs, work from home, remote work'
-image_path: /images/9-Remote-Jobs/best-remote-jobs-woman-working-on-her-laptop.jpg
-banner-1_path: /images/9-Remote-Jobs/best-remote-jobs-woman-working-on-her-laptop.jpg
+image_path: /images/9-Remote-Jobs/best-remote-work-jobs-vanlife.jpg
+banner-1_path: /images/9-Remote-Jobs/best-remote-work-jobs-vanlife.jpg
 banner-fixed: true
 categories:
   - lifestyle
 tags:
+  - Business
+  - Self Improvement
 author: Marie & Jake
 image-1_path: /images/9-Remote-Jobs/best-remote-jobs-work-online (1).jpg
 image-2_path:
-intro-paragraph-emphasis:
+intro-paragraph-emphasis: “What would you do if there were no way you could fail?” Tim Ferriss
 intro-content_html: >-
   <h2>9 Examples of How to Make Money Online</h2><p>There has never been a
   better, or worse time to pivot in terms of how you make an income. The
