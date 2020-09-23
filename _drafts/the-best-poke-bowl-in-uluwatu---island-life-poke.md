@@ -134,7 +134,9 @@ sections:
       you&rsquo;ve shown us over the years we want to offer you guys a little
       something. For our friends here we will give 20% off all orders for the
       rest of this year and all of next year :) All you need to do is screenshot
-      this coupon and show it when you're in our little store.&nbsp;</p>
+      this coupon and show it when you're in our little store.&nbsp;</p><p><img
+      src="/images/islandlife-poke/Islandlife-poke-coupon.jpg" width="1600"
+      height="2847" /></p>
 show-gallery: false
 gallery:
   - image_path:
