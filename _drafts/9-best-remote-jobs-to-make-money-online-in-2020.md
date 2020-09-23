@@ -62,7 +62,7 @@ sections:
       coding, designing, and layout of a website according to client&rsquo;s
       requirements. Don&rsquo;t let those fancy words scare you. It is easier
       than you think, which we can vouch for after taking the Institute of
-      Codes&nbsp;<a target="_blank" rel="noopener"
+      Code&nbsp;<a target="_blank" rel="noopener"
       href="https://www.instituteofcode.com/courses/web-dev/"><u>Web Development
       Bootcamp</u></a> in Bali.</p><p>Here are some other great examples of
       online courses for web development:</p><ul><li>CodeAcademy - Free
@@ -81,54 +81,54 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>2. Web Design</strong></h2><p>If you are feeling more artsy or
-      perhaps you rock the artistic genes yourself, then you can try your hand
-      at web design.</p><p>Instead of building a website, you will be
-      responsible for the aesthetic portion of the creating
-      process.</p><p>Coursera and Udemy have great courses for Web Design as
-      well.</p><h2>3. Graphic Designer</h2><p>If designing websites
-      doesn&rsquo;t sound that appealing, but creating visual content does, then
-      graphic design might be for you.&nbsp;</p><p>You need to have a good feel
-      for fonts, a sense of colors, and shapes and be able to create a visual
+      <h2>2. Web Design</h2><p>If you are feeling more artsy or perhaps you rock
+      the artistic genes yourself, then you can try your hand at web
+      design.</p><p>Instead of building a website, you will be responsible for
+      the aesthetic portion of the creating process.</p><p>Coursera and Udemy
+      have great courses for Web Design as well.</p><h2>3. Graphic
+      Designer</h2><p>If designing websites doesn&rsquo;t sound that appealing,
+      but creating visual content does, then graphic design might be for
+      you.&nbsp;</p><p>You need to have a good feel for fonts, a sense of
+      colors, and shapes and be able to create a visual
       story.&nbsp;</p><p>Designing logos, posters, brochures, billboards, etc
       are just some examples of what you could be doing to earn an
       income.</p><p>You can choose to go freelance or apply to a magazine,
       advertising or marketing agency.</p>
   - banner_path: /images/9-Remote-Jobs/best-remote-job-social-media-management.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>4. Social Media Manager</strong></h2><p>A great way to earn
-      money online is by becoming a social media manager which is really popular
-      for nomads looking to prolong their travels.</p><p>You will be in charge
-      of managing all social media platforms for your client. This could include
-      responding to comments and direct messages, scheduling, and uploading
-      posts, reaching out to brands and influencers, etc.&nbsp;</p><p>If you
-      have been following us on Instagram then you probably already know how to
-      do most of these tasks, so why not give it a try?</p><h2><strong>5.
-      Content Creator</strong></h2><p>Our favourite remote job which allows us
-      to monetise is content creation. We create content for hotels, brands and
-      other services in exchanges for goods, services or money.</p><p>This can
-      be done by anyone with a camera and an eye for composition.</p><p>Other
-      examples of content creation which you could do are producing digital
-      content, such as photos and videos, to offline content - writing copies,
-      blog posts, e-books, etc.&nbsp;</p><p>A lot of companies choose to
-      outsource those tasks to freelance content creators and this could be your
-      chance to make a remote job income.&nbsp;</p><p>TIP - great platforms to
-      submit your written articles are Medium and Goop.</p>
+      <h2>4. Social Media Manager</h2><p>A great way to earn money online is by
+      becoming a social media manager which is really popular for nomads looking
+      to prolong their travels.</p><p>You will be in charge of managing all
+      social media platforms for your client. This could include responding to
+      comments and direct messages, scheduling, and uploading posts, reaching
+      out to brands and influencers, etc.&nbsp;</p><p>If you have been following
+      us on Instagram then you probably already know how to do most of these
+      tasks, so why not give it a try?</p><h2>&nbsp;</h2><h2>5. Content
+      Creator</h2><p>Our favourite remote job which allows us to monetise is
+      content creation. We create content for hotels, brands and other services
+      in exchanges for goods, services or money.</p><p>This can be done by
+      anyone with a camera and an eye for composition.</p><p>Other examples of
+      content creation which you could do are producing digital content, such as
+      photos and videos, to offline content - writing copies, blog posts,
+      e-books, etc.&nbsp;</p><p>A lot of companies choose to outsource those
+      tasks to freelance content creators and this could be your chance to make
+      a remote job income.&nbsp;</p><p>TIP - great platforms to submit your
+      written articles are Medium and Goop.</p>
   - banner_path: /images/9-Remote-Jobs/best-remote-jobs-write-without-fear-copywritter.jpg
     banner-caption:
     banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>6. Copywriter&nbsp;</strong></h2><p>Not to be confused with
-      offline content creation.&nbsp;</p><p>The main goal of a copywriter is to
-      create a text that can convince readers to take action. Whether it is
-      buying, downloading or engaging.</p><p>Everybody can write. It is a skill
-      that can be learned the same as learning to play guitar or to dance
+      <h2>6. Copywriter&nbsp;</h2><p>Not to be confused with offline content
+      creation.&nbsp;</p><p>The main goal of a copywriter is to create a text
+      that can convince readers to take action. Whether it is buying,
+      downloading or engaging.</p><p>Everybody can write. It is a skill that can
+      be learned the same as learning to play guitar or to dance
       salsa.&nbsp;</p><p>There are plenty of online copywriting courses to help
       you master writing techniques.&nbsp;</p><p>We have met quite a few
       copywriters on our travels and it has allowed them to work by the beach
@@ -139,10 +139,10 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>7. Language Teacher</strong></h2><p>If you are a native
-      speaker or a proven advanced, you can make up to 30$ per hour by teaching
-      a language online.</p><p>Studying online is a great way to save time and
-      money, so a lot of people go for this option. This is where you can step
+      <h2>7. Language Teacher</h2><p>If you are a native speaker or a proven
+      advanced, you can make up to 30$ per hour by teaching a language
+      online.</p><p>Studying online is a great way to save time and money, so a
+      lot of people go for this option. This is where you can step
       in.&nbsp;</p><p>You can choose your own working hours and easily work from
       home. All you will need is Skype or Zoom and a high-speed wi-fi
       connection. Some of the online tutoring companies might require a
@@ -156,25 +156,24 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>8. Blogger / Influencer&nbsp;</strong></h2><p>You might
-      already have some online following or if not, it is never too late to
-      start building it.</p><p>&nbsp;A common misconception is that you need to
-      have hundreds of thousands of followers to start earning money from your
-      social media platforms.&nbsp;</p><p>It is proven that micro-bloggers have
-      a much more engaged audience than bloggers-millionaires.&nbsp;</p><p>For
-      this reason, a lot of companies choose to include smaller bloggers in
-      their marketing campaigns.&nbsp;</p><p>You might not earn a full-time
-      income straight away but it for sure can bring in some extra cash. So stop
-      waiting and start monetizing your blog now.&nbsp;</p><h2><strong>9. VA or
-      Virtual Assistant</strong></h2><p>If you like organizing and doing
-      administrative tasks then you might want to try your hand at a VA role.
-      What this basically means is that you will be somebody&rsquo;s executive
-      assistant remotely.</p><p>Some of your tasks could be replying and sending
-      emails, managing daily schedules, planning, calling, booking, etc. It can
-      go far beyond this list, depending on who and what your client
-      is.</p><p>The hourly rate starts at roughly 3$ if you are a beginner and
-      goes up to 16$ and more again depending on where you work and what your
-      job entails.</p>
+      <h2>8. Blogger / Influencer&nbsp;</h2><p>You might already have some
+      online following or if not, it is never too late to start building
+      it.</p><p>&nbsp;A common misconception is that you need to have hundreds
+      of thousands of followers to start earning money from your social media
+      platforms.&nbsp;</p><p>It is proven that micro-bloggers have a much more
+      engaged audience than bloggers-millionaires.&nbsp;</p><p>For this reason,
+      a lot of companies choose to include smaller bloggers in their marketing
+      campaigns.&nbsp;</p><p>You might not earn a full-time income straight away
+      but it for sure can bring in some extra cash. So stop waiting and start
+      monetizing your blog now.&nbsp;</p><h2>9. VA or Virtual
+      Assistant</h2><p>If you like organizing and doing administrative tasks
+      then you might want to try your hand at a VA role. What this basically
+      means is that you will be somebody&rsquo;s executive assistant
+      remotely.</p><p>Some of your tasks could be replying and sending emails,
+      managing daily schedules, planning, calling, booking, etc. It can go far
+      beyond this list, depending on who and what your client is.</p><p>The
+      hourly rate starts at roughly 3$ if you are a beginner and goes up to 16$
+      and more again depending on where you work and what your job entails.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
