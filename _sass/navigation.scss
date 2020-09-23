@@ -11,6 +11,10 @@
     max-width: 12rem;
   }
 
+  button:focus {
+    outline: none;
+  }
+
   footer .logo {
     max-width: 8rem;
   }
@@ -100,7 +104,6 @@
 
 
   /* Hamburger Menu */
-  .hamburger,
   .mobile-menu {
     display: none;
   }

@@ -1,6 +1,6 @@
 ---
 layout: modular
-hidden: false
+hidden: true
 date: 2020-09-07 00:00:00
 slug: greece-during-pandemic
 title: Greece Summer During the Pandemic
