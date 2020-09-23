@@ -186,8 +186,9 @@ sections:
       article, we wanted to show you that going remote is much easier than you
       thought.&nbsp;</p><p>Hopefully, after reading through our examples you
       will feel inspired and will take the first step to a new independent
-      lifestyle.</p><p>Let us know which job speaks to you the most or, if you
-      already work remotely, what job do you do?</p><p>Lots of love,</p>
+      lifestyle.</p><p><u>Let us know which job speaks to you the most or, if
+      you already work remotely, what job do you do? Share with us and others in
+      the comment box below</u></p><p>Lots of love,</p>
 show-gallery: false
 gallery:
   - image_path: /images/content-creation/instagram-stories3.jpg
