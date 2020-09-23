@@ -191,7 +191,7 @@ sections:
       the comment box below</u></p><p>Lots of love,</p>
 show-gallery: false
 gallery:
-  - image_path: /images/content-creation/instagram-stories3.jpg
+  - image_path:
     size: full
     alt:
 ---
