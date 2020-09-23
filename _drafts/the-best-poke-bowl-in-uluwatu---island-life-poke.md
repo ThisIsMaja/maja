@@ -103,7 +103,7 @@ sections:
       ultimately do more good.</p><p>If we could get just one meat eater to try
       a friend's plant based dish then for us this would be an Island Life Poke
       success!</p>
-  - banner_path:
+  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu.jpg
     banner-caption:
     banner-fixed: false
     columns: false
