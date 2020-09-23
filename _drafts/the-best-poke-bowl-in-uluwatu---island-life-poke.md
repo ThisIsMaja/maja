@@ -11,15 +11,18 @@ meta-description: >-
 meta-keywords: >-
   Poke bowl uluwatu, best place to eat in uluwatu, best poke bowl, best cafe
   uluwatu
-image_path:
-banner-1_path:
+image_path: /images/islandlife-poke/islandlife-poke-uluwatu-3.jpg
+banner-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali-1.jpg
 banner-fixed: true
 newsfeed: true
 categories:
   - lifestyle
 tags:
+  - diet
+  - Business
+  - Fashion
 author: Jake Snow
-image-1_path:
+image-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-4.jpg
 image-1_alt:
 image-2_path:
 image-2_alt:
