@@ -13,6 +13,7 @@ meta-keywords:
 image_path: /images/Maja-x-Rove/rove-maja-banner.jpg
 banner-1_path: /images/Maja-x-Rove/rove-maja-banner.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - lifestyle
 tags:

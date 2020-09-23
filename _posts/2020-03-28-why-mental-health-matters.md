@@ -12,6 +12,7 @@ meta-keywords: 'mental health,'
 image_path: /images/style/maja-stock-style2.jpg
 banner-1_path: /images/style/mental-health2.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:

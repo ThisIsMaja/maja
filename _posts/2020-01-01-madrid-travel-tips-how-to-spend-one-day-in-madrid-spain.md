@@ -13,6 +13,7 @@ meta-keywords: >-
 image_path: /images/city/madrid-spain1.jpg
 banner-1_path: /images/city/madrid-spain5.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - destinations
 tags:

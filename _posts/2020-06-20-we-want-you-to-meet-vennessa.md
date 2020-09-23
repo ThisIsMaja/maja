@@ -12,6 +12,7 @@ meta-keywords: 'black travel blogger, people of color, black lives matter'
 image_path: /images/Contributors/Vennessa/vennessa-6.jpg
 banner-1_path: /images/Contributors/Vennessa/vennessa-6.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - lifestyle
 tags:

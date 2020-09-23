@@ -15,6 +15,7 @@ meta-keywords: 'intermittent fasting, fasting, benefits of fasting'
 image_path: /images/marie-jake/mariefeandjakesnow-1.jpg
 banner-1_path: /images/marie-jake/gili-island2.jpg
 banner-fixed: false
+newsfeed: false
 categories:
   - wellbeing
 tags:

@@ -11,6 +11,7 @@ meta-keywords: 'travel, travel restrictions, coronavirus travel,'
 image_path: /images/bali/Bali-blogpost1.jpg
 banner-1_path: /images/bali/Bali-blogpost1.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - lifestyle
 tags:

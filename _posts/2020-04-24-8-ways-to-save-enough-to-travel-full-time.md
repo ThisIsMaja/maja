@@ -12,6 +12,7 @@ meta-keywords:
 image_path: /images/travel/maja-travel1.jpg
 banner-1_path: /images/travel/maja-travel1.jpg
 banner-fixed: true
+newsfeed: false
 banner-2_path:
 banner-2-caption:
 categories:

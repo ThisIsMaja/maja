@@ -11,6 +11,7 @@ meta-keywords: 'supplements, plant based diet, vegan, vegan supplements'
 image_path: /images/Future Kind/Future Kind-4.jpg
 banner-1_path: /images/Future Kind/Future Kind-4.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:

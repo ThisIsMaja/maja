@@ -12,6 +12,7 @@ meta-keywords: 'ski trip, holidays in Obertauern, Obertauern, Obertauern Austria
 image_path: /images/Obertauern/Obertauern5.jpg
 banner-1_path: /images/Obertauern/Obertauern5.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - destinations
 tags:

@@ -13,6 +13,7 @@ meta-keywords: 'period pain, womens health, natural remedies,'
 image_path: /images/pill/period-cramps5.jpg
 banner-1_path: /images/pill/period-cramps5.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:

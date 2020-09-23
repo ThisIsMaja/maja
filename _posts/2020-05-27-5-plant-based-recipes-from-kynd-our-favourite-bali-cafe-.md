@@ -13,6 +13,7 @@ meta-keywords: >-
 image_path: /images/food/kynd-burrito4.jpg
 banner-1_path: /images/food/kynd-burrito4.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:

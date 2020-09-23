@@ -12,6 +12,7 @@ meta-keywords: 'skin, the pill, coming off the pill, skin secrets, healthy skin,
 image_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-1_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:

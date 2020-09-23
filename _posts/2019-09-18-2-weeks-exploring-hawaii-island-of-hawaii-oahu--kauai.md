@@ -13,6 +13,7 @@ meta-keywords: >-
 image_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
 banner-1_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
 banner-fixed: false
+newsfeed: false
 categories:
   - destinations
 tags:

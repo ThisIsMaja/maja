@@ -12,6 +12,7 @@ meta-keywords:
 image_path: /images/turkey/Pamukkale.jpg
 banner-1_path: /uploads/cappadocia.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - destinations
 tags:

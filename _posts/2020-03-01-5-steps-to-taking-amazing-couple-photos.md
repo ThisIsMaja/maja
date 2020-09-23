@@ -12,6 +12,7 @@ meta-keywords:
 image_path: /images/Philippines/philippines-travel8.jpg
 banner-1_path: /images/Philippines/philippines-travel8.jpg
 banner-fixed: false
+newsfeed: false
 categories:
   - learn from us
 tags:

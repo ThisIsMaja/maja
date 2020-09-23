@@ -11,6 +11,7 @@ meta-keywords: 'contraceptives, the pill, womens health'
 image_path: /images/pill/contraceptives-maja4.jpg
 banner-1_path: /images/pill/contraceptives-maja4.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:

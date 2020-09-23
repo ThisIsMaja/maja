@@ -13,6 +13,7 @@ meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
 image_path: /images/Philippines/Coron 5-1.jpg
 banner-1_path: /images/Philippines/philippines-travel13.jpg
 banner-fixed: false
+newsfeed: false
 categories:
   - destinations
 tags:

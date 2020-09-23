@@ -11,6 +11,7 @@ meta-keywords: 'travel itinerary for Greece, greek islands'
 image_path: /images/greece/mariefeandjakesnow-greece14.jpg
 banner-1_path: /images/greece/mariefeandjakesnow-greece12.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - destinations
 tags:

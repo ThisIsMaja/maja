@@ -12,6 +12,7 @@ meta-keywords: 'maldives on a budget, local islands maldives, travel guide maldi
 image_path: /images/maldives/amilla-fushi7.jpg
 banner-1_path: /images/maldives/amilla-fushi7.jpg
 banner-fixed: true
+newsfeed: false
 categories:
   - destinations
 tags:

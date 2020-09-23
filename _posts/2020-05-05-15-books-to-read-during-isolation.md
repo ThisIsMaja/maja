@@ -11,6 +11,7 @@ meta-keywords: 'self improvement, growth, motivation, books'
 image_path: /images/style/books-stock2.jpg
 banner-1_path: /images/style/books-stock2.jpg
 banner-fixed: false
+newsfeed: false
 categories:
   - lifestyle
 tags:

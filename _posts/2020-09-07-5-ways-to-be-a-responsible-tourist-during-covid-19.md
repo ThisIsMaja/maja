@@ -12,6 +12,7 @@ image_path: /images/greece/greece-santorini-summer.jpg
 banner-1_path: /images/greece/greece-santorini-summer.jpg
 banner-fixed: true
 newsfeed: true
+newsfeed: false
 categories:
   - learn from us
 tags:
