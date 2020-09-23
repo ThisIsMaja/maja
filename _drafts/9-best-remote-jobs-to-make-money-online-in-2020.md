@@ -107,17 +107,17 @@ sections:
       comments and direct messages, scheduling, and uploading posts, reaching
       out to brands and influencers, etc.&nbsp;</p><p>If you have been following
       us on Instagram then you probably already know how to do most of these
-      tasks, so why not give it a try?</p><h2>&nbsp;</h2><h2>5. Content
-      Creator</h2><p>Our favourite remote job which allows us to monetise is
-      content creation. We create content for hotels, brands and other services
-      in exchanges for goods, services or money.</p><p>This can be done by
-      anyone with a camera and an eye for composition.</p><p>Other examples of
-      content creation which you could do are producing digital content, such as
-      photos and videos, to offline content - writing copies, blog posts,
-      e-books, etc.&nbsp;</p><p>A lot of companies choose to outsource those
-      tasks to freelance content creators and this could be your chance to make
-      a remote job income.&nbsp;</p><p>TIP - great platforms to submit your
-      written articles are Medium and Goop.</p>
+      tasks, so why not give it a try?</p><h2>&nbsp;</h2><p>&nbsp;</p><h2>5.
+      Content Creator</h2><p>Our favourite remote job which allows us to
+      monetise is content creation. We create content for hotels, brands and
+      other services in exchanges for goods, services or money.</p><p>This can
+      be done by anyone with a camera and an eye for composition.</p><p>Other
+      examples of content creation which you could do are producing digital
+      content, such as photos and videos, to offline content - writing copies,
+      blog posts, e-books, etc.&nbsp;</p><p>A lot of companies choose to
+      outsource those tasks to freelance content creators and this could be your
+      chance to make a remote job income.&nbsp;</p><p>TIP - great platforms to
+      submit your written articles are Medium and Goop.</p>
   - banner_path: /images/9-Remote-Jobs/best-remote-jobs-write-without-fear-copywritter.jpg
     banner-caption:
     banner-fixed: true
@@ -180,13 +180,12 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>Have We Inspired You to Find Your Remote
-      Job?</strong></h2><p>With this article, we wanted to show you that going
-      remote is much easier than you thought.&nbsp;</p><p>Hopefully, after
-      reading through our examples you will feel inspired and will take the
-      first step to a new independent lifestyle.</p><p>Let us know which job
-      speaks to you the most or, if you already work remotely, what job do you
-      do?</p><p>Lots of love,</p>
+      <h2>Have We Inspired You to Find Your Remote Job?</h2><p>With this
+      article, we wanted to show you that going remote is much easier than you
+      thought.&nbsp;</p><p>Hopefully, after reading through our examples you
+      will feel inspired and will take the first step to a new independent
+      lifestyle.</p><p>Let us know which job speaks to you the most or, if you
+      already work remotely, what job do you do?</p><p>Lots of love,</p>
 show-gallery: false
 gallery:
   - image_path: /images/content-creation/instagram-stories3.jpg
