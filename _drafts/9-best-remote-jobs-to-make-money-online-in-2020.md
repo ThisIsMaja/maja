@@ -35,7 +35,7 @@ intro-content_html: >-
   friends use too. From Web Development to Social Media Management we have
   something in here for people of all skill sets.</p>
 sections:
-  - banner_path: /images/9-Remote-Jobs/best-remote-jobs-man-typing-behing-the-laptop.jpg
+  - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
