@@ -15,7 +15,7 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - health & fitness
+  - health &amp; fitness
 author: Marie Fe
 image-1_path: /images/style/maja-stock-15.jpg
 image-2_path: /images/style/mental-health3.jpg

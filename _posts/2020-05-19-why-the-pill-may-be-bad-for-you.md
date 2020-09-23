@@ -14,7 +14,7 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - health & fitness
+  - health &amp; fitness
 author: Marie Fe
 image-1_path: /images/marie-jake/Website 2-25.jpg
 image-2_path:

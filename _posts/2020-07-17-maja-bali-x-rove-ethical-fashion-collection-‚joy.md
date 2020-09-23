@@ -16,7 +16,7 @@ banner-fixed: true
 categories:
   - lifestyle
 tags:
-  - fashion & beauty
+  - fashion &amp; beauty
 author: Marie Fe
 image-1_path: /images/Maja-x-Rove/rove-7.jpeg
 image-2_path:

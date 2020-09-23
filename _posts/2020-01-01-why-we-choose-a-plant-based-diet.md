@@ -15,7 +15,7 @@ banner-fixed: false
 categories:
   - wellbeing
 tags:
-  - health & fitness
+  - health &amp; fitness
 author: Marie Fe
 image-1_path: /images/food/vegan-food8.jpg
 image-2_path: /images/food/plantbased-food3.jpg

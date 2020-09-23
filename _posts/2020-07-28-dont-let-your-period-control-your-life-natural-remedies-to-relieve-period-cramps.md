@@ -16,7 +16,7 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - health & fitness
+  - health &amp; fitness
 author: Marie
 image-1_path: /images/Maja-x-Rove/joy-collection53.jpg
 image-2_path:

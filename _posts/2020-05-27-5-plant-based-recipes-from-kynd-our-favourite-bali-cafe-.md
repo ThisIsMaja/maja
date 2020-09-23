@@ -16,7 +16,7 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - food & nutrition
+  - food &amp; nutrition
 author: Marie & Jake
 image-1_path: /images/marie-jake/mariefeandjakesnow-bali2.jpg
 image-2_path: /images/food/kynd-burrito6.jpg

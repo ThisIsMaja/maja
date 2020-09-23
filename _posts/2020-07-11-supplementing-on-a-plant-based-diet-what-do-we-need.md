@@ -14,7 +14,7 @@ banner-fixed: true
 categories:
   - wellbeing
 tags:
-  - health & fitness
+  - health &amp; fitness
 author: Marie and Jake
 image-1_path: /images/Future Kind/Future Kind-5.jpg
 image-2_path:
