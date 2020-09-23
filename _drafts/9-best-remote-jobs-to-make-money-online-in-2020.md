@@ -38,7 +38,7 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: “What would you do if there were no way you could fail?” Tim Ferriss
     body-content_html: >-
       <h2>Why Work Online?</h2><p>If you have any doubts about your own ability
       to work online then let us give a few reasons to show you why you
