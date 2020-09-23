@@ -9,6 +9,7 @@ meta-keywords:
 image_path:
 banner-1_path:
 banner-fixed: true
+newsfeed: false
 categories:
 tags:
 author: Marie

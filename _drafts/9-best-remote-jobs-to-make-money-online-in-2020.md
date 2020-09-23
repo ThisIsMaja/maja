@@ -11,6 +11,7 @@ meta-keywords: 'best remote jobs, remote jobs, work from home, remote work'
 image_path:
 banner-1_path:
 banner-fixed: true
+newsfeed: false
 categories:
   - lifestyle
 tags:

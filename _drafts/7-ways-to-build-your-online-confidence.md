@@ -9,6 +9,7 @@ meta-keywords:
 image_path: /images/style/mariefeandjakesnow-pill3.jpg
 banner-1_path:
 banner-fixed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:
