@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+<script>
+    // Measures product detailed impressions and also tracks a standard
+    // pageview for the tag configuration.
+    dataLayer.push({
+      'event': 'viewedProduct',
+      'ecommerce': {
+        'detail': {
+            'products': [
+                 {
+                   'id': '{{page.shopify-id}}',       // Name or ID is required.
+                   'name': '{{page.title}}',
+                   'price': parseFloat('{{page.price}}'.replace('$', '')),
+                 }]
+        },
+      }
+    });
+</script>
 <section class="grid-center shop-details light-bg">
   <div class="left padding-0">
     <button class="back-button mob-hide" onclick="goBack()">< Go Back</button>
@@ -158,23 +175,27 @@ layout: default
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
-    'DOMEvents': {
-      'click .shopify-buy__btn-wrapper': function (evt, target) {
-        dataLayer.push({
-          'event': 'addToCart',
-          'ecommerce': {
-            'currencyCode': 'USD',
-            'add': {                               
-              'products': [{                       
-                'name': '{{page.title}}',
-                'id': '{{page.shopify-id}}',
-                'price': parseFloat('{{page.price}}'.replace('$', '')),
-                'quantity': 1
-              }]
-            }
-          }
-        });
-      }
+    "events": {
+        "addVariantToCart": function (product) {
+            dataLayer.push({
+              'event': 'addToCart',
+              'ecommerce': {
+                'currencyCode': 'USD',
+                'add': {                               
+                  'products': [{                       
+                    'name': '{{page.title}}',
+                    'id': product.id,
+                    'price': parseFloat('{{page.price}}'.replace('$', '')),
+                    'quantity': 1
+                  }]
+                }
+              }
+            });
+        },
+        "updateQuantity": function (product) {
+            console.log('Update Quantity')
+            console.log(product)
+        },
     },
     "styles": {
       "product": {
@@ -250,6 +271,16 @@ layout: default
     ]
   },
   "cart": {
+    "events": {
+       "openCheckout": function (cart) { 
+           console.log('OpenCheckout')
+           console.log(cart)
+       },
+       'updateItemQuantity': function (cart) {
+           console.log('Updatet Line Item Quantity')
+           console.log(cart)
+       }, 
+    },
     "styles": {
       "button": {
         "font-family": "p22-underground, sans-serif",

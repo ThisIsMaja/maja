@@ -26,7 +26,20 @@ image_path:
     {% endfor %}
 
   </nav> -->
-
+  <script>
+      // initialize product array for analytics, and on click tracking command for product click
+      var productsForAnalytics = new Array()
+      var pushProductClick = function(currentProduct) {
+          dataLayer.push({
+                          'event': 'productClick',
+                          'ecommerce': {
+                            'click': {
+                              'products': [currentProduct]
+                            }
+                           }
+          });
+      }
+  </script>
   <div id="product-loop" class="padded blog-masonry">
 
     {% assign sorted-products = site.products | sort: 'order' %}
@@ -34,11 +47,17 @@ image_path:
     {% for product in sorted-products limit: 15 %}
 
     {% if product.type == 'preset' %}
-
+        <script>
+            var productForAnalytics = {
+                'name': '{{product.title}}',
+                'price': parseFloat('{{product.price}}'.replace('$', ''))
+            }
+            productsForAnalytics.push(productForAnalytics);
+        </script>
         <div class="shop-item masonry-item padded-1
         {% for tag in product.preset-tags %} {{tag | slugify}} {% endfor%}
         " data-aos="fade" data-aos-delay="500">
-            <a href="{{product.url}}" class="card">
+            <a href="{{product.url}}" class="card" onclick="pushProductClick(productForAnalytics);">
               {% unless product.save-percentage == false %}
               <span class="save">SAVE<br>{{ product.save-percentage }}</span>
               {% endunless %}
@@ -58,6 +77,14 @@ image_path:
     {% endfor %}
 
   </div>
+  <script>
+    dataLayer.push({
+                        'event': 'productImpression',
+                        'ecommerce': {
+                            'impressions': productsForAnalytics
+                        }
+                  });
+  </script>
 </section>
 <!--
 <section class="featured-bg centered editable padded">
