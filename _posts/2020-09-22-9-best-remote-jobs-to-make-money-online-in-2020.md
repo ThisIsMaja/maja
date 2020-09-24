@@ -16,8 +16,7 @@ newsfeed: true
 categories:
   - lifestyle
 tags:
-  - Business
-  - Self Improvement
+  - self-improvement
 author: Marie & Jake
 image-1_path: /images/9-Remote-Jobs/best-remote-jobs-work-online (1).jpg
 image-2_path:
