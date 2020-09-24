@@ -14,7 +14,7 @@ meta-keywords: >-
 image_path: /images/islandlife-poke/islandlife-poke-uluwatu-3.jpg
 banner-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali-1.jpg
 banner-fixed: true
-newsfeed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:
@@ -24,15 +24,14 @@ image-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-4.jpg
 image-1_alt:
 image-2_path:
 image-2_alt:
-intro-paragraph-emphasis: >-
-  “You can’t control everything in life but you can control what you put in your
-  body.”
+intro-paragraph-emphasis:
 intro-content_html: >-
-  <p>If you&rsquo;ve been following us for some time you will know that both
-  healthy and delicious food is one of our greatest passions. We are strong
-  believers that what we put in our bodies impacts our wellbeing, not just on a
-  physical level, but on an emotional and mental level as well - how we feel,
-  how much energy we have, how strong and how capable we are.</p>
+  <h2>The Story Behind Island Life Poke</h2><p>If you&rsquo;ve been following us
+  for some time you will know that both healthy and delicious food is one of our
+  greatest passions. We are strong believers that what we put in our bodies
+  impacts our wellbeing, not just on a physical level, but on an emotional and
+  mental level as well - how we feel, how much energy we have, how strong and
+  how capable we are.</p>
 sections:
   - banner_path:
     banner-caption:
@@ -53,34 +52,36 @@ sections:
       positive. We took those months as an opportunity to slow down and to work
       on passion projects whilst also looking for new opportunities that we
       would never have had time for before.</p>
-  - banner_path:
+  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu-2.jpg
     banner-caption:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>The Creation of Island Life Poke</strong></h2><p>After
-      spending a few months in Canggu we decided to switch things up a little
-      bit and moved down to the surfers paradise that is Uluwatu.</p><p>For the
-      first time in a long time we felt we could relax without the pressures of
-      always being in character which coincided with meeting amazing new friends
-      who had no preconceptions about who we were.</p><p>Friendships escalated
-      very quickly and before we knew it we were going into a creative passion
-      project together - ISLAND LIFE POKE. The idea was to create not only the
-      best poke bowls in Uluwatu but in the whole of Bali. And our ultimate goal
-      was to serve delicious, nutritious and local food that helped customers
-      hit their health goals without sacrificing taste.</p><p>We really hope to
-      grow this business to a point where we can really support the local
-      economy and create initiatives/programs that will benefit people and the
-      planet!</p>
-  - banner_path:
+      <h2>The Creation of Island Life Poke</h2><p>After spending a few months in
+      Canggu we decided to switch things up a little bit and moved down to the
+      surfers paradise that is Uluwatu.</p><p>For the first time in a long time
+      we felt we could relax without the pressures of always being in character
+      which coincided with meeting amazing new friends who had no preconceptions
+      about who we were.</p><p>This level of comfort led to friendships
+      escalating very quickly and before we knew it, we were going into a
+      creative passion project together - ISLAND LIFE POKE.</p><p>The idea was
+      to create not only the best poke bowls in Uluwatu but in the whole of
+      Bali. And our ultimate goal was to serve delicious, nutritious and local
+      food that helped customers hit their health goals without sacrificing
+      taste.</p><p>We really hope to grow this business to a point where we can
+      really support the local economy and create initiatives/programs that will
+      benefit people and the planet!</p>
+  - banner_path: /images/islandlife-poke/Island-life-poke-uluwatu-4 (1).jpg
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis:
+    main-paragraph-emphasis: >-
+      “You can’t control everything in life but you can control what you put in
+      your body.”
     body-content_html: >-
-      <h2><strong>What is a Poke bowl (poh-keh)?</strong></h2><p>This dish comes
-      from Hawaiian cuisine and in the local language means &ldquo;to slice or
+      <h2>What is a Poke bowl (poh-keh)?</h2><p>This dish comes from Hawaiian
+      cuisine and in the local language means &ldquo;to slice or
       cut&rdquo;.</p><p>An original poke recipe includes raw marinated fish,
       typically Ahi or Yellowfin tuna, that&rsquo;s cut in cubes and layered on
       top of the sticky rice and complemented with pickles.</p><p>Nowadays you
@@ -101,40 +102,40 @@ sections:
       ultimately do more good.</p><p>If we could get just one meat eater to try
       a friend's plant based dish then for us this would be an Island Life Poke
       success!</p>
-  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu.jpg
+  - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: false
+    columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>What is Island Life Poke?</strong></h2><p>The main idea when
-      creating Island Life Poke was to open a healthy take-out as well as
-      dine-in, where people come and grab a nourishing
-      meal.&nbsp;&nbsp;</p><p>It is also a place we can imagine hanging out with
-      friends at sunset for many nights to come.</p><p>It is located in Uluwatu
-      opposite the stairs leading down to Padang Padang beach - a world-famous
-      surfing spot. This makes it a popular place where surfers come to
-      replenish their energy after catching a few waves.</p><p>Island Life Poke
-      is also a great place where you can quickly grab a filling meal when you
-      don&rsquo;t have much time but still want to have healthy
-      food.</p><p>Together with our friends, we have created a menu where
-      everybody can find something he/she loves. We have included 1 meat, fish,
-      and many vegan options served in a bowl or in a burrito style, aka
-      pokeritto. There is also a possibility to make your own combination of
-      your favorite ingredients.</p>
+      <h2>What is Island Life Poke?</h2><p>The main idea when creating Island
+      Life Poke was to open a healthy take-out as well as dine-in, where people
+      come and grab a nourishing meal.&nbsp;&nbsp;</p><p>It is also a place we
+      can imagine you could come and hang out with friends at sunset after a day
+      at the beach or before heading out for a few drinks.</p><p>In terms of
+      location, it&rsquo;s perfectly placed in Uluwatu opposite the stairs
+      leading down to Padang Padang beach - a world-famous surfing spot. This
+      makes it a popular place where surfers come to replenish their energy
+      after catching a few waves.</p><p>Island Life Poke is also a great place
+      where you can quickly grab a filling meal when you don&rsquo;t have much
+      time but still want to have healthy food.</p><p>Together with our friends,
+      we have created a menu where everybody can find something he/she loves. We
+      have included 1 meat, fish, and many vegan options served in a bowl or in
+      a burrito style, aka pokeritto. There is also a possibility to make your
+      own combination of your favorite ingredients.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>Our Gift to you!</strong></h2><p>For your ongoing support
+      <h2>Have a Discount Poke Bowl On Us</h2><p>For your ongoing support
       you&rsquo;ve shown us over the years we want to offer you guys a little
-      something. For our friends here we will give 20% off all orders for the
-      rest of this year and all of next year :) All you need to do is screenshot
-      this coupon and show it when you're in our little store.&nbsp;</p><p><img
-      src="/images/islandlife-poke/Islandlife-poke-coupon.jpg" width="1600"
-      height="2847" /></p>
+      something.&nbsp;</p><p>For our friends here we will give <strong>20%
+      OFF</strong> all orders for the rest of this year and all of next year
+      :)&nbsp;</p><p>All you need to do is screenshot this coupon and show it
+      when you're in our little store.</p><p><img width="1600" height="2847"
+      src="/images/islandlife-poke/Islandlife-poke-coupon.jpg" /></p>
 show-gallery: false
 gallery:
   - image_path:
