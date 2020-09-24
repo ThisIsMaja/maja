@@ -12,6 +12,7 @@ meta-keywords: 'best remote jobs, remote jobs, work from home, remote work'
 image_path: /images/9-Remote-Jobs/best-remote-work-jobs-vanlife.jpg
 banner-1_path: /images/9-Remote-Jobs/best-remote-work-jobs-vanlife.jpg
 banner-fixed: true
+newsfeed: true
 categories:
   - lifestyle
 tags:
