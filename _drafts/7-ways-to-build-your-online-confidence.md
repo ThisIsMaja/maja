@@ -11,7 +11,6 @@ banner-1_path:
 banner-fixed: true
 newsfeed: false
 categories:
-  - wellbeing
 tags:
 author: Marie
 image-1_path: /images/personal/skin-pimples.jpg
