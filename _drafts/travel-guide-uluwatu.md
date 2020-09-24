@@ -15,7 +15,6 @@ banner-1_path:
 banner-fixed: true
 newsfeed: false
 categories:
-  - travel
 tags:
   - asia
 author: Marie Fe
