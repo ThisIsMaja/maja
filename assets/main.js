@@ -140,7 +140,9 @@ $(document).ready(function(){
     $(this).addClass('active');
 
     /* get the name of the cateory from this link */
-    var filterVal = $(this).text().replace(' ','-').toLowerCase();
+    var filterVal = $(this).text().replace(' ','-').toLowerCase().replace(' ','-');
+
+
 
     $('#product-loop .shop-item').each(function() {
         if(filterVal == 'all'){
@@ -156,6 +158,7 @@ $(document).ready(function(){
 
 });
 
+
 $('nav#blog-filter a').click(function(e){
 	e.preventDefault();
 
@@ -164,8 +167,8 @@ $('nav#blog-filter a').click(function(e){
 	$(this).addClass('active');
 
 	/* get the name of the cateory from this link */
-	var filterVal = $(this).text().replace(' ','-').toLowerCase();
-
+	var filterVal = $(this).text().replace(' ','-').replace(' ','-').toLowerCase();
+alert(filterVal)
 	$('#blog-loop .masonry-item').each(function() {
 			if(filterVal == 'all'){
 				$(this).removeClass('hidden');
