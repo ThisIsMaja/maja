@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-09-22 11:00:00
+date: 2020-09-24 18:40:00
 hidden: false
 slug: island-life-poke
 title: The Best Poke Bowl in Uluwatu - Island Life Poke
