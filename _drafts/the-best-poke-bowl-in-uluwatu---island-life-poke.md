@@ -16,7 +16,9 @@ banner-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali-1.jpg
 banner-fixed: true
 newsfeed: true
 categories:
+  - wellbeing
 tags:
+  - food &amp; nutrition
 author: Jake Snow
 image-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-4.jpg
 image-1_alt:
@@ -141,7 +143,7 @@ gallery:
 _all-posts: true
 ---
 
-**H2 - “You can’t control everything in life but you can control what you put in your body.”**
+**H2 - The Story Behind Island Life Poke**
 
 If you’ve been following us for some time you will know that both healthy and delicious food is one of our greatest passions. We are strong believers that what we put in our bodies impacts our wellbeing, not just on a physical level, but on an emotional and mental level as well - how we feel, how much energy we have, how strong and how capable we are.
 
@@ -157,7 +159,9 @@ After spending a few months in Canggu we decided to switch things up a little bi
 
 For the first time in a long time we felt we could relax without the pressures of always being in character which coincided with meeting amazing new friends who had no preconceptions about who we were.
 
-Friendships escalated very quickly and before we knew it we were going into a creative passion project together - ISLAND LIFE POKE. The idea was to create not only the best poke bowls in Uluwatu but in the whole of Bali. And our ultimate goal was to serve delicious, nutritious and local food that helped customers hit their health goals without sacrificing taste.
+This level of comfort led to friendships escalating very quickly and before we knew it, we were going into a creative passion project together - ISLAND LIFE POKE.
+
+The idea was to create not only the best poke bowls in Uluwatu but in the whole of Bali. And our ultimate goal was to serve delicious, nutritious and local food that helped customers hit their health goals without sacrificing taste.
 
 We really hope to grow this business to a point where we can really support the local economy and create initiatives/programs that will benefit people and the planet\!
 
@@ -181,14 +185,18 @@ If we could get just one meat eater to try a friend's plant based dish then for 
 
 The main idea when creating Island Life Poke was to open a healthy take-out as well as dine-in, where people come and grab a nourishing meal.&nbsp;&nbsp;
 
-It is also a place we can imagine hanging out with friends at sunset for many nights to come.
+It is also a place we can imagine you could come and hang out with friends at sunset after a day at the beach or before heading out for a few drinks.
 
-It is located in Uluwatu opposite the stairs leading down to Padang Padang beach - a world-famous surfing spot. This makes it a popular place where surfers come to replenish their energy after catching a few waves.
+In terms of location, it’s perfectly placed in Uluwatu opposite the stairs leading down to Padang Padang beach - a world-famous surfing spot. This makes it a popular place where surfers come to replenish their energy after catching a few waves.
 
 Island Life Poke is also a great place where you can quickly grab a filling meal when you don’t have much time but still want to have healthy food.
 
 Together with our friends, we have created a menu where everybody can find something he/she loves. We have included 1 meat, fish, and many vegan options served in a bowl or in a burrito style, aka pokeritto. There is also a possibility to make your own combination of your favorite ingredients.
 
-**H2 - Our Gift to you\!**
+**H2 - Have a Discount Poke Bowl On Us**
 
-For your ongoing support you’ve shown us over the years we want to offer you guys a little something. For our friends here we will give 20% off all orders for the rest of this year and all of next year :) All you need to do is screenshot this coupon and show it when you're in our little store.&nbsp;
+For your ongoing support you’ve shown us over the years we want to offer you guys a little something.&nbsp;
+
+For our friends here we will give **20% OFF** all orders for the rest of this year and all of next year :)&nbsp;
+
+All you need to do is screenshot this coupon and show it when you're in our little store.
