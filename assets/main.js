@@ -168,7 +168,6 @@ $('nav#blog-filter a').click(function(e){
 
 	/* get the name of the cateory from this link */
 	var filterVal = $(this).text().replace(' ','-').replace(' ','-').toLowerCase();
-alert(filterVal)
 	$('#blog-loop .masonry-item').each(function() {
 			if(filterVal == 'all'){
 				$(this).removeClass('hidden');
