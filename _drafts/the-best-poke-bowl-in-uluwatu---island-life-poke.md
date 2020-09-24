@@ -16,11 +16,7 @@ banner-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali-1.jpg
 banner-fixed: true
 newsfeed: true
 categories:
-  - lifestyle
 tags:
-  - diet
-  - Business
-  - Fashion
 author: Jake Snow
 image-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-4.jpg
 image-1_alt:
