@@ -16,7 +16,6 @@ banner-fixed: true
 newsfeed: false
 categories:
 tags:
-  - asia
 author: Marie Fe
 image-1_path:
 image-1_alt:
