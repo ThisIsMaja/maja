@@ -13,7 +13,7 @@ meta-keywords: 'self improvement, growth, motivation, podcasts, courses.'
 image_path: /images/nature/sunflower.jpg
 banner-1_path: /images/nature/sunflower.jpg
 banner-fixed: false
-newsfeed: false
+newsfeed: true
 categories:
   - lifestyle
 tags:
@@ -180,3 +180,4 @@ gallery:
     size: full
     alt:
 ---
+
