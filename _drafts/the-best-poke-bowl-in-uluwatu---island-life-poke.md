@@ -12,9 +12,9 @@ meta-keywords: >-
   Poke bowl uluwatu, best place to eat in uluwatu, best poke bowl, best cafe
   uluwatu
 image_path: /images/islandlife-poke/islandlife-poke-uluwatu-3.jpg
-banner-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali-1.jpg
+banner-1_path: /images/islandlife-poke/rsz_islandlife-poke-uluwatu-bali.jpg
 banner-fixed: false
-newsfeed: true
+newsfeed: false
 categories:
   - wellbeing
 tags:
@@ -54,7 +54,7 @@ sections:
       would never have had time for before.</p>
   - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu-2.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -65,14 +65,15 @@ sections:
       which coincided with meeting amazing new friends who had no preconceptions
       about who we were.</p><p>This level of comfort led to friendships
       escalating very quickly and before we knew it, we were going into a
-      creative passion project together - ISLAND LIFE POKE.</p><p>The idea was
-      to create not only the best poke bowls in Uluwatu but in the whole of
-      Bali. And our ultimate goal was to serve delicious, nutritious and local
-      food that helped customers hit their health goals without sacrificing
-      taste.</p><p>We really hope to grow this business to a point where we can
-      really support the local economy and create initiatives/programs that will
-      benefit people and the planet!</p>
-  - banner_path: /images/islandlife-poke/Island-life-poke-uluwatu-4 (1).jpg
+      creative passion project together - <a target="_blank" rel="noopener"
+      href="https://www.instagram.com/islandlifepoke/">ISLAND LIFE
+      POKE</a>.</p><p>The idea was to create not only the best poke bowls in
+      Uluwatu but in the whole of Bali. And our ultimate goal was to serve
+      delicious, nutritious and local food that helped customers hit their
+      health goals without sacrificing taste.</p><p>We really hope to grow this
+      business to a point where we can really support the local economy and
+      create initiatives/programs that will benefit people and the planet!</p>
+  - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
@@ -102,7 +103,7 @@ sections:
       ultimately do more good.</p><p>If we could get just one meat eater to try
       a friend's plant based dish then for us this would be an Island Life Poke
       success!</p>
-  - banner_path:
+  - banner_path: /images/islandlife-poke/Island-life-poke-uluwatu-4 (1).jpg
     banner-caption:
     banner-fixed: false
     columns: true
