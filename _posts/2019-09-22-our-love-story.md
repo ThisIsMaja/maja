@@ -12,7 +12,7 @@ meta-keywords:
 image_path: /images/marie-jake/Website 2-23.jpg
 banner-1_path: /images/nature/mariefeandjakesnow-banner10.jpg
 banner-fixed: true
-newsfeed: false
+newsfeed: true
 categories:
   - wellbeing
 tags:
