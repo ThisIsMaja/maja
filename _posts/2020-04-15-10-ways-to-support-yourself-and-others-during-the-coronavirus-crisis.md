@@ -12,7 +12,7 @@ meta-keywords:
 image_path: /images/Coronavirus/coronavirus3.jpg
 banner-1_path: /images/Coronavirus/coronavirus2.jpg
 banner-fixed: true
-newsfeed: false
+newsfeed: true
 categories:
   - lifestyle
 tags:
@@ -85,3 +85,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
