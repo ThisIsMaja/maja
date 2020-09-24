@@ -37,7 +37,7 @@ show-more-posts-button: false
   <div class="blog-loop blog-masonry">
 
 
-    {% assign newsfeed-posts = site.documents | where: "newsfeed", true %}
+    {% assign newsfeed-posts = site.documents | where: "newsfeed", true | sort: 'date' | reverse %}
 
     {% for post in newsfeed-posts %}
       {% unless post.hidden == true %}
