@@ -5,9 +5,9 @@ hidden: false
 slug: meet-vennessa
 title: We Want You to Meet Vennessa
 meta-description: >-
-  Being a black travel blogger and being able to go abroad my hope was that I
-  could share my travel experience with a wide audience of POC so that they
-  would be inspired to do the same.
+  Vannessa shares her thoughts on racial disparities in the travel industry and
+  why the idea of traveling internationally became associated with white
+  privilege.
 meta-keywords: 'black travel blogger, people of color, black lives matter'
 image_path: /images/Contributors/Vennessa/vennessa-6.jpg
 banner-1_path: /images/Contributors/Vennessa/vennessa-6.jpg
@@ -153,3 +153,4 @@ gallery:
     size: full
     alt:
 ---
+
