@@ -5,9 +5,10 @@ hidden: false
 slug: supplements-for-plant-based-diet
 title: 'Supplementing on a plant based diet, what do we need?'
 meta-description: >-
-  Living on a plant based diet can provide many benefits but there are a few key
-  nutrients we need to think about!!
-meta-keywords: 'supplements, plant based diet, vegan, vegan supplements'
+  In this blog post we explain what nutrients do we need to supplement as plant
+  based eaters and why? We also introduce you to the best vegan supplement
+  brand.
+meta-keywords: best vegan supplements
 image_path: /images/Future Kind/Future Kind-4.jpg
 banner-1_path: /images/Future Kind/Future Kind-4.jpg
 banner-fixed: true
@@ -72,25 +73,25 @@ sections:
       there are 3 main nutrients/vitamins that we do find hard to get especially
       when we don't have access to a wide range of foods.
     body-content_html: >-
-      <h3><strong>What nutrients do we need to supplement as plant based eaters
-      and why?</strong></h3><p>&nbsp;</p><p>In healthy people, the majority of
-      scientific evidence shows that taking a multivitamin isn&rsquo;t necessary
-      and that some might even be doing you HARM. That&rsquo;s because they
-      contain vitamins and minerals that you&rsquo;re probably already getting
-      enough of.</p><p>Being plant based we get significantly more nutrients
-      than an average person on an average western diet. But there are 3 main
-      nutrients/vitamins that we do find hard to get especially when we don't
-      have access to a wide range of foods.&nbsp;</p><p><strong>They are
-      vitamins B12, D3 and Omega 3&rsquo;s EPA and DHA</strong></p><p>We don't
-      get enough of these because these nutrients come from bacteria, the sun's
-      rays, and algae &mdash; things we do not always consume a lot of. The
-      reason why it can be easier on a normal diet is because fish contains
-      Omega 3&rsquo;s which they get from the algae. Other meat products like
-      chicken and beef contain B12 because the animals get it from bacteria in
-      the soil. Animals do not make these nutrients, they also get it from other
-      places. When we consume animal products we can get these nutrients but
-      they generally come with a whole host of bad stuff like saturated fat,
-      cholesterol, heme iron, mercury etc.</p>
+      <h2>What nutrients do we need to supplement as plant based eaters and
+      why?</h2><p>In healthy people, the majority of scientific evidence shows
+      that taking a multivitamin isn&rsquo;t necessary and that some might even
+      be doing you HARM. That&rsquo;s because they contain vitamins and minerals
+      that you&rsquo;re probably already getting enough of.</p><p>Being plant
+      based we get significantly more nutrients than an average person on an
+      average western diet. But there are 3 main nutrients/vitamins that we do
+      find hard to get especially when we don't have access to a wide range of
+      foods.&nbsp;</p><p><strong>They are vitamins B12, D3 and Omega 3&rsquo;s
+      EPA and DHA</strong></p><p>We don't get enough of these because these
+      nutrients come from bacteria, the sun's rays, and algae &mdash; things we
+      do not always consume a lot of. The reason why it can be easier on a
+      normal diet is because fish contains Omega 3&rsquo;s which they get from
+      the algae. Other meat products like chicken and beef contain B12 because
+      the animals get it from bacteria in the soil. Animals do not make these
+      nutrients, they also get it from other places. When we consume animal
+      products we can get these nutrients but they generally come with a whole
+      host of bad stuff like saturated fat, cholesterol, heme iron, mercury
+      etc.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -174,3 +175,4 @@ gallery:
     size: full
     alt:
 ---
+
