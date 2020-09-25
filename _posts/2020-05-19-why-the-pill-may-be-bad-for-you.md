@@ -5,9 +5,10 @@ hidden: false
 slug: why-the-pill-may-be-bad
 title: Why the 'pill' may be bad for you
 meta-description: >-
-  The process of coming off the pill was so challenging and so stressful, you
-  are probably wondering why I put myself through that?
-meta-keywords: 'contraceptives, the pill, womens health'
+  In this blog post I tell you why I decided to come off the birth-control pill
+  and what alternatives there are. I also talk about common 'side' effects of
+  the pill and warnings.
+meta-keywords: 'why the pill is bad, birth control pill'
 image_path: /images/pill/contraceptives-maja4.jpg
 banner-1_path: /images/pill/contraceptives-maja4.jpg
 banner-fixed: true
@@ -183,7 +184,7 @@ gallery:
 
 **Why the pill may be bad for you**
 
-Recently I wrote a blog post about [how](__notset__)[I healed my skin after coming off the pill](https://thisismaja.com/posts/healing-skin-after-coming-off-the-pill). The process of coming off the pill was so challenging and so stressful, you are probably wondering why I put myself through that? There are many reasons why and I want to share those reasons with you in this blog post. I also want to tell you about what alternatives there are and what is working for me.
+Recently I wrote a blog post about [how]( )[I healed my skin after coming off the pill](https://thisismaja.com/posts/healing-skin-after-coming-off-the-pill). The process of coming off the pill was so challenging and so stressful, you are probably wondering why I put myself through that? There are many reasons why and I want to share those reasons with you in this blog post. I also want to tell you about what alternatives there are and what is working for me.
 
 So how did I end up going down the path of first questioning the pill and then decided to get off it completely. 4 years ago I started a journey towards a more holistic, conscious and healthy lifestyle. I started focusing on eating whole plant-based food, exercising, meditating and in general reconnecting with my natural self. This sort of 'awakening' has honestly changed my life in so many ways. Im happier, I'm more successful, I feel so much healthier, Im filled with love most days.
 
