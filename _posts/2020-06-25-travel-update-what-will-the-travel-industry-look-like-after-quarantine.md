@@ -5,9 +5,10 @@ hidden: false
 slug: maja-travel-update
 title: 'Travel Update: What will the travel industry look like after quarantine?'
 meta-description: >-
-  when we will travel, what it will look like, and how the industry will manage
-  during this pandemic.
-meta-keywords: 'travel, travel restrictions, coronavirus travel,'
+  When will we be able to travel? What it will look like and what will the
+  travel industry look like after quarantine? Talking about all this in our new
+  blog post.
+meta-keywords: 'travel update, traveling after quarantine'
 image_path: /images/bali/Bali-blogpost1.jpg
 banner-1_path: /images/bali/Bali-blogpost1.jpg
 banner-fixed: true
@@ -152,3 +153,4 @@ gallery:
     size: full
     alt:
 ---
+
