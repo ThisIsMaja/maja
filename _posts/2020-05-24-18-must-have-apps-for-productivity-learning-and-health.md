@@ -7,9 +7,7 @@ title: '18 must-have apps for productivity, learning and health'
 meta-description: >-
   Find out what are the 18 apps we use daily that save us time, helps to learn
   new things and motivate us to stay healthy.
-meta-keywords: >-
-  musthave apps, must-have app, app to stay productive, apps for productivity,
-  health apps, learning apps, useful apps,
+meta-keywords: 'must have apps, apps for productivity, health apps, learning apps, useful apps'
 image_path: /images/office/productivity-apps2.jpg
 banner-1_path: /images/office/productivity-apps2.jpg
 banner-fixed: true
