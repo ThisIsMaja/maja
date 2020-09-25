@@ -5,11 +5,10 @@ hidden: false
 slug: maja-x-rove-ethical-fashion-collection-joy
 title: Maja Bali X Rove Ethical Fashion Collection ‚JOY‘
 meta-description: >-
-  It’s finally here- our first ever joint collection called ‚JOY‘. Maja Bali and
-  Rove Byron Bay have come together to create a collection of joyous designs and
-  uplifting colors. Ethical made flowy dresses in pastel hues that are perfectly
-  instagrammable are the center pieces of this collection.
-meta-keywords:
+  ‘JOY’ is a joint collection between Maja Bali and Rove Byron Bay. Ethically
+  made flowy dresses in pastel hues that are perfectly instagrammable are the
+  center pieces of this collection.
+meta-keywords: maja bali
 image_path: /images/Maja-x-Rove/rove-maja-banner.jpg
 banner-1_path: /images/Maja-x-Rove/rove-maja-banner.jpg
 banner-fixed: true
