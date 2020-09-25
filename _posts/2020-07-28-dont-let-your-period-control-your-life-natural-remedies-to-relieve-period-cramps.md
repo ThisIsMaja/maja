@@ -7,9 +7,9 @@ title: >-
   Don't let your period control your life: natural remedies to relieve period
   cramps
 meta-description: >-
-  Here are a few solutions to give you that period pain relief you've always
-  needed.
-meta-keywords: 'period pain, womens health, natural remedies,'
+  Here are a few natural solutions to give you that period pain relief you've
+  always needed.
+meta-keywords: natural period pain relief
 image_path: /images/pill/period-cramps5.jpg
 banner-1_path: /images/pill/period-cramps5.jpg
 banner-fixed: true
