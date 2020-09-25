@@ -2,12 +2,12 @@
 layout: modular
 hidden: true
 date: 2020-07-25 00:00:00
-slug: island-life-poke
+slug: island-life-poke-uluwatu
 title: Island Life Poke
 meta-description:
 meta-keywords:
 image_path: /images/style/mariefeandjakesnow-pill3.jpg
-newsfeed: true 
+newsfeed: true
 tags:
 author: Marie Fe
 page_blocks:
@@ -19,3 +19,4 @@ _all-posts: true
 _comments:
   slug: this overrides the default url
 ---
+

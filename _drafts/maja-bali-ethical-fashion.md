@@ -13,11 +13,7 @@ banner-1_path: /images/Future Kind/Future Kind-4.jpg
 banner-fixed: true
 newsfeed: false
 categories:
-  - wellbeing
 tags:
-  - diet
-  - conscious living
-  - Self Improvement
 author: Marie and Jake
 image-1_path: /images/Future Kind/Future Kind-5.jpg
 image-2_path:
