@@ -4,9 +4,9 @@ shopify-id: 1856420216896
 layout: product
 type: preset
 order: 3
-price: $95.95
+price: $55.00
 compare-at-price: $215.95
-save-percentage: 55%
+save-percentage: 75%
 image_path: /images/shop/bundle-pack.jpg
 short-description: All you need! 72 Mobile & Desktop
 preset-tags:
@@ -63,3 +63,4 @@ show-on-compare-page: false
 video_banner_path:
 video_poster_path:
 ---
+
