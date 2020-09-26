@@ -12,7 +12,7 @@ meta-keywords: >-
   Poke bowl uluwatu, best place to eat in uluwatu, best poke bowl, best cafe
   uluwatu
 image_path: /images/islandlife-poke/islandlife-poke-uluwatu-3.jpg
-banner-1_path: /images/islandlife-poke/rsz_islandlife-poke-uluwatu-bali.jpg
+banner-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali.jpg
 banner-fixed: false
 newsfeed: true
 categories:
@@ -96,7 +96,7 @@ sections:
       ultimately do more good.</p><p>If we could get just one meat eater to try
       a friend's plant based dish then for us this would be an Island Life Poke
       success!</p>
-  - banner_path: /images/islandlife-poke/island-life-poke-bowls.jpg
+  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali-1.jpg
     banner-caption:
     banner-fixed: false
     columns: true
