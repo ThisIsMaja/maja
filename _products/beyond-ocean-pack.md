@@ -4,9 +4,9 @@ shopify-id: 1831677984832
 layout: product
 type: preset
 order: 7
-price: $19.95
+price: $9.95
 compare-at-price: $39.95
-save-percentage: 50%
+save-percentage: 75%
 image_path: /images/shop/cover-2.jpg
 main-gallery:
   - image_path: /images/shop/Ocean/ocean-1.JPG
