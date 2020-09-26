@@ -4,9 +4,9 @@ shopify-id: 3666480234557
 layout: product
 type: preset
 order: 4
-price: $24.95
+price: $14.95
 compare-at-price: $59.95
-save-percentage: 58%
+save-percentage: 75%
 home-page-feature: true
 image_path: /images/shop/cover-7.jpg
 main-gallery:
