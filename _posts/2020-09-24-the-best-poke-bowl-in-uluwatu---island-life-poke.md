@@ -45,7 +45,7 @@ intro-content_html: >-
   looking for new opportunities that we would never have had time for
   before.</p>
 sections:
-  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu-2.jpg
+  - banner_path:
     banner-caption:
     banner-fixed: true
     columns: false
@@ -66,7 +66,7 @@ sections:
       health goals without sacrificing taste.</p><p>We really hope to grow this
       business to a point where we can really support the local economy and
       create initiatives/programs that will benefit people and the planet!</p>
-  - banner_path:
+  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu-2.jpg
     banner-caption:
     banner-fixed: false
     columns: false
