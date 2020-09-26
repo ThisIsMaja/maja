@@ -4,10 +4,10 @@ shopify-id: 4360618344491
 layout: product
 type: preset
 order: 1
-price: $19.95
+price: $14.95
 compare-at-price: $39.95
 home-page-feature: true
-save-percentage: 50%
+save-percentage: 63%
 image_path: /images/shop/cover-5.jpg
 short-description: 12 Dreamy Presets for Mobile & Pc
 description: >-
