@@ -14,7 +14,7 @@ meta-keywords: >-
 image_path: /images/islandlife-poke/islandlife-poke-uluwatu-3.jpg
 banner-1_path: /images/islandlife-poke/rsz_islandlife-poke-uluwatu-bali.jpg
 banner-fixed: false
-newsfeed: false
+newsfeed: true
 categories:
   - wellbeing
 tags:
