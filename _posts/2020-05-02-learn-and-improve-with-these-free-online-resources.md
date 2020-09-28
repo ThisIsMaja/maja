@@ -6,10 +6,9 @@ slug: free-online-resources
 title: Learn and improve with these free online resources
 meta-description: >-
   Free online resources that will help you stay inspired and productive while
-  you're at home. Now is the best time to focus on improving and exploring your
-  skills. We´ve collected our favorite free online resources to grow, learn and
-  improve...
-meta-keywords: 'self improvement, growth, motivation, podcasts, courses.'
+  you're at home. We´ve collected our favorite free online courses to grow,
+  learn and improve.
+meta-keywords: 'free online courses, free online resources'
 image_path: /images/nature/sunflower.jpg
 banner-1_path: /images/nature/sunflower.jpg
 banner-fixed: false
