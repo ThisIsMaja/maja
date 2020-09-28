@@ -7,9 +7,7 @@ title: 'Madrid Travel Tips: How To Spend One Day in Madrid, Spain'
 meta-description: >-
   Only in Madrid for one day? No need to worry, we've got you covered. Read
   about all must-see places, where to eat, where to stay and things to do.
-meta-keywords: >-
-  madrid in one day, madrid what to see, madrid where to stay, madrid what to
-  eat, thing to do in madrid
+meta-keywords: 'Madrid in one day, thing to do in Madrid, Madrid travel guide'
 image_path: /images/city/madrid-spain1.jpg
 banner-1_path: /images/city/madrid-spain5.jpg
 banner-fixed: true
@@ -123,3 +121,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
