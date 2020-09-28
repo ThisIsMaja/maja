@@ -5,11 +5,9 @@ hidden: false
 slug: two-weeks-exploring-hawaii
 title: '2 Weeks Exploring Hawaii: Island of Hawaii, Oahu & Kauai'
 meta-description: >-
-  Full two weeks itinerary for Island of Hawaii, Oahu and Kauai. Where to stay,
-  things to do, and best restaurants in the areas.
-meta-keywords: >-
-  two weeks in Hawaii, thing to do in Hawaii, what to see in Hawaii, where to
-  stay in Hawaii
+  Full two weeks itinerary for the Island of Hawaii, Oahu, and Kauai. Where to
+  stay, things to do, and the best restaurants in the areas.
+meta-keywords: 'two weeks in Hawaii, thing to do in Hawaii, Hawaii travel guide'
 image_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
 banner-1_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
 banner-fixed: false
@@ -309,3 +307,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
