@@ -5,9 +5,10 @@ hidden: false
 slug: ten-day-greece-itinerary
 title: '10 Day Greece Itinerary: Exploring The Islands of Koufonisia, Sifnos and Milos'
 meta-description: >-
-  Spend ten days exploring Greek islands: Koufonisia, Sifnos and Milas. You will
-  find here everything you need to know to prepare for the trip.
-meta-keywords: 'travel itinerary for Greece, greek islands'
+  Read this to learn everything you need to know to prepare for your next trip
+  to Greece. We share a 10-day itinerary to explore Koufonisia, Sifnos and
+  Milos.
+meta-keywords: 'itinerary to explore Koufonisia, Sifnos and Milos'
 image_path: /images/greece/mariefeandjakesnow-greece14.jpg
 banner-1_path: /images/greece/mariefeandjakesnow-greece12.jpg
 banner-fixed: true
@@ -315,3 +316,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
