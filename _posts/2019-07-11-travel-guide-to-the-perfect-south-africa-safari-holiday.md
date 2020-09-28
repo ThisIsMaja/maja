@@ -7,7 +7,7 @@ title: Travel Guide To The Perfect South Africa Safari Holiday
 meta-description: >-
   Everything you need to know in order to prepare for the best South African
   safari holidays of your life. We gathered all the best tips to make your trip
-  a real adventure...
+  a real adventure.
 meta-keywords: 'south africa safari, african safari, safari holiday, guide for south africa'
 image_path: /images/south-africa/south-africa-couple2.jpg
 banner-1_path: /images/south-africa/south-africa-safari3.jpg
@@ -292,3 +292,4 @@ gallery:
     size: full
     alt:
 ---
+
