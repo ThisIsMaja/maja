@@ -3,7 +3,7 @@ layout: post
 title: Our Love Story
 date: 2019-09-22 00:00:00
 hidden: false
-slug: our-love-story
+slug: maja-love-story
 meta-description: >-
   We tell you a crazy love story between an ocean boy from Australia and a city
   girl from Germany. How our love changed our lives and made it possible for us
