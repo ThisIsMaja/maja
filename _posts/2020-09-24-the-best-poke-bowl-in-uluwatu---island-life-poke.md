@@ -21,9 +21,11 @@ tags:
   - food &amp; nutrition
 author: Jake Snow
 image-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-4.jpg
-image-1_alt:
+image-1_alt: >-
+  A poke bowl with edamame, avocado, pickled ginger, tuna and mango. Above is a
+  hand pouring peanut sauce on top of it.
 image-2_path: /images/islandlife-poke/island-life-pokerito-1.jpg
-image-2_alt:
+image-2_alt: A bowl with a burrito cut in half and peanut sauce drizzled on top of it.
 intro-paragraph-emphasis:
 intro-content_html: >-
   <h2>The Story Behind Island Life Poke</h2><p>If you&rsquo;ve been following us
