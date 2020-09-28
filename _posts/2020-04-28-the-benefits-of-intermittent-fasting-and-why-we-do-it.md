@@ -5,13 +5,12 @@ hidden: false
 slug: benefits-of-intermittent-fasting
 title: The benefits of intermittent fasting and why we do it
 meta-description: >-
-  We didn’t start intermittent fasting 2 years ago because we thought it would
-  be fun. We gave it a try because there were several studies at the time that
-  highlighted a lot of potential benefits and in our minds it only made sense
-  that if our bodies were constantly using up energy to digest food, then that
-  energy could never be focused on other important bodily functions like muscle
-  & cell repair, memory retention, flushing out toxins etc.
-meta-keywords: 'intermittent fasting, fasting, benefits of fasting'
+  In this post, we share our 2 years’ experiences of practicing intermittent
+  fasting, changes we’ve noticed, and the benefits it has on our bodies. Read to
+  find out more.
+meta-keywords: >-
+  intermittent fasting, benefits of intermittent fasting, fasting, benefits of
+  fasting
 image_path: /images/marie-jake/mariefeandjakesnow-1.jpg
 banner-1_path: /images/marie-jake/gili-island2.jpg
 banner-fixed: false
@@ -180,3 +179,4 @@ gallery:
     size: full
     alt:
 ---
+
