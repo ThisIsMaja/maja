@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2020-01-01
+date: 2020-01-01 00:00:00
 hidden: false
 slug: mental-health-matters
 title: (Why) Mental Health Matters
 meta-description: >-
-  Good health is the key to a happy life and it gives us power to do great
-  things. In this post we focus on our mental health and talk about why is it so
-  important.
-meta-keywords: 'mental health,'
+  Good health is the key to a happy life and it gives us the power to do great
+  things. In this post, we focus on our mental health and talk about why is it
+  so important.
+meta-keywords: importance of mental health
 image_path: /images/style/maja-stock-style2.jpg
 banner-1_path: /images/style/mental-health2.jpg
 banner-fixed: true
@@ -134,12 +134,10 @@ sections:
       @<a target="_blank"
       href="https://www.instagram.com/laura.herde/">laura.herde</a></p>
 show-gallery: true
-gallery-text: >-
-  Edited with our <a href="http://shopmariefeandjakesnow.com" target="_blank">
-  Africa Preset </a>
+gallery-text:
 gallery:
   - image_path:
     size: full
     alt:
-gallery-text:
 ---
+
