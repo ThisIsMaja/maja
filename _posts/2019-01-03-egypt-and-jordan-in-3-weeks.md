@@ -6,9 +6,8 @@ slug: egypt-and-jordan-in-3-weeks
 title: Egypt and Jordan in 3 Weeks
 meta-description: >-
   Thinking about visiting Egypt and Jordan and still not sure if this is a good
-  idea? Read this post and you will have no doubts left. We have prepared the
-  best 10 day itinerary for Egypt and Jordan for you.
-meta-keywords: 'Egypt and Jordan, travel itinerary for Egypt and Jordan'
+  idea? We have prepared the best 10-day itinerary for Egypt and Jordan for you.
+meta-keywords: 'itinerary for Egypt and Jordan, travel guide Egypt and Jordan'
 image_path: /images/egypt-jordan/giza-pyramids2.jpg
 banner-1_path: /images/style/maja-stock-40.jpg
 banner-fixed: true
@@ -256,3 +255,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
