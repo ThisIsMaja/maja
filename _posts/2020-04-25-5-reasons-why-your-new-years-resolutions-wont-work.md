@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 5 Reasons why your New Year’s resolutions won’t work
-date: 2020-04-25 00:00:00
+date: 2020-04-25 11:00:00
 hidden: false
 slug: why-new-years-resolutions-wont-work
 meta-description: >-
   Have you ever set (New Year's) resolutions and haven't been able to keep them?
   Read this post and find out five main reasons why this happens and what to do
   about it.
-meta-keywords:
+meta-keywords: new year resolutions
 image_path: /images/style/maja-stock-style3.jpg
 banner-1_path: /images/style/maja-stock-47.jpg
 banner-fixed: true
@@ -78,3 +78,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
