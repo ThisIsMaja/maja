@@ -8,7 +8,7 @@ meta-description: >-
   Ever felt like having zero motivation to do anything? We all have been there.
   Read this post to find simple yet effective ways to stay productive and
   healthy.
-meta-keywords: 'productivity, guide'
+meta-keywords: how to stay productive
 image_path: /images/maldives/amilla-fushi5.jpg
 banner-1_path: /images/office/home-office4.jpg
 banner-fixed: true
@@ -188,3 +188,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
