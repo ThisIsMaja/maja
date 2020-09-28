@@ -6,8 +6,8 @@ slug: one-month-in-bali
 title: One Month In Bali
 meta-description: >-
   Make the most out of one month in Bali. Full travel plan including Canggu,
-  Uluwatu, Nusa and Gili Island. Where to stay, what to do and where to eat all
-  in one post.
+  Uluwatu, Nusa and Gili Island. Where to stay, what to do and where to eat in
+  Bali all in one post.
 meta-keywords: >-
   one month in bali, bali travel guide, one month itinerary bali, travel guide
   bali
@@ -385,3 +385,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
