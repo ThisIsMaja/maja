@@ -1,12 +1,13 @@
 ---
 layout: post
-date: 2020-04-25 00:00:00
+date: 2020-04-25 13:00:00
 hidden: false
 slug: how-to-be-more-creative
 title: How to bring more creativity into your daily routine
 meta-description: >-
   Most of us live our lives according to some form of daily routine. Read this
-  post to find how to bring in some creativity without losing your productivity.
+  post to find out how to bring in some creativity without losing your
+  productivity.
 meta-keywords: 'creativity, productivity, daily routine'
 image_path: /images/style/maja-stock-29.jpg
 banner-1_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
@@ -78,6 +79,6 @@ gallery:
 gallery-text:
 ---
 
-Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.
+&nbsp;
 
 &nbsp;
