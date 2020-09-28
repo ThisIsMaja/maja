@@ -6,10 +6,9 @@ slug: travel-guide-sri-lanka
 title: Sri Lanka 3 Week Travel Guide
 meta-description: >-
   Everything you need to know in order to prepare for the most amazing three
-  weeks in Sri Lanka. Visiting Colombo, the old town of Galle, beach paradise
-  Unawatuna, Talalla, doing a Safari in Yala and Udawalawe, exploring Ella and
-  Sigiriya.
-meta-keywords: 'travel guide sri lanka, three week in sri lanka, three weeks in sri lanka'
+  weeks in Sri Lanka. We share a detailed travel guide to all must visit places
+  in Sri Lanka.
+meta-keywords: 'travel guide sri lanka, three weeks in sri lanka'
 image_path: /images/sri-lanka/Sri-Lanka1560995.jpg
 banner-1_path: /images/sri-lanka/sri-lanka4.jpg
 banner-fixed: true
