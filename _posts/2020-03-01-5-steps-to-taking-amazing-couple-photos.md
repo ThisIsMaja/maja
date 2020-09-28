@@ -5,10 +5,9 @@ hidden: false
 slug: how-to-make-amazing-couple-photos
 title: 5 Steps to Taking Amazing Couple Photos
 meta-description: >-
-  You don´t have to be a professional photographer to capture beautiful photos!
   In this post we tell you all the secrets we've learned over the years on how
   to create the most amazing couple photos.
-meta-keywords:
+meta-keywords: 'how to take couple photos, tips to taking couple photos'
 image_path: /images/Philippines/philippines-travel8.jpg
 banner-1_path: /images/Philippines/philippines-travel8.jpg
 banner-fixed: false
@@ -104,3 +103,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
