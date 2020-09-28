@@ -5,11 +5,9 @@ hidden: false
 slug: exploring-the-philippines
 title: 'Exploring the Philippines: Our Top 3 Favorite Islands'
 meta-description: >-
-  The Philippines are one of our favorite top travel destinastions. In this post
-  we take you along exploring Cebu, Coron & Siquijor. Get ready for some of the
-  most beautiful waterfalls, the bluest water you might have ever seen and lots
-  of island adventures...
-meta-keywords: 'philippines, cebu, siquijor, coron, travel guide'
+  In this post, we take you along exploring Cebu, Coron & Siquijor. We share the
+  easiest ways to get around, must-see places, the best accommodations, etc.
+meta-keywords: 'philippines travel guide, cebu, siquijor, coron'
 image_path: /images/Philippines/Coron 5-1.jpg
 banner-1_path: /images/Philippines/philippines-travel13.jpg
 banner-fixed: false
@@ -168,3 +166,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
