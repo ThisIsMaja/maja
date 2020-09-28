@@ -7,8 +7,10 @@ title: 8 ways to save enough to travel full time
 meta-description: >-
   In this post we tell simple yet effective and realistic ways how to save money
   and afford a full-time traveling life. Read further if you want to make your
-  dream life reality...
-meta-keywords:
+  dream life reality.
+meta-keywords: >-
+  how to save for traveling, how to travel full time, how to afford full time
+  traveling
 image_path: /images/travel/maja-travel1.jpg
 banner-1_path: /images/travel/maja-travel1.jpg
 banner-fixed: true
@@ -107,3 +109,4 @@ gallery:
     alt:
 gallery-text:
 ---
+
