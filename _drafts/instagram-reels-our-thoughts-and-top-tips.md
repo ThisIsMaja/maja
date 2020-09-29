@@ -224,7 +224,12 @@ sections:
       pays to have a strategy in place. Look at how you&rsquo;re using all of
       Instagrams features and make a plan for what sort of content you create
       with what feature then map out ideas for each type of content and get
-      creating!</li></ul>
+      creating!</li><li><strong>Create as much content as possible:</strong> The
+      more you post the better you're going to get and the more you will
+      grow.</li><li><strong>Have fun with it:</strong> You don't have to be
+      perfect. You can literally create anything you want and edit it with your
+      phone. If you think you created something fun, funny, entertaining, cool -
+      just post it!</li></ul>
   - banner_path:
     banner-caption:
     banner-fixed: false
