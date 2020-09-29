@@ -46,21 +46,21 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2><strong>How Instagram&rsquo;s new Reels feature
-      works</strong></h2><ol><li>From your homepage in the Instagram app, open
-      the camera and you&rsquo;ll see options for Live, Story and
-      Reels.&nbsp;</li><li>When you select Reels you will be able to see the
-      editing options on the left-hand side of your screen. These include: video
-      length, audio, speed, effects, timer and countdown.</li><li>First, you can
-      choose how long you want your Reel to be. There are currently two options:
-      15 seconds or 30 seconds.&nbsp;</li><li>Next, record your video in clips
-      one at a time or upload previously recorded videos from your camera roll.
-      You can use the timer and countdown tool to help you record clips
-      handsfree. If you want to add filters or effects you can select these
-      using the AR effects tool before you record your clips.&nbsp;</li><li>Once
-      you&rsquo;ve recorded or uploaded a clip you can add GIFs, stickers, pens
-      and text using the usual Instagram tools that you&rsquo;ll be familiar
-      with from Stories.</li><li>Add some audio. You can search for a song on
+      <h2>How Instagram&rsquo;s new Reels feature works</h2><ol><li>From your
+      homepage in the Instagram app, open the camera and you&rsquo;ll see
+      options for Live, Story and Reels.&nbsp;</li><li>When you select Reels you
+      will be able to see the editing options on the left-hand side of your
+      screen. These include: video length, audio, speed, effects, timer and
+      countdown.</li><li>First, you can choose how long you want your Reel to
+      be. There are currently two options: 15 seconds or 30
+      seconds.&nbsp;</li><li>Next, record your video in clips one at a time or
+      upload previously recorded videos from your camera roll. You can use the
+      timer and countdown tool to help you record clips handsfree. If you want
+      to add filters or effects you can select these using the AR effects tool
+      before you record your clips.&nbsp;</li><li>Once you&rsquo;ve recorded or
+      uploaded a clip you can add GIFs, stickers, pens and text using the usual
+      Instagram tools that you&rsquo;ll be familiar with from
+      Stories.</li><li>Add some audio. You can search for a song on
       Instagram&rsquo;s music library using the audio tool or upload original
       audio via the clips from your camera roll. When you use original audio it
       will be attributed to you if you have a public account. To use someone
