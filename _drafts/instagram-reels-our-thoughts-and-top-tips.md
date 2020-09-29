@@ -100,7 +100,7 @@ sections:
       Tok is it&rsquo;s own social media app dedicated to this type of informal,
       short-medium-form video. Instagram Reels on the other hand is just one of
       many Instagram features that all sit inside the same app providing one big
-      creative expeirence.</p><p>The second difference we've noticed are the
+      creative experience.</p><p>The second difference we've noticed are the
       tools that are available when creating videos for Tik Tok and Reels. Tik
       Tok is slightly easier to use in some parts as it has the ability to
       automatically syn your audio for example, whereas Instagram Reels is
