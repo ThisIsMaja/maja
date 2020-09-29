@@ -154,7 +154,7 @@ sections:
       growth opportunities then we highly recommend you give Reels a
       go!</p><p><a
       href="https://thisismaja.com/posts/why-instagram-stories-can-change-your-life">Read
-      this blog post to know what we think about Instagram Stories!</a></p>
+      this blog post to find out what we think about Instagram Stories!</a></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
