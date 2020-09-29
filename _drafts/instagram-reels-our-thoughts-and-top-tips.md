@@ -159,23 +159,23 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Our top Instagram Reels tips</h2><ul><li><strong>Think about the value
-      you can give your audience by utilising Reels:</strong> it&rsquo;s such a
-      great tool for showcasing your personality and adding a personal touch to
-      the content you create.&nbsp;</li><li><strong>Use old content to get
-      started: </strong>you probably already have a bunch of content already
-      recorded that you could transform into Reels. Use apps like InShot and
-      CapCut to edit video before uploading them as clips in your
-      Reels</li><li><strong>Re-use content you&rsquo;ve created for
-      TikTok:</strong> many of the trends in music and theme from Tik Tok have
-      made their way to Instagram Reels so why not make the content you&rsquo;ve
-      already created for Tik Tok work hard on Instagram Reels
-      too!</li><li><strong>Utilise the full range of tools to go viral:
-      </strong>as well as publishing your Reels to your feed and the explore
-      page you should share them to Stories, use related hashtags and tag
-      appropriate accounts, use popular music and follow current trends, keep
-      making more Reels and even play around with creating new versions of your
-      existing Reels by using the same audio or
+      <h2>Our top tips for getting started with Instagram
+      Reels</h2><ul><li><strong>Think about the value you can give your audience
+      by utilising Reels:</strong> it&rsquo;s such a great tool for showcasing
+      your personality and adding a personal touch to the content you
+      create.&nbsp;</li><li><strong>Use old content to get started: </strong>you
+      probably already have a bunch of content already recorded that you could
+      transform into Reels. Use apps like InShot and CapCut to edit video before
+      uploading them as clips in your Reels</li><li><strong>Re-use content
+      you&rsquo;ve created for TikTok:</strong> many of the trends in music and
+      theme from Tik Tok have made their way to Instagram Reels so why not make
+      the content you&rsquo;ve already created for Tik Tok work hard on
+      Instagram Reels too!</li><li><strong>Utilise the full range of tools to go
+      viral: </strong>as well as publishing your Reels to your feed and the
+      explore page you should share them to Stories, use related hashtags and
+      tag appropriate accounts, use popular music and follow current trends,
+      keep making more Reels and even play around with creating new versions of
+      your existing Reels by using the same audio or
       style.&nbsp;</li><li><strong>Stay genuine: </strong>don&rsquo;t be perfect
       all the time, show you&rsquo;re human by showing behind-the-scenes, how-to
       and authentic content. Maintaining a good level of authenticity will lead
