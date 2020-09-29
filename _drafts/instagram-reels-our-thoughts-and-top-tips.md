@@ -129,38 +129,6 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Reels versus Stories versus IGTV</h2><p>You might be confused with
-      having so many different options for video formats on Instagram. Stories,
-      IGTV, Reels - it can be a lot! So what are the differences and which video
-      format should you use for what?</p><p>We&rsquo;ve generally found that
-      IGTV is great for information and longer-form videos and video series -
-      think of it a bit like YouTube.</p><p>Stories are very social focused and
-      obviously great for capturing the short-form, more informal, day-to-day
-      stuff.</p><p>You can think of Reels as filling that gap between IGTV and
-      Stories. Reels are more entertainment driven and give the ability to
-      create short-form content that is high-quality, that can be formal or
-      informal but that has a longer shelf-life than 24 hours!&nbsp;</p><p>Reels
-      give a lot of tools to control audio, speed, AR effects and more.
-      It&rsquo;s more like a mini-editing suite that&rsquo;s not actually a
-      video editor, where you can even achieve smoother transitions between
-      clips by aligning them. Reels are more shareable than Stories since you
-      can share Reels on your feed, on the explore page and even via Stories.
-      You can get creative with the audio on Reels and upload your own original
-      video that includes audio - the audio is attributed to you and others can
-      also use it in their Reels.</p><p>To be honest, we&rsquo;ve really been
-      enjoying creating on Instagram with Reels! We&rsquo;ve found it is the
-      easiest way to grow organically on Instagram in 2020. If you haven&rsquo;t
-      played around with Reels yet and you want to take advantage of the organic
-      growth opportunities then we highly recommend you give Reels a
-      go!</p><p><a
-      href="https://thisismaja.com/posts/why-instagram-stories-can-change-your-life">Read
-      this blog post to find out what we think about Instagram Stories!</a></p>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html: >-
       <h2>Why we prefer Instagram Reels over Tik Tok</h2><p>We started using
       Reels as soon as they came out on the 5th August 2020. Ever since that day
       we've been consistently creating new Reels content.&nbsp;</p><p>Reels are
@@ -193,6 +161,38 @@ sections:
       investing in what you're about and therefore most likely won't convert
       into loyal followers.</p><p>In a nutshell, we think Instagram Reels are
       more effective and better than Tik Tok.&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Reels versus Stories versus IGTV</h2><p>You might be confused with
+      having so many different options for video formats on Instagram. Stories,
+      IGTV, Reels - it can be a lot! So what are the differences and which video
+      format should you use for what?</p><p>We&rsquo;ve generally found that
+      IGTV is great for information and longer-form videos and video series -
+      think of it a bit like YouTube.</p><p>Stories are very social focused and
+      obviously great for capturing the short-form, more informal, day-to-day
+      stuff.</p><p>You can think of Reels as filling that gap between IGTV and
+      Stories. Reels are more entertainment driven and give the ability to
+      create short-form content that is high-quality, that can be formal or
+      informal but that has a longer shelf-life than 24 hours!&nbsp;</p><p>Reels
+      give a lot of tools to control audio, speed, AR effects and more.
+      It&rsquo;s more like a mini-editing suite that&rsquo;s not actually a
+      video editor, where you can even achieve smoother transitions between
+      clips by aligning them. Reels are more shareable than Stories since you
+      can share Reels on your feed, on the explore page and even via Stories.
+      You can get creative with the audio on Reels and upload your own original
+      video that includes audio - the audio is attributed to you and others can
+      also use it in their Reels.</p><p>To be honest, we&rsquo;ve really been
+      enjoying creating on Instagram with Reels! We&rsquo;ve found it is the
+      easiest way to grow organically on Instagram in 2020. If you haven&rsquo;t
+      played around with Reels yet and you want to take advantage of the organic
+      growth opportunities then we highly recommend you give Reels a
+      go!</p><p><a
+      href="https://thisismaja.com/posts/why-instagram-stories-can-change-your-life">Read
+      this blog post to find out what we think about Instagram Stories!</a></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
