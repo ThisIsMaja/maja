@@ -21,7 +21,7 @@ image-1_path:
 image-1_alt:
 image-2_path:
 image-2_alt:
-intro-paragraph-emphasis: This is the intro blah blah blah
+intro-paragraph-emphasis: 'Instagram has a new feature called Reels, so what''s it all about?'
 intro-content_html: <p>This is the introduciton blah blah blah</p>
 sections:
   - banner_path:
