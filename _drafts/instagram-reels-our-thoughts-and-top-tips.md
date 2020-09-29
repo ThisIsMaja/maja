@@ -82,6 +82,47 @@ sections:
       account hasn&rsquo;t created and published any Reels they won&rsquo;t have
       a Reels tab!&nbsp;</li><li>If you want you can share your Reels to your
       Stories.</li></ol>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: true
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Instagram Reels versus TikTok</h2><p>If you haven&rsquo;t used Reels
+      yet or you don&rsquo;t have it yet (it&rsquo;s only available in 50+
+      countries so far!) you might be thinking it sounds a lot like Tik
+      Tok.</p><p>It&rsquo;s been widely reported that the development of Reels
+      by Instagram was a response to the Tik Tok app which has grown massively
+      in 2020. It doesn&rsquo;t take a genius to see that Instagram has borrowed
+      heavily from the essense of Tik Tok, and at first glance they look very
+      similar. However it&rsquo;s when you look at them for what they are you
+      can see that they are ever so slightly different.&nbsp;</p><p>For one, Tik
+      Tok is it&rsquo;s own social media app dedicated to this type of informal,
+      short-medium-form video. Instagram Reels on the other hand is just one of
+      many Instagram features that all sit inside the same app providing one big
+      creative expeirence.</p><p>The second difference we've noticed are the
+      tools that are available when creating videos for Tik Tok and Reels. Tik
+      Tok is slightly easier to use in some parts as it has the ability to
+      automatically syn your audio for example, whereas Instagram Reels is
+      slightly more manual in terms of matching up music in comparison. Tik Tok
+      also has options like duet which Reels currently don&rsquo;t
+      have.</p><p>Finally, while Tik Tok is offically banned in some countries
+      such as India, Instagram is not yet available in all countries, for
+      example Indonesia, so which app you might use and favour might come down
+      to which one lets you best reach your audience or which one is available
+      to you!</p><p>Many creators such as ourselves, who are lucky enough to be
+      in a country with access to both, have chosen to remain on Tik Tok while
+      also creating content for Reels. This way we can all keep a presence on
+      both apps, utilising the features of both and see where this takes us! If
+      you&rsquo;ve got the access and the time and energy then there&rsquo;s no
+      reason why you can&rsquo;t do both.&nbsp;</p><p>If you are in a country
+      that doesn&rsquo;t have access to Reels yet, you might be able to access
+      Reels by connecting to a VPN service, choosing a country that you know has
+      Instagram Reels, deleting the Instagram app from your phone, then
+      re-downloading the Instagram app. You can check out our blog post to find
+      out about the <a
+      href="https://thisismaja.com/posts/surfshark-vpn-review">benefits of using
+      VPNs</a>.</p>
 show-gallery: false
 gallery:
   - image_path:
