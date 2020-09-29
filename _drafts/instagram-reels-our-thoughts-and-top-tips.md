@@ -188,7 +188,7 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: true
+    columns: false
     main-paragraph-emphasis:
     body-content_html: >-
       <h2>The future of Instagram Reels</h2><p>If the success of Instagram
