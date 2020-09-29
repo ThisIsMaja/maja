@@ -3,7 +3,7 @@ layout: post
 date: 2020-09-30 00:00:00
 hidden: true
 slug: instagram-reels
-title: 'Instagram Reels: How To Use Them, Our Thoughts and Top Tips'
+title: 'Instagram Reels: How To Use Them, Our Thoughts And Top Tips'
 meta-description: >-
   What are Instagram Reels and how do they work? We explain everything and give
   our top tips!
