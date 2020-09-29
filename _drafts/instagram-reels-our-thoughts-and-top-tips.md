@@ -221,6 +221,44 @@ sections:
       Reels already but what about you - what do you think about Instagrams
       Reels feature? Have you used it? How do you think it will evolve? Leave us
       a comment below!</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Why we prefer Instagram Reels over Tik Tok</h2><p>We started using
+      Reels as soon as they came out on the 5th August 2020. Ever since that day
+      we've been consistently creating new Reels content.&nbsp;</p><p>Reels are
+      a super fun, creative way to create content that doesnt take a long time.
+      With the right ideas you get really good reach and engagement. People are
+      loving this video the format for being down to-earth, raw and funny.
+      It&rsquo;s a fun way for us to enjoy content creating and be able to
+      create a lot of fun little videos in various destinations.</p><p>Overall,
+      so far we've seen 5-10% total growth since using Reels. We've gone from
+      800K to 870K from our time using Reels. Reels right now is probably the
+      best way to get organic reach that is broader and wider than your
+      audience. Some of our Reels get more organic reach than what we actually
+      have follower-wise.</p><p>Everyone that's been on Instagram for a while
+      will know that before Reels it was a tough place to get your content seen,
+      whereas 3-4 years ago this was not the case you could actually get good
+      organic reach and grow quickly as people were seeing your content. This is
+      why we believe Tik Tok really took off - it gave people the desire to post
+      again because they were growing quickly and others were seeing their
+      content meaning they got organic reach.&nbsp;</p><p>We love the fact we
+      have an option to post video that's like Tik Tok to Instagram where we
+      have a really loyal audience.&nbsp;</p><p>Tik Tok seems to be a bit of a
+      wild west - you don't really have a loyal following, theres a lot of
+      comment spam and you cant really be personal because none of your Tik Tok
+      content links up like it does on Instagram Stories for
+      example.&nbsp;</p><p>Using Reels on Instagram is more effective because
+      you are able to show your personality and build your community alongside
+      using Instagrams other features such as Stories, IGTV and feed
+      posts.&nbsp;</p><p>On Tik Tok it can feel like you're just posting and
+      hoping your content goes viral. Tik Tok lacks the connection of people
+      investing in what you're about and therefore most likely won't convert
+      into loyal followers.</p><p>In a nutshell, we think Instagram Reels are
+      more effective and better than Tik Tok.&nbsp;</p>
 show-gallery: false
 gallery:
   - image_path:
