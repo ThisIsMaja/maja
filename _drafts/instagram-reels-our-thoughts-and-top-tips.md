@@ -263,7 +263,10 @@ sections:
       <h2>What do you think about Reels?</h2><p>So, you know that we are loving
       Reels already but what about you - what do you think about Instagrams
       Reels feature? Have you used it? How do you think it will evolve? Leave us
-      a comment below!</p>
+      a comment below!</p><p>P.S. Soon we'll be teaching people how to make
+      videos such as Reels, so if you want to learn more make sure you subscribe
+      to our newsletter and you'll get more information about this in the coming
+      weeks!</p>
 show-gallery: false
 gallery:
   - image_path:
