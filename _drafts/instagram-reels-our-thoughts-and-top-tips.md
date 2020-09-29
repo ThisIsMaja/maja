@@ -169,9 +169,9 @@ sections:
       probably already have a bunch of content already recorded that you could
       transform into Reels. Use apps like InShot and CapCut to edit video before
       uploading them as clips in your Reels</li><li><strong>Re-use content
-      you&rsquo;ve created for TikTok:</strong>&nbsp;Many of the trends in music
-      and theme from Tik Tok have made their way to Instagram Reels so why not
-      make the content you&rsquo;ve already created for Tik Tok work hard on
+      you&rsquo;ve created for Tik Tok:</strong>&nbsp;Many of the trends in
+      music and theme from Tik Tok have made their way to Instagram Reels so why
+      not make the content you&rsquo;ve already created for Tik Tok work hard on
       Instagram Reels too!</li><li><strong>Utilise the full range of tools to go
       viral: </strong>As well as publishing your Reels to your feed and the
       explore page you should share them to Stories, use related hashtags and
