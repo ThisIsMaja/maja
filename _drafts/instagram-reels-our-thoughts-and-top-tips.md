@@ -217,16 +217,6 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2>What do you think about Reels?</h2><p>So, you know that we are loving
-      Reels already but what about you - what do you think about Instagrams
-      Reels feature? Have you used it? How do you think it will evolve? Leave us
-      a comment below!</p>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html: >-
       <h2>Why we prefer Instagram Reels over Tik Tok</h2><p>We started using
       Reels as soon as they came out on the 5th August 2020. Ever since that day
       we've been consistently creating new Reels content.&nbsp;</p><p>Reels are
@@ -259,6 +249,16 @@ sections:
       investing in what you're about and therefore most likely won't convert
       into loyal followers.</p><p>In a nutshell, we think Instagram Reels are
       more effective and better than Tik Tok.&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>What do you think about Reels?</h2><p>So, you know that we are loving
+      Reels already but what about you - what do you think about Instagrams
+      Reels feature? Have you used it? How do you think it will evolve? Leave us
+      a comment below!</p>
 show-gallery: false
 gallery:
   - image_path:
