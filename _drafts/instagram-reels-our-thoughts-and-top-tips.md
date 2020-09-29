@@ -28,18 +28,18 @@ sections:
     banner-caption:
     banner-fixed: false
     columns: false
-    main-paragraph-emphasis: What are Instagram Reels?
+    main-paragraph-emphasis:
     body-content_html: >-
-      <p>Instagram launched its new feature, Reels, on 5th August 2020.
-      Instagram Reels allow you to create multi-clip videos and use audio,
-      different effects and various tools to make them creative and
-      appealing.</p><p>Reels can be shared with your followers via uploading
-      them to your feed and if your account is public you can also share them to
-      the explore page, which has a dedicated new space to showcase popular
-      Reels. Reels are another fun way to create on the Instagram
-      platform.&nbsp;</p><p>You can see <a target="_blank" rel="noopener"
-      href="https://www.instagram.com/mariefeandjakesnow/">what we&rsquo;ve
-      created on Instagram Reels here!</a></p>
+      <h2>What are Instagram Reels?</h2><p>Instagram launched its new feature,
+      Reels, on 5th August 2020. Instagram Reels allow you to create multi-clip
+      videos and use audio, different effects and various tools to make them
+      creative and appealing.</p><p>Reels can be shared with your followers via
+      uploading them to your feed and if your account is public you can also
+      share them to the explore page, which has a dedicated new space to
+      showcase popular Reels. Reels are another fun way to create on the
+      Instagram platform.&nbsp;</p><p>You can see <a target="_blank"
+      rel="noopener" href="https://www.instagram.com/mariefeandjakesnow/">what
+      we&rsquo;ve created on Instagram Reels here!</a></p>
 show-gallery: false
 gallery:
   - image_path:
