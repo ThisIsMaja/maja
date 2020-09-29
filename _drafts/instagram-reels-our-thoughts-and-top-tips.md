@@ -146,13 +146,15 @@ sections:
       clips by aligning them. Reels are more shareable than Stories since you
       can share Reels on your feed, on the explore page and even via Stories.
       You can get creative with the audio on Reels and upload your own original
-      video that includes audio -&nbsp;the audio is attributed to you and others
-      can also use it in their Reels.</p><p>To be honest, we&rsquo;ve really
-      been enjoying creating on Instagram with Reels! We&rsquo;ve found it is
-      the easiest way to grow organically on Instagram in 2020. If you
-      haven&rsquo;t played around with Reels yet and you want to take advantage
-      of the organic growth opportunities then we highly recommend you give
-      Reels a go!</p>
+      video that includes audio - the audio is attributed to you and others can
+      also use it in their Reels.</p><p>To be honest, we&rsquo;ve really been
+      enjoying creating on Instagram with Reels! We&rsquo;ve found it is the
+      easiest way to grow organically on Instagram in 2020. If you haven&rsquo;t
+      played around with Reels yet and you want to take advantage of the organic
+      growth opportunities then we highly recommend you give Reels a
+      go!</p><p><a
+      href="https://thisismaja.com/posts/why-instagram-stories-can-change-your-life">Read
+      this blog post to know what we think about Instagram Stories!</a></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
