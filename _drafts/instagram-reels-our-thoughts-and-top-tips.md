@@ -211,6 +211,16 @@ sections:
       increase to the maximum length of Reels from 15 seconds to 30 seconds. In
       terms of features it can only get better from here as Reels expands to
       more users and more markets.</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>What do you think about Reels?</h2><p>So, you know that we are loving
+      Reels already but what about you - what do you think about Instagrams
+      Reels feature? Have you used it? How do you think it will evolve? Leave us
+      a comment below!</p>
 show-gallery: false
 gallery:
   - image_path:
