@@ -22,7 +22,17 @@ image-1_alt:
 image-2_path:
 image-2_alt:
 intro-paragraph-emphasis: 'Instagram has a new feature called Reels, so what''s it all about?'
-intro-content_html: <p>This is the introduciton blah blah blah</p>
+intro-content_html: >-
+  <p>By now we're sure most if not all of you will have heard of Instagram
+  Reels! This short-form video format has been added to the Instagram pool of
+  features and there's been a lot of buzz around it recently as people begin to
+  create using Reels for the first time.&nbsp;</p><p>You might be wondering what
+  is so special about Instagram Reels, how you can use them and what other
+  creators think about them!</p><p>In this blog post we tell you what Instagram
+  Reels are and how to post on Instagram using Reels. We give you our personal
+  thoughts about Reels and how it compares to Tik Tok, as well as to IGTV and
+  Instagram Stories. We also share with you our top tips for creating content
+  with Reels. So, read on to find out more!</p>
 sections:
   - banner_path:
     banner-caption:
