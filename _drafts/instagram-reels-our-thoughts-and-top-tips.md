@@ -193,30 +193,6 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2>The future of Instagram Reels</h2><p>If the success of Instagram
-      Stories is anything to go by we think Reels will be
-      similar.</p><p>Hopefully, Reels will roll out to all countries soon - we
-      know there are many of you out there that don&rsquo;t have access to Reels
-      yet! Right now, we feel like the Reels feature is a great way to grow on
-      Instagram. Not everyone is using it yet so there&rsquo;s not too much
-      competition and its such a good way to create content that people really
-      love, as well as showcasing brands, products, educational content,
-      inspiration and much more! So, for creators and business alike we think
-      it&rsquo;s an amazing new tool.</p><p>Creators and brands are already
-      starting to use Reels for promotion. While analytics are limited, we
-      assume we&rsquo;ll start to see even more new features like advanced
-      analytics (similar to what is there already for Stories) and more as the
-      use of Reels grow.</p><p>Instagram have already started optimising Reels,
-      with recent updates including new trimming and editing features, and an
-      increase to the maximum length of Reels from 15 seconds to 30 seconds. In
-      terms of features it can only get better from here as Reels expands to
-      more users and more markets.</p>
-  - banner_path:
-    banner-caption:
-    banner-fixed: false
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html: >-
       <h2>Why we prefer Instagram Reels over Tik Tok</h2><p>We started using
       Reels as soon as they came out on the 5th August 2020. Ever since that day
       we've been consistently creating new Reels content.&nbsp;</p><p>Reels are
@@ -249,6 +225,30 @@ sections:
       investing in what you're about and therefore most likely won't convert
       into loyal followers.</p><p>In a nutshell, we think Instagram Reels are
       more effective and better than Tik Tok.&nbsp;</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: false
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>The future of Instagram Reels</h2><p>If the success of Instagram
+      Stories is anything to go by we think Reels will be
+      similar.</p><p>Hopefully, Reels will roll out to all countries soon - we
+      know there are many of you out there that don&rsquo;t have access to Reels
+      yet! Right now, we feel like the Reels feature is a great way to grow on
+      Instagram. Not everyone is using it yet so there&rsquo;s not too much
+      competition and its such a good way to create content that people really
+      love, as well as showcasing brands, products, educational content,
+      inspiration and much more! So, for creators and business alike we think
+      it&rsquo;s an amazing new tool.</p><p>Creators and brands are already
+      starting to use Reels for promotion. While analytics are limited, we
+      assume we&rsquo;ll start to see even more new features like advanced
+      analytics (similar to what is there already for Stories) and more as the
+      use of Reels grow.</p><p>Instagram have already started optimising Reels,
+      with recent updates including new trimming and editing features, and an
+      increase to the maximum length of Reels from 15 seconds to 30 seconds. In
+      terms of features it can only get better from here as Reels expands to
+      more users and more markets.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
