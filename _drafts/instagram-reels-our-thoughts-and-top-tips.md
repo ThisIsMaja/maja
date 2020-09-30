@@ -203,7 +203,7 @@ sections:
       go!</p><p><a
       href="https://thisismaja.com/posts/why-instagram-stories-can-change-your-life">Read
       this blog post to find out what we think about Instagram Stories!</a></p>
-  - banner_path: /images/content-creation/iphone-content2.jpg
+  - banner_path: /images/style/maja-stock-34.jpg
     banner-caption:
     banner-fixed: false
     columns: true
