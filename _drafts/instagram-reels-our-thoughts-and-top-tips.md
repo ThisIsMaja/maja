@@ -8,17 +8,17 @@ meta-description: >-
   What are Instagram Reels and how do they work? We explain everything and give
   our top tips!
 meta-keywords: Instagram Reels
-image_path:
-banner-1_path:
+image_path: /images/instagram-reels/instagram-reels-mariefeandjakesnow-paris.jpg
+banner-1_path: /images/instagram-reels/instagram-reels-mariefeandjakesnow-paris.jpg
 banner-fixed: true
-newsfeed: false
+newsfeed: true
 categories:
   - learn from us
 tags:
   - social media
 author: Marie Fe
-image-1_path:
-image-1_alt:
+image-1_path: /images/instagram-reels/how-to-create-good-reels.jpg
+image-1_alt: how-to-use-instagram-reels
 image-2_path:
 image-2_alt:
 intro-paragraph-emphasis: 'Instagram has a new feature called Reels, so what''s it all about?'
@@ -133,9 +133,9 @@ sections:
       out about the <a
       href="https://thisismaja.com/posts/surfshark-vpn-review">benefits of using
       VPNs</a>.</p>
-  - banner_path:
+  - banner_path: /images/instagram-reels/how-to-create-instagram-reels.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -203,7 +203,7 @@ sections:
       go!</p><p><a
       href="https://thisismaja.com/posts/why-instagram-stories-can-change-your-life">Read
       this blog post to find out what we think about Instagram Stories!</a></p>
-  - banner_path:
+  - banner_path: /images/content-creation/iphone-content2.jpg
     banner-caption:
     banner-fixed: false
     columns: true
