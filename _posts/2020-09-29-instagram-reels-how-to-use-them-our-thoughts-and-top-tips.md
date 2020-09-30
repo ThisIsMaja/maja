@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-29 00:00:00
-hidden: true
+hidden: false
 slug: instagram-reels
 title: 'Instagram Reels: How To Use Them, Our Thoughts And Top Tips'
 meta-description: >-
