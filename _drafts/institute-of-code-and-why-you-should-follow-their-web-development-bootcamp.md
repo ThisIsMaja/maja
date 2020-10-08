@@ -3,7 +3,7 @@ layout: post
 date: 2020-10-08 16:00:00
 hidden: true
 slug: web-development-bootcamp
-title: Institute of Code and why you should follow their Web Development Bootcamp
+title: The Institute of Code and why you should follow their Web Development Bootcamp
 meta-description: >-
   Why we think web development is a great career choice and what is the quickest
   and most efficient way to learn it.
