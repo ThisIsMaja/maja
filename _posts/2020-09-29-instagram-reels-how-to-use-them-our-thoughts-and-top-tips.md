@@ -136,7 +136,8 @@ sections:
       out about the <a
       href="https://thisismaja.com/posts/surfshark-vpn-review">benefits of using
       VPNs</a>.</p>
-  - banner_path: /images/instagram-reels/how-to-create-instagram-reels.jpg
+  - banner_path: >-
+      /images/social-media/instagram-reels/how-to-create-instagram-reels-hands-holding-a-phone-and-shooting-a-video.jpg
     banner-caption:
     banner-fixed: true
     columns: false
