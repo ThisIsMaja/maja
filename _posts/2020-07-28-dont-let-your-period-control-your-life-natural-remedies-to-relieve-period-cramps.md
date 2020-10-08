@@ -10,8 +10,10 @@ meta-description: >-
   Here are a few natural solutions to give you that period pain relief you've
   always needed.
 meta-keywords: natural period pain relief
-image_path: /images/pill/period-cramps5.jpg
-banner-1_path: /images/pill/period-cramps5.jpg
+image_path: >-
+  /images/health-and-fitness/natural-period-remedies/natural-period-pain-relief-girl-hugging-herself.jpg
+banner-1_path: >-
+  /images/health-and-fitness/natural-period-remedies/natural-period-pain-relief-girl-hugging-herself.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -19,7 +21,8 @@ categories:
 tags:
   - health &amp; fitness
 author: Marie
-image-1_path: /images/Maja-x-Rove/joy-collection53.jpg
+image-1_path: >-
+  /images/health-and-fitness/natural-period-remedies/natural-period-pain-relief-marie-standing-near-window.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   This one is for the girls;  my period cramps have been so bad lately I figured
@@ -83,7 +86,8 @@ sections:
       the code '<strong>happy10</strong>' to get a discount. I used this CBD oil
       when I was in Germany and it really helped with my period pain, focus and
       overall wellbeing.</p>
-  - banner_path: /images/pill/period-cramps4.jpg
+  - banner_path: >-
+      /images/health-and-fitness/natural-period-remedies/natural-period-pain-relief-girl-doing-yoga-at-sunset.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -99,16 +103,13 @@ sections:
       your favorite aromas. In general, lavender, clary sage and marjoram are
       considered to be the relaxing ones. You might want to give them a try
       first and at the end come up with your own perfect combo.&nbsp;</p><p><img
-      data-cms-popout-id="image-5"
-      data-cms-original-src="/images/pill/period-cramps2.jpg" width="1600"
-      height="2400"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/pill/period-cramps2.jpg&amp;timestamp=1596027158925"
-      /></p><h3 id="healthy-diet"><strong>Healthy
-      diet&nbsp;</strong></h3><p>This won&rsquo;t immediately relieve period
-      cramps but it may have a positive effect over time.</p><p>Try including
-      more omega-3 rich foods in your diet and avoid having foods that make you
-      bloat and retain water. I take a daily Omega 3 supplement that I really
-      love from a team I can trust (<a target="_blank" rel="noopener"
+      src="/images/pill/period-cramps2.jpg" width="1600" height="2400" /></p><h3
+      id="healthy-diet"><strong>Healthy diet&nbsp;</strong></h3><p>This
+      won&rsquo;t immediately relieve period cramps but it may have a positive
+      effect over time.</p><p>Try including more omega-3 rich foods in your diet
+      and avoid having foods that make you bloat and retain water. I take a
+      daily Omega 3 supplement that I really love from a team I can trust (<a
+      target="_blank" rel="noopener"
       href="https://thisismaja.com/posts/supplements-for-plant-based-diet">you
       can learn about it here</a>).</p><p>Regarding the foods you want to avoid
       during your period, the list can vary per person but in general, those
