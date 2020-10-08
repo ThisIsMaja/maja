@@ -8,8 +8,10 @@ meta-description: >-
   Our personal Surfshark VPN review and how it allows us to watch Netflix, save
   money, and surf the web safely & securely whilst travelling the world
 meta-keywords: Surfshark VPN review
-image_path: /images/office/surfshark-vpn.jpg
-banner-1_path: /images/office/surfshark-vpn.jpg
+image_path: >-
+  /images/travel-tips/surfshark/surfshark-vpn-macbook-and-coffee-on-the-bed-with-white-bedsheets.jpg
+banner-1_path: >-
+  /images/travel-tips/surfshark/surfshark-vpn-macbook-and-coffee-on-the-bed-with-white-bedsheets.jpg
 banner-fixed: true
 newsfeed: true
 categories:
@@ -17,7 +19,7 @@ categories:
 tags:
   - travel tips
 author: Jake Snow
-image-1_path: /images/travel-tips/surfshark-vpn-review-netflix.jpg
+image-1_path: /images/travel-tips/surfshark/surfshark-vpn-review-netflix-on-macbook.jpg
 image-1_alt: streaming Netflix on a laptop using Surfshark VPN
 image-2_path:
 image-2_alt:
@@ -93,7 +95,7 @@ sections:
       and increases the speed of your internet, saving you money on global
       roaming.&nbsp;</p><p>This was useful for us when we were based in
       Australia and had Australian sim cards which we travelled with.&nbsp;</p>
-  - banner_path: /images/travel-tips/surfshark-vpn-review-netflix-laptop.jpg
+  - banner_path: /images/travel-tips/surfshark/surfshark-vpn-review-netflix-on-laptop.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -152,7 +154,8 @@ sections:
       connection.</p><p>Whitelister gives you the power to choose what apps and
       websites are protected by the Surfshark VPN without turning it on and
       off.</p>
-  - banner_path: /images/travel-tips/surfshark-vpn-review-mobile.jpg
+  - banner_path: >-
+      /images/travel-tips/surfshark/surfshark-vpn-review-surfshark-login-screen.jpg
     banner-caption:
     banner-fixed: true
     columns: true
@@ -207,3 +210,4 @@ gallery:
     alt:
 _all-posts: true
 ---
+
