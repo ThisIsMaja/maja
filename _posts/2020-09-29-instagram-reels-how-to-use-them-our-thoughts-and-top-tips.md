@@ -8,8 +8,10 @@ meta-description: >-
   What are Instagram Reels and how do they work? We explain everything and give
   our top tips!
 meta-keywords: Instagram Reels
-image_path: /images/instagram-reels/instagram-reels-mariefeandjakesnow-paris.jpg
-banner-1_path: /images/instagram-reels/instagram-reels-mariefeandjakesnow-paris.jpg
+image_path: >-
+  /images/social-media/instagram-reels/instagram-reels-mariefeandjakesnow-marie-recording-reels-in-paris.jpg
+banner-1_path: >-
+  /images/social-media/instagram-reels/instagram-reels-mariefeandjakesnow-marie-recording-reels-in-paris.jpg
 banner-fixed: true
 newsfeed: true
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - social media
 author: Marie Fe
-image-1_path: /images/instagram-reels/how-to-create-good-reels.jpg
+image-1_path: >-
+  /images/social-media/instagram-reels/instagram-reels-mariefeandjakesnow-analytics.jpg
 image-1_alt: how-to-use-instagram-reels
 image-2_path:
 image-2_alt:
