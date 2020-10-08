@@ -11,8 +11,10 @@ meta-description: >-
 meta-keywords: >-
   Poke bowl uluwatu, best place to eat in uluwatu, best poke bowl, best cafe
   uluwatu
-image_path: /images/islandlife-poke/islandlife-poke-uluwatu-3.jpg
-banner-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali.jpg
+image_path: >-
+  /images/food-and-nutrition/island-life-poke/island-life-poke-uluwatu-holding-a-bowl-of-poke.jpg
+banner-1_path: >-
+  /images/food-and-nutrition/island-life-poke/island-life-poke-uluwatu-bali-poke-bowls.jpg
 banner-fixed: false
 newsfeed: true
 categories:
@@ -20,11 +22,13 @@ categories:
 tags:
   - food &amp; nutrition
 author: Jake Snow
-image-1_path: /images/islandlife-poke/islandlife-poke-uluwatu-4.jpg
+image-1_path: >-
+  /images/food-and-nutrition/island-life-poke/island-life-poke-uluwatu-pouring-peanut-sauce-over-poke-bowl.jpg
 image-1_alt: >-
   A poke bowl with edamame, avocado, pickled ginger, tuna and mango. Above is a
   hand pouring peanut sauce on top of it.
-image-2_path: /images/islandlife-poke/island-life-pokerito-1.jpg
+image-2_path: >-
+  /images/food-and-nutrition/island-life-poke/island-life-pokerito-served-on-plate.jpg
 image-2_alt: A bowl with a burrito cut in half and peanut sauce drizzled on top of it.
 intro-paragraph-emphasis:
 intro-content_html: >-
@@ -68,7 +72,8 @@ sections:
       health goals without sacrificing taste.</p><p>We really hope to grow this
       business to a point where we can really support the local economy and
       create initiatives/programs that will benefit people and the planet!</p>
-  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu-2.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/island-life-poke/island-life-poke-uluwatu-two-poke-bowls-on-a-table.jpg
     banner-caption:
     banner-fixed: false
     columns: false
@@ -98,7 +103,8 @@ sections:
       ultimately do more good.</p><p>If we could get just one meat eater to try
       a friend's plant based dish then for us this would be an Island Life Poke
       success!</p>
-  - banner_path: /images/islandlife-poke/islandlife-poke-uluwatu-bali-1.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/island-life-poke/island-life-poke-uluwatu-bali-people-sitting-outside-of-island-life-poke.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -131,7 +137,8 @@ sections:
       OFF</strong> all orders for the rest of this year and all of next year
       :)&nbsp;</p><p>All you need to do is screenshot this coupon and show it
       when you're in our little store.</p><p><img width="1600" height="2847"
-      src="/images/islandlife-poke/Islandlife-poke-coupon.jpg" /></p>
+      src="/images/food-and-nutrition/island-life-poke/Island-life-poke-coupon.jpg"
+      /></p>
 show-gallery: false
 gallery:
   - image_path:
