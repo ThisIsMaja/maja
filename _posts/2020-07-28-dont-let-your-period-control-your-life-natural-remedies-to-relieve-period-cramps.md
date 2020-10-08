@@ -103,29 +103,30 @@ sections:
       first and at the end come up with your own perfect
       combo.&nbsp;</p><h3><strong>Healthy diet&nbsp;</strong></h3><p>This
       won&rsquo;t immediately relieve period cramps but it may have a positive
-      effect over time.</p><h3>&nbsp;</h3><p>Try including more omega-3 rich
-      foods in your diet and avoid having foods that make you bloat and retain
-      water. I take a daily Omega 3 supplement that I really love from a team I
-      can trust (<a target="_blank" rel="noopener"
+      effect over time.</p><p>Try including more omega-3 rich foods in your diet
+      and avoid having foods that make you bloat and retain water. I take a
+      daily Omega 3 supplement that I really love from a team I can trust (<a
+      target="_blank" rel="noopener"
       href="https://thisismaja.com/posts/supplements-for-plant-based-diet">you
-      can learn about it here</a>).</p><p>Regarding the foods you want to avoid
-      during your period, the list can vary per person but in general, those
-      are:</p><ul><li>Alcohol, fizzy drinks and coffee</li><li>Salty and sugary
-      foods</li><li>Too many fruits can cause bloating. You can replace them
-      with berries instead.&nbsp;</li><li>Fatty and highly processed
-      food</li></ul><p>Basically try and eat a 'whole' 'plant' based
-      diet.</p><h3 id="magnesium"><strong>Magnesium</strong></h3><p>Magnesium is
-      a mineral that plays an important role in hundreds of important chemical
-      reactions in our bodies. Despite that, it is considered that most of the
-      population is magnesium deficient. I got a lot of feedback from girls who
-      have found a lot of relief using magnesium tablets.</p><p>One of the
-      benefits of magnesium is the regulation of the nervous system and muscle
-      recovery. It calms your nerves, reduces stress, and relaxes your muscles.
-      A lot of studies have proven that magnesium helps to reduce period cramps
-      and improves PMS symptoms. The difference between regular pain-killers is
-      that it doesn&rsquo;t work immediately. Your body has to build it up over
-      time. So it might take 1-3 months before you&rsquo;ll see the results but
-      the benefits are absolutely worth it.&nbsp;</p><h3
+      can learn about it here</a>).</p><h3>&nbsp;</h3><p>Regarding the foods you
+      want to avoid during your period, the list can vary per person but in
+      general, those are:</p><ul><li>Alcohol, fizzy drinks and
+      coffee</li><li>Salty and sugary foods</li><li>Too many fruits can cause
+      bloating. You can replace them with berries instead.&nbsp;</li><li>Fatty
+      and highly processed food</li></ul><p>Basically try and eat a 'whole'
+      'plant' based diet.</p><h3
+      id="magnesium"><strong>Magnesium</strong></h3><p>Magnesium is a mineral
+      that plays an important role in hundreds of important chemical reactions
+      in our bodies. Despite that, it is considered that most of the population
+      is magnesium deficient. I got a lot of feedback from girls who have found
+      a lot of relief using magnesium tablets.</p><p>One of the benefits of
+      magnesium is the regulation of the nervous system and muscle recovery. It
+      calms your nerves, reduces stress, and relaxes your muscles. A lot of
+      studies have proven that magnesium helps to reduce period cramps and
+      improves PMS symptoms. The difference between regular pain-killers is that
+      it doesn&rsquo;t work immediately. Your body has to build it up over time.
+      So it might take 1-3 months before you&rsquo;ll see the results but the
+      benefits are absolutely worth it.&nbsp;</p><h3
       id="gentle-exercises"><strong>Gentle exercises&nbsp;</strong></h3><p>I
       know it can be unbearable to imagine doing any sort of exercise when the
       only thing you want to do is lie in bed. The keyword here is
