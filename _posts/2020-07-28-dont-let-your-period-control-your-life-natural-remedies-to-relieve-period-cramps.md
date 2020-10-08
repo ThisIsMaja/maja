@@ -101,12 +101,12 @@ sections:
       your favorite aromas. In general, lavender, clary sage and marjoram are
       considered to be the relaxing ones. You might want to give them a try
       first and at the end come up with your own perfect
-      combo.&nbsp;</p><p>&nbsp;</p><h3 id="healthy-diet"><strong>Healthy
-      diet&nbsp;</strong></h3><p>This won&rsquo;t immediately relieve period
-      cramps but it may have a positive effect over time.</p><p>Try including
-      more omega-3 rich foods in your diet and avoid having foods that make you
-      bloat and retain water. I take a daily Omega 3 supplement that I really
-      love from a team I can trust (<a target="_blank" rel="noopener"
+      combo.&nbsp;</p><h3><strong>Healthy diet&nbsp;</strong></h3><p>This
+      won&rsquo;t immediately relieve period cramps but it may have a positive
+      effect over time.</p><h3>&nbsp;</h3><p>Try including more omega-3 rich
+      foods in your diet and avoid having foods that make you bloat and retain
+      water. I take a daily Omega 3 supplement that I really love from a team I
+      can trust (<a target="_blank" rel="noopener"
       href="https://thisismaja.com/posts/supplements-for-plant-based-diet">you
       can learn about it here</a>).</p><p>Regarding the foods you want to avoid
       during your period, the list can vary per person but in general, those
