@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-11 11:00:00
 hidden: false
-slug: supplements-for-plant-based-diet
+slug: supplements-plant-based-diet
 title: 'Supplementing on a plant based diet, what do we need?'
 meta-description: >-
   In this blog post we explain what nutrients do we need to supplement as plant
