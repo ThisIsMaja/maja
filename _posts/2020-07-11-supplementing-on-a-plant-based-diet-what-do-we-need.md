@@ -8,7 +8,7 @@ meta-description: >-
   In this blog post we explain what nutrients do we need to supplement as plant
   based eaters and why? We also introduce you to the best vegan supplement
   brand.
-meta-keywords: best vegan supplements
+meta-keywords: 'best vegan supplements, supplements on a plant based diet'
 image_path: /images/Future Kind/Future Kind-4.jpg
 banner-1_path: /images/Future Kind/Future Kind-4.jpg
 banner-fixed: true
