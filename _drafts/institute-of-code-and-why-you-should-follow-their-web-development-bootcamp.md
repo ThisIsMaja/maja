@@ -15,7 +15,7 @@ newsfeed: false
 categories:
   - lifestyle
 tags:
-  - Self-Improvement
+  - SELF-IMPROVEMENT
 author: Jake Snow
 image-1_path:
 image-1_alt:
