@@ -208,7 +208,8 @@ sections:
       highly recommend you give Reels a go!</p><p><a
       href="https://thisismaja.com/posts/why-instagram-stories-can-change-your-life">Read
       this blog post to find out what we think about Instagram Stories!</a></p>
-  - banner_path: /images/style/maja-stock-34.jpg
+  - banner_path: >-
+      /images/social-media/instagram-reels/instagram-reels-mariefeandjakesnow-standing-at-bus-stop.jpg
     banner-caption:
     banner-fixed: false
     columns: true
