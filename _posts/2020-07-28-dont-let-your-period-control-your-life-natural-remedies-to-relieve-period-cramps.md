@@ -110,11 +110,11 @@ sections:
       href="https://thisismaja.com/posts/supplements-for-plant-based-diet">you
       can learn about it here</a>).</p><p>Regarding the foods you want to avoid
       during your period, the list can vary per person but in general, those
-      are:</p><h3>&nbsp;</h3><ul><li>Alcohol, fizzy drinks and
-      coffee</li><li>Salty and sugary foods</li><li>Too many fruits can cause
-      bloating. You can replace them with berries instead.&nbsp;</li><li>Fatty
-      and highly processed food</li></ul><p>Basically try and eat a 'whole'
-      'plant' based diet.</p><h3
+      are:</p><ul><li>Alcohol, fizzy drinks and coffee</li><li>Salty and sugary
+      foods</li><li>Too many fruits can cause bloating. You can replace them
+      with berries instead.&nbsp;</li><li>Fatty and highly processed
+      food</li></ul><p>Basically try and eat a 'whole' 'plant' based
+      diet.</p><h3>&nbsp;</h3><h3
       id="magnesium"><strong>Magnesium</strong></h3><p>Magnesium is a mineral
       that plays an important role in hundreds of important chemical reactions
       in our bodies. Despite that, it is considered that most of the population
