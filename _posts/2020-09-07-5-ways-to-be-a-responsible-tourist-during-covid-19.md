@@ -8,8 +8,10 @@ meta-description: >-
   This is our 5 tried and tested suggestions on how to be a safe and responsible
   tourist during Covid-19
 meta-keywords: responsible tourist
-image_path: /images/greece/greece-santorini-summer.jpg
-banner-1_path: /images/greece/greece-santorini-summer.jpg
+image_path: >-
+  /images/travel-tips/responsible-tourist/greece-santorini-summer-two-girls-walking-the-streets-of-Santorini.jpg
+banner-1_path: >-
+  /images/travel-tips/responsible-tourist/greece-santorini-summer-two-girls-walking-the-streets-of-Santorini.jpg
 banner-fixed: true
 newsfeed: true
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - travel tips
 author: Jake Snow
-image-1_path: /images/Italy/amalfi-coast-drive3.jpg
+image-1_path: >-
+  /images/travel-tips/responsible-tourist/amalfi-coast-mariefeandjakesnow-sitting-in-a-vintage-fiat500.jpg
 image-1_alt:
 image-2_path:
 image-2_alt:
