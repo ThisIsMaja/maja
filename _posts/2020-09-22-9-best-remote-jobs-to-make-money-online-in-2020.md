@@ -9,8 +9,10 @@ meta-description: >-
   this post, we share the most in-demand remote jobs to start making money
   online.
 meta-keywords: 'best remote jobs, remote jobs, work from home, remote work'
-image_path: /images/9-Remote-Jobs/best-remote-work-jobs-vanlife.jpg
-banner-1_path: /images/9-Remote-Jobs/best-remote-work-jobs-vanlife.jpg
+image_path: >-
+  /images/self-improvement/remote-jobs/best-remote-work-jobs-mariefeandjakesnow-sitting-on-van.jpg
+banner-1_path: >-
+  /images/self-improvement/remote-jobs/best-remote-work-jobs-mariefeandjakesnow-sitting-on-van.jpg
 banner-fixed: true
 newsfeed: true
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - self-improvement
 author: Marie & Jake
-image-1_path: /images/9-Remote-Jobs/best-remote-jobs-work-online (1).jpg
+image-1_path: >-
+  /images/self-improvement/remote-jobs/best-remote-jobs-work-online-macbook-setup-on-table.jpg
 image-2_path:
 intro-paragraph-emphasis: 9 Examples of How to Make Money Online
 intro-content_html: >-
@@ -50,7 +53,8 @@ sections:
       opportunities as you are not limited to one country;</li><li>No need to
       wear professional clothes;</li><li>Ultimately you can be your own
       boss</li></ul>
-  - banner_path: /images/9-Remote-Jobs/Best-remote-job-web-developer.jpg
+  - banner_path: >-
+      /images/self-improvement/remote-jobs/Best-remote-job-web-developer-macbook-iphone-coffee-on-table.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -76,7 +80,8 @@ sections:
       target="_blank" rel="noopener"
       href="https://www.udemy.com/courses/development/web-development/?search-query=web+development"><u>web
       development courses</u></a>.</li></ul>
-  - banner_path: /images/9-Remote-Jobs/best-remote-jobs-web-design.jpg
+  - banner_path: >-
+      /images/self-improvement/remote-jobs/best-remote-jobs-word-design-spelled-phonetically-on-screen.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -95,7 +100,8 @@ sections:
       are just some examples of what you could be doing to earn an
       income.</p><p>You can choose to go freelance or apply to a magazine,
       advertising or marketing agency.</p>
-  - banner_path: /images/9-Remote-Jobs/best-remote-job-social-media-management.jpg
+  - banner_path: >-
+      /images/self-improvement/remote-jobs/best-remote-job-social-media-management-hands-holding-iphone.jpg
     banner-caption:
     banner-fixed: true
     columns: true
@@ -119,7 +125,8 @@ sections:
       outsource those tasks to freelance content creators and this could be your
       chance to make a remote job income.&nbsp;</p><p>TIP - great platforms to
       submit your written articles are Medium and Goop.</p>
-  - banner_path: /images/9-Remote-Jobs/best-remote-jobs-write-without-fear-copywritter.jpg
+  - banner_path: >-
+      /images/self-improvement/remote-jobs/best-remote-jobs-sign-saying-write-without-fear.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -151,7 +158,8 @@ sections:
       one or two months.&nbsp;</p><p>Popular online tutoring platforms
       are:</p><ol><li>Lingoda</li><li>QKinds</li><li>EF English
       first</li><li>Verbling</li></ol>
-  - banner_path: /images/9-Remote-Jobs/best-remote-jobs-woman-with-a-laptop.jpg
+  - banner_path: >-
+      /images/self-improvement/remote-jobs/best-remote-jobs-woman-typing-on-laptop-while-sitting-on-a-bed.jpg
     banner-caption:
     banner-fixed: true
     columns: true
