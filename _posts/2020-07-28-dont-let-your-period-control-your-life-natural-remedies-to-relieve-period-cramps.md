@@ -108,9 +108,9 @@ sections:
       daily Omega 3 supplement that I really love from a team I can trust (<a
       target="_blank" rel="noopener"
       href="https://thisismaja.com/posts/supplements-for-plant-based-diet">you
-      can learn about it here</a>).</p><h3>&nbsp;</h3><p>Regarding the foods you
-      want to avoid during your period, the list can vary per person but in
-      general, those are:</p><ul><li>Alcohol, fizzy drinks and
+      can learn about it here</a>).</p><p>Regarding the foods you want to avoid
+      during your period, the list can vary per person but in general, those
+      are:</p><h3>&nbsp;</h3><ul><li>Alcohol, fizzy drinks and
       coffee</li><li>Salty and sugary foods</li><li>Too many fruits can cause
       bloating. You can replace them with berries instead.&nbsp;</li><li>Fatty
       and highly processed food</li></ul><p>Basically try and eat a 'whole'
