@@ -89,15 +89,17 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><img src="/images/Maja-x-Rove/rove-21.jpeg"
-      width="1600"/></div><div>&nbsp;</div><div><strong>ESPERANCE Dress in
-      pistachio and light blue:</strong></div><div>&nbsp;</div><div><p>The
-      gorgeous ESPERANCE maxi dress will quickly turn into your new favourite!
-      Feminine and flowy, this is the one for your next dreamy holidays. Perfect
-      for watching the sun set over the ocean! The ruffled straps and hemline
-      are super flattering and thanks to its elasticated top the dress adjusts
-      to your body effortlessly.</p><p>&bull; 100% viscose fujette&bull;
-      Elasticated shirred top part &bull; Ruffled straps and hemline</p></div>
+      <div><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-esperance-dress-pistachio.jpeg"
+      width="1600" height="2000" /></div><div>&nbsp;</div><div><strong>ESPERANCE
+      Dress in pistachio and light
+      blue:</strong></div><div>&nbsp;</div><div><p>The gorgeous ESPERANCE maxi
+      dress will quickly turn into your new favourite! Feminine and flowy, this
+      is the one for your next dreamy holidays. Perfect for watching the sun set
+      over the ocean! The ruffled straps and hemline are super flattering and
+      thanks to its elasticated top the dress adjusts to your body
+      effortlessly.</p><p>&bull; 100% viscose fujette&bull; Elasticated shirred
+      top part &bull; Ruffled straps and hemline</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
