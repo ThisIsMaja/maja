@@ -167,8 +167,9 @@ sections:
       driven?</strong></p><p>&nbsp;</p><p>Rove Designs is only using plant based
       fabric and no plastic whether for the pieces itself or packaging. Rove
       pays its workers good wages and regularly gives back to social and
-      environment causes.</p><p><img
-      src="/images/sizing-chart.jpg"></p><p>&nbsp;</p><p>&nbsp;</p>
+      environment causes.</p><p>&nbsp;</p><p><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-sizing-chart.jpg"
+      width="1242" height="1022" /></p><p>&nbsp;</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
