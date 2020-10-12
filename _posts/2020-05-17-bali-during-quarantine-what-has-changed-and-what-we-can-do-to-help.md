@@ -78,7 +78,8 @@ sections:
       href="https://kemlu.go.id/portal/en/berita"><u>Ministry of Foreign
       Affairs&nbsp;</u></a></li><li><a target="_blank"
       href="https://www.who.int/"><u>World Health Organisation</u></a></li></ul>
-  - banner_path: /images/style/maja-stock-26.jpg
+  - banner_path: >-
+      /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang.jpg
     banner-caption:
     banner-fixed: false
     columns: true
