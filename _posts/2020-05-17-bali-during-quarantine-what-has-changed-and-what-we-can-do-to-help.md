@@ -8,8 +8,10 @@ meta-description: >-
   We have been self-isolating in Bali for 3 months now. In this post we tell all
   the changes we’ve noticed and what can you do to support the locals.
 meta-keywords: 'bali during quarantine, quarantine in bali, coronavirus in bali'
-image_path: /images/bali/bali-indonesia3.jpg
-banner-1_path: /images/bali/bali-indonesia3.jpg
+image_path: >-
+  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang-rice-fields.jpg
+banner-1_path: >-
+  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang-rice-fields.jpg
 banner-fixed: true
 newsfeed: false
 categories:
