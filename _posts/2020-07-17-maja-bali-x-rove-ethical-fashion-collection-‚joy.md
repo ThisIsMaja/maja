@@ -58,13 +58,14 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h3><img src="/images/Maja-x-Rove/rove-26.jpeg" width="1600" height="2399"
-      /></h3><p>&nbsp;</p><div><strong>SUNSHINE Top in beige, light blue and
-      lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE Top has a super
-      flattering fit with an off-shoulder ruffle and elasticated body. Its
-      cropped design and gorgeous colour make it your perfect summer top to wear
-      from beach to sunset bar.</p><p>&bull; 100% cotton&bull; Shirred, cropped
-      body&bull; Elasticated top with ruffle</p></div>
+      <h3><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-sunshine-top-blue.jpg"
+      width="1600" height="2400" /></h3><div><strong>SUNSHINE Top in beige,
+      light blue and lemon:</strong></div><div>&nbsp;</div><div><p>The SUNSHINE
+      Top has a super flattering fit with an off-shoulder ruffle and elasticated
+      body. Its cropped design and gorgeous colour make it your perfect summer
+      top to wear from beach to sunset bar.</p><p>&bull; 100% cotton&bull;
+      Shirred, cropped body&bull; Elasticated top with ruffle</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
