@@ -9,7 +9,7 @@ meta-description: >-
   made flowy dresses in pastel hues that are perfectly instagrammable are the
   center pieces of this collection.
 meta-keywords: maja bali
-image_path: /images/Maja-x-Rove/joy-collection12.jpg
+image_path: /images/Maja-x-Rove/joy-collection1.jpg
 banner-1_path: >-
   /images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-standing-in-the-ocean-at-sunset.jpg
 banner-fixed: true
