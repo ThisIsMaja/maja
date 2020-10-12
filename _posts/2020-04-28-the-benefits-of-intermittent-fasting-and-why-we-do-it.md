@@ -11,8 +11,10 @@ meta-description: >-
 meta-keywords: >-
   intermittent fasting, benefits of intermittent fasting, fasting, benefits of
   fasting
-image_path: /images/marie-jake/mariefeandjakesnow-1.jpg
-banner-1_path: /images/marie-jake/gili-island2.jpg
+image_path: >-
+  /images/health-and-fitness/intermittent-fasting-benefits/benefits-of-intermittent-fasting-mariefeandjakesnow-holding-a-puppy.jpg
+banner-1_path: >-
+  /images/health-and-fitness/intermittent-fasting-benefits/benefits-of-intermittent-fasting-mariefeandjakesnow-sitting-on-a-bicycle.jpg
 banner-fixed: false
 newsfeed: false
 categories:
@@ -20,8 +22,10 @@ categories:
 tags:
   - health &amp; fitness
 author: Jake Snow
-image-1_path: /images/food/vegan-food3.jpg
-image-2_path: /images/marie-jake/mariefeandjakesnow-1.jpg
+image-1_path: >-
+  /images/health-and-fitness/intermittent-fasting-benefits/benefits-of-intermittent-fasting-healthy-pita-bread-cut-in-half.jpg
+image-2_path: >-
+  /images/health-and-fitness/intermittent-fasting-benefits/benefits-of-intermittent-fasting-mariefeandjakesnow-holding-a-puppy.jpg
 intro-paragraph-emphasis: >-
   We didn’t start intermittent fasting 2 years ago because we thought it would
   be fun.
@@ -46,7 +50,8 @@ intro-content_html: >-
   and start eating the minute we hit 16 hours fasted. Marie will fast on around
   50% of days while I&rsquo;ll fast on most.&nbsp;</p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/food/plantbased-food1.jpg
+  - banner_path: >-
+      /images/health-and-fitness/intermittent-fasting-benefits/benefits-of-intermittent-fasting-a-cup-of-almonds.jpg
     banner-caption:
     banner-fixed: true
     columns: true
@@ -105,7 +110,8 @@ sections:
       energy</li><li>Has anti-inflammatory effects</li><li>Has anti-aging
       effects and helps to heal the body on a cellular level</li><li>Protects
       against chronic disease like diabetes and cardiovascular disease</li></ul>
-  - banner_path: /images/food/plantbased-food2.jpg
+  - banner_path: >-
+      /images/health-and-fitness/intermittent-fasting-benefits/benefits-of-intermittent-fasting-a-cup-of-blueberries.jpg
     banner-caption:
     banner-fixed: true
     columns: true
