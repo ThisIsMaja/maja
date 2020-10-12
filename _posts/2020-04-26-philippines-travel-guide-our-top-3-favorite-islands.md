@@ -2,8 +2,8 @@
 layout: post
 date: 2020-04-26 00:00:00
 hidden: false
-slug: exploring-the-philippines
-title: 'Exploring the Philippines: Our Top 3 Favorite Islands'
+slug: philippines-travel-guide
+title: 'Philippines Travel Guide: Our Top 3 Favorite Islands'
 meta-description: >-
   In this post, we take you along exploring Cebu, Coron & Siquijor. We share the
   easiest ways to get around, must-see places, the best accommodations, etc.
