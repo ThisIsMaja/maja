@@ -41,16 +41,17 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><img src="/images/Maja-x-Rove/rove-2.jpeg" alt="Maja Bali Joy
-      Collection"><img
-      src="/images/Maja-x-Rove/rove-24.jpeg"/></div><div><div><strong>SUNRISE
-      Dress in lavender, pistachio and
-      lemon:</strong></div><div>&nbsp;</div><div><p>Our cute &amp; easy throw-on
-      dress! The SUNRISE Dress is crafted from cotton gauze, which is incredibly
-      soft to touch, light-weight to pack and resistant to wrinkles. The flared
-      fit and wing sleeves add playfulness to your movements.</p><p>&bull; 100%
-      soft cotton gauze&bull; Light, wrinkle-resistant and
-      comfortable</p></div></div><div>&nbsp;</div>
+      <div><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-sunset-dress-lavendar.jpg"
+      width="1600" height="2000" /></div><div><div><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-sunset-dress-pistachio.jpg"
+      width="1600" height="2400" /></div><div><strong>SUNRISE Dress in lavender,
+      pistachio and lemon:</strong></div><div>&nbsp;</div><div><p>Our cute &amp;
+      easy throw-on dress! The SUNRISE Dress is crafted from cotton gauze, which
+      is incredibly soft to touch, light-weight to pack and resistant to
+      wrinkles. The flared fit and wing sleeves add playfulness to your
+      movements.</p><p>&bull; 100% soft cotton gauze&bull; Light,
+      wrinkle-resistant and comfortable</p></div></div><div>&nbsp;</div>
   - banner_path:
     banner-caption:
     banner-fixed: false
