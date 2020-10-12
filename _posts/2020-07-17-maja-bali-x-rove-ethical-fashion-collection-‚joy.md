@@ -72,16 +72,17 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <p><img class="cms-image-placeholder"
-      src="/images/Maja-x-Rove/rove-13.jpeg" /></p><div><strong>UDAIPUR Dress in
-      lavender, lemons and light
-      blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR Maxi Dress is one
-      of our most flattering styles. The flirty off-the-shoulder design and
-      elasticated top hug your body in all the right places. The flowy bottom
-      part moves softly around your ankles. Like the romantic white city of
-      Udaipur, you will enchant everyone with your beauty.</p><p>&bull; 100%
-      viscose&bull; Elasticated shirred top part and elastic sleeves for great
-      fit&bull; Ruffles along top and hemline</p></div>
+      <p><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-udaipur-dress-lemon.jpeg"
+      width="1600" height="2399" /></p><div><strong>UDAIPUR Dress in lavender,
+      lemons and light blue:</strong></div><div>&nbsp;</div><div><p>The UDAIPUR
+      Maxi Dress is one of our most flattering styles. The flirty
+      off-the-shoulder design and elasticated top hug your body in all the right
+      places. The flowy bottom part moves softly around your ankles. Like the
+      romantic white city of Udaipur, you will enchant everyone with your
+      beauty.</p><p>&bull; 100% viscose&bull; Elasticated shirred top part and
+      elastic sleeves for great fit&bull; Ruffles along top and
+      hemline</p></div>
   - banner_path:
     banner-caption:
     banner-fixed: false
