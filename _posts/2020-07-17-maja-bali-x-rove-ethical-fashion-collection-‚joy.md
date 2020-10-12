@@ -106,16 +106,18 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <div><img src="/images/Maja-x-Rove/rove-22.jpeg"/></div><div><img
-      src="/images/Maja-x-Rove/rove-16.jpeg"/></div><div><strong>PARAISO Wrap
-      Dress in Lavender and light
-      blue:</strong></div><div>&nbsp;</div><div><p>ROVE's best-selling Maxi Wrap
-      Dress is now available in gorgeous pastel hues! The super flattering cut
-      is perfect for any dress-up occasion as well as romantic strolls by the
-      beach.</p><p>&bull; 100% viscose&bull; Ruffled sleeves and hemline&bull;
-      Wrap style will adjust perfectly to your body shape&bull; Feminine
-      fit&bull; Invisible hook at front for optimal
-      coverage</p></div><div><div>&nbsp;</div><div>&nbsp;</div></div></div></div></div><div>&nbsp;</div>
+      <div><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-paraiso-dress-lavendar.jpeg"
+      width="1600" height="2000" /></div><div><img
+      src="/images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-paraiso-dress-blue.jpeg"
+      width="1600" height="2399" /></div><div><strong>PARAISO Wrap Dress in
+      Lavender and light blue:</strong></div><div>&nbsp;</div><div><p>ROVE's
+      best-selling Maxi Wrap Dress is now available in gorgeous pastel hues! The
+      super flattering cut is perfect for any dress-up occasion as well as
+      romantic strolls by the beach.</p><p>&bull; 100% viscose&bull; Ruffled
+      sleeves and hemline&bull; Wrap style will adjust perfectly to your body
+      shape&bull; Feminine fit&bull; Invisible hook at front for optimal
+      coverage</p></div><div><div>&nbsp;</div><div>&nbsp;</div></div><div>&nbsp;</div>
   - banner_path:
     banner-caption:
     banner-fixed: false
