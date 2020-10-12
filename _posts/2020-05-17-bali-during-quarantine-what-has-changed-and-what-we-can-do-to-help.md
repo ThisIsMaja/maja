@@ -8,8 +8,10 @@ meta-description: >-
   We have been self-isolating in Bali for 3 months now. In this post we tell all
   the changes we’ve noticed and what can you do to support the locals.
 meta-keywords: 'bali during quarantine, quarantine in bali, coronavirus in bali'
-image_path: /images/bali/bali-indonesia3.jpg
-banner-1_path: /images/bali/bali-indonesia3.jpg
+image_path: >-
+  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang-rice-fields.jpg
+banner-1_path: >-
+  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang-rice-fields.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - news
 author: Marie & Jake
-image-1_path: /images/bali/bali-indonesia7.jpg
+image-1_path: >-
+  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-monkey-forest.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   How has Bali fared compared to the rest of the world? Has this peaceful island
@@ -75,7 +78,8 @@ sections:
       href="https://kemlu.go.id/portal/en/berita"><u>Ministry of Foreign
       Affairs&nbsp;</u></a></li><li><a target="_blank"
       href="https://www.who.int/"><u>World Health Organisation</u></a></li></ul>
-  - banner_path: /images/style/maja-stock-26.jpg
+  - banner_path: >-
+      /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang.jpg
     banner-caption:
     banner-fixed: false
     columns: true
