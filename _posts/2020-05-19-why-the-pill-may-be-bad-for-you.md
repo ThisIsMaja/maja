@@ -9,8 +9,10 @@ meta-description: >-
   pill. I also talk about common 'side' effects of the pill and why it may be
   bad for you.
 meta-keywords: 'why the pill is bad, birth control pill'
-image_path: /images/pill/contraceptives-maja4.jpg
-banner-1_path: /images/pill/contraceptives-maja4.jpg
+image_path: >-
+  /images/health-and-fitness/why-the-pill-is-bad/why-the-pill-is-bad-picture-of-different-contraception-methods.jpg
+banner-1_path: >-
+  /images/health-and-fitness/why-the-pill-is-bad/why-the-pill-is-bad-picture-of-different-contraception-methods.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - health &amp; fitness
 author: Marie Fe
-image-1_path: /images/marie-jake/Website 2-25.jpg
+image-1_path: >-
+  /images/health-and-fitness/why-the-pill-is-bad/why-the-pill-is-bad-mariefe-sitting-in-a-white-armchair.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   The process of coming off the pill was so challenging and so stressful, you
@@ -77,7 +80,8 @@ sections:
       are and when we try to interfere with something so complex like the human
       body made up of trillions on cells all communicating and working together,
       things are bound to go wrong.&nbsp;</p>
-  - banner_path: /images/pill/contraceptives-maja5.jpg
+  - banner_path: >-
+      /images/health-and-fitness/why-the-pill-is-bad/why-the-pill-is-bad-mariefe-sitting-in-a-white-armchair.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -104,7 +108,8 @@ sections:
       aura or diabetes should not use the pill because of an increased risk of
       side effects. Also, the pill does not protect against sexually transmitted
       diseases.</p>
-  - banner_path: /images/nature/mariefeandjakesnow-banner5.jpg
+  - banner_path: >-
+      /images/health-and-fitness/why-the-pill-is-bad/why-the-pill-is-bad-beach-ocean-and-blue-sky.jpg
     banner-caption:
     banner-fixed: false
     columns: true
