@@ -19,7 +19,8 @@ categories:
 tags:
   - news
 author: Marie & Jake
-image-1_path: /images/bali/bali-indonesia7.jpg
+image-1_path: >-
+  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-monkey-forest.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   How has Bali fared compared to the rest of the world? Has this peaceful island
