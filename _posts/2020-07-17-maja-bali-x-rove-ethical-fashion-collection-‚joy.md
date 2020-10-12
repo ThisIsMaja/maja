@@ -20,7 +20,8 @@ categories:
 tags:
   - fashion &amp; beauty
 author: Marie Fe
-image-1_path: /images/Maja-x-Rove/rove-7.jpeg
+image-1_path: >-
+  /images/fashion-and-beauty/maja-rove-joy-collection/maja-bali-joy-collection-marie-wearing-a-yellow-dress-and-a-flower-crown.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Our shared love for all things travel and fashion will come together in a
