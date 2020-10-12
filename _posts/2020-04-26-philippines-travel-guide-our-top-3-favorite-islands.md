@@ -8,8 +8,10 @@ meta-description: >-
   In this post, we take you along exploring Cebu, Coron & Siquijor. We share the
   easiest ways to get around, must-see places, the best accommodations, etc.
 meta-keywords: 'philippines travel guide, cebu, siquijor, coron'
-image_path: /images/Philippines/Coron 5-1.jpg
-banner-1_path: /images/Philippines/philippines-travel13.jpg
+image_path: >-
+  /images/asia/philippines-travel-guide/philippines-travel-guide-mariefeandjakesnow-on-the-beach.jpg
+banner-1_path: >-
+  /images/asia/philippines-travel-guide/philippines-travel-guide-view-from-the-water-beach-huts.jpg
 banner-fixed: false
 newsfeed: false
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - asia
 author: Marie Fe & Jake Snow
-image-1_path: /images/Philippines/Coron 5-1.jpg
+image-1_path: >-
+  /images/asia/philippines-travel-guide/philippines-travel-guide-mariefeandjakesnow-on-the-beach.jpg
 image-2_path:
 intro-paragraph-emphasis: The Philippines is definitely one of our favourite places in the world!
 intro-content_html: >-
@@ -43,7 +46,8 @@ sections:
       rainy season is super affordable accommodations, and often you may only
       see a short downpour once or twice a day and sunshine
       throughout.&nbsp;</p>
-  - banner_path: /images/Philippines/philippines-travel10.jpg
+  - banner_path: >-
+      /images/asia/philippines-travel-guide/philippines-travel-guide-beach-cabanas-under-the-palm-trees.jpg
     banner-fixed: false
     banner-caption_html:
     columns: false
@@ -77,7 +81,8 @@ sections:
       Blue Orchid Resort</em></a>:&nbsp; Beautiful resort located at the quiet
       end of White Beach. Sea view or pool view options available. Standard
       double room will cost around $80USD a night.&nbsp;</li></ul>
-  - banner_path: /images/Philippines/philippines-travel9.jpg
+  - banner_path: >-
+      /images/asia/philippines-travel-guide/philippines-travel-guide-sunset-orange-skies.jpg
     banner-fixed: false
     banner-caption_html:
     columns: true
@@ -118,7 +123,8 @@ sections:
       Guesthouse</a>: </em>Beachfront guesthouses with all basic amenities
       included. The hotel will arrange for motorbike rental and diving
       excursions.&nbsp;</li></ul>
-  - banner_path: /images/Philippines/philippines-travel6.jpg
+  - banner_path: >-
+      /images/asia/philippines-travel-guide/philippines-travel-guide-marie-sitting-on-beach.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
