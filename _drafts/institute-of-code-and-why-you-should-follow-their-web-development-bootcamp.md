@@ -12,7 +12,7 @@ image_path: >-
   /images/self-improvement/IOC/web-development-bootcamp-IOC-Jake-giving-a-presenation.jpg
 banner-1_path: >-
   /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool.jpeg
-banner-fixed: false
+banner-fixed: true
 newsfeed: false
 categories:
   - lifestyle
