@@ -9,8 +9,10 @@ meta-description: >-
   Read this post and find out five main reasons why this happens and what to do
   about it.
 meta-keywords: new year resolutions
-image_path: /images/style/maja-stock-style3.jpg
-banner-1_path: /images/style/maja-stock-47.jpg
+image_path: >-
+  /images/self-improvement/resolutions-wont-work/why-new-years-resolutions-shelf-with-plants.jpg
+banner-1_path: >-
+  /images/self-improvement/resolutions-wont-work/why-new-years-resolutions-wont-work-notebook-coffee-watches-on-table.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,9 +20,11 @@ categories:
 tags:
   - self-improvement
 author: Jake Snow
-image-1_path: /images/style/maja-stock-style3.jpg
+image-1_path: >-
+  /images/self-improvement/resolutions-wont-work/why-new-years-resolutions-shelf-with-plants.jpg
 image-1-caption:
-image-2_path: /images/office/maja-content0.jpg
+image-2_path: >-
+  /images/self-improvement/resolutions-wont-work/why-new-years-resolutions-cup-of-coffee-on-the-table.jpg
 image-2-caption:
 intro-paragraph-emphasis: >-
   Starting the new year off with a few personal changes in mind always seem
