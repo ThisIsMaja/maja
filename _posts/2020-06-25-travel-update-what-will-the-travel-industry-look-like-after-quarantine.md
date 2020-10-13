@@ -9,8 +9,10 @@ meta-description: >-
   travel industry look like after quarantine? Talking about all this in our new
   blog post.
 meta-keywords: 'travel update, traveling after quarantine'
-image_path: /images/bali/Bali-blogpost1.jpg
-banner-1_path: /images/bali/Bali-blogpost1.jpg
+image_path: >-
+  /images/news/travel-industry-after-quarantine/maja-travel-update-marie-in-a-white-bikini-walking-next-to-a-pool.jpg
+banner-1_path: >-
+  /images/news/travel-industry-after-quarantine/maja-travel-update-marie-in-a-white-bikini-walking-next-to-a-pool.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - news
 author: Marie and Jake
-image-1_path: /images/bali/Bali-blogpost3.jpg
+image-1_path: >-
+  /images/news/travel-industry-after-quarantine/maja-travel-update-marie-and-dog-sitting-on-stairs.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Over the last few weeks we have been getting many questions on travel - when
@@ -53,7 +56,8 @@ sections:
       informed, and make well balanced decisions when the time
       comes!&nbsp;</p><p>The first thing we will do when the borders open up is
       visit our families in Australia and Germany.&nbsp;</p>
-  - banner_path: /images/bali/Bali-blogpost4.jpg
+  - banner_path: >-
+      /images/news/travel-industry-after-quarantine/maja-travel-update-marie-in-a-green-dress-standing-on-terrace-outside.jpg
     banner-caption:
     banner-fixed: false
     columns: true
