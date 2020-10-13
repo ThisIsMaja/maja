@@ -11,7 +11,7 @@ meta-keywords: Web Development Bootcamp
 image_path: >-
   /images/self-improvement/IOC/web-development-bootcamp-IOC-Jake-giving-a-presenation.jpg
 banner-1_path: >-
-  /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool.jpeg
+  /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool-1.jpg
 banner-fixed: false
 newsfeed: false
 categories:
