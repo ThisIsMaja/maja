@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-13 11:00:00
-hidden: true
+hidden: false
 slug: web-development-bootcamp
 title: The Institute of Code and why you should follow their Web Development Bootcamp
 meta-description: >-
@@ -11,7 +11,7 @@ meta-keywords: Web Development Bootcamp
 image_path: >-
   /images/self-improvement/IOC/web-development-bootcamp-IOC-Jake-giving-a-presenation.jpg
 banner-1_path: >-
-  /images/self-improvement/IOC/web-development-bootcamp-group-photo-of-participants.jpg
+  /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool-1.jpg
 banner-fixed: false
 newsfeed: false
 categories:
@@ -36,7 +36,7 @@ intro-content_html: >-
   that&rsquo;s how we felt. You might be thinking web development requires
   advanced mathematical knowledge and high-level tech skills. And while it is
   true at the higher skill levels, it is definitely not an absolute must and we
-  learned this fact when we attended <a href="__notset__">The </a><a
+  learned this fact when we attended <a href=" ">The &nbsp;</a><a
   target="_blank" rel="noopener"
   href="https://www.instituteofcode.com/">Institute of Code</a> web development
   boot camp. No matter your background, you CAN learn web
@@ -56,7 +56,7 @@ sections:
       the programming languages you might have heard of are HTML, CSS,
       JavaScript, Python, etc.</p>
   - banner_path: >-
-      /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool.jpeg
+      /images/self-improvement/IOC/web-development-bootcamp-passion-led-us-here.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -86,21 +86,20 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2>What is the Institute of Code?</h2><p><em>About a year ago</em> we
-      decided that we wanted to rebrand and redesign our website, so we started
-      searching for the best ways to do it. It was important to us that our
-      website could be completely customizable and it was equally important that
-      we understood how it all worked. We also wanted a unique website that
-      didn't look like a lot of other template websites that you can easily
-      build on squarespace or WIX for example. After doing a lot of research and
-      a lot of contemplation about how our website would be built. We decided to
-      find a course that would teach us the ins and outs of web
-      development.&nbsp;</p><p>We pretty quickly stumbled upon the Institute of
-      Code and their 10 day all inclusive web development bootcamp hosted in
-      Bali, through a recommendation from a good friend.&nbsp;</p><p>We
-      contacted the team and after chatting to Tina and Emile - co-founders of
-      the Institute of Code, we knew that their 10-day Web Development Bootcamp
-      was exactly what we needed.</p>
+      <h2>What is The Institute of Code?</h2><p>About a year ago we decided that
+      we wanted to rebrand and redesign our website, so we started searching for
+      the best ways to do it. It was important to us that our website could be
+      completely customizable and it was equally important that we understood
+      how it all worked. We also wanted a unique website that didn't look like a
+      lot of other template websites that you can easily build on squarespace or
+      WIX for example. After doing a lot of research and a lot of contemplation
+      about how our website would be built. We decided to find a course that
+      would teach us the ins and outs of web development.&nbsp;</p><p>We pretty
+      quickly stumbled upon The Institute of Code and their 10 day all inclusive
+      web development bootcamp hosted in Bali, through a recommendation from a
+      good friend.&nbsp;</p><p>We contacted the team and after chatting to Tina
+      and Emile - co-founders of The Institute of Code, we knew that their
+      10-day Web Development Bootcamp was exactly what we needed.</p>
   - banner_path: >-
       /images/self-improvement/IOC/web-development-bootcamp-participants-sitting-at-the-common-desk-in-a-villa.jpg
     banner-caption:
