@@ -17,7 +17,7 @@ newsfeed: false
 categories:
   - lifestyle
 tags:
-  - SELF-IMPROVEMENT
+  - self-improvement
 author: Jake Snow
 image-1_path: >-
   /images/self-improvement/IOC/web-development-bootcamp-jake-looking-at-his-laptop-studying-the-code.jpg
