@@ -9,8 +9,8 @@ meta-description: >-
   why the idea of traveling internationally became associated with white
   privilege.
 meta-keywords: 'black travel blogger, people of color, black lives matter'
-image_path: /images/Contributors/Vennessa/vennessa-6.jpg
-banner-1_path: /images/Contributors/Vennessa/vennessa-6.jpg
+image_path: /images/news/vennessa/black-lives-matter-a-girl-swimming-in-the-ocean.jpg
+banner-1_path: /images/news/vennessa/black-lives-matter-a-girl-swimming-in-the-ocean.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +18,8 @@ categories:
 tags:
   - news
 author: '@veennessa'
-image-1_path: /images/Contributors/Vennessa/Vennessa-9.jpg
+image-1_path: >-
+  /images/news/vennessa/black-lives-matter-portrait-of-an-african-american-girl.jpg
 image-2_path:
 intro-paragraph-emphasis: THE WAY I SEE IT...
 intro-content_html: >-
