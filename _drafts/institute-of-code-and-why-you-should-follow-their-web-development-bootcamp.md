@@ -58,7 +58,7 @@ sections:
   - banner_path: >-
       /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool.jpeg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -86,21 +86,20 @@ sections:
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2>What is the Institute of Code?</h2><p><em>About a year ago</em> we
-      decided that we wanted to rebrand and redesign our website, so we started
-      searching for the best ways to do it. It was important to us that our
-      website could be completely customizable and it was equally important that
-      we understood how it all worked. We also wanted a unique website that
-      didn't look like a lot of other template websites that you can easily
-      build on squarespace or WIX for example. After doing a lot of research and
-      a lot of contemplation about how our website would be built. We decided to
-      find a course that would teach us the ins and outs of web
-      development.&nbsp;</p><p>We pretty quickly stumbled upon the Institute of
-      Code and their 10 day all inclusive web development bootcamp hosted in
-      Bali, through a recommendation from a good friend.&nbsp;</p><p>We
-      contacted the team and after chatting to Tina and Emile - co-founders of
-      the Institute of Code, we knew that their 10-day Web Development Bootcamp
-      was exactly what we needed.</p>
+      <h2>What is The Institute of Code?</h2><p>About a year ago we decided that
+      we wanted to rebrand and redesign our website, so we started searching for
+      the best ways to do it. It was important to us that our website could be
+      completely customizable and it was equally important that we understood
+      how it all worked. We also wanted a unique website that didn't look like a
+      lot of other template websites that you can easily build on squarespace or
+      WIX for example. After doing a lot of research and a lot of contemplation
+      about how our website would be built. We decided to find a course that
+      would teach us the ins and outs of web development.&nbsp;</p><p>We pretty
+      quickly stumbled upon The Institute of Code and their 10 day all inclusive
+      web development bootcamp hosted in Bali, through a recommendation from a
+      good friend.&nbsp;</p><p>We contacted the team and after chatting to Tina
+      and Emile - co-founders of The Institute of Code, we knew that their
+      10-day Web Development Bootcamp was exactly what we needed.</p>
   - banner_path: >-
       /images/self-improvement/IOC/web-development-bootcamp-participants-sitting-at-the-common-desk-in-a-villa.jpg
     banner-caption:
