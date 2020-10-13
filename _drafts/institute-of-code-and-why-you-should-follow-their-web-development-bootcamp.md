@@ -11,7 +11,7 @@ meta-keywords: Web Development Bootcamp
 image_path: >-
   /images/self-improvement/IOC/web-development-bootcamp-IOC-Jake-giving-a-presenation.jpg
 banner-1_path: >-
-  /images/self-improvement/IOC/web-development-bootcamp-group-photo-of-all-participants.jpg
+  /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool.jpeg
 banner-fixed: false
 newsfeed: false
 categories:
@@ -56,9 +56,9 @@ sections:
       the programming languages you might have heard of are HTML, CSS,
       JavaScript, Python, etc.</p>
   - banner_path: >-
-      /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool.jpeg
+      /images/self-improvement/IOC/web-development-bootcamp-passion-led-us-here.jpg
     banner-caption:
-    banner-fixed: true
+    banner-fixed: false
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
