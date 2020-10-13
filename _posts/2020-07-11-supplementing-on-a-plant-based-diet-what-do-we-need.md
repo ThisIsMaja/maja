@@ -9,8 +9,10 @@ meta-description: >-
   based eaters and why? We also introduce you to the best vegan supplement
   brand.
 meta-keywords: 'best vegan supplements, supplements on a plant based diet'
-image_path: /images/Future Kind/Future Kind-4.jpg
-banner-1_path: /images/Future Kind/Future Kind-4.jpg
+image_path: >-
+  /images/health-and-fitness/plant-based-supplements/supplements-on-a-plant-based-diet-future-kind-multivitamin-for-vegans.jpg
+banner-1_path: >-
+  /images/health-and-fitness/plant-based-supplements/supplements-on-a-plant-based-diet-future-kind-multivitamin-for-vegans.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - health &amp; fitness
 author: Marie and Jake
-image-1_path: /images/Future Kind/Future Kind-5.jpg
+image-1_path: >-
+  /images/health-and-fitness/plant-based-supplements/supplements-on-a-plant-based-diet-pouring-into-a-glass-of-water.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   In all honesty we used to believe that supplements were completely unnecessary
@@ -65,7 +68,8 @@ sections:
       sure you&rsquo;re operating at 100%. Supplementing can help you stay
       healthy and at the top of your game (if you use the right products and
       supplement with the nutrients you actually need)</p>
-  - banner_path: /images/Future Kind/futureind-banner2.jpg
+  - banner_path: >-
+      /images/health-and-fitness/plant-based-supplements/supplements-on-a-plant-based-diet-mariefeandjakesnow-working-behind-the-laptops.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -136,7 +140,8 @@ sections:
       eye.</p><p><strong>Supporting healthy bones</strong></p><p>Adequate intake
       of Vitamin D is essential for maintaining healthy bones, as it helps with
       calcium and phosphorous absorption.</p><p>&nbsp;</p>
-  - banner_path: /images/banners/maldives-banner.jpg
+  - banner_path: >-
+      /images/health-and-fitness/plant-based-supplements/supplements-on-a-plant-based-diet-drone-shot-mariefeandjakesnow-laying-in-a-hammock-in-the-ocean.jpg
     banner-caption:
     banner-fixed: false
     columns: false
