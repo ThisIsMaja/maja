@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-13 11:00:00
-hidden: true
+hidden: false
 slug: web-development-bootcamp
 title: The Institute of Code and why you should follow their Web Development Bootcamp
 meta-description: >-
