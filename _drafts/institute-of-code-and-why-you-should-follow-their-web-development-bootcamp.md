@@ -36,8 +36,7 @@ intro-content_html: >-
   that&rsquo;s how we felt. You might be thinking web development requires
   advanced mathematical knowledge and high-level tech skills. And while it is
   true at the higher skill levels, it is definitely not an absolute must and we
-  learned this fact when we attended <a href="__notset__">The &nbsp;</a><a
-  target="_blank" rel="noopener"
+  learned this fact when we attended The &nbsp;<a target="_blank" rel="noopener"
   href="https://www.instituteofcode.com/">Institute of Code</a> web development
   boot camp. No matter your background, you CAN learn web
   development.&nbsp;</p><p>For those of you who are not very familiar with the
