@@ -9,8 +9,10 @@ meta-description: >-
   enabled us to build our dream lifestyle. Read this to find out about tips &
   trick we use for our Instagram stories.
 meta-keywords: 'tips for instagram stories, ideas for instagram stories'
-image_path: /images/content-creation/iphone-content1.jpg
-banner-1_path: /images/content-creation/iphone-content1.jpg
+image_path: >-
+  /images/social-media/instagram-stories/tips-for-instagram-stories-hands-holding-an-iphone-and-reconding-a-video.jpg
+banner-1_path: >-
+  /images/social-media/instagram-stories/tips-for-instagram-stories-hands-holding-an-iphone-and-reconding-a-video.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,8 +20,10 @@ categories:
 tags:
   - social media
 author: Marie & Jake
-image-1_path: /images/content-creation/iphone-content7.jpg
-image-2_path: /images/content-creation/iphone-content6.jpg
+image-1_path: >-
+  /images/social-media/instagram-stories/tips-for-instagram-stories-recording-a-video-with-an-iphone.jpg
+image-2_path: >-
+  /images/social-media/instagram-stories/tips-for-instagram-stories-taking-a-photo-of-a-salad.jpg
 intro-paragraph-emphasis: >-
   In this ever evolving digital world, learning how to create beautiful content
   that emotionally connects with people online can open up opportunities in your
@@ -74,7 +78,8 @@ sections:
       let&rsquo;s talk about how you can start creating Instagram stories that
       will catch peoples attention and give them
       value.</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/content-creation/iphone-content4.jpg
+  - banner_path: >-
+      /images/social-media/instagram-stories/tips-for-instagram-stories-making-a-photo-of-a-lake-and-mountains.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -152,13 +157,16 @@ sections:
       comments below and we will try our best to help you out! :)</u></p>
 show-gallery: true
 gallery:
-  - image_path: /images/content-creation/instagram-stories1.jpg
+  - image_path: >-
+      /images/social-media/instagram-stories/tips-for-instagram-stories-examples-of-creative.jpg
     size: full
     alt:
-  - image_path: /images/content-creation/instagram-stories2.jpg
+  - image_path: >-
+      /images/social-media/instagram-stories/tips-for-instagram-stories-examples-of-stories.jpg
     size: full
     alt:
-  - image_path: /images/content-creation/instagram-stories3.jpg
+  - image_path: >-
+      /images/social-media/instagram-stories/tips-for-instagram-stories-examples.jpg
     size: full
     alt:
 ---
