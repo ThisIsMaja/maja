@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-10-08 16:00:00
+date: 2020-10-13 11:00:00
 hidden: true
 slug: web-development-bootcamp
 title: The Institute of Code and why you should follow their Web Development Bootcamp
@@ -8,17 +8,20 @@ meta-description: >-
   Why we think web development is a great career choice and what is the quickest
   and most efficient way to learn it.
 meta-keywords: Web Development Bootcamp
-image_path:
-banner-1_path:
-banner-fixed: true
+image_path: >-
+  /images/self-improvement/IOC/web-development-bootcamp-IOC-Jake-giving-a-presenation.jpg
+banner-1_path: >-
+  /images/self-improvement/IOC/web-development-bootcamp-group-photo-of-participants.jpg
+banner-fixed: false
 newsfeed: false
 categories:
   - lifestyle
 tags:
   - SELF-IMPROVEMENT
 author: Jake Snow
-image-1_path:
-image-1_alt:
+image-1_path: >-
+  /images/self-improvement/IOC/web-development-bootcamp-jake-looking-at-his-laptop-studying-the-code.jpg
+image-1_alt: jake is learning how to code at the web development bootcamp in bali
 image-2_path:
 image-2_alt:
 intro-paragraph-emphasis:
@@ -52,7 +55,8 @@ sections:
       designers, and turn it into a website by writing lines of code. Some of
       the programming languages you might have heard of are HTML, CSS,
       JavaScript, Python, etc.</p>
-  - banner_path:
+  - banner_path: >-
+      /images/self-improvement/IOC/web-development-bootcamp-participants-working-near-the-pool.jpeg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -75,9 +79,10 @@ sections:
       that will always be in-demand and that it will give you freedom?
       Maybe?</p><p>Let&rsquo;s talk about the best way you can learn
       it.&nbsp;</p>
-  - banner_path:
+  - banner_path: >-
+      /images/self-improvement/IOC/web-development-bootcamp-mariefeandjakesnow-with-tina-talking.jpeg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
@@ -96,9 +101,10 @@ sections:
       contacted the team and after chatting to Tina and Emile - co-founders of
       the Institute of Code, we knew that their 10-day Web Development Bootcamp
       was exactly what we needed.</p>
-  - banner_path:
+  - banner_path: >-
+      /images/self-improvement/IOC/web-development-bootcamp-participants-sitting-at-the-common-desk-in-a-villa.jpg
     banner-caption:
-    banner-fixed: false
+    banner-fixed: true
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
@@ -128,7 +134,8 @@ sections:
       drive free traffic to your website. A few students from our course loved
       it so much they actually decided to jump right into the social media
       course immediately after the web dev course we were on.</p>
-  - banner_path:
+  - banner_path: >-
+      /images/self-improvement/IOC/web-development-bootcamp-mariefeandjakesnow-with-tina.jpeg
     banner-caption:
     banner-fixed: false
     columns: false
