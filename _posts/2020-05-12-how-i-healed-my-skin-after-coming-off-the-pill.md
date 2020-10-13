@@ -9,8 +9,10 @@ meta-description: >-
   skin. Find out how to heal your skin and the best tips to regain your body´s
   natural balance.
 meta-keywords: 'coming off the pill, how to heal your skin'
-image_path: /images/style/mariefeandjakesnow-pill3.jpg
-banner-1_path: /images/style/mariefeandjakesnow-pill3.jpg
+image_path: >-
+  /images/health-and-fitness/healing-skin-after-pill/healing-skin-after-coming-off-the-pill-birth-control-pills.jpg
+banner-1_path: >-
+  /images/health-and-fitness/healing-skin-after-pill/healing-skin-after-coming-off-the-pill-birth-control-pills.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - health &amp; fitness
 author: Marie
-image-1_path: /images/personal/skin-pimples.jpg
+image-1_path: >-
+  /images/health-and-fitness/healing-skin-after-pill/healing-skin-after-coming-off-the-pill-maries-skin-five-month-progress.jpg
 image-2_path:
 intro-paragraph-emphasis: Midway through 2018 I finally decided to get off the pill once and for all
 intro-content_html: >-
@@ -134,7 +137,8 @@ sections:
       when you're tempted to eat naughty food.</p><p>This solution might not be
       for you, in that case there are several other things that really helped
       me. I will list them below.&nbsp;</p>
-  - banner_path: /images/style/mariefeandjakesnow-pill1.jpg
+  - banner_path: >-
+      /images/health-and-fitness/healing-skin-after-pill/healing-skin-after-coming-off-the-pill-birth-control-pill-packet.jpg
     banner-caption:
     banner-fixed: true
     columns: true
@@ -202,19 +206,17 @@ sections:
       all about balance. If one night you sleep less than you catch up the next
       night.&nbsp;</p><p>Having a good night of sleep by itself won&rsquo;t cure
       your acne but in combination with other things from this list, it can do
-      wonders.&nbsp;</p><p><img data-cms-popout-id="image-1"
-      data-cms-original-src="/images/style/sleep-maja.jpg" width="1600"
-      height="2133"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/sleep-maja.jpg&amp;timestamp=1589424614775"
-      /></p><h4><strong>No touching of the face</strong></h4><p>Most of the time
-      we are doing this without even noticing. But imagine all the bacteria you
-      are transferring from your hands onto your already inflamed skin. This is
-      not good for your skin, try to avoid it as much as
-      possible.</p><h4><strong>Use a clean towel</strong></h4><p>The same goes
-      for using a clean face towel. Try to change it at least every 3 days but
-      preferably every day. I suggest buying a set of small towels that will be
-      used for face only, not even for your hands.&nbsp;</p><h4><strong><a
-      target="_blank" href="https://amzn.to/2WOBkxL"><u>Tea tree
+      wonders.&nbsp;</p><p><img src="/images/style/sleep-maja.jpg" width="1600"
+      height="2133" /></p><h4><strong>No touching of the
+      face</strong></h4><p>Most of the time we are doing this without even
+      noticing. But imagine all the bacteria you are transferring from your
+      hands onto your already inflamed skin. This is not good for your skin, try
+      to avoid it as much as possible.</p><h4><strong>Use a clean
+      towel</strong></h4><p>The same goes for using a clean face towel. Try to
+      change it at least every 3 days but preferably every day. I suggest buying
+      a set of small towels that will be used for face only, not even for your
+      hands.&nbsp;</p><h4><strong><a target="_blank"
+      href="https://amzn.to/2WOBkxL"><u>Tea tree
       oil</u></a></strong></h4><p>This oil has a great anti-inflammatory effect.
       When I feel that I am about to get a pimple, I apply tea tree oil on that
       spot and it reduces the redness and sometimes the pimple won&rsquo;t even
@@ -224,23 +226,21 @@ sections:
       vera</u></a></strong></h4><p>This is another great natural solution for
       scaring. I like applying it overnight. I only do it on the area where I
       have breakouts and I find that in the morning my skin looks much less
-      inflamed.</p><p><img data-cms-popout-id="image-0"
-      data-cms-original-src="/images/style/aloe-vera-maja.jpg" width="1600"
-      height="2000"
-      src="https://app.cloudcannon.com/sites/80006/site_files/raw/?path=images/style/aloe-vera-maja.jpg&amp;timestamp=1589424489939"
-      /></p><h4><strong>Celery juice</strong></h4><p>Celery juice has a huge
-      detoxifying and strengthening effect on our bodies. And naturally having
-      less toxins in your body will have a positive effect on your skin. Celery
-      juice is also high in sodium which raises stomach acids and it helps us to
-      digest and to break down food fast. As a result, this leads to a healthy
-      gut which we all know now has direct connection to the quality of our
-      skin.&nbsp;</p><h4><strong><a target="_blank"
+      inflamed.</p><p><img src="/images/style/aloe-vera-maja.jpg" width="1600"
+      height="2000" /></p><h4><strong>Celery juice</strong></h4><p>Celery juice
+      has a huge detoxifying and strengthening effect on our bodies. And
+      naturally having less toxins in your body will have a positive effect on
+      your skin. Celery juice is also high in sodium which raises stomach acids
+      and it helps us to digest and to break down food fast. As a result, this
+      leads to a healthy gut which we all know now has direct connection to the
+      quality of our skin.&nbsp;</p><h4><strong><a target="_blank"
       href="https://amzn.to/3cq7RRp"><u>Hemp seed
       oil</u></a></strong></h4><p>Why hemp seed oil? Because it helps to
       moisturize our skin without clogging it and it is suitable for most skin
       types. Dryness can cause your skin to overproduce oil and this leads to
       more breakouts.</p>
-  - banner_path: /images/food/leafy-greens-maja.jpg
+  - banner_path: >-
+      /images/health-and-fitness/healing-skin-after-pill/healing-skin-after-coming-off-the-pill-celery-broccoli-beans.jpg
     banner-caption: Leafy greens are a superpower for healthy skin
     banner-fixed: false
     columns: true
@@ -271,7 +271,8 @@ sections:
       natural ingredients, such as mentioned before - aloe vera, good oils
       (coconut, hemp, tea tree, argan, essential oils, etc), avocado, apple
       cider vinegar, etc.&nbsp;</p>
-  - banner_path: /images/marie-jake/marie-fe.jpg
+  - banner_path: >-
+      /images/health-and-fitness/healing-skin-after-pill/healing-skin-after-coming-off-the-pill-marie-drinking-red-juice-in-a-cafe.jpg
     banner-caption:
     banner-fixed: false
     columns: true
