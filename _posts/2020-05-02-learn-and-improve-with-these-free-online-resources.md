@@ -9,8 +9,10 @@ meta-description: >-
   you're at home. We´ve collected our favorite free online courses to grow,
   learn and improve.
 meta-keywords: 'free online courses, free online resources'
-image_path: /images/nature/sunflower.jpg
-banner-1_path: /images/nature/sunflower.jpg
+image_path: >-
+  /images/self-improvement/online-resources/free-online-resources-sunflower-in-a-field.jpg
+banner-1_path: >-
+  /images/self-improvement/online-resources/free-online-resources-sunflower-in-a-field.jpg
 banner-fixed: false
 newsfeed: true
 categories:
@@ -18,8 +20,10 @@ categories:
 tags:
   - self-improvement
 author: Marie & Jake
-image-1_path: /images/office/maja-content1.jpg
-image-2_path: /images/style/books-maja1.jpg
+image-1_path: >-
+  /images/self-improvement/online-resources/free-online-resources-open-weekly-planner-on-a-table.jpg
+image-2_path: >-
+  /images/self-improvement/online-resources/free-online-resources-lots-of-open-books.jpg
 intro-paragraph-emphasis: >-
   When you re-enter the world after all this is over, you could be in a better
   position than when it all started.
@@ -44,7 +48,8 @@ intro-content_html: >-
   better version of yourself. Some of the information in these resources will
   change your life! No kidding!</p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/office/maja-content0.jpg
+  - banner_path: >-
+      /images/self-improvement/online-resources/free-online-resources-a-white-mug-of-coffee-on-a-table.jpg
     banner-caption:
     banner-fixed: true
     columns: true
@@ -124,7 +129,8 @@ sections:
       you out during quarantine, they have opened up a part of their paid
       collection. It includes meditations, sleep, and movement exercises. Make
       sure to check it out.</p>
-  - banner_path: /images/office/iphone.jpg
+  - banner_path: >-
+      /images/self-improvement/online-resources/free-online-resources-iphone-and-earphones-on-the-table.jpg
     banner-caption:
     banner-fixed: false
     columns: true
