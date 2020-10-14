@@ -9,8 +9,10 @@ meta-description: >-
   post to find out how to bring in some creativity without losing your
   productivity.
 meta-keywords: 'creativity, productivity, daily routine'
-image_path: /images/style/maja-stock-29.jpg
-banner-1_path: /uploads/coffee-tabel-with-a-book-and-a-chair.jpg
+image_path: >-
+  /images/self-improvement/be-more-creative/creativity-in-daily-routine-boho-interior-design.jpg
+banner-1_path: >-
+  /images/self-improvement/be-more-creative/creativity-in-daily-routine-chair-with-a-sidetable-near-the-pool.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,8 +20,10 @@ categories:
 tags:
   - self-improvement
 author: Marie Fe
-image-1_path: /images/style/maja-stock-23.jpg
-image-2_path: /images/style/maja-stock-29.jpg
+image-1_path: >-
+  /images/self-improvement/be-more-creative/creativity-in-daily-routine-a-cup-of-coffee-an-a-wooden-sidetable.jpg
+image-2_path: >-
+  /images/self-improvement/be-more-creative/creativity-in-daily-routine-boho-interior-design.jpg
 intro-paragraph-emphasis: >-
   The thing about routines is that they create a comfort zone that can stop us
   from challenging ourselves.
@@ -33,7 +37,8 @@ intro-content_html: >-
   of this rut without losing the beneficial structure a daily routine can give
   you?</p><p>The answer is easy: creativity.</p>
 sections:
-  - banner_path: /uploads/content-pixie--lqved9iegc-unsplash-1.jpg
+  - banner_path: >-
+      /images/self-improvement/be-more-creative/creativity-in-daily-routine-mirror-on-a-sidetable.jpg.jpg
     banner-fixed: false
     banner-caption_html:
     columns: true
