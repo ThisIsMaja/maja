@@ -8,8 +8,10 @@ meta-description: >-
   These five quick and easy plant based recipes are delicious and will give you
   the feeling of being in Bali at home.
 meta-keywords: 'plant based recipes, vegan recipes, Kynd Bali, vegan cafe bali'
-image_path: /images/food/kynd-burrito4.jpg
-banner-1_path: /images/food/kynd-burrito4.jpg
+image_path: >-
+  /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-kynd-cafe-pouring-sauce-over-burrito-bowl.jpg
+banner-1_path: >-
+  /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-kynd-cafe-pouring-sauce-over-burrito-bowl.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,8 +19,10 @@ categories:
 tags:
   - food &amp; nutrition
 author: Marie & Jake
-image-1_path: /images/marie-jake/mariefeandjakesnow-bali2.jpg
-image-2_path: /images/food/kynd-burrito6.jpg
+image-1_path: >-
+  /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-marie-and-jake-holding-dog-sitting-in-front-of-colorful-wall.jpg
+image-2_path: >-
+  /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-kynd-cafe-burrito.jpg
 intro-paragraph-emphasis: >-
   What we love the most about Bali amongst a whole list of things, is the fact
   we can eat healthy food everyday without giving up variety or taste.
@@ -47,7 +51,8 @@ intro-content_html: >-
   Indonesian food and donates all profits to several balinese
   foundations.</p><p>Are you ready for some deliciousness? Lets go!</p>
 sections:
-  - banner_path: /images/food/BERRY SMOOTHIE BOWL.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-kynd-cafe-berry-smoothie-bowls.jpg
     banner-caption:
     banner-fixed: false
     columns: false
@@ -75,7 +80,8 @@ sections:
       smoothie, this will help to make a base for your garnish. Top with sliced
       banana, strawberries, coconut flakes, chia, mint leaves and your mango
       letters.&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/BALI BANANA PANCAKES.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-banana-pancakes-kynd-community.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -111,7 +117,8 @@ sections:
       SERVE&nbsp;</strong></p><p>Garnish with strawberries, caramel sauce and
       shredded coconut.&nbsp;</p><p>If you are short on time skip the caramel
       sauce and use maple syrup.</p>
-  - banner_path: /images/food/RAW PAD THAI.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-vegan-raw-pad-thai-kynd-community.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -137,7 +144,8 @@ sections:
       dressing. Toss to coat.&nbsp;</p><p>&nbsp;</p><p><strong>TO
       SERVE&nbsp;</strong></p><p>&nbsp;</p><p>Divide ingredients into 4 bowls
       and garnish with extra cashews and coriander.&nbsp;</p>
-  - banner_path: /images/food/kynd-burrito8.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-vegan-burrito-kynd-community.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -182,7 +190,8 @@ sections:
       dry pan and place the burrito on top. Rotate the burrito until you get a
       nice golden brown tortilla on both
       sides.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/APRICOT BALLS.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-vegan-almond-balls-kynd-community.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -202,7 +211,8 @@ sections:
       chopped.&nbsp;</p><p>&nbsp;</p><p>To form the balls, use a dessert spoon
       so that you get evenly sized balls. Roll them in your hands and set in the
       fridge.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/food/GIVE CORN FRITTERS.jpg
+  - banner_path: >-
+      /images/food-and-nutrition/kynd-cafe-vegan-recipes/plant-based-recipes-corn-fritters-kynd-community.jpg
     banner-caption:
     banner-fixed: true
     columns: false
