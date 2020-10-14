@@ -8,8 +8,8 @@ meta-description: >-
   These are our top 15 books that will inspire you and motivate you. Explore our
   reading list and find a great book to read next.
 meta-keywords: must read books
-image_path: /images/style/books-stock2.jpg
-banner-1_path: /images/style/books-stock2.jpg
+image_path: /images/self-improvement/books/must-read-books-an-open-book.jpg
+banner-1_path: /images/self-improvement/books/must-read-books-an-open-book.jpg
 banner-fixed: false
 newsfeed: true
 categories:
@@ -17,7 +17,8 @@ categories:
 tags:
   - self-improvement
 author: Marie & Jake
-image-1_path: /images/style/books-stock1.jpg
+image-1_path: >-
+  /images/self-improvement/books/must-read-books-a-pile-of-books-on-top-of-the-metal-container.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   They say reading is to the mind what exercise is to the body, let's get our
@@ -68,7 +69,8 @@ sections:
       have to look at your career as an art. By doing that, you become
       indispensable in the workplace, you drive your career and you create a
       remarkable future for yourself.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/office/personal-growth6.jpg
+  - banner_path: >-
+      /images/self-improvement/books/must-read-books-an-open-book-and-a-cup-of-coffee.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -111,7 +113,8 @@ sections:
       best&rdquo;. Sometimes the best way forward is to stop focusing on things
       that aren&rsquo;t essential in our lives. This book is about learning to
       let go in order to start enjoying life.</p>
-  - banner_path: /images/banners/books-banner.jpg
+  - banner_path: >-
+      /images/self-improvement/books/must-read-books-a-compilation-of-six-book-covers.jpg
     banner-caption:
     banner-fixed: true
     columns: true
