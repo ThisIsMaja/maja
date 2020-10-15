@@ -107,16 +107,35 @@ layout: default
       <!-- <video src="/images/logo/signoff-video.mp4" autoplay inline muted loop class="signoff"> -->
   </div>
 
-  <!-- <div class="previous-and-next">
+  {% assign not_hidden_post = site.posts | where: "hidden", "false" %}
+  {% for post in not_hidden_post %}
 
-    {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}">&laquo;  Previous Post</a>
+          {% if post.url == page.url %}
+              {% assign post_index0 = forloop.index0 %}
+
+              {% assign post_index1 = forloop.index %}
+          {% endif %}
+      {% endfor %}
+      {{post_index0.title}}
+      {% for post in not_hidden_post %}
+          {% if post_index0 == forloop.index %}
+              {% assign next_post = post.url %}
+          {% endif %}
+          {% if post_index1 == forloop.index0 %}
+              {% assign prev_post = post.url %}
+          {% endif %}
+      {% endfor %}
+
+  <div class="previous-and-next">
+
+    {% if prev_post %}
+      <a class="prev" href="{{ prev_post }}">&laquo;  Previous Post</a>
     {% endif %}
-    {% if page.next.url %}
-      <a class="next" href="{{page.next.url}}"> Next Post  &raquo;</a>
+    {% if next_post %}
+      <a class="next" href="{{ next_post }}"> Next Post  &raquo;</a>
     {% endif %}
 
-  </div> -->
+  </div>
 
   {% endif %}
 
