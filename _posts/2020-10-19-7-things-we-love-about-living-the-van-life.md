@@ -33,12 +33,28 @@ intro-content_html: >-
   of experiencing the van life with kids of our own in the future, we share
   every intimate detail about our past, present and future experiences.</p>
 sections:
-  - banner_path:
+  - banner_path: >-
+      /images/travel-tips/living-the-van-life/enjoying-the-sunset-living-the-van-life.JPG
     banner-caption:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
-    body-content_html:
+    body-content_html: >-
+      <h2>1. Living a Minimalist Lifestyle</h2><p>One thing that we are all
+      guilty of as humans are living a life of abundance. Marie and I are for
+      sure guilty of this too from time to time.</p><p>It&rsquo;s the basic
+      human instinct to strive for more money, more power and more possessions
+      which can cloud your judgement on what&rsquo;s really important in
+      life.</p><p>One thing van life does is forces us to completely reset and
+      reevaluate on how much we need to survive.</p><p>With limited space,
+      especially living space available, you can&rsquo;t afford to have all the
+      biggest and best appliances, the wardrobes full of clothes that mostly go
+      unworn, and cupboards full of unnecessary items.</p><p>It&rsquo;s a
+      fantastic reminder to ourselves that we only really need the bare van life
+      essentials, each other and the things we need for our business to
+      survive.</p><p>What a great breath of fresh air and mental clearance to be
+      able to cut back on the amount of stuff that you have around you and in
+      your possession.</p>
 show-gallery: false
 gallery:
   - image_path:
