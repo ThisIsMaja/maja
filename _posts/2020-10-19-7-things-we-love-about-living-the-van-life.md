@@ -182,6 +182,20 @@ sections:
       humility.</p><p>Have you ever tried living the van life with your
       children? If so let us know in the comments below, we would love to hear
       your thoughts and experiences!</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: true
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>Is Living The Van Life For You?</h2><p>Have we managed to convince you
+      that living out of a van is for you?</p><p>Marie and I hope that we have
+      either rekindled some of your own van life memories, made you beam with
+      pride of the van life that you currently live, or sparked an interest in
+      creating your very own van life adventure.</p><p>If you would love to
+      share a van life story of your own, or even ask us any more questions in
+      regards to van life, then please leave a comment below and we will get
+      back to you asap.</p><p>We look forward to hearing from you.</p>
 show-gallery: false
 gallery:
   - image_path:
