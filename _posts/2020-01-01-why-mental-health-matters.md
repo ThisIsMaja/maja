@@ -9,8 +9,10 @@ meta-description: >-
   things. In this post, we focus on our mental health and talk about why is it
   so important.
 meta-keywords: importance of mental health
-image_path: /images/style/maja-stock-style2.jpg
-banner-1_path: /images/style/mental-health2.jpg
+image_path: >-
+  /images/health-and-fitness/mental-health/importance-of-mental-health-sunflower-field.jpg
+banner-1_path: >-
+  /images/health-and-fitness/mental-health/importance-of-mental-health-piece-of-paper-with-phone-a-friend-written-on-it.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,8 +20,10 @@ categories:
 tags:
   - health &amp; fitness
 author: Marie Fe
-image-1_path: /images/style/maja-stock-15.jpg
-image-2_path: /images/style/mental-health3.jpg
+image-1_path: >-
+  /images/health-and-fitness/mental-health/importance-of-mental-health-marie-holding-leo-on-a-beach.jpg
+image-2_path: >-
+  /images/health-and-fitness/mental-health/importance-of-mental-health-building-with-a-sign-how-are-you-feeling.jpg
 intro-paragraph-emphasis: >-
   When I (Marie) was 24 years old, my father passed away. The months following
   this event have probably been the hardest, most emotional of my entire life.
@@ -44,7 +48,8 @@ intro-content_html: >-
   lot of past traumas that had manifested into my physical reality back
   then.</p>
 sections:
-  - banner_path: /images/Italy/Dolomites-Italy5.jpg
+  - banner_path: >-
+      /images/health-and-fitness/mental-health/importance-of-mental-health-mariefeandjakesnow-laying-in-a-flower-field.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -104,7 +109,8 @@ sections:
       we did. And the more our &ldquo;baby&rdquo; grew, the more time we spent
       in front of screens. The more we traveled, the less we were able to stick
       to our healthy routines of yoga, reading, journaling.&nbsp;</p>
-  - banner_path: /images/nature/mariefeandjakesnow-banner4.jpg
+  - banner_path: >-
+      /images/health-and-fitness/mental-health/importance-of-mental-health-mariefeandjakesnow-laying-in-a-field-watching-the-sunset.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
