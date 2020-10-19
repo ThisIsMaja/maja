@@ -140,6 +140,27 @@ sections:
       listening to the crashing of the waves.</p><p>The anxiety of restrictions
       and limitations feel completely lifted as soon as we get back to living
       that van life.</p>
+  - banner_path: >-
+      /images/travel-tips/living-the-van-life/making-repairs-living-the-van-life.JPG
+    banner-caption:
+    banner-fixed: true
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>6. We Can Bring Our Pets</h2><p>One of the hardest things about
+      leaving Bali was having to leave behind our beloved little dog,
+      Leo.</p><p>Living in a van again has made the distance greater and the
+      heart heavier because we wish that he was here with us to experience
+      this.</p><p>One thing that gives us great comfort in knowing that when
+      things settle down in the future, we can bring Leo along in our van life
+      adventures with us.</p><p>Imagine the life of a pet living in a van with a
+      new place to explore every single day?</p><p>Animals love to go out and
+      adventure and what greater way to fulfil them than by allowing them to
+      live the van life with you too.</p><p>We tend to gravitate towards open
+      spaces with beautiful and scenic nature which would be the ideal
+      playground for Leo to run around until his heart and soul is
+      content.</p><p>If you have done van life with your pets then please feel
+      free to share them with us as we would love to see them!</p>
 show-gallery: false
 gallery:
   - image_path:
