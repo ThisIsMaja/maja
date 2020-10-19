@@ -8,8 +8,8 @@ meta-description: >-
   Living the van life is one of our favourite ways to travel as a couple. Here
   are 7 of our favourite reasons why
 meta-keywords: living the van life
-image_path: /images/travel-tips/living-the-van-life/happy-couple-living-the-van-life.JPG
-banner-1_path: /images/travel-tips/living-the-van-life/happy-couple-living-the-van-life.JPG
+image_path: /images/travel-tips/living-the-van-life/living-the-van-life-on-a-road-trip.JPG
+banner-1_path: /images/travel-tips/living-the-van-life/living-the-van-life-on-a-road-trip.JPG
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,7 +17,7 @@ categories:
 tags:
   - travel tips
 author: Jake Snow
-image-1_path: /images/travel-tips/living-the-van-life/living-the-van-life-on-a-road-trip.JPG
+image-1_path: /images/travel-tips/living-the-van-life/happy-couple-living-the-van-life.JPG
 image-1_alt: Couple on a road trip whilst living the van life
 image-2_path:
 image-2_alt:
