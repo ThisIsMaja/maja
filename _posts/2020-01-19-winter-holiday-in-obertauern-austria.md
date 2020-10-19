@@ -9,8 +9,10 @@ meta-description: >-
   post, we share everything you need to know about your next ski trip to
   Obertauern.
 meta-keywords: 'winter holidays in Obertauern, skiing in Obertauern'
-image_path: /images/Obertauern/Obertauern5.jpg
-banner-1_path: /images/Obertauern/Obertauern5.jpg
+image_path: >-
+  /images/europe/obertauern/winter-holidays-in-Obertauern-mariefeandjakesnow-snowboarding-in-the-mountains.jpg
+banner-1_path: >-
+  /images/europe/obertauern/winter-holidays-in-Obertauern-mariefeandjakesnow-snowboarding-in-the-mountains.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,8 +20,10 @@ categories:
 tags:
   - europe
 author: Jake Snow
-image-1_path: /images/Obertauern/Obertauern1.jpg
-image-2_path: /images/Obertauern/Obertauern2.jpg
+image-1_path: >-
+  /images/europe/obertauern/winter-holidays-in-Obertauern-mariefeandjakesnow-walking-up-the-mauntain-holding-hands.jpg
+image-2_path: >-
+  /images/europe/obertauern/winter-holidays-in-Obertauern-mariefeandjakesnow-kissing-in-the-mountains.jpg
 intro-paragraph-emphasis: 'With over 100km of piste in Obertauern, there’s so much to explore.'
 intro-content_html: >-
   <p>Austria is a magical place, and our winter ski trip to Obertauern has left
@@ -37,7 +41,8 @@ intro-content_html: >-
   link to everything we did, places you can eat (also vegan meals) and where to
   stay in Obertauern.</p><h2>&nbsp;</h2>
 sections:
-  - banner_path: /images/Obertauern/Obertauern4.jpg
+  - banner_path: >-
+      /images/europe/obertauern/winter-holidays-in-Obertauern-mariefeandjakesnow-snowboarding.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -55,7 +60,8 @@ sections:
       ski-in ski-out mountain) and the fact that we were 100% guaranteed real
       snow regardless of which date we chose for our trip between the months of
       November and May!</p><p>I could go on and on - we love this place!</p>
-  - banner_path: /uploads/snowy-mountains-2-1.jpg
+  - banner_path: >-
+      /images/europe/obertauern/winter-holidays-in-Obertauern-view-of-snowy-mountains.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
@@ -68,7 +74,8 @@ sections:
       day was a fresh 0-3 degree celsius and we even had some fresh snow on our
       first day. The conditions on the mountain were also perfect to ski or
       snowboard.</p>
-  - banner_path: /uploads/panoramic-view-on-mountains-1.jpg
+  - banner_path: >-
+      /images/europe/obertauern/winter-holidays-in-Obertauern-panoramic-view-on-the-mountains.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis: many hotels have a little spa area in-house
@@ -86,7 +93,8 @@ sections:
       hire a guide</li></ul><p>If you want further information or book
       something, head to the Obertauern website&nbsp;<u><a target="_blank"
       href="https://www.obertauern.com/en.html">HERE</a>.</u></p>
-  - banner_path: /uploads/snowy-mountain-1.jpg
+  - banner_path: >-
+      /images/europe/obertauern/winter-holidays-in-Obertauern-mountains-covered-in-snow.jpg
     banner-caption_html:
     columns: true
     main-paragraph-emphasis:
@@ -109,7 +117,8 @@ sections:
       vibes)&nbsp;</li><li><a target="_blank"
       href="https://www.booking.com/hotel/at/foxy-obertauern.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>Foxy
       Obertauern</u></a> (modern, stylish, good price)</li></ul>
-  - banner_path: /uploads/obertauern-by-night-1.jpg
+  - banner_path: >-
+      /images/europe/obertauern/winter-holidays-in-Obertauern-mountain-town-at-night.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
