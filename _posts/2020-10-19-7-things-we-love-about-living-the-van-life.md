@@ -54,6 +54,30 @@ sections:
       survive.</p><p>What a great breath of fresh air and mental clearance to be
       able to cut back on the amount of stuff that you have around you and in
       your possession.</p>
+  - banner_path: >-
+      /images/travel-tips/living-the-van-life/enjoying-the-sunset-living-the-van-life.JPG
+    banner-caption:
+    banner-fixed: true
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>2. Van Life Benefits Our Mental &amp; Physical Health</h2><p>There is
+      no doubting that Marie and I live a pretty intense lifestyle as we go
+      about documenting everything we do via this blog and our social media
+      channels.</p><p>Living life under the microscope and in the public eye can
+      put a strain on everything from our business to our
+      relationship.</p><p>Life in a van allows us to have this little safe. As
+      soon as we close the doors to the van we feel like we can really switch
+      off and have time to ourselves both individually and as a
+      couple.</p><p>This is so vital for us to ensure that we continue to be the
+      best version of ourselves which in turn allows us to keep spreading our
+      message of love and positivity every single day.</p><p>Not only can we
+      chill out and read a book or watch a Netflix series together, but we can
+      also drive somewhere scenic and go for a relaxing walk which allows us to
+      exercise both physically and mentally.</p><p>Of all the modes of transport
+      and accommodation that we have experienced in our travels, van life for us
+      is by far and away from the most therapeutic and beneficial to our mental
+      and physical health.</p>
 show-gallery: false
 gallery:
   - image_path:
