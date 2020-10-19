@@ -9,8 +9,10 @@ meta-description: >-
   has been one of the best decisions of our lives. Read this post to find out
   why.
 meta-keywords: 'plant based diet, benefits of a plant based diet'
-image_path: /images/food/vegan-food1.jpg
-banner-1_path: /images/food/vegan-food1.jpg
+image_path: >-
+  /images/health-and-fitness/benefits-plant-based-diet/benefits-of-a-plant-based-diet-holding-a-smoothie-bowl.jpg
+banner-1_path: >-
+  /images/health-and-fitness/benefits-plant-based-diet/benefits-of-a-plant-based-diet-holding-a-smoothie-bowl.jpg
 banner-fixed: false
 newsfeed: false
 categories:
@@ -18,8 +20,10 @@ categories:
 tags:
   - health &amp; fitness
 author: Marie Fe
-image-1_path: /images/food/vegan-food8.jpg
-image-2_path: /images/food/plantbased-food3.jpg
+image-1_path: >-
+  /images/health-and-fitness/benefits-plant-based-diet/benefits-of-a-plant-based-diet-vegan-poke-bowl.jpg
+image-2_path: >-
+  /images/health-and-fitness/benefits-plant-based-diet/benefits-of-a-plant-based-diet-pineapple-smoothie-banana-raspberries.jpg
 intro-paragraph-emphasis: >-
   Now I know for certain after 2.5 years of aligning my actions with my beliefs
   and only eating whole plant based food, not only do humans survive on a plant
@@ -33,7 +37,8 @@ intro-content_html: >-
   choose this lifestyle and why this decision changed our lives forever for the
   better.&nbsp;</p>
 sections:
-  - banner_path: /images/food/vegan-food6.jpg
+  - banner_path: >-
+      /images/health-and-fitness/benefits-plant-based-diet/benefits-of-a-plant-based-diet-vegan-food-served-on-a-table.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -113,7 +118,8 @@ sections:
       believe right now, it is important to think consciously about your
       choices. Does the end result of your choices truly reflect what you
       believe?</p><h2>&nbsp;</h2>
-  - banner_path: /images/banners/maja-banner-3.jpg
+  - banner_path: >-
+      /images/health-and-fitness/benefits-plant-based-diet/benefits-of-a-plant-based-diet-mariefeandjakesnow-with-leo-in-give-cafe.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
