@@ -78,6 +78,28 @@ sections:
       and accommodation that we have experienced in our travels, van life for us
       is by far and away from the most therapeutic and beneficial to our mental
       and physical health.</p>
+  - banner_path: >-
+      /images/travel-tips/living-the-van-life/living-the-van-life-couple-sitting-on-white-van.JPG
+    banner-caption:
+    banner-fixed: true
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>3. Van Life Is A Great Financial Investment</h2><p>Living the van life
+      is an attainable goal for most people and budgets. Unlike buying a home
+      and having to get a mortgage, you can actually pick up your own home on
+      wheels for a fraction of the cost.</p><p>From a van conversion fixer-upper
+      at a couple of thousand dollars to a deluxe home on wheels, there really
+      is something for everything.</p><p>Our very own van life story started in
+      Australia back in 2016 when we bought a Toyota Spacia 1987 for 2000
+      euros.</p><p>Back then we had only started documenting our travel &amp;
+      lifestyle whilst crunching out the long hours working in the
+      vineyard.</p><p>It had been a shared goal of ours ever to buy and fix up a
+      van ever since we met. With that determination to make our goals a
+      reality, we worked hard to save the money to buy the van and to do it up
+      to our own taste.</p><p>All in all our little Aussie home on wheels cost
+      us around 2750 euros which wouldn&rsquo;t have got us much in terms of
+      real estate.</p>
 show-gallery: false
 gallery:
   - image_path:
