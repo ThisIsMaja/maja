@@ -8,8 +8,10 @@ meta-description: >-
   In this post we tell you all the secrets we've learned over the years on how
   to create the most amazing couple photos.
 meta-keywords: 'how to take couple photos, tips to taking couple photos'
-image_path: /images/Philippines/philippines-travel8.jpg
-banner-1_path: /images/Philippines/philippines-travel8.jpg
+image_path: >-
+  /images/photography/couple-photos/how-to-take-couple-photos-mariefeandjakesnow-standing-in-a-pool-near-a-waterfall.jpg
+banner-1_path: >-
+  /images/photography/couple-photos/how-to-take-couple-photos-mariefeandjakesnow-standing-in-a-pool-near-a-waterfall.jpg
 banner-fixed: false
 newsfeed: false
 categories:
@@ -17,8 +19,10 @@ categories:
 tags:
   - photography
 author: Jake Snow
-image-1_path: /images/Philippines/Coron 5-1.jpg
-image-2_path: /images/komodo-islands/Komodo-Islands7.jpg
+image-1_path: >-
+  /images/photography/couple-photos/how-to-take-couple-photos-mariefeandjakesnow-walking-on-a-beach.jpg
+image-2_path: >-
+  /images/photography/couple-photos/how-to-take-couple-photos-mariefeandjakesnow-during-sunset-on-the-beach.jpg
 intro-paragraph-emphasis: >-
   It wasn’t too long ago that we were going through all of the settings in our
   camera with absolutely no idea of what everything did.
@@ -42,7 +46,8 @@ sections:
       into the frame to judge where exactly the best place to be is. Be natural
       and enjoy yourself, it is easy to tell if a photo contains true
       happiness&nbsp;</p>
-  - banner_path: /images/banners/maja-banner-3.jpg
+  - banner_path: >-
+      /images/photography/couple-photos/how-to-take-couple-photos-mariefeandjakesnow-with-leo-in-bali-give-cafe.jpg
     banner-fixed: false
     banner-caption_html:
     columns: true
@@ -71,7 +76,8 @@ sections:
       just play around. It will take some time to figure out how to use all the
       functions and to edit your photos to a point that you are happy with, but
       thats ok. Rome wasn&rsquo;t built in a day.</p>
-  - banner_path: /images/banners/maldives-banner.jpg
+  - banner_path: >-
+      /images/photography/couple-photos/how-to-take-couple-photos-mariefeandjakesnow-laying-a-hammock-in-the-ocean.jpg
     banner-fixed: false
     banner-caption_html:
     columns: false
@@ -98,7 +104,8 @@ sections:
       Love&nbsp;</p><p>Marie and Jake</p>
 show-gallery: true
 gallery:
-  - image_path: /images/greece/mariefeandjakesnow-greece9.jpg
+  - image_path: >-
+      /images/photography/couple-photos/how-to-take-couple-photos-mariefeandjakesnow-in-santorini.jpg
     size: full
     alt:
 gallery-text:
