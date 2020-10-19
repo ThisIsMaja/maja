@@ -119,6 +119,27 @@ sections:
       run into any issues but you absolutely can be sure we have now jinxed
       ourselves by saying this now!</p><p>I guess this would all be part of the
       authentic van life experience.</p>
+  - banner_path: >-
+      /images/travel-tips/living-the-van-life/living-the-van-life-at-the-beach.JPG
+    banner-caption:
+    banner-fixed: true
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>5. Van Life Gives Us A Feeling Of Freedom</h2><p>Are you like us and
+      have an insatiable appetite for the feeling of freedom?</p><p>For the
+      first time in our relationship, we had our feet planted in Bali due to the
+      current situation we find ourselves in 2020.</p><p>As much as we love Bali
+      and Indonesia and all the freedom you have to explore the countless
+      beautiful islands, we missed that freedom of being able to pack up our
+      things and drive to a new destination every single day.</p><p>We strive
+      for variety and crave the exciting and the new. There is nothing that
+      satisfies that more than living and travelling in a van.</p><p>What a
+      feeling to choose where you decide to stop and sleep every night. One day
+      you could park up in the city and the next you could be by the ocean
+      listening to the crashing of the waves.</p><p>The anxiety of restrictions
+      and limitations feel completely lifted as soon as we get back to living
+      that van life.</p>
 show-gallery: false
 gallery:
   - image_path:
