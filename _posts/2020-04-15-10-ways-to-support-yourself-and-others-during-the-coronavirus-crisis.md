@@ -8,8 +8,10 @@ meta-description: >-
   Everything around is changing and we need to adjust as well. In this post we
   are talking about 10 ways to support yourself and others during coronavirus.
 meta-keywords: way to support yourself during coronavirus
-image_path: /images/Coronavirus/coronavirus3.jpg
-banner-1_path: /images/Coronavirus/coronavirus2.jpg
+image_path: >-
+  /images/news/coronavirus-support/support-yourself-during-coronavirus-toilet-paper-rolls.jpg
+banner-1_path: >-
+  /images/news/coronavirus-support/support-yourself-during-coronavirus-washing-hands-in-the-sink.jpg
 banner-fixed: true
 newsfeed: true
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - news
 author: Marie Fe
-image-1_path: /images/Coronavirus/coronavirus1.jpg
+image-1_path: >-
+  /images/news/coronavirus-support/support-yourself-during-coronavirus-hands-in-a-blue-rubber-gloves.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Now, more than ever, we should take extra care not only with our physical
