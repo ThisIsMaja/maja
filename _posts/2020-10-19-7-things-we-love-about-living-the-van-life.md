@@ -33,8 +33,7 @@ intro-content_html: >-
   of experiencing the van life with kids of our own in the future, we share
   every intimate detail about our past, present and future experiences.</p>
 sections:
-  - banner_path: >-
-      /images/travel-tips/living-the-van-life/enjoying-the-sunset-living-the-van-life.JPG
+  - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
