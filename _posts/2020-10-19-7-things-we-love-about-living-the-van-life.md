@@ -100,6 +100,25 @@ sections:
       to our own taste.</p><p>All in all our little Aussie home on wheels cost
       us around 2750 euros which wouldn&rsquo;t have got us much in terms of
       real estate.</p>
+  - banner_path: >-
+      /images/travel-tips/living-the-van-life/romantic-meal-living-the-van-life.JPG
+    banner-caption:
+    banner-fixed: true
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>4. Low Running Costs</h2><p>Not only is investing in a van to buy and
+      fix up it also should not cost too much in terms of running costs
+      either.</p><p>That is when comparing the usual mortgage and utility bills
+      that you would have with some bricks and mortar.</p><p>Touchwood you have
+      a reliable van which means you&rsquo;re only really forking out for fuel,
+      general maintenance and fees for parking up.</p><p>Of course with any
+      vehicle you run the risk of having the usual issues with the engine, tyres
+      etc, but with a little maintenance and some luck you shouldn&rsquo;t run
+      into too many running or repair costs.</p><p>Thankfully we've never really
+      run into any issues but you absolutely can be sure we have now jinxed
+      ourselves by saying this now!</p><p>I guess this would all be part of the
+      authentic van life experience.</p>
 show-gallery: false
 gallery:
   - image_path:
