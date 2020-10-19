@@ -161,7 +161,7 @@ sections:
       playground for Leo to run around until his heart and soul is
       content.</p><p>If you have done van life with your pets then please feel
       free to share them with us as we would love to see them!</p>
-  - banner_path:
+  - banner_path: /images/travel-tips/living-the-van-life/living-the-van-life-with-pets.jpg
     banner-caption:
     banner-fixed: true
     columns: false
@@ -182,7 +182,7 @@ sections:
       humility.</p><p>Have you ever tried living the van life with your
       children? If so let us know in the comments below, we would love to hear
       your thoughts and experiences!</p>
-  - banner_path:
+  - banner_path: /images/travel-tips/living-the-van-life/living-the-van-life-with-kids.jpg
     banner-caption:
     banner-fixed: true
     columns: false
