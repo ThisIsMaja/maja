@@ -9,8 +9,10 @@ meta-description: >-
   Read this post to find simple yet effective ways to stay productive and
   healthy.
 meta-keywords: how to stay productive
-image_path: /images/maldives/amilla-fushi5.jpg
-banner-1_path: /images/office/home-office4.jpg
+image_path: >-
+  /images/self-improvement/productive-happy-guide/how-to-stay-productive-mariefeandjakesnow-riding-bicycles-in-the-maldives.jpg
+banner-1_path: >-
+  /images/self-improvement/productive-happy-guide/how-to-stay-productive-white-wall-a-desk-and-a-chair.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - self-improvement
 author: Marie Fe
-image-1_path: /images/office/maja-content1.jpg
+image-1_path: >-
+  /images/self-improvement/productive-happy-guide/how-to-stay-productive-open-weekly-planner-and-a-pen.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   how do we keep our healthy habits and our productivity when we wake up in a
@@ -40,7 +43,8 @@ intro-content_html: >-
   off the new year with new positive energy and a great routine for you to make
   this year amazing!</p>
 sections:
-  - banner_path: /images/style/maja-stock-14.jpg
+  - banner_path: >-
+      /images/self-improvement/productive-happy-guide/how-to-stay-productive-an-arm-reaching-to-the-skies.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -86,7 +90,8 @@ sections:
       to use a sleep tracker to better map my sleep, I will keep you updated on
       the results).</p><p>So, after a successful evening routine and a good
       night sleep, this is how my morning routine start after waking up.</p>
-  - banner_path: /images/style/maja-stock-4.jpg
+  - banner_path: >-
+      /images/self-improvement/productive-happy-guide/how-to-stay-productive-a-wall-with-lots-of-different-paintings-and-prints.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis: I found a way to make the journal process easier for me
