@@ -8,8 +8,10 @@ meta-description: >-
   Find out what are the 18 apps we use daily that save us time, helps to learn
   new things and motivate us to stay healthy.
 meta-keywords: 'must have apps, apps for productivity, health apps, learning apps, useful apps'
-image_path: /images/office/productivity-apps2.jpg
-banner-1_path: /images/office/productivity-apps2.jpg
+image_path: >-
+  /images/self-improvement/productivity-apps/must-have-apps-black-and-white-photo-of-iphone.jpg
+banner-1_path: >-
+  /images/self-improvement/productivity-apps/must-have-apps-black-and-white-photo-of-iphone.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - self-improvement
 author: Jake Snow
-image-1_path: /images/office/productivity-apps3.jpg
+image-1_path: >-
+  /images/self-improvement/productivity-apps/must-have-apps-but-first-coffee-sign.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   We get asked a lot about how we manage our time and projects, how we stay
@@ -74,7 +77,8 @@ sections:
       those two platforms for payments and withdrawals in foreign countries.
       They have very minimal bank commissions and work pretty much in every
       country.</p>
-  - banner_path: /images/office/productivity-apps6.jpg
+  - banner_path: >-
+      /images/self-improvement/productivity-apps/must-have-apps-iphone-earpods-mouse.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -120,7 +124,8 @@ sections:
       work remotely from different parts of the globe. This way you can make
       sure that all of you have access to company&rsquo;s data and
       files.&nbsp;</p>
-  - banner_path: /images/office/productivity-apps4.jpg
+  - banner_path: >-
+      /images/self-improvement/productivity-apps/must-have-apps-iphone-homescreen.jpg
     banner-caption:
     banner-fixed: false
     columns: true
