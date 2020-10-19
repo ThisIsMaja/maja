@@ -161,6 +161,27 @@ sections:
       playground for Leo to run around until his heart and soul is
       content.</p><p>If you have done van life with your pets then please feel
       free to share them with us as we would love to see them!</p>
+  - banner_path:
+    banner-caption:
+    banner-fixed: true
+    columns: false
+    main-paragraph-emphasis:
+    body-content_html: >-
+      <h2>7. We Can't Wait To Experience Van Life With Kids</h2><p>It&rsquo;s
+      inevitable that Marie and I will one day buy a van to live in either full
+      time or part-time depending on our circumstances.</p><p>One thing that we
+      absolutely cannot wait for, and that makes us so inspired and excited with
+      living the van life, is to experience this with our children one
+      day.</p><p>We can&rsquo;t think of a better way of having kids interact
+      with this world than doing it from all the freedoms, challenges and
+      experiences which come with buying a van to live in.</p><p>There are no
+      doubts that living in a van and travelling with children would be intense.
+      However, we are absolutely certain that it would help not only create once
+      in a lifetime experiences as a family but also play a huge part in
+      moulding and shaping our children into humans with love, respect and
+      humility.</p><p>Have you ever tried living the van life with your
+      children? If so let us know in the comments below, we would love to hear
+      your thoughts and experiences!</p>
 show-gallery: false
 gallery:
   - image_path:
