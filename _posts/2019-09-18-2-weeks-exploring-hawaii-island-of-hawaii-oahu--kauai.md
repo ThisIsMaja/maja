@@ -8,8 +8,10 @@ meta-description: >-
   Full two weeks itinerary for the Island of Hawaii, Oahu, and Kauai. Where to
   stay, things to do, and the best restaurants in the areas.
 meta-keywords: 'two weeks in Hawaii, thing to do in Hawaii, Hawaii travel guide'
-image_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
-banner-1_path: /images/hawaii/mariefeandjakesnow-hawaii2.jpg
+image_path: >-
+  /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-marie-sitting-on-jakes-shoulders.jpg
+banner-1_path: >-
+  /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-marie-sitting-on-jakes-shoulders.jpg
 banner-fixed: false
 newsfeed: false
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - north america
 author: Marie Fe
-image-1_path: /images/hawaii/mariefeandjakesnow-hawaii4.jpg
+image-1_path: >-
+  /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-view-on-the-mountains-from-the-boat.jpg
 image-2_path:
 intro-paragraph-emphasis: 'Picture Hawaii, and what comes to mind?'
 intro-content_html: >-
@@ -30,7 +33,8 @@ intro-content_html: >-
   of it!</p><p><strong>Here&rsquo;s our full itinerary, which includes all the
   practical information you need to start planning your trip.</strong></p>
 sections:
-  - banner_path: /images/hawaii/Hawaii 1-1-4.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-marie-jake-surfing.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -48,7 +52,8 @@ sections:
       routes and majestic volcanoes, the Island of Hawaii is an explorers
       paradise!</p><p>We recommend that you spend at least 4 days here. but even
       longer if you have the time!</p>
-  - banner_path: /uploads/hawaii-view-from-the-water.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-photo-half-underwater-half-above.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -117,7 +122,8 @@ sections:
       the Island of Hawaii.</p><p>It&rsquo;s located east of the island, close
       to Hilo. The waterfall is a short walk from the parking lot and entrance
       is $5 per car.</p>
-  - banner_path: /uploads/hawaii-forest-road-1.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-a-road-in-the-forest.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -144,7 +150,8 @@ sections:
       href="https://www.airbnb.com/rooms/871013?adults=2&amp;source_impression_id=p3_1568033759_t0qK0eXaA3v9LH5u&amp;toddlers=0"><u>this
       condo</u></a> are the perfect budget-friendly accommodation options on Big
       Island.</li></ul>
-  - banner_path: /images/hawaii/Hawaii 1-1-5.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-marie-snorkelling.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -154,7 +161,8 @@ sections:
       excited to move on to Oahu.</p><p>Although it&rsquo;s a smaller island
       when compared to the Island of Hawaii, Oahu has a lot of attractions and
       the beaches here are some of the best in Hawaii.</p>
-  - banner_path: /uploads/oahu-road-to-the-mountains.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-a-road-leading-to-green-hawaiian-mountains.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -204,7 +212,8 @@ sections:
       lead by&nbsp;<a target="_blank" href="https://www.yogafloats.com/"><u>Yoga
       Floats</u></a> at Waikiki Beach. It cost $40 per person for the 1.5-hour
       yoga class.</p>
-  - banner_path: /uploads/oahu-dron-shot.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-drone-shot-of-the-ocean-and-rocks.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -225,7 +234,8 @@ sections:
       family spot in Oahu. You can contact them directly through&nbsp;<a
       target="_blank"
       href="https://www.instagram.com/islandjamesvilla/"><u>Instagram</u></a>.</li></ul>
-  - banner_path: /uploads/kauai-street-view.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-local-hawaiian-village.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -237,13 +247,15 @@ sections:
       tourists who have limited time and choose to visit other islands, such as
       the Island of Hawaii and Oahu instead. But the secret is out: Kauai is our
       favorite place in Hawaii!</p>
-  - banner_path: /uploads/kauai-basketball-court.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-basketball-court.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: "<h2>Things To Do In Kauai</h2><ul><li><h3>Boat trip to the Napali Coast</h3></li></ul><p>Words can&rsquo;t describe just how incredible the lush green forests, towering mountains, and out-of-this-world scenery are that make up the Napali Coast on Kauai Island.</p><p>It&rsquo;s located on the northwest of Kauai and the best way to experience this gorgeous coastline is with a boat cruise. We explored caves, saw countless dolphins and several giant turtles.</p><p>For $130 per person, you&rsquo;ll get 6 hours on the ocean including food, refreshments and snorkeling gear. We highly recommend&nbsp;<a target=\"_blank\" href=\"https://kauaiseatours.com/\"><u>Kauai Sea Tours</u></a>&nbsp;for this.\uFEFF</p><ul><li><h3>Take a dive into Wailua Falls</h3></li></ul><p>Wailua Falls is a 50m high waterfall on the east of Kauai. There&rsquo;s a stunning viewpoint at the top with gorgeous views of the entire waterfall. It&rsquo;s not crowded and is a must-visit spot in Kauai.</p><p>You can walk down the trail and reach the pool at the bottom of the falls, but this can be extremely dangerous so be extra careful.</p><ul><li><h3>Take a drive to Hanalei Bay</h3></li></ul><p>Hanalei Bay is the biggest bay on the north of Kauai Island. The beaches here are beautiful and it&rsquo;s worth stopping by and exploring the town.</p><ul><li><h3>Visit Turtle Cove</h3></li></ul><p>You&rsquo;re almost guaranteed to see turtles at Turtle Cove! This was such a fun experience for us because not only are there turtles in the water, but you also get to swim in a cave.</p><ul><li><h3>Explore Queens Bath</h3></li></ul><p>Queens Bath is a tidal pool north of Kauai that has been separated from the sea by lava rock! It made for a great trip and is a must-do on Kauai Island.</p>"
-  - banner_path: /uploads/kauai-drone-shot.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-drone-shot-of-hawaii.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -258,7 +270,8 @@ sections:
       Hale Suites:</u></a>&nbsp;We stayed here for 3 nights and paid $450 in
       total. It&rsquo;s a great price considering how expensive some of the
       other accommodation options in Hawaii can be.</li></ul>
-  - banner_path: /uploads/hwaii-turtle.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-turtle-underwater.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -278,7 +291,8 @@ sections:
       between September and November when it&rsquo;s not so busy.</p><p>Peak
       season is December to March, and you&rsquo;ll find that everything will
       cost a bit more during this time.</p>
-  - banner_path: /uploads/hawaii-wave.jpg
+  - banner_path: >-
+      /images/north-america/hawaii-two-weeks/two-weeks-in-Hawaii-pipeline-wave.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
