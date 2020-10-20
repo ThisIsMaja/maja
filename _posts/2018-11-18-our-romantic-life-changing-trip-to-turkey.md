@@ -9,8 +9,10 @@ meta-description: >-
   lives together. Find out how to plan your perfect trip to turkey, visiting
   Instanbul and Cappadocia.
 meta-keywords: 'trip to turkey, Instanbul and Cappadocia'
-image_path: /images/turkey/Pamukkale.jpg
-banner-1_path: /uploads/cappadocia.jpg
+image_path: >-
+  /images/middle-east/turkey-trip/trip-to-turkey-jake-lifting-marie-in-pamukkale.jpg
+banner-1_path: >-
+  /images/middle-east/turkey-trip/trip-to-turkey-hot-air-balloons-in-cappadocia.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - middle east
 author: Marie Fe & Jake Snow
-image-1_path: /images/turkey/cappadocia-photography2.jpg
+image-1_path: >-
+  /images/middle-east/turkey-trip/trip-to-turkey-jake-standing-behind-marie-who-is-wearing-floaty-white-dress.jpg
 image-2_path:
 intro-paragraph-emphasis: Jake surprised me with a proposal. This country will be in our hearts forever.
 intro-content_html: >-
@@ -28,7 +31,8 @@ intro-content_html: >-
   trip ever.</p><p>Turkey surprised us with its amazing landscape, beautiful
   people and amazing food.</p>
 sections:
-  - banner_path: /images/turkey/cappadocia-photography6.jpg
+  - banner_path: >-
+      /images/middle-east/turkey-trip/trip-to-turkey-marie-wearing-red-dress-standing-with-jake.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -45,7 +49,8 @@ sections:
       Istanbul/ put it in maps and you will find it.</li></ul><h3>Good to
       know</h3><ul><li>Istanbul has 2 airports&nbsp;</li><li>Take a Hava Bus
       from and to the airports (cheap/good connections)</li></ul>
-  - banner_path: /images/turkey/cappadocia-photography3.jpg
+  - banner_path: >-
+      /images/middle-east/turkey-trip/trip-to-turkey-marie-and-jake-hugging-in-front-of-classic-car-in-cappadocia.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -62,7 +67,8 @@ sections:
       amazing cheap food, friendly dogs that are being taken care of by the
       locals.</li><li>Cappadocia is the PERFECT place to
       propose.&nbsp;</li></ul>
-  - banner_path: /images/turkey/cappadocia-photography5.jpg
+  - banner_path: >-
+      /images/middle-east/turkey-trip/trip-to-turkey-marie-and-jake-sitting-on-balcony-in-cappadocia.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
