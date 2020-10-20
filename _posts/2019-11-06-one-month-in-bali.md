@@ -11,8 +11,9 @@ meta-description: >-
 meta-keywords: >-
   one month in bali, bali travel guide, one month itinerary bali, travel guide
   bali
-image_path: /images/bali/bali-indonesia5.jpg
-banner-1_path: /images/bali/bali-indonesia6.jpg
+image_path: >-
+  /images/asia/bali-one-month/one-month-in-bali-mariefeandjakesnow-laying-in-a-hammock-above-the-rice-fields.jpg
+banner-1_path: /images/asia/bali-one-month/one-month-in-bali-tegalalang-rice-fields-ubud.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -20,7 +21,8 @@ categories:
 tags:
   - asia
 author: Marie Fe & Jake Snow
-image-1_path: /images/bali/bali-indonesia1.jpg
+image-1_path: >-
+  /images/asia/bali-one-month/one-month-in-bali-mariefeandjakesnow-kissing-near-the-waterfall.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   From the friendliest of people to the epic landscapes, the mesmerising oceans
@@ -33,7 +35,8 @@ intro-content_html: >-
   listed the amount of days we recommend staying, our favourite places to stay
   and our favourite places to eat.&nbsp;</p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/bali/bali-indonesia4.jpg
+  - banner_path: >-
+      /images/asia/bali-one-month/one-month-in-bali-mariefeandjakesnow-surfing.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -76,7 +79,8 @@ sections:
       and watch the skaters at Pretty Poison&nbsp;</li><li>Catch the sunset at
       The Lawn, La Brisa or La Laguna&nbsp;</li><li>Do some yoga with Samadi
       Bali</li><li>Party at Old Man&rsquo;s</li></ul>
-  - banner_path: /uploads/uluwatu-beach.jpg
+  - banner_path: >-
+      /images/asia/bali-one-month/one-month-in-bali-view-on-the-ocean-uluwatu.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -112,7 +116,7 @@ sections:
       cafe for food and an outdoor cinema experience&nbsp;</li><li>Head to
       Sundays Beach club for amazing blue water</li><li>Check out these beaches
       Bingin, Thomas, Karma, Green Bowl and Blue point.</li></ul>
-  - banner_path: /images/bali/bali-indonesia7.jpg
+  - banner_path: /images/asia/bali-one-month/one-month-in-bali-monkey-forest-ubud.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -154,7 +158,8 @@ sections:
       Retreat at Firefly Resort (yoga, cooking, meditation etc./ cheap &amp;
       awesome)</p><p>Take cooking classes (4 days raw food class at Sayuri
       Healing Food Cafe)</p>
-  - banner_path: /images/bali/bali-indonesia8.jpg
+  - banner_path: >-
+      /images/asia/bali-one-month/one-month-in-bali-mariefeandjakesnow-standing-betwen-tropical-leafs.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -223,7 +228,8 @@ sections:
       Yoga&nbsp;</li><li>Relax &ndash; sleep, read and sun bath at the
       beach</li><li>Party at Gili T</li><li>Watch the amazing sunsets at the
       beach</li></ul>
-  - banner_path: /images/marie-jake/Website 2-24.jpg
+  - banner_path: >-
+      /images/asia/bali-one-month/one-month-in-bali-mariefeandjakesnow-swinging-on-a-swing-together.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -299,7 +305,7 @@ sections:
       of the tree House)</li><li>Hidden beach (on the way to Atuh
       Beach)</li></ul><p>You are looking for a day trip to Penida, book your
       tour at IG: @balinusapenidatour</p>
-  - banner_path: /images/bali/bali-indonesia2.jpg
+  - banner_path: /images/asia/bali-one-month/one-month-in-bali-sekumpul-waterfall.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -344,7 +350,7 @@ sections:
       hiking and see Mount Agung</li><li>Take the most stunning photo of Mount
       Agung ( at Bukit Cinta)</li><li>Learn how to free dive&nbsp;</li><li>Visit
       the Tirta Gangga Water palace&nbsp;</li></ul>
-  - banner_path: /images/bali/bali-indonesia9.jpg
+  - banner_path: /images/asia/bali-one-month/one-month-in-bali-organic-cafe-canggu.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -377,10 +383,11 @@ sections:
       and famous diveboard)</li><li>Relax at Potato Head or Ku Da Ta</li></ul>
 show-gallery: true
 gallery:
-  - image_path: /images/style/maja-stock-11.jpg
+  - image_path: >-
+      /images/asia/bali-one-month/one-month-in-bali-assorted-pictures-on-wall.jpg
     size: full
     alt:
-  - image_path: /images/style/maja-stock-43.jpg
+  - image_path: /images/asia/bali-one-month/one-month-in-bali-view-of-villa.jpg
     size:
     alt:
 gallery-text:
