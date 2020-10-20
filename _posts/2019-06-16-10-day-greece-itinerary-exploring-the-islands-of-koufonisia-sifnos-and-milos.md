@@ -9,8 +9,9 @@ meta-description: >-
   to Greece. We share a 10-day itinerary to explore Koufonisia, Sifnos and
   Milos.
 meta-keywords: 'itinerary to explore Koufonisia, Sifnos and Milos'
-image_path: /images/greece/mariefeandjakesnow-greece14.jpg
-banner-1_path: /images/greece/mariefeandjakesnow-greece12.jpg
+image_path: >-
+  /images/europe/greece/ten-day-greece-itinerary-marie-standing-in-a-pool-at-the-villa.jpg
+banner-1_path: /images/europe/greece/ten-day-greece-itinerary-boats-in-the-sea.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +19,8 @@ categories:
 tags:
   - europe
 author: Marie Fe & Jake Snow
-image-1_path: /images/greece/mariefeandjakesnow-greece2.jpg
+image-1_path: >-
+  /images/europe/greece/ten-day-greece-itinerary-jake-holding-marie-in-his-arms.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Greece is one of our favorite countries and if you scroll through our
@@ -28,7 +30,8 @@ intro-content_html: >-
   provide the perfect backdrop for any photo.</p><p>Keep reading as we give all
   the details of our epic 10 day Greece itinerary.</p>
 sections:
-  - banner_path: /images/greece/mariefeandjakesnow-greece8.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-mariefeandjakesnow-standing-on-a-white-roof.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -45,7 +48,8 @@ sections:
       10 day Greece itinerary, you&rsquo;ll explore deserted cobblestone
       streets, venture to hidden caves and swim in the bluest waters, leaving
       you feeling refreshed and rejuvenated.</p>
-  - banner_path: /images/greece/mariefeandjakesnow-greece15.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-mariefeandjakesnow-sitting-in-a-flower-field.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -68,7 +72,7 @@ sections:
       from the Acropolis. The hotel is located in a friendly neighborhood with
       plenty of plant-based food options nearby. Definitely check out a small
       vegan, raw cafe called 'Peas' (the best food we had in Greece)</p>
-  - banner_path: /images/greece/mariefeandjakesnow-greece13.jpg
+  - banner_path: /images/europe/greece/ten-day-greece-itinerary-two-boats-in-a-bay.jpg
     banner-fixed: false
     banner-caption_html:
     columns: false
@@ -88,7 +92,8 @@ sections:
       inquire about ticket options.</p><p>If you&rsquo;d prefer a shorter ferry
       trip, you can also fly to nearby Naxos. You then need to catch a ferry
       from Naxos to Koufonisia which takes 2.5 hours.</p>
-  - banner_path: /images/greece/mariefeandjakesnow-greece3.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-marie-in-a-blue-dress-holding-flowers.jpg
     banner-caption_html:
     columns: true
     main-paragraph-emphasis:
@@ -127,7 +132,8 @@ sections:
       Explore Koufonisia on bike</h4><p>More adventure awaits! Koufonisia is
       such a small island and the best way to explore is on a bike. You can rent
       these from Bicycles Moscha (mosxaprasinou@hotmail.com).</p>
-  - banner_path: /images/greece/mariefeandjakesnow-greece9.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-jake-sitting-on-the-roof-and-marie-walking-to-him.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
@@ -145,7 +151,8 @@ sections:
       you&rsquo;re looking to save money, why not make your own food. You can
       buy fresh produce on the island and prepare your own healthy meals at My
       Island Home.</li></ul>
-  - banner_path: /images/greece/mariefeandjakesnow-greece10.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-mariefeandjakesnow-at-sunset-in-a-flower-field.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
@@ -172,7 +179,8 @@ sections:
       Restaurant</u></a></li><li><a target="_blank"
       href="https://www.tripadvisor.co.za/Restaurant_Review-g1163211-d1795520-Reviews-Meropi-Kamares_Sifnos_Cyclades_South_Aegean.html"><u>Meropi
       Restaurant</u></a></li></ul>
-  - banner_path: /images/greece/mariefeandjakesnow-greece5.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-view-on-the-villas-and-an-outdoor-pool.jpg
     banner-caption_html:
     columns: true
     main-paragraph-emphasis:
@@ -210,7 +218,8 @@ sections:
       unfortunately, Narlis Farm was fully booked at the time of our visit. This
       is another way to meet the locals and experience the Greek culture with
       some good food and dancing.</p>
-  - banner_path: /images/greece/mariefeandjakesnow-greece1.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-marie-in-a-white-dress-sitting-in-a-flower-field.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
@@ -240,7 +249,8 @@ sections:
       Greece</li><li><a target="_blank"
       href="https://www.barriello.com/"><u>Bariello Mediterranean
       restaurant</u></a></li></ul>
-  - banner_path: /images/greece/mariefeandjakesnow-greece4.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-a-cat-laying-on-the-road.jpg
     banner-caption_html:
     columns: true
     main-paragraph-emphasis:
@@ -276,7 +286,8 @@ sections:
       doing. However, Kostantakis offer a wine tour that&rsquo;s a great
       alternative if you have more time in Milos or if the weather isn&rsquo;t
       playing its part.</p>
-  - banner_path: /images/greece/mariefeandjakesnow-greece11.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-sun-setting-above-the-sea.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
@@ -290,7 +301,8 @@ sections:
       Airlines, the multi-awarded Greek Airline. You can check out their
       prices&nbsp;<a target="_blank"
       href="https://en.aegeanair.com/"><u>here</u></a>.</p>
-  - banner_path: /images/greece/mariefeandjakesnow-greece7.jpg
+  - banner_path: >-
+      /images/europe/greece/ten-day-greece-itinerary-mariefeandjakesnow-standing-on-a-church-roof.jpg
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
