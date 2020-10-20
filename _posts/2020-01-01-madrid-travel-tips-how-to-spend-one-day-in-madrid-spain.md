@@ -8,8 +8,8 @@ meta-description: >-
   Only in Madrid for one day? No need to worry, we've got you covered. Read
   about all must-see places, where to eat, where to stay and things to do.
 meta-keywords: 'Madrid in one day, thing to do in Madrid, Madrid travel guide'
-image_path: /images/city/madrid-spain1.jpg
-banner-1_path: /images/city/madrid-spain5.jpg
+image_path: /images/europe/madrid/Madrid-in-one-day-view-on-madrid-from-the-top.jpg
+banner-1_path: /images/europe/madrid/Madrid-in-one-day-madrid-botanical-gardens.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,8 +17,8 @@ categories:
 tags:
   - europe
 author: Marie Fe
-image-1_path: /images/city/madrid-spain3.jpg
-image-2_path: /images/city/madrid-spain4.jpg
+image-1_path: /images/europe/madrid/Madrid-in-one-day-madrid-old-town-orange-building.jpg
+image-2_path: /images/europe/madrid/Madrid-in-one-day-madrid-old-town.jpg
 intro-paragraph-emphasis: >-
   Madrid is the capital city of Spain and tops my list of favorite European
   cities. It’s where I grew up
@@ -36,7 +36,8 @@ intro-content_html: >-
   do a lot, and eat your way through the city.</p><p><strong>Here are our travel
   tips for spending one day in Madrid!</strong></p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/city/madrid-spain2.jpg
+  - banner_path: >-
+      /images/europe/madrid/Madrid-in-one-day-view-on-the-streets-of-madrid-from-the-top.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -57,7 +58,7 @@ sections:
       Madrid tapas night walking tour is the best combination of eating and
       enjoying delicious tapas and exploring the city - and you&rsquo;ll burn a
       few calories as well!</p>
-  - banner_path: /uploads/cozy-brown-bar-in-madrid.jpg
+  - banner_path: /images/europe/madrid/Madrid-in-one-day-bar-in-madrid.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -80,7 +81,7 @@ sections:
       little bit pricey)</li><li>BarbaraAnn (Good for dinner and
       drinks)</li><li>BuleBule (Live-show and music)</li><li>Kikekeller (Small
       but cozy bar with unique interior)</li></ul>
-  - banner_path: /uploads/agustina-salas-lsrfau3v8de-unsplash-1.jpg
+  - banner_path: /images/europe/madrid/Madrid-in-one-day-pink-building-blue-sky.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -102,7 +103,8 @@ sections:
       href="https://www.booking.com/hotel/es/sieteislas.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2"><u>7
       Islas Hote</u></a><a href="__notset__">l</a> (amazing design, beautiful
       hotel for special occasions)</li></ul>
-  - banner_path: /uploads/beautiful-street-of-madrid.jpg
+  - banner_path: >-
+      /images/europe/madrid/Madrid-in-one-day-cosy-street-of-madrid-city-center.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
