@@ -6,15 +6,18 @@ slug: portugal-roadtrip-plans
 title: Our Road Trip To Portugal Via France And Spain
 meta-description: Roadtripping to Portugal from Germany via France and Spain
 meta-keywords: roadtrip-in-portugal
-image_path: /images/travel/maja-travel8.jpg
+image_path: >-
+  /images/newsfeed-posts/road-trip-to-portugal-marie-with-feet-on-dashboard-of-van.jpg
 newsfeed: true
 author: Marie Fe & Jake Snow
 page_blocks:
   - _id: intro
     name: Intro Section
     block-class:
-    image-1_path: /images/travel/maja-travel8.jpg
-    image-2_path: /images/travel/ahorn-camper.jpg
+    image-1_path: >-
+      /images/newsfeed-posts/road-trip-to-portugal-marie-with-feet-on-dashboard-of-van.jpg
+    image-2_path: >-
+      /images/newsfeed-posts/road-trip-to-portugal-jake-standing-by-ahorn-campervan-at-a-lake.jpg
     intro-paragraph-emphasis: >-
       We had the idea to pick up a camper and do a road trip to Portugal, via
       France and Spain, to meet our friends Raquel and Miguel
