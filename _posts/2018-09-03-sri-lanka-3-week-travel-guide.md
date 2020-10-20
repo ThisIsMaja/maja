@@ -9,8 +9,8 @@ meta-description: >-
   weeks in Sri Lanka. We share a detailed travel guide to all must visit places
   in Sri Lanka.
 meta-keywords: 'travel guide sri lanka, three weeks in sri lanka'
-image_path: /images/sri-lanka/Sri-Lanka1560995.jpg
-banner-1_path: /images/sri-lanka/sri-lanka4.jpg
+image_path: /images/asia/sri-lanka/sri-lanka-guide-marie-in-red-dress.jpg
+banner-1_path: /images/asia/sri-lanka/sri-lanka-guide-marie-and-jake-embracing-on-beach.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +18,8 @@ categories:
 tags:
   - asia
 author: Marie Fe & Jake Snow
-image-1_path: /images/sri-lanka/sri-lanka-unawatuna.jpg
+image-1_path: >-
+  /images/asia/sri-lanka/sri-lanka-guide-swinging-on-rope-swing-at-beach-in-unawatuna.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Sri Lanka is a travellers paradise, its cheap, it is rich in culture, the food
@@ -33,13 +34,14 @@ intro-content_html: >-
   would have been perfect. Read on to see where we stayed and what we did for
   our 3 weeks in Sri Lanka.</p>
 sections:
-  - banner_path: /images/sri-lanka/sri-lanka5.jpg
+  - banner_path: /images/asia/sri-lanka/sri-lanka-guide-ramp-over-water-at-hotel.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
     main-paragraph-emphasis:
     body-content_html: "<h2>Helpful advice to start your trip</h2><ul><li>Get a sim card at the airport (Mobitel sim 40 Gb for 18$, works almost everywhere).</li><li>If you decide to head down south first, like we did, take the train &ndash; it&rsquo;s very easy cheap and an incredible experience. Don&rsquo;t worry, you can get your ticket last minute at the train station.</li><li>Don&rsquo;t be afraid to visit Sri Lanka during low season. We only had one rainy day.&nbsp; Low season is much cheaper, you can save up to 40-50% on rooms and its not very busy at all.&nbsp;</li></ul><p>If you need more information or want to plan a guided tour through Sri Lanka we cannot speak highly enough of Mindful Travels. This is a tour company owned by our good friend Amar. He is one of the most genuine and caring people we have met in all our travels. You can find his website <a target=\"_blank\" href=\"https://www.mindfultravels.net/\"><u>here</u></a>. If you mention that you know Marie and Jake, he will give you a good deal \U0001F642</p>"
-  - banner_path: /images/sri-lanka/Sri-Lanka1560977.jpg
+  - banner_path: >-
+      /images/asia/sri-lanka/sri-lanka-guide-jake-and-marie-standing-on-bridge.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -72,7 +74,7 @@ sections:
       local train (3 hours, very cheap,&nbsp; buy ticket at the train
       station)</li><li>Head to the south &ndash; beautiful old town
       Galle</li></ul>
-  - banner_path: /images/sri-lanka/Sri-Lanka1560986.jpg
+  - banner_path: /images/asia/sri-lanka/sri-lanka-guide-a-bridge.jpg
     banner-fixed: false
     banner-caption_html:
     columns: true
@@ -103,7 +105,7 @@ sections:
       museum&nbsp;</li><li>find a cute souvenir, go shopping</li></ul><h3>How to
       get to your next stop</h3><ul><li>Galle to Unwatuna by Tuk-tuk or Train.
       Its only a 20-30 min drive</li></ul>
-  - banner_path: /images/sri-lanka/sri-lanka3.jpg
+  - banner_path: /images/asia/sri-lanka/sri-lanka-guide-view-of-ocean-at-sunset.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -137,7 +139,8 @@ sections:
       Japanese Peace Pagodo</li></ul><h3>How to get to your next
       stop</h3><p>Unawatuna to Talalla by local bus ( a few hours, ask at your
       hotel or the locals for the bus number, very cheap)</p>
-  - banner_path: /uploads/sri-lanka.jpg
+  - banner_path: >-
+      /images/asia/sri-lanka/sri-lanka-guide-drone-shot-of-boats-on-beach-and-sea.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -163,7 +166,7 @@ sections:
       &ndash; best beach: Hiraketija beach</li><li>Catch an unforgettable
       sunrise at the beach</li></ul><h3>How to get to your next
       stop</h3><p>Talalla to Yala (3 hours by car, 7000-8000 rp for 3 ppl)</p>
-  - banner_path: /images/sri-lanka/Sri-Lanka1560790.jpg
+  - banner_path: /images/asia/sri-lanka/sri-lanka-guide-glamping-accommodation.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -187,7 +190,8 @@ sections:
       destination)</li></ul><h3>Things to do in Yala</h3><ul><li>Safari at Yala
       National Park&nbsp; $35 (6.30 am or 3 pm)</li></ul><h3>How to get to your
       next stop</h3><p>Yala to Udawalawe (van and local bus, 2 -3 hours)</p>
-  - banner_path: /images/sri-lanka/Sri-Lanka1560881.jpg
+  - banner_path: >-
+      /images/asia/sri-lanka/sri-lanka-guide-marie-and-jake-walking-on-bridge.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -214,7 +218,8 @@ sections:
       (6am or 3pm/ 25$US entrance fee +Jeep rental Danushka
       Safari)</li></ul><h3>How to get to your next stop</h3><p>Udawalawe to Ella
       (by&nbsp; local bus &ndash; ask the locals, 3 hours, very cheap)</p>
-  - banner_path: /uploads/sri-lanka-drone-shot.jpg
+  - banner_path: >-
+      /images/asia/sri-lanka/sri-lanka-guide-drone-shot-of-road-through-dense-treees.jpg
     banner-fixed: false
     banner-caption_html:
     columns: true
@@ -259,7 +264,7 @@ sections:
       hunting&nbsp;</li><li>Little Adams peak (20 min hike, great view, good
       photos/ drive to 98 acres Hotel and ask from there)</li><li>Ella
       Rock&nbsp; (3-4hour hike, most people go for sunrise at 4:30 am)</li></ul>
-  - banner_path: /uploads/sri-lanka-sigiriya.jpg
+  - banner_path: /images/asia/sri-lanka/sri-lanka-guide-mountains-and-grass-at-sunset.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -296,7 +301,8 @@ sections:
       might see wild elephants at the lake next to the
       homestay&nbsp;</li><li>Day trip to Kaudulla National park (best park to
       see a lot of elephants)</li></ul>
-  - banner_path: /uploads/sri-lanka-beach.jpg
+  - banner_path: >-
+      /images/asia/sri-lanka/sri-lanka-guide-beach-with-fishermen-sitting-on-tall-poles.jpg
     banner-fixed: false
     banner-caption_html:
     columns: true
@@ -316,10 +322,7 @@ sections:
       of Love</p><p>Marie and Jake</p>
 show-gallery: true
 gallery:
-  - image_path: /images/sri-lanka/sri-lanka5.jpg
-    size:
-    alt:
-  - image_path: /images/sri-lanka/Sri-Lanka1560790.jpg
+  - image_path:
     size: full
     alt:
 gallery-text:
