@@ -8,8 +8,10 @@ meta-description: >-
   The absolute 5 things you need to do in the Komodo Islands. From pink beaches
   to impressive views, to witnessing Komodo Dragons.
 meta-keywords: things to do in the Komodo Islands
-image_path: /images/komodo-islands/Komodo-Islands1.jpg
-banner-1_path: /images/komodo-islands/Komodo-Islands2.jpg
+image_path: >-
+  /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-mariefeandjakesnow-overlooking-komodo-islands.jpg
+banner-1_path: >-
+  /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-mariefeandjakesnow-sitting-at-the-viewpoint.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,7 +19,8 @@ categories:
 tags:
   - asia
 author: Marie Fe & Jake Snow
-image-1_path: /images/komodo-islands/Komodo-Islands4.jpg
+image-1_path: >-
+  /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-mariefeandjakesnow-standing-on-the-stairs-to-the-beach-villa.jpg
 image-2_path:
 intro-paragraph-emphasis: Every stop on the tour we could not believe what we were seeing
 intro-content_html: >-
@@ -32,7 +35,8 @@ intro-content_html: >-
   Bucket List to make sure you don&rsquo;t miss out on the experience of a
   lifetime.</p>
 sections:
-  - banner_path: /images/komodo-islands/Komodo-Islands3.jpg
+  - banner_path: >-
+      /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-marie-standing-on-the-beach.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -55,7 +59,8 @@ sections:
       animal documentaries as a child this was a huge tick on the bucket list.
       It feels like your on set with David Attenborough, just make sure you
       don&rsquo;t get to close to those sleepy giants!</p>
-  - banner_path: /images/komodo-islands/Komodo-Islands5.jpg
+  - banner_path: >-
+      /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-close-up-photo-of-marie.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -74,7 +79,8 @@ sections:
       to the top once the sun is up, the view from the top is still amazing and
       by then the crowd has dispersed giving you a bit more room to
       move.&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/komodo-islands/Komodo-Islands7.jpg
+  - banner_path: >-
+      /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-jake-holding-marie-in-his-arms-on-the-beach.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -95,7 +101,8 @@ sections:
       marvel at the beauty of our planet. You will notice that the beach is
       super clean. Please keep it that way and take our rubbish with you, maybe
       even pick a few pieces up while your there.</p>
-  - banner_path: /images/komodo-islands/Komodo-Islands6.jpg
+  - banner_path: >-
+      /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-mariefeandjakesnow-walking-into-the-ocean.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -111,7 +118,8 @@ sections:
       unexpected part of our Komodo islands tour. You really have to see this
       for yourself to believe it, trust us when we say that you will be in awe
       of this amazing event.</p>
-  - banner_path: /uploads/komodo-islands.jpg
+  - banner_path: >-
+      /images/asia/things-to-do-komodo/things-to-do-in-the-Komodo-Islands-panoramic-image-of-komodo-islands.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
