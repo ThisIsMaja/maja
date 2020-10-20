@@ -9,8 +9,10 @@ meta-description: >-
   girl from Germany. How our love changed our lives and made it possible for us
   to live our dream.
 meta-keywords: maja love story
-image_path: /images/marie-jake/Website 2-23.jpg
-banner-1_path: /images/nature/mariefeandjakesnow-banner10.jpg
+image_path: >-
+  /images/relationships/our-love-story/maja-love-story-marie-and-jake-portrait.jpg
+banner-1_path: >-
+  /images/relationships/our-love-story/maja-love-story-marie-is-laying-in-a-hammock-and-jake-is-standing-next-to-her.jpg
 banner-fixed: true
 newsfeed: true
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - relationships
 author: Marie & Jake
-image-1_path: /images/style/maja-stock-34.jpg
+image-1_path: >-
+  /images/relationships/our-love-story/maja-love-story-mariefeandjakesnow-on-the-street-calling-for-a-taxi.jpg
 image-2_path:
 intro-paragraph-emphasis: We found true love on a beach in Thailand
 intro-content_html: >-
@@ -31,7 +34,8 @@ intro-content_html: >-
   looking for love, but our lives were about to change. We wouldn&rsquo;t have
   believed it if you told us, but that&rsquo;s how love works!</p>
 sections:
-  - banner_path: /images/style/maja-stock-19.jpg
+  - banner_path: >-
+      /images/relationships/our-love-story/maja-love-story-mariefeandjakesnow-standing-on-a-beach.jpg
     banner-fixed:
     banner-caption_html:
     columns: true
