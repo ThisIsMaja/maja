@@ -8,8 +8,9 @@ meta-description: >-
   Thinking about visiting Egypt and Jordan and still not sure if this is a good
   idea? We have prepared the best 3-week itinerary for Egypt and Jordan for you.
 meta-keywords: 'itinerary for Egypt and Jordan, travel guide Egypt and Jordan'
-image_path: /images/egypt-jordan/giza-pyramids2.jpg
-banner-1_path: /images/style/maja-stock-40.jpg
+image_path: >-
+  /images/middle-east/egypt-jordan/egypt-and-jordan-jake-carrying-marie-in-front-of-giza-pyramids2.jpg
+banner-1_path: /images/middle-east/egypt-jordan/egypt-and-jordan-view-of-city-at-dusk.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,7 +18,8 @@ categories:
 tags:
   - middle east
 author: Marie Fe & Jake Snow
-image-1_path: /images/egypt-jordan/petra-jordan1.jpg
+image-1_path: >-
+  /images/middle-east/egypt-jordan/egypt-and-jordan-marie-wearing-wedding-dress-and-jake-in-petra-jordan.jpg
 image-2_path:
 intro-paragraph-emphasis: 'How, what and where in Egypt'
 intro-content_html: >-
@@ -33,7 +35,8 @@ intro-content_html: >-
   meals we have ever had. This is was just the start of an epic 3 week Egypt
   adventure.</p>
 sections:
-  - banner_path: /images/egypt-jordan/marsa-shagra.jpg
+  - banner_path: >-
+      /images/middle-east/egypt-jordan/egypt-and-jordan-jake-handing-marie-snorkelling-mask.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -66,7 +69,8 @@ sections:
       would have been ok if it wasn&rsquo;t in the middle of the night. This is
       a precautionary safety measure which is obviously a good thing in general
       to have.</p>
-  - banner_path: /images/egypt-jordan/cairo-travel.jpg
+  - banner_path: >-
+      /images/middle-east/egypt-jordan/egypt-and-jordan-standing-in-front-of-view-of-cairo.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -92,7 +96,8 @@ sections:
       different restaurants and they were, for the most part, all good. But this
       cafe was the perfect touch we needed to finish our time in
       Cairo!</p><ul><li>Sea Salt Bakery and Cafe in Cairo</li></ul>
-  - banner_path: /images/egypt-jordan/marsa-shagra1.jpg
+  - banner_path: >-
+      /images/middle-east/egypt-jordan/egypt-and-jordan-sitting-by-glamping-tents-marsa-shagra.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -113,7 +118,8 @@ sections:
       organise dolphin tour + Diving</p><p>- <a target="_blank"
       href="https://www.booking.com/hotel/eg/marsa-shagra-village.en.html?aid=1556632&amp;no_rooms=1&amp;group_adults=1"><u>Marsa
       Shagra Village</u></a></p>
-  - banner_path: /images/egypt-jordan/marsa-shagra2.jpg
+  - banner_path: >-
+      /images/middle-east/egypt-jordan/egypt-and-jordan-jake-kissing-maries-head-marsa-shagra.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -152,7 +158,8 @@ sections:
       finish the tour. By this time you will most likely be &lsquo;templed
       out&rsquo; so some time spent at the beach swimming in the crystal clear
       water is perfectly refreshing.</p>
-  - banner_path: /images/egypt-jordan/redsea-diving2.jpg
+  - banner_path: >-
+      /images/middle-east/egypt-jordan/egypt-and-jordan-marie-and-jake-freediving-in-the-red-sea.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -164,7 +171,8 @@ sections:
       do&rsquo;s in Egypt are:</h3><ul><li>Karnak Temple</li><li>Pyramids of
       Giza</li><li>Abu Simbel</li><li>Hot air balloon over
       Luxor</li><li>Snorkelling in Dahab</li><li>Diving in Marsa Alam</li></ul>
-  - banner_path: /images/egypt-jordan/petra-jordan2.jpg
+  - banner_path: >-
+      /images/middle-east/egypt-jordan/egypt-and-jordan-marie-and-jake-on-a-rock-with-view-of-petra.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -210,7 +218,8 @@ sections:
       should definitely try.</p><h3>Day 4: Amman</h3><p>Our last day in Jordan
       was spent in the capital city of Amman. We visited the citadel which was
       quite nice and a good spot for photos at sunset!</p>
-  - banner_path: /images/egypt-jordan/rue-de-seine.jpg
+  - banner_path: >-
+      /images/middle-east/egypt-jordan/egypt-and-jordan-marie-on-rock-wearing-wedding-dress-with-jake.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -233,24 +242,9 @@ sections:
       crystal clear Red Sea, camels, pharaohs, pyramids and Indiana
       Jones.</p><p>Have you been to Egypt or Jordan? We would love to know about
       your experience in the comments below.</p>
-  - banner_path:
-    banner-fixed: true
-    banner-caption_html:
-    columns: false
-    main-paragraph-emphasis:
-    body-content_html:
 show-gallery: false
 gallery:
-  - image_path: /images/egypt-jordan/redsea-diving3.jpg
-    size: full
-    alt:
-  - image_path: /images/egypt-jordan/marsa-alam.jpg
-    size:
-    alt:
-  - image_path: /images/egypt-jordan/marsa-shagra1.jpg
-    size:
-    alt:
-  - image_path: /images/egypt-jordan/rue-de-seine.jpg
+  - image_path:
     size:
     alt:
 gallery-text:
