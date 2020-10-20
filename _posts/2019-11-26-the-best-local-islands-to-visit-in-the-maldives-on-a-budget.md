@@ -9,8 +9,10 @@ meta-description: >-
   We share our experience and top tips to help you make your trip the one to
   remember.
 meta-keywords: 'maldives on a budget, travel guide maldives'
-image_path: /images/maldives/amilla-fushi7.jpg
-banner-1_path: /images/maldives/amilla-fushi7.jpg
+image_path: >-
+  /images/asia/maldives-local-islands/travel-guide-maldives-mariefeandjakesnow-laying-in-a-hammock-in-the-ocean.jpg
+banner-1_path: >-
+  /images/asia/maldives-local-islands/travel-guide-maldives-mariefeandjakesnow-laying-in-a-hammock-in-the-ocean.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +20,8 @@ categories:
 tags:
   - asia
 author: Marie Fe
-image-1_path: /images/maldives/amilla-fushi3.jpg
+image-1_path: >-
+  /images/asia/maldives-local-islands/travel-guide-maldives-drone-shot-on-a-ocean-villa.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   Whilst the Maldives is the ideal honeymoon destination, it’s also the perfect
@@ -30,7 +33,7 @@ intro-content_html: >-
   adventure, water sports, or a relaxing beach vacation on a budget, the
   Maldives has a bit of something for everyone!</p>
 sections:
-  - banner_path: /images/maldives/amilla-fushi6.jpg
+  - banner_path: /images/asia/maldives-local-islands/travel-guide-maldives-ocean-villas.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -52,7 +55,8 @@ sections:
       Maldives during November and only had one day of rain, which we welcomed
       after spending a week soaking up the sun. The shoulder seasons are the
       best time to plan your getaway as the islands aren&rsquo;t as busy.</p>
-  - banner_path: /images/maldives/amilla-fushi9.jpg
+  - banner_path: >-
+      /images/asia/maldives-local-islands/travel-guide-maldives-mariefeandjakesnow-siting-on-a-bicycle-near-the-ocean.jpg
     banner-fixed: true
     banner-caption_html:
     columns: false
@@ -76,7 +80,8 @@ sections:
       these luxury resorts allow for day visitors to enjoy their facilities and
       restaurants. There are costs involved for this, but it&rsquo;s way more
       affordable than staying at the resort itself.</p>
-  - banner_path: /images/maldives/amilla-fushi2.jpg
+  - banner_path: >-
+      /images/asia/maldives-local-islands/travel-guide-maldives-marie-riding-a-bicycle-in-maldives.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -112,7 +117,8 @@ sections:
       target="_blank"
       href="https://www.booking.com/hotel/mv/season-paradise.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Season
       Paradise</a>: $90 per room per night, including breakfast</li></ul>
-  - banner_path: /images/maldives/amilla-fushi4.jpg
+  - banner_path: >-
+      /images/asia/maldives-local-islands/travel-guide-maldives-jake-laying-in-a-hammock-and-marie-sitting-on-a-balcony.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -149,7 +155,8 @@ sections:
       href="https://www.booking.com/hotel/mv/bliss-dhigurah.en.html?aid=2017226&amp;no_rooms=1&amp;group_adults=2">Bliss
       Dhigurah</a>: $100 per night for a double room which includes
       breakfast.</li></ul>
-  - banner_path: /images/maldives/amilla-fushi8.jpg
+  - banner_path: >-
+      /images/asia/maldives-local-islands/travel-guide-maldives-mariefeandjakesnow-laying-in-a-hammock-in-the-ocean-drone-shot.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -173,7 +180,8 @@ sections:
       lazing in the sun and freediving just off the beach.</p><p>The best way to
       explore Goidhoo Island itself is by bike as it&rsquo;s the only way to get
       around.</p>
-  - banner_path: /images/maldives/amilla-fushi1.jpg
+  - banner_path: >-
+      /images/asia/maldives-local-islands/travel-guide-maldives-mariefeandjakesnow-coming-out-of-the-ocean.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
@@ -211,7 +219,8 @@ sections:
       life - Sustainable, local, organic, wellness. We love this mission and it
       was great to go behind the scenes and see how Soneva is bringing their
       vision to life.</p>
-  - banner_path: /images/maldives/amilla-fushi5.jpg
+  - banner_path: >-
+      /images/asia/maldives-local-islands/travel-guide-maldives-mariefeandjakesnow-riding-bicycles-near-ocean-villas-in-maldives.jpg
     banner-fixed: true
     banner-caption_html:
     columns: true
