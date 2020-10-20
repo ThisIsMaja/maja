@@ -9,8 +9,9 @@ meta-description: >-
   safari holidays of your life. We gathered all the best tips to make your trip
   a real adventure.
 meta-keywords: 'south africa safari, african safari, safari holiday, guide for south africa'
-image_path: /images/south-africa/south-africa-couple2.jpg
-banner-1_path: /images/south-africa/south-africa-safari3.jpg
+image_path: >-
+  /images/africa/south-africa-safari/south-africa-safari-mariefeandjakesnow-sitting-on-the-roof-of-the-car.jpg
+banner-1_path: /images/africa/south-africa-safari/south-africa-safari-giraffe.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -18,7 +19,8 @@ categories:
 tags:
   - africa
 author: Marie Fe & Jake Snow
-image-1_path: /images/south-africa/south-africa-couple5.jpg
+image-1_path: >-
+  /images/africa/south-africa-safari/south-africa-safari-mariefeandjakesnow-smiling-while-riding-a-car.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   We traded in our bathing suits for safari gear and headed to South Africa for
@@ -32,7 +34,8 @@ intro-content_html: >-
   proud to say it was a huge success with over $120,000 dollars raised for The
   Good Work Foundation and Care for Wild.&nbsp;</p><p>&nbsp;</p>
 sections:
-  - banner_path: /images/south-africa/south-africa-couple4.jpg
+  - banner_path: >-
+      /images/africa/south-africa-safari/south-africa-safari-mariefeandjakesnow-watching-elefants-crossing-the-road.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis: >-
@@ -75,7 +78,8 @@ sections:
       the Big 5 and offer some great sightings. We visited both the Kruger and
       Welgevonden Game Reserve and spotted all the Big 5 in both
       parks!</p><p>&nbsp;</p><p>&nbsp;</p>
-  - banner_path: /images/south-africa/south-africa-safari1.jpg
+  - banner_path: >-
+      /images/africa/south-africa-safari/south-africa-safari-lion-and-a-female-lion.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis: the only good cage is an empty cage
@@ -93,7 +97,8 @@ sections:
       and hundreds of buck.</p><p>Also, try to include a trip to Cape Town if
       you have time. It&rsquo;s another one of our favorite places to visit in
       South Africa with great beaches.</p>
-  - banner_path: /images/south-africa/south-africa-couple3.jpg
+  - banner_path: >-
+      /images/africa/south-africa-safari/south-africa-safari-mariefeandjakesnow-petting-a-rhino.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis: Accommodation
@@ -126,7 +131,7 @@ sections:
       tent unable to leave as it was surrounded by elephants!</p><p>We went on
       daily safaris from Mantobeni and saw the Big 5 and so many other
       animals.&nbsp;</p>
-  - banner_path: /images/south-africa/south-africa-safari2.jpg
+  - banner_path: /images/africa/south-africa-safari/south-africa-safari-baby-rhino.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis: wild life surprises you when you least expect it
@@ -150,7 +155,8 @@ sections:
       flight from Johannesburg is only 50 minutes but you&rsquo;ll need to drive
       another hour or so to reach your destination. This flight can be expensive
       so we recommend renting a car and driving instead.</li></ul>
-  - banner_path: /images/south-africa/south-africa-couple1.jpg
+  - banner_path: >-
+      /images/africa/south-africa-safari/south-africa-safari-mariefeandjakesnow-looking-into-each-others-eyes.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis: Time & Money
@@ -175,7 +181,8 @@ sections:
       gate. If you go this route, make sure you still do a proper jeep safari as
       the rangers know where the animals are and you&rsquo;ll see so much more
       wildlife this way.</p>
-  - banner_path: /images/south-africa/south-africa-safari4.jpg
+  - banner_path: >-
+      /images/africa/south-africa-safari/south-africa-safari-elephant-walking-in-the-wild.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis: Visas & Safety
@@ -197,7 +204,7 @@ sections:
       pre-book accommodation. Don&rsquo;t walk alone at night and keep your
       valuables safely in your bag.</p><p>Even the locals are wary of their
       surroundings, so make sure you are too.</p>
-  - banner_path: /images/south-africa/south-africa-safari5.jpg
+  - banner_path: /images/africa/south-africa-safari/south-africa-safari-two-rhinos.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis:
@@ -215,7 +222,8 @@ sections:
       out of the vehicle unless your guide says you can. And if you&rsquo;re
       doing a self-drive safari, make sure your windows are closed when the
       animals are near.</li></ul>
-  - banner_path: /uploads/kruger-national-park.jpg
+  - banner_path: >-
+      /images/africa/south-africa-safari/south-africa-safari-three-giraffes-eating-from-a-tree.jpg
     banner-fixed: true
     banner-caption_html:
     main-paragraph-emphasis: Our South African Rhino Project
@@ -277,18 +285,7 @@ sections:
 show-gallery: true
 gallery-text:
 gallery:
-  - image_path: /images/south-africa/south-africa-safari4.jpg
-    size: one-half
-    alt: >-
-      Edited with our <a href="http://shop.mariefeandjakesnow.com"> Africa
-      Preset </a>
-  - image_path: /images/south-africa/south-africa-safari5.jpg
-    size: one-half
-    alt:
-  - image_path: /images/south-africa/south-africa-couple1.jpg
-    size: full
-    alt:
-  - image_path: /images/south-africa/south-africa-safari2.jpg
+  - image_path:
     size: full
     alt:
 ---
