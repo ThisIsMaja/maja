@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-19 07:27:00
-hidden: true
+hidden: false
 slug: living-the-van-life
 title: 7 Things We Love About Living The Van Life
 meta-description: >-
