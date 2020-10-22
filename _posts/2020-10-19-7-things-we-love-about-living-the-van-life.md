@@ -11,7 +11,7 @@ meta-keywords: living the van life
 image_path: /images/travel-tips/living-the-van-life/living-the-van-life-on-a-road-trip.JPG
 banner-1_path: /images/travel-tips/living-the-van-life/living-the-van-life-on-a-road-trip.JPG
 banner-fixed: true
-newsfeed: false
+newsfeed: true
 categories:
   - learn from us
 tags:
