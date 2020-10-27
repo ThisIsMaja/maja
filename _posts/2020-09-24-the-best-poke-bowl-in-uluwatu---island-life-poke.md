@@ -37,15 +37,15 @@ intro-content_html: >-
   greatest passions. We are strong believers that what we put in our bodies
   impacts our wellbeing, not just on a physical level, but on an emotional and
   mental level as well - how we feel, how much energy we have, how strong and
-  how capable we are.</p><p>Back in March 2020, when the global Coronavirus
-  pandemic really began to escalate, we all had to adapt to a new conscious way
-  of living when it came to health and wellbeing. Everybody had to experience
-  &lsquo;the new normal&rsquo; in their own way. Some took a well-deserved break
-  and some finally found the time to do the things they always wanted to
-  do.</p><p>For Marie and I, we spent our quarantine in Bali, which was the
-  longest time we had spent in one place since we have known each other. It felt
-  weird at the beginning as we were so used to being constantly active on and on
-  the move.&nbsp;</p><p>Instead of being consumed by the negativity and fear we
+  how capable we are.</p><p>Back in March 2020, when the situation in the worls
+  really began to escalate, we all had to adapt to a new conscious way of living
+  when it came to health and wellbeing. Everybody had to experience &lsquo;the
+  new normal&rsquo; in their own way. Some took a well-deserved break and some
+  finally found the time to do the things they always wanted to do.</p><p>For
+  Marie and I, we spent 6 months in Bali, which was the longest time we had
+  spent in one place since we have known each other. It felt weird at the
+  beginning as we were so used to being constantly active on and on the
+  move.&nbsp;</p><p>Instead of being consumed by the negativity and fear we
   tried to pivot and turn this new pace into a positive. We took those months as
   an opportunity to slow down and to work on passion projects whilst also
   looking for new opportunities that we would never have had time for
