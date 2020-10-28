@@ -8,7 +8,7 @@ price: $19.95
 compare-at-price: $39.95
 home-page-feature: true
 save-percentage: 63%
-image_path: /images/shop/cover-5.jpg
+image_path:
 short-description: 12 Dreamy Presets for Mobile & Pc
 description: >-
   Presets designed for any camera and great for mobile photography. Perfect for
@@ -24,29 +24,29 @@ preset-tags:
   - selfie
   - indoor
 main-gallery:
-  - image_path: /images/shop/Mobile-Pack/mobile-1.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-2.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-3.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-4.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-5.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-6.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-7.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-8.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-9.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-10.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-11.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Mobile-Pack/mobile-12.jpg
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-1-avocado.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Avocado
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-2-home.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Home
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-3-memories.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Memories
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-4-mocha.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Mocha
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-5-ocean.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Ocean
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-6-peach.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Peach
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-7-pinky-purple.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Pinky Purple
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-8-rose.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Rose
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-9-shine.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Shine
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-10-soft-fade.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Soft Fade
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-11-summer.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Summer
+  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-12-tan.jpg
 faqs:
   - question: What's Included?
     answer_html: >-
