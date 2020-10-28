@@ -8,7 +8,7 @@ price: $19.95
 compare-at-price: $39.95
 home-page-feature: true
 save-percentage: 63%
-image_path:
+image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack.jpg
 short-description: 12 Dreamy Presets for Mobile & Pc
 description: >-
   Presets designed for any camera and great for mobile photography. Perfect for
