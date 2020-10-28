@@ -26,27 +26,27 @@ preset-tags:
 main-gallery:
   - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-1-avocado.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Avocado
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-2-home.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-2-home.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Home
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-3-memories.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-3-memories.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Memories
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-4-mocha.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-4-mocha.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Mocha
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-5-ocean.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-5-ocean.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Ocean
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-6-peach.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-6-peach.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Peach
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-7-pinky-purple.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-7-pinky-purple.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Pinky Purple
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-8-rose.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-8-rose.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Rose
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-9-shine.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-9-shine.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Shine
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-10-soft-fade.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-10-soft-fade.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Soft Fade
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-11-summer.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-11-summer.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Summer
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-12-tan.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-12-tan.jpg
 faqs:
   - question: What's Included?
     answer_html: >-
