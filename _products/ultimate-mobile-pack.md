@@ -24,7 +24,7 @@ preset-tags:
   - selfie
   - indoor
 main-gallery:
-  - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-1-avocado.jpg
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack-1-avocado.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Avocado
   - image_path: /images/shop/Mobile-Pack/ultimate-mobile-pack-2-home.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack - Home
