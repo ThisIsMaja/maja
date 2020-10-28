@@ -2,11 +2,11 @@
 layout: post
 date: 2020-05-05 00:00:00
 hidden: false
-slug: 15-books-to-read-during-isolation
-title: 15 books to read during isolation
+slug: 15-books-to-read
+title: 15 books to read for personal growth
 meta-description: >-
   These are our top 15 books that will inspire you and motivate you. Explore our
-  reading list and find a great book to read next.
+  reading list and find a great book to read next!
 meta-keywords: must read books
 image_path: /images/self-improvement/books/must-read-books-an-open-book.jpg
 banner-1_path: /images/self-improvement/books/must-read-books-an-open-book.jpg
@@ -31,14 +31,14 @@ intro-content_html: >-
   our money etc. We learnt because we have always had a growth mindset, no
   matter how much we learn we still focus on learning more.</p><p>With the
   current situation in the world, it is important to think about how we can
-  continue to have that growth mindset while self-isolating. With more time than
-  ever to focus on ourselves and focus on learning, what can we do? We can watch
-  webinars, follow the online courses, do home workouts, network, read books
-  etc.</p><p>In this post, we decided to focus solely on books. We have listed
-  below the books that have touched us the most and given us the most value. All
-  of these books in our opinion will leave you feeling inspired and motivated to
-  become the best version of yourself. They say reading is to the mind what
-  exercise is to the body, let's get our minds in shape!!</p><p>&nbsp;</p>
+  continue to have that growth mindset. With more time than ever to focus on
+  ourselves and focus on learning, what can we do? We can watch webinars, follow
+  the online courses, do home workouts, network, read books etc.</p><p>In this
+  post, we decided to focus solely on books. We have listed below the books that
+  have touched us the most and given us the most value. All of these books in
+  our opinion will leave you feeling inspired and motivated to become the best
+  version of yourself. They say reading is to the mind what exercise is to the
+  body, let's get our minds in shape!!</p><p>&nbsp;</p>
 sections:
   - banner_path:
     banner-caption:
