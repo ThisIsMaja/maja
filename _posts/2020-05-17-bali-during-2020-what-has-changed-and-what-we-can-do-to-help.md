@@ -9,9 +9,9 @@ meta-description: >-
   can do to support the locals!
 meta-keywords: bali during 2020
 image_path: >-
-  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang-rice-fields.jpg
+  /images/news/bali-during-2020/bali-during-2020-ubud-tegalallang-rice-fields.jpg
 banner-1_path: >-
-  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang-rice-fields.jpg
+  /images/news/bali-during-2020/bali-during-2020-ubud-tegalallang-rice-fields.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -19,8 +19,7 @@ categories:
 tags:
   - news
 author: Marie & Jake
-image-1_path: >-
-  /images/news/bali-during-quarantine/bali-during-quarantine-ubud-monkey-forest.jpg
+image-1_path: /images/news/bali-during-2020/bali-during-2020-ubud-monkey-forest.jpg
 image-2_path:
 intro-paragraph-emphasis: >-
   How has Bali fared compared to the rest of the world? Has this peaceful island
@@ -76,8 +75,7 @@ sections:
       href="https://kemlu.go.id/portal/en/berita"><u>Ministry of Foreign
       Affairs&nbsp;</u></a></li><li><a target="_blank"
       href="https://www.who.int/"><u>World Health Organisation</u></a></li></ul>
-  - banner_path: >-
-      /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang.jpg
+  - banner_path: /images/news/bali-during-2020/bali-during-2020-ubud-tegalallang.jpg
     banner-caption:
     banner-fixed: false
     columns: true
