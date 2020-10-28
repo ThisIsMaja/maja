@@ -2,7 +2,7 @@
 layout: post
 date: 2020-05-17 00:00:00
 hidden: false
-slug: bali-during-quarantine
+slug: bali-during-2020
 title: 'Bali during 2020: what has changed and what we can do to help'
 meta-description: >-
   In this post we talk about all the changes we’ve noticed in 2020 & what you
