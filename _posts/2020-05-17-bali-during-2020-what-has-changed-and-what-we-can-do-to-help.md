@@ -60,14 +60,13 @@ sections:
       excellent with GO-JEK.</li><li>All sights, beaches, gyms, spa&rsquo;s on
       the island are closed until the end of May.</li><li>All airports and
       seaports are closed until the 1st of June and the government might extend
-      it in case of an increase of new COVID-19 cases.&nbsp;</li><li>The streets
-      are very quiet, there is no traffic and you can see very few people
-      outside.</li><li>There are no Visas On Arrival being issued at the
-      moment.</li><li>The government has granted emergency visas until the
-      lock-down is over to all those who didn&rsquo;t manage to return to their
-      home countries on time.&nbsp;</li></ul><p>If you want to follow the
-      official news from Indonesian government we advise you to check out those
-      websites:</p><ul><li><a target="_blank"
+      it.&nbsp;</li><li>The streets are very quiet, there is no traffic and you
+      can see very few people outside.</li><li>There are no Visas On Arrival
+      being issued at the moment.</li><li>The government has granted emergency
+      visas until the lock-down is over to all those who didn&rsquo;t manage to
+      return to their home countries on time.&nbsp;</li></ul><p>If you want to
+      follow the official news from Indonesian government we advise you to check
+      out those websites:</p><ul><li><a target="_blank"
       href="https://www.balihotelsassociation.com/important-updates/thesituation/"><u>Bali
       Hotel Association</u></a></li><li><a target="_blank"
       href="https://pendataan.baliprov.go.id/"><u>Map and data showing cases in
