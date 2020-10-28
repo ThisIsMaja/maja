@@ -1,2 +1,3 @@
 /subscribe/ /subscribe
 /freebies/free-preset/ /freebies/free-preset
+/bali-during-quarantine /bali-during-2020
