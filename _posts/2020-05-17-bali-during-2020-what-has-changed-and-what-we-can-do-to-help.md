@@ -3,11 +3,11 @@ layout: post
 date: 2020-05-17 00:00:00
 hidden: false
 slug: bali-during-quarantine
-title: 'Bali during quarantine: what has changed and what we can do to help'
+title: 'Bali during 2020: what has changed and what we can do to help'
 meta-description: >-
-  We have been self-isolating in Bali for 3 months now. In this post we tell all
-  the changes we’ve noticed and what can you do to support the locals.
-meta-keywords: 'bali during quarantine, quarantine in bali, coronavirus in bali'
+  In this post we talk about all the changes we’ve noticed in 2020 & what you
+  can do to support the locals!
+meta-keywords: bali during 2020
 image_path: >-
   /images/news/bali-during-quarantine/bali-during-quarantine-ubud-tegalallang-rice-fields.jpg
 banner-1_path: >-
@@ -26,7 +26,7 @@ intro-paragraph-emphasis: >-
   How has Bali fared compared to the rest of the world? Has this peaceful island
   turned into chaos?
 intro-content_html: >-
-  <p>Two and a half months ago at the start of the global pandemic we had a
+  <p>Two and a half months ago, towards the start of the hectic 2020, we had a
   really hard decision to make, where do we go? For most people the answer is
   simple, 'home'. But for us it's kind of complicated. We've been travelling the
   world non stop for 4 years and although we have an apartment in Kuala Lumpur,
@@ -50,24 +50,23 @@ sections:
     main-paragraph-emphasis:
     body-content_html: >-
       <h4 id="what-has-changed-in-bali-during-the-quarantine"><strong>What has
-      changed in Bali during the
-      quarantine</strong></h4><p>&nbsp;</p><ul><li>Indonesian authorities issued
-      public guidelines where they asked everybody to stay home as much as
-      possible. We can go outside for groceries, to the pharmacy, and in case of
-      an emergency.</li><li>If we need to go outside we have to wear masks at
-      all times.&nbsp;</li><li>Most of the cafes, bars, and restaurants were
-      closed but since a few days ago some of them start to slowly open back up
-      again.</li><li>Take-away and delivery have been excellent with
-      GO-JEK.</li><li>All sights, beaches, gyms, SPA&rsquo;s on the island are
-      closed until the end of May.</li><li>All airports and seaports are closed
-      until the 1st of June and the government might extend it in case of an
-      increase of new COVID-19 cases.&nbsp;</li><li>The streets are very quiet,
-      there is no traffic and you can see very few people outside.</li><li>There
-      are no Visas On Arrival being issued at the moment.</li><li>The government
-      has granted emergency visas until the lock-down is over to all those who
-      didn&rsquo;t manage to return to their home countries on
-      time.&nbsp;</li></ul><p>If you want to follow the official news from
-      Indonesian government we advise you to check out those
+      changed in Bali during the year 2020</strong></h4><ul><li>Indonesian
+      authorities issued public guidelines where they asked everybody to stay
+      home as much as possible. We can go outside for groceries, to the
+      pharmacy, and in case of an emergency.</li><li>If we need to go outside we
+      have to wear masks at all times.&nbsp;</li><li>Most of the cafes, bars,
+      and restaurants were closed but since a few days ago some of them start to
+      slowly open back up again.</li><li>Take-away and delivery have been
+      excellent with GO-JEK.</li><li>All sights, beaches, gyms, spa&rsquo;s on
+      the island are closed until the end of May.</li><li>All airports and
+      seaports are closed until the 1st of June and the government might extend
+      it in case of an increase of new COVID-19 cases.&nbsp;</li><li>The streets
+      are very quiet, there is no traffic and you can see very few people
+      outside.</li><li>There are no Visas On Arrival being issued at the
+      moment.</li><li>The government has granted emergency visas until the
+      lock-down is over to all those who didn&rsquo;t manage to return to their
+      home countries on time.&nbsp;</li></ul><p>If you want to follow the
+      official news from Indonesian government we advise you to check out those
       websites:</p><ul><li><a target="_blank"
       href="https://www.balihotelsassociation.com/important-updates/thesituation/"><u>Bali
       Hotel Association</u></a></li><li><a target="_blank"
@@ -88,24 +87,24 @@ sections:
       people are.
     body-content_html: >-
       <h4><strong>How has Bali been affected?</strong></h4><p>Bali locals are
-      being hit much harder than other places by this lockdown because of their
-      reliance on the tourism industry. As you can imagine there are barely any
-      tourists here. Those who are here are either locals or foreigners who
-      permanently live in Bali. We don't know when Bali will be open for tourism
-      again. One thing is clear, the longer borders stay closed the more
-      difficult it will be for the island to recover.&nbsp;</p><p>Anyone that
-      has visited Bali will know how kind and generous the local people are.
-      Even during a time of crisis we still have to force our delivery drivers,
-      our cleaning ladies or servers at cafes just to take a $2 or $3
-      tip.&nbsp;</p><p>If you follow us on Instagram you will know about our
-      DOGOOD Monday&rsquo;s. If not, this is something we have been doing for
-      over a year now. Basically, every Monday we try to do something good for
-      someone else. In the past few weeks, we&rsquo;ve been sharing different
-      programs, names of the foundations and ways you can help to support the
-      local Balinese people. Even the smallest contribution can make a huge
-      difference to a local family or business.&nbsp;</p><p>If you love Bali and
-      want to help the island recover, we will list below a few ways you can
-      help.&nbsp;</p><h4 id="how-can-you-help"><strong>How can you
+      being hit much harder than other places because of their reliance on the
+      tourism industry. As you can imagine there are barely any tourists here.
+      Those who are here are either locals or foreigners who permanently live in
+      Bali. We don't know when Bali will be open for tourism again. One thing is
+      clear, the longer borders stay closed the more difficult it will be for
+      the island to recover.&nbsp;</p><p>Anyone that has visited Bali will know
+      how kind and generous the local people are. Even during a time of crisis
+      we still have to force our delivery drivers, our cleaning ladies or
+      servers at cafes just to take a $2 or $3 tip.&nbsp;</p><p>If you follow us
+      on Instagram you will know about our DOGOOD Monday&rsquo;s. If not, this
+      is something we have been doing for over a year now. Basically, every
+      Monday we try to do something good for someone else. In the past few
+      weeks, we&rsquo;ve been sharing different programs, names of the
+      foundations and ways you can help to support the local Balinese people.
+      Even the smallest contribution can make a huge difference to a local
+      family or business.&nbsp;</p><p>If you love Bali and want to help the
+      island recover, we will list below a few ways you can help.&nbsp;</p><h4
+      id="how-can-you-help"><strong>How can you
       help</strong></h4><ul><li><p>@crisiskitchen_bali - every day they deliver
       meals to families in Bali that desperately need it. They work together
       with communities and other cafes that donate food to those most in need.
@@ -153,7 +152,7 @@ sections:
       feeling down, try giving. It really helps : )</p>
 show-gallery: false
 gallery:
-  - image_path: /images/content-creation/instagram-stories3.jpg
+  - image_path:
     size: full
     alt:
 ---
