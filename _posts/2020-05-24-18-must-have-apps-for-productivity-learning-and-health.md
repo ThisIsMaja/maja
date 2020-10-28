@@ -151,14 +151,13 @@ sections:
       environment a lot.</p><ul><li>Audible - <a target="_blank"
       href="http://www.amazon.de/dp/B00NTQ6K7E?tag=ihre_maja039-21"><u>biggest
       library of audiobooks</u></a>.</li></ul><p>We have mentioned Audible in
-      our blog post <u><a target="_blank"
-      href="https://thisismaja.com/posts/15-books-to-read-during-isolation">15
-      books to read</a>&nbsp;for personal growth</u>&nbsp;and you all seemed to
-      like it as well. In the situations when you can't be reading a physical
-      book, such as cooking or driving, audio books are a great solution. A lot
-      of times the author will read a book himself and we find it so much more
-      personal this way. Audible has a free trial, so if you haven't used it yet
-      you might want to give it a go.&nbsp;</p><ul><li><a target="_blank"
+      our blog post <a href="/posts/15-books-to-read">15 books to read for
+      personal growth</a>&nbsp;and you all seemed to like it as well. In the
+      situations when you can't be reading a physical book, such as cooking or
+      driving, audio books are a great solution. A lot of times the author will
+      read a book himself and we find it so much more personal this way. Audible
+      has a free trial, so if you haven't used it yet you might want to give it
+      a go.&nbsp;</p><ul><li><a target="_blank"
       href="https://www.tiktok.com/@mariefeandjakesnow"><u>TikTok</u></a> -
       social media where people share short videos</li></ul><p>TikTok has become
       very popular in the past year and we have been loving to play with it. We
