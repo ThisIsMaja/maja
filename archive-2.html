@@ -10,7 +10,7 @@ title: blog
 
     {% assign all-posts = site.documents | where: 'all-posts', true | sort: 'date' | reverse %}
 
-    {% for post in all-posts limit:25 %}
+    {% for post in all-posts limit:25 offset:25 %}
       {% unless post.hidden == true %}
 
         {% include post-loop-item-3.html %}
@@ -20,9 +20,9 @@ title: blog
 
   </div>
 
-<div class="centered">
-  <a href="archive-2.html" class="button">next</a>
+  <div class="centered">
+    <a href="archive.html" class="button">previous</a>
 
-</div>
+  </div>
 
 </section>
