@@ -1,4 +1,4 @@
 /subscribe/ /subscribe
 /freebies/free-preset/ /freebies/free-preset
 /posts/bali-during-quarantine/ /posts/bali-during-2020
-/posts/15-books-to-read-during-isolation /posts/15-books-to-read
+/posts/15-books-to-read-during-isolation/ /posts/15-books-to-read
