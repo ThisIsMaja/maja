@@ -51,8 +51,8 @@ sections:
       industry is for the global economy.&nbsp;</p><p>According to the data from
       www.statista.com, there is a decrease of around 35% in the global revenue
       for the travel and tourism industry in 2020.</p><p><img
-      src="/uploads/global-revenue-2019-compared-to-2020.png" width="1472"
-      height="944" /></p>
+      src="/images/travel-tips/Ways-to-Travel-Safely/travel-safely-graphic-of-global-revenue-in-2019-compared-to-2020.png"
+      width="1472" height="944" /></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -73,8 +73,8 @@ sections:
       spending will set the global tourism industry back by 20 years.</li><li>In
       June, IATA estimated that airline revenues will be down at least 50% ($419
       billion compared to $838 billion in 2019).</li></ul><p><img
-      src="/uploads/world-tourism-statistics.jpg" width="771" height="743"
-      /></p>
+      src="/images/travel-tips/Ways-to-Travel-Safely/travel-safely-diagram-of-a-changes-in-tourism-in-2020.jpg"
+      width="771" height="743" /></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
