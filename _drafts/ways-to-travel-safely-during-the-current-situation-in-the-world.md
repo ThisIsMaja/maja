@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-10-28 11:00:00
+date: 2020-10-29 11:00:00
 hidden: true
 slug: ways-to-travel-safely
 title: Ways to Travel Safely During The Current Situation in The World
