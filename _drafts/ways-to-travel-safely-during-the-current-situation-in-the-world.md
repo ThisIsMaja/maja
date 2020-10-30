@@ -24,18 +24,17 @@ image-2_alt:
 intro-paragraph-emphasis:
 intro-content_html: >-
   <h1>Adapting to the new normal</h1><p>A few months ago we published a blog
-  post with a <a target="_blank" rel="noopener"
-  href="https://thisismaja.com/posts/maja-travel-update">travel update</a> and
-  our view on the future of travel. What we previously considered a temporary
-  inconvenience has slowly become the new normal. Having a mask with you at all
-  times became a habit. Now, before leaving the house, you check at least four
-  things in your mind - keys, wallet, phone, and mask. Keeping distance while
-  standing in line or when using public transport has also become second
-  nature.</p><p>Some countries are hit harder than others, so governmental
-  guidelines and regulations will also vary per country. Despite all that, there
-  is only one way that we can all move forward - adapt. We have adapted to the
-  new way we behave in public, our work routine has most probably changed as
-  well, and so has the way we travel.</p>
+  post with a <a href="https://thisismaja.com/posts/maja-travel-update">travel
+  update</a> and our view on the future of travel. What we previously considered
+  a temporary inconvenience has slowly become the new normal. Having a mask with
+  you at all times became a habit. Now, before leaving the house, you check at
+  least four things in your mind - keys, wallet, phone, and mask. Keeping
+  distance while standing in line or when using public transport has also become
+  second nature.</p><p>Some countries are hit harder than others, so
+  governmental guidelines and regulations will also vary per country. Despite
+  all that, there is only one way that we can all move forward - adapt. We have
+  adapted to the new way we behave in public, our work routine has most probably
+  changed as well, and so has the way we travel.</p>
 sections:
   - banner_path:
     banner-caption:
@@ -50,16 +49,18 @@ sections:
       tourism made up 10% of global GDP, which is three times larger than the
       agriculture sector. You can imagine how big and important the tourism
       industry is for the global economy.&nbsp;</p><p>According to the data from
-      statista.com, there is a decrease of around 35% in the global revenue for
-      the travel and tourism industry in 2020.</p>
+      www.statista.com, there is a decrease of around 35% in the global revenue
+      for the travel and tourism industry in 2020.</p><p><img
+      src="/uploads/global-revenue-2019-compared-to-2020.png" width="1472"
+      height="944" /></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
     columns: false
     main-paragraph-emphasis:
     body-content_html: >-
-      <h2>Numbers &amp; Facts</h2><ul><li>The global travel and tourism market
-      is expected to see a loss of 100.8 million jobs worldwide in
+      <h2>Information in Numbers</h2><ul><li>The global travel and tourism
+      market is expected to see a loss of 100.8 million jobs worldwide in
       2020.</li><li>The Asia Pacific region is the one to suffer the most in
       terms of job loss. Around 63.5 million people lost their
       jobs.&nbsp;</li><li>Europe is forecast to be the second hardest hit with a
@@ -71,11 +72,13 @@ sections:
       risk.</li><li>The World Tourism Organisation said that the drop in tourist
       spending will set the global tourism industry back by 20 years.</li><li>In
       June, IATA estimated that airline revenues will be down at least 50% ($419
-      billion compared to $838 billion in 2019).</li></ul>
+      billion compared to $838 billion in 2019).</li></ul><p><img
+      src="/uploads/world-tourism-statistics.jpg" width="771" height="743"
+      /></p>
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: false
+    columns: true
     main-paragraph-emphasis:
     body-content_html: >-
       <p>As you can see from the numbers above, it is extremely important to
@@ -84,14 +87,20 @@ sections:
       provide a lifeline to millions of people. It is good to remember that no
       matter what type of travelling you choose it is important to be
       responsible and to always think smart. We have written a separate blog
-      post about <a target="_blank" rel="noopener"
-      href="https://thisismaja.com/posts/responsible-tourist"><u>5 ways to be a
-      responsible tourist</u></a>, so make sure to check it
+      post about <a href="https://thisismaja.com/posts/responsible-tourist"><u>5
+      ways to be a responsible tourist</u></a>, so make sure to check it
       out.&nbsp;</p><p>Each country is taking its approach to border controls
-      and health regulations. But re-opening a tourist economy is something that
-      is crucial to the European and world economy.&nbsp;</p><p>Now that we know
-      why it is important to keep travelling, we would like to share with you 6
-      ways of how you can do it safely.</p>
+      and health regulations. But reopening a tourist economy is something that
+      is crucial to the European and world economy.&nbsp;</p><p>Besides the not
+      so positive stats, there is another reason why we need to continue
+      traveling. Traveling helps people to experience different customs and
+      cultures. This is what builds empathy and acceptance for people that are
+      different to ourselves. Traveling educates us like no book will ever be
+      able to. It allows us to experience new smells, new flavors, and new
+      sounds. It puts us outside of our comfort zone and opens up new
+      possibilities.&nbsp;&nbsp;</p><p>Putting all that together I think we can
+      all agree that travelling is an important part of our lives. Therefore, we
+      would like to share with you 6 ways of how you can do it safely.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -110,21 +119,22 @@ sections:
       you can travel as close or as far from your home as you want. Some of the
       bigger RV&rsquo;s include fully functioning bathrooms and
       kitchens.&nbsp;</p><p>If you are considering renting an RV read this blog
-      post about 7 advantages of living a van life.&nbsp;</p><h3>2.
-      Camping</h3><p>If you are not a fan of long road trips and would rather
-      stay at one place, camping might be a good alternative for you. To make
-      camping more fun you can bring a mountain bicycle, a badminton set, gear
-      for water sports, playing cards and different table games. All this will
-      help to diversify your days and if you are not camping alone, you will
-      have a great bonding experience with your friend or a partner. Camping is
-      also a good opportunity for a digital detox, as the connection is usually
-      not that great. Use this time to connect with yourself, find your balance
-      and recharge your batteries.</p><h3>3. Cabin rental</h3><p>To add even
-      more comfort to your travels you can take it a step further and rent a
-      cute little cabin in the woods. You can have all the same benefits as
-      camping but including hot water and a flush down WC. Have a quick search
-      online and we are sure you will find a couple of great options in your
-      area.</p>
+      post about <a target="_blank" rel="noopener"
+      href="https://thisismaja.com/posts/living-the-van-life">7 advantages of
+      living a van life</a>.&nbsp;</p><h3>2. Camping</h3><p>If you are not a fan
+      of long road trips and would rather stay at one place, camping might be a
+      good alternative for you. To make camping more fun you can bring a
+      mountain bicycle, a badminton set, gear for water sports, playing cards
+      and different table games. All this will help to diversify your days and
+      if you are not camping alone, you will have a great bonding experience
+      with your friend or a partner. Camping is also a good opportunity for a
+      digital detox, as the connection is usually not that great. Use this time
+      to connect with yourself, find your balance and recharge your
+      batteries.</p><h3>3. Cabin rental</h3><p>To add even more comfort to your
+      travels you can take it a step further and rent a cute little cabin in the
+      woods. You can have all the same benefits as camping but including hot
+      water and a flush down WC. Have a quick search online and we are sure you
+      will find a couple of great options in your area.</p>
   - banner_path:
     banner-caption:
     banner-fixed: false
@@ -140,9 +150,9 @@ sections:
       maybe consider renting a cabin just outside of the city to avoid
       crowds.</p><h3>5. Villa rental</h3><p>For a more luxurious experience
       instead of going to a hotel consider renting a private villa. This might
-      not be as cheaper as staying in a hotel but it will be
-      safer.&nbsp;</p><h3>6. Isolated hotels &amp; AirBnb</h3><p>If a hotel is
-      your best and possibly the only option then try to find an isolated hotel
+      not be as cheap as staying in a hotel but it will be
+      safer.&nbsp;</p><h3>6. Remote hotels &amp; AirBnb</h3><p>If a hotel is
+      your best and possibly the only option then try to find a remote hotel
       further away from the popular touristy destination. Hotels and AirBnbs had
       to adapt their cleaning procedures to comply with the new standards. You
       can find this information on the official website of the property you are
