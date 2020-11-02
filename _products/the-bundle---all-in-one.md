@@ -27,16 +27,16 @@ description: >-
   bright, jungle, beach, sunset, portrait, city, moody, poppy etc etc, it is in
   here!
 main-gallery:
-  - image_path: /images/shop/cover-1.jpg
-    alt: short description of this image
-  - image_path: /images/shop/cover-2.jpg
-    alt: short description of this image
-  - image_path: /images/shop/cover-5.jpg
-    alt: short description of this image
-  - image_path: /images/shop/cover-6.jpg
-    alt: short description of this image
-  - image_path: /images/shop/cover-7.jpg
-    alt: short description of this image
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack.jpg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack
+  - image_path: /images/shop/Ultimate-Mobile-Pack/ultimate-mobile-pack.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Mobile Pack
+  - image_path: /images/shop/Ultimate-Pack-2/ultimate-pack-2.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 2
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3
 faqs:
   - question: What's Included?
     answer_html: >-
