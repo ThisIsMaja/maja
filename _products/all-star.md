@@ -22,7 +22,7 @@ description: >-
   food, selfies, lifestyle, indoors/outdoors :)
 main-gallery:
   - image_path: /images/shop/Allstar-Bonus-Pack/allstar-1.JPG
-    alt: short description of this image
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 1
   - image_path: /images/shop/Allstar-Bonus-Pack/allstar-2.JPG
     alt: short description of this image
   - image_path: /images/shop/Allstar-Bonus-Pack/allstar-3.JPG
