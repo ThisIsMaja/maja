@@ -12,40 +12,40 @@ image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3.jpg
 main-gallery:
   - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-1-acceptance.jpg
     alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Acceptance
-  - image_path: /images/shop/Pack-3/pack3-2.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-3.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-4.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-5.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-6.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-7.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-8.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-9.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-10.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-11.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-12.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-13.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-14.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-15.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-16.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-17.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-3/pack3-18.jpg
-    alt: short description of this image
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-2-authenticity.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Authenticity
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-3-clarity.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Clarity
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-4-compassion.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Compassion
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-5-confidence.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Confidence
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-6-forgiveness.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Forgiveness
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-7-fulfillment.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Fulfillment
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-8-generosity.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Generosity
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-9-gratitude.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Gratitude
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-10-humility.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Humility
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-11-kindness.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Kindness
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-12-love.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Love
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-13-mindfulness.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Mindfulness
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-14-passion.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Passion
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-15-positivity.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Positivity
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-16-strength.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Strength
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-17-warmth.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Warmth
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-18-wellness.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Wellness
 short-description: 18 Portrait & Travel Presets Mobile & Pc
 description: >-
   This is the most versatile pack we have ever created. It will work perfectly
