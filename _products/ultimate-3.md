@@ -8,7 +8,7 @@ price: $19.95
 compare-at-price: $59.95
 save-percentage: 75%
 home-page-feature: true
-image_path: /images/shop/cover-7.jpg
+image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3.jpg
 main-gallery:
   - image_path: /images/shop/Pack-3/pack3-1.jpg
     alt: short description of this image
