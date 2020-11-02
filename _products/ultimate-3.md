@@ -10,8 +10,8 @@ save-percentage: 75%
 home-page-feature: true
 image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3.jpg
 main-gallery:
-  - image_path: /images/shop/Pack-3/pack3-1.jpg
-    alt: short description of this image
+  - image_path: /images/shop/Ultimate-Pack-3/ultimate-pack-3-1-acceptance.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 3 - Acceptance
   - image_path: /images/shop/Pack-3/pack3-2.jpg
     alt: short description of this image
   - image_path: /images/shop/Pack-3/pack3-3.jpg
