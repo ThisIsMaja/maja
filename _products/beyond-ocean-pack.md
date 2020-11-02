@@ -7,38 +7,38 @@ order: 7
 price: $9.95
 compare-at-price: $39.95
 save-percentage: 75%
-image_path: /images/shop/cover-2.jpg
+image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack.jpg
 main-gallery:
-  - image_path: /images/shop/Ocean/ocean-1.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-2.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-3.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-4.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-5.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-6.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-7.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-8.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-9.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-10.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-11.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-12.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-13.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-14.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Ocean/ocean-15.JPG
-    alt: short description of this image
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-1.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 1
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-2.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 2
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-3.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 3
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-4.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 4
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-5.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 5
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-6.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 6
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-7.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 7
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-8.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 8
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-9.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 9
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-10.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 10
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-11.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 11
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-12.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 12
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-13.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 13
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-14.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 14
+  - image_path: /images/shop/Beyond-Ocean-Pack/beyond-ocean-pack-15.jpeg
+    alt: Marie Fe and Jake Snow Presets - Beyond Ocean Pack - 15
 short-description: "15 Bright Ocean\_Presets Mobile & Pc"
 description: >-
   For ocean lovers and beach addicts but not only, great to edit anything else.
