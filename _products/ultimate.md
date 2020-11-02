@@ -7,32 +7,32 @@ order: 6
 price: $9.95
 compare-at-price: $34.95
 save-percentage: 70%
-image_path: /images/shop/cover-1.jpg
+image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1.jpg
 main-gallery:
-  - image_path: /images/shop/Pack-1/pack1-7.jpg
-    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 1 - The Beach
-  - image_path: /images/shop/Pack-1/pack1-4.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-10.jpg
-    alt: short description of this image
-  - image_path: /images/shop/Pack-1/pack1-1.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-11.png
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-9.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-8.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-2.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-5.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-6.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-3.jpg
-    alt:
-  - image_path: /images/shop/Pack-1/pack1-12.jpg
-    alt:
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-1.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 1
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-2.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 2
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-3.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 3
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-4.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 4
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-5.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 5
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-6.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 6
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-7.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 7
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-8.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 8
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-9.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 9
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-10.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 10
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-11.png
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 11
+  - image_path: /images/shop/Ultimate-Pack-1/ultimate-pack-1-12.jpg
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 12
 short-description: 12 Very Colourful Presets Mobile & Pc
 description: >-
   Bright, sharp & colourful filters. This is the first pack we created in 2017.
