@@ -8,7 +8,7 @@ price: $10.00
 compare-at-price: $19.95
 save-percentage: 50%
 home-page-feature: true
-image_path: /images/shop/cover-4.jpg
+image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack.jpg
 short-description: 8 Soft Presets Mobile & Desktop
 preset-tags:
   - travel
@@ -21,22 +21,22 @@ description: >-
   This Bonus Pack designed for all occasions/styles. Perfect for Skin tones,
   food, selfies, lifestyle, indoors/outdoors :)
 main-gallery:
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-1.JPG
-    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 1
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-2.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-3.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-4.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-5.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-6.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-7.JPG
-    alt: short description of this image
-  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-8.JPG
-    alt: short description of this image
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-1-the-beach.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 1 - The Beach
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-2-the-all-rounder.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 2 - The All Rounder
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-3-the-bright.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 3 - The Bright
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-4-the-pro.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 4 - The Pro
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-5-the-soft.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 5 - The Soft
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-6-the-vibrant.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 6 - The Vibrant
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-7-the-warm.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 7 - The Warm
+  - image_path: /images/shop/Allstar-Bonus-Pack/allstar-bonus-pack-8-the-whites.jpeg
+    alt: Marie Fe and Jake Snow Presets - Allstar Bonus Pack - 8 - The Whites
 faqs:
   - question: What's Included?
     answer_html: >-
