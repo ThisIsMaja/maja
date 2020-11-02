@@ -10,7 +10,7 @@ save-percentage: 70%
 image_path: /images/shop/cover-1.jpg
 main-gallery:
   - image_path: /images/shop/Pack-1/pack1-7.jpg
-    alt: short description of this image
+    alt: Marie Fe and Jake Snow Presets - Ultimate Pack 1 - 1 - The Beach
   - image_path: /images/shop/Pack-1/pack1-4.jpg
     alt: short description of this image
   - image_path: /images/shop/Pack-1/pack1-10.jpg
