@@ -16,7 +16,7 @@ categories:
   - learn from us
 tags:
   - travel tips
-author: Marie Fe
+author: Jake Snow
 image-1_path: >-
   /images/travel-tips/Ways-to-Travel-Safely/travel-safely-a-sign-on-a-door-please-wear-mask.jpg
 image-1_alt: a sign on the door please wear masks
