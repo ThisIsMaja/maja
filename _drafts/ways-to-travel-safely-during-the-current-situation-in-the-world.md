@@ -1,15 +1,15 @@
 ---
 layout: post
-date: 2020-10-29 11:00:00
-hidden: true
+date: 2020-10-28 11:00:00
+hidden: false
 slug: ways-to-travel-safely
 title: Ways to Travel Safely During The Current Situation in The World
 meta-description: >-
   What has happened to the travel industry in 2020 and how can we continue to
   travel safely? Read this blog post to find the answer.
 meta-keywords: travel safely
-image_path:
-banner-1_path:
+image_path: /images/komodo-islands/Komodo-Islands2.jpg
+banner-1_path: /images/komodo-islands/Komodo-Islands2.jpg
 banner-fixed: true
 newsfeed: false
 categories:
@@ -17,8 +17,9 @@ categories:
 tags:
   - travel tips
 author: Marie Fe
-image-1_path:
-image-1_alt:
+image-1_path: >-
+  /images/travel-tips/Ways-to-Travel-Safely/travel-safely-a-sign-on-a-door-please-wear-mask.jpg
+image-1_alt: a sign on the door please wear masks
 image-2_path:
 image-2_alt:
 intro-paragraph-emphasis:
@@ -75,7 +76,8 @@ sections:
       billion compared to $838 billion in 2019).</li></ul><p><img
       src="/images/travel-tips/Ways-to-Travel-Safely/travel-safely-diagram-of-a-changes-in-tourism-in-2020.jpg"
       width="771" height="743" /></p>
-  - banner_path:
+  - banner_path: >-
+      /images/travel-tips/Ways-to-Travel-Safely/travel-safely-a-pile-of-reusable-face-masks.jpg
     banner-caption:
     banner-fixed: false
     columns: true
@@ -101,7 +103,8 @@ sections:
       possibilities.&nbsp;&nbsp;</p><p>Putting all that together I think we can
       all agree that travelling is an important part of our lives. Therefore, we
       would like to share with you 6 ways of how you can do it safely.</p>
-  - banner_path:
+  - banner_path: >-
+      /images/travel-tips/Ways-to-Travel-Safely/travel-safelt-rv-parked-on-a-cleff-with-an-ocean-view.jpg
     banner-caption:
     banner-fixed: false
     columns: false
@@ -135,7 +138,8 @@ sections:
       woods. You can have all the same benefits as camping but including hot
       water and a flush down WC. Have a quick search online and we are sure you
       will find a couple of great options in your area.</p>
-  - banner_path:
+  - banner_path: >-
+      /images/travel-tips/Ways-to-Travel-Safely/travel-safely-camping-on-top-of-the-mountain-sunset.jpg
     banner-caption:
     banner-fixed: false
     columns: false
