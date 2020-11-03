@@ -57,7 +57,7 @@ sections:
   - banner_path:
     banner-caption:
     banner-fixed: false
-    columns: false
+    columns: true
     main-paragraph-emphasis:
     body-content_html: >-
       <h2>Information in Numbers</h2><ul><li>The global travel and tourism
@@ -73,9 +73,10 @@ sections:
       risk.</li><li>The World Tourism Organisation said that the drop in tourist
       spending will set the global tourism industry back by 20 years.</li><li>In
       June, IATA estimated that airline revenues will be down at least 50% ($419
-      billion compared to $838 billion in 2019).</li></ul><p><img
+      billion compared to $838 billion in 2019).</li></ul><p><img width="771"
+      height="743"
       src="/images/travel-tips/Ways-to-Travel-Safely/travel-safely-diagram-of-a-changes-in-tourism-in-2020.jpg"
-      width="771" height="743" /></p>
+      /></p>
   - banner_path: >-
       /images/travel-tips/Ways-to-Travel-Safely/travel-safely-a-pile-of-reusable-face-masks.jpg
     banner-caption:
