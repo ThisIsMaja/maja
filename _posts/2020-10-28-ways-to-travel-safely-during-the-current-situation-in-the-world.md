@@ -84,14 +84,15 @@ sections:
     columns: true
     main-paragraph-emphasis:
     body-content_html: >-
-      <p>As you can see from the numbers above, it is extremely important to
-      find a middle ground between people staying safe and reviving the tourism
-      industry. Finding ways for people to safely enjoy travelling again could
-      provide a lifeline to millions of people. It is good to remember that no
-      matter what type of travelling you choose it is important to be
-      responsible and to always think smart. We have written a separate blog
-      post about <a href="https://thisismaja.com/posts/responsible-tourist"><u>5
-      ways to be a responsible tourist</u></a>, so make sure to check it
+      <h2>Why travelling is important?</h2><p>As you can see from the numbers
+      above, it is extremely important to find a middle ground between people
+      staying safe and reviving the tourism industry. Finding ways for people to
+      safely enjoy travelling again could provide a lifeline to millions of
+      people. It is good to remember that no matter what type of travelling you
+      choose it is important to be responsible and to always think smart. We
+      have written a separate blog post about <a
+      href="https://thisismaja.com/posts/responsible-tourist"><u>5 ways to be a
+      responsible tourist</u></a>, so make sure to check it
       out.&nbsp;</p><p>Each country is taking its approach to border controls
       and health regulations. But reopening a tourist economy is something that
       is crucial to the European and world economy.&nbsp;</p><p>Besides the not
