@@ -7,7 +7,7 @@ order: 3
 price: $69.00
 compare-at-price: $215.95
 save-percentage: 75%
-image_path: /images/shop/bundle-pack.jpg
+image_path: /images/shop/Bundle-All-In-One/bundle-pack-all-in-one.jpg
 short-description: All you need! 72 Mobile & Desktop
 preset-tags:
   - travel
