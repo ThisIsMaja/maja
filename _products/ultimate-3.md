@@ -4,7 +4,7 @@ shopify-id: 3666480234557
 layout: product
 type: preset
 order: 4
-price: $19.95
+price: $29.95
 compare-at-price: $59.95
 save-percentage: 75%
 home-page-feature: true
